@@ -10,30 +10,41 @@ The single source of truth for how posts go from idea to published.
 
 ```
 04_linkedin_content/
-├── Stacksync Universe/          ← Persona docs (DO NOT EDIT during post creation)
-│   ├── Ruben/
-│   ├── Alexis/
-│   ├── Nacho/
-│   ├── Carter/
-│   └── Tony/
-├── Bangers/
-│   ├── drafts/                  ← Active drafts (WIP)
-│   └── published/               ← Confirmed published posts (moved here after going live)
-│       ├── Ruben/
-│       ├── Alexis/
-│       ├── Nacho/
-│       ├── Carter/
-│       └── Tony/
+├── 00_ai_markdowns/              ← Central knowledge base (process, ICP, slops, auditor, etc.)
+├── 02_content_creation_resources/ ← Kallaway transcripts, playbooks, interviews
+├── 07_Content Pilars/            ← Company biographies & GTM studies
+├── accounts_research/            ← Creator intelligence (15 accounts, CSVs, outliers)
+│
+├── Ruben/                        ← Each persona is a self-contained folder
+│   ├── ruben_personality_v01.md  ← Persona voice guide (DO NOT EDIT during post creation)
+│   ├── README.md
+│   ├── drafts_Ruben/             ← Active drafts (WIP)
+│   ├── published_Ruben/          ← Published posts + images
+│   │   ├── images/
+│   │   └── ruben_all_published_kallaway.csv
+│   ├── bangers_Ruben/            ← Top-performing posts + images
+│   │   └── images/
+│   └── research_Ruben/           ← Outlier analysis, datasets, idea legos insights
+│
+├── Alexis/                       ← Same subfolder pattern as Ruben
+├── Nacho/
+├── Carter/
+└── Tony/
 ```
 
 ### File Naming Convention
-`[Topic]_[Persona].md`
-Example: `Heroku_Connect_Ruben.md`
+
+| Folder | Convention | Example |
+|--------|-----------|---------|
+| **drafts_[Persona]/** | `[topic_slug]_[persona].md` | `data_engineers_dead_nacho.md` |
+| **published_[Persona]/** | `YYYY-MM-DD_[title_slug].md` | `2026-02-04_why_we_built_stacksync.md` |
+| **bangers_[Persona]/** | `BANGER_[PERSONA]_YYYY-MM-DD_[title_slug].md` | `BANGER_RUBEN_2026-01-15_oracle_diaspora.md` |
 
 ### When a post is published
 1. Add `status: published` and `published_date: YYYY-MM-DD` to the YAML frontmatter
-2. Move the file from `Bangers/drafts/` to `Bangers/published/[Persona]/`
+2. Move the file from `drafts_[Persona]/` to `published_[Persona]/`, renaming to the `YYYY-MM-DD_title_slug.md` convention
 3. Add the LinkedIn post URL to the YAML `link:` field
+4. If the post qualifies as a banger (high engagement), copy it to `bangers_[Persona]/` with the `BANGER_` prefix
 
 ---
 
@@ -60,7 +71,7 @@ The persona IS the first guard against overlap. Each person frames the SAME topi
 **Source framework:** Kallaway's 7 Idea Legos
 **Reference docs:**
 - `/Users/TERABYTE10/Downloads/Moi/references/kallaway_clone.md` — Master framework (7 Legos, hook mastery, story structures)
-- `02_content_creation_resources/content_creation_system.md` — [REFERENCE] Early Stacksync adaptation (5 Legos + image specs). Valuable for image specifications and post formulas by persona type. Uses Jack/James as external models, not team personas.
+- `02_content_creation_resources/Content_Creation_Process_Stacksync.md` — [REFERENCE] Early Stacksync adaptation (5 Legos + image specs). Valuable for image specifications and post formulas by persona type. Uses Jack/James as external models, not team personas.
 - `00_ai_markdowns/13_idea_legos_patterns_guide.md` — Proven patterns from top 50 posts
 
 **The 7 Idea Legos (decompose EVERY post into these before writing):**
@@ -169,9 +180,9 @@ If 2+ personas write on the same topic, fill this table AFTER completing each pe
 **Output:** Draft post with hook variations + full post + NOTES
 
 **Reference docs to load BEFORE writing:**
-- The persona's writing guide: `Stacksync Universe/[Persona]/[name]_personality_v01.md`
+- The persona's writing guide: `[Persona]/[name]_personality_v01.md`
 - `00_ai_markdowns/01_ai_slops.md` — blacklist (load BEFORE writing, not after)
-- `00_ai_markdowns/06_linkedin-post-generator-prompt.md` — [LEGACY] psychological triggers library only (hook rules/word counts in that file are outdated)
+- `00_ai_markdowns/08_stacksync_Description.md` — product reference (6 products, features, competitive positioning, messaging angles). Use for accurate product claims and terminology.
 - The Idea Legos table from Step 1 (hook type + story structure already chosen)
 - The campaign deconfliction table (if multi-voice)
 
@@ -197,6 +208,58 @@ The hook creates a curiosity loop. The body must CONFIRM and then EXCEED the exp
 - **Put your 2nd-best point first, best point second.** This creates ascending value. The reader recognizes a pattern: "This keeps getting better." If you put the best point first, everything after feels like a decline and they stop reading.
 - **Use rehooks between sections.** Mini-transitions that maintain momentum between points. Examples: "That was the first problem. The second one was worse." / "But that's not what killed the deal." These prevent attention decay mid-post.
 - **No bait-and-switch.** The hook type determines the body's frame. A Contrarian hook must deliver a genuine contrarian argument in the body. A Teacher hook must deliver a real lesson. If the hook promises a number (Magician), the body must deliver that number early.
+
+#### Psychological Triggers Library
+
+When choosing the emotional angle for the hook, pick 1-2 triggers from this table. The trigger amplifies the hook type — a Contrarian hook with a Vindication trigger hits harder than a Contrarian hook alone.
+
+| Trigger | Description | Example |
+|---------|-------------|---------|
+| **Outrage/Fear** | Big company villain, system is rigged | "Google doesn't want you to know this" |
+| **Validation** | "You're not crazy, proof exists" | "90% of spreadsheets don't have formulas" |
+| **Schadenfreude** | Villain gets outsmarted | "Larry Ellison is worth $150B. He still lost this fight." |
+| **Vindication** | Rejection becomes success | "'Get a proper job.' $10.2B acquisition later..." |
+| **Curiosity Gap** | Incomplete info creates tension | "Shopify was a $200 billion accident." |
+| **Tribal Identity** | "This is for people like us" | "The introvert's revenge" |
+| **Pattern Recognition** | Smart insight connecting dots | "Slack, Instagram, Shopify = same story" |
+| **Underdog** | David vs Goliath | "A 16-year-old dropout built the second-largest e-commerce platform" |
+| **Conspiracy** | Hidden truth revealed | "What Oracle couldn't see coming" |
+| **Contrast** | Unexpected comparison | "Gary Vee was screaming on camera. Dharmesh was hiding behind plants." |
+| **Age-Defying** | Success at unexpected age | "At 64, Oracle took his company. At 65, he started building again." |
+| **Geographic Luck** | Location as unfair advantage/disadvantage | "Spotify had Stockholm. Zendesk had nothing." |
+| **Romantic/Human** | Unexpected personal detail | "He moved countries for a girl he met gaming online." |
+| **Famous Parallel** | Same story, different domain | "Decca told The Beatles no. Danish VCs told Zendesk no." |
+| **Milestone Proof** | Numbers that silence critics | "$1M ARR. Self-funded. That's when Benchmark called." |
+
+#### Celebrity/Company Name-Drop Rules
+
+When referencing real companies, founders, or public figures in a post, apply these rules:
+
+1. **Real Connection** — They actually interacted or invested. "The PayPal founders said payments were solved. Then they funded Stripe."
+2. **Contrast (Difference IS The Point)** — Opposite approaches that both worked. "Gary Vee was screaming on camera. Dharmesh was hiding behind plants. Both built empires."
+3. **Pattern** — Multiple examples prove the same phenomenon. "Slack was a failed video game. Instagram was a check-in app. Shopify was a snowboard store."
+4. **Same Era** — They competed or built simultaneously. "Spotify and Zendesk launched months apart. 300 miles apart. Opposite ecosystems."
+5. **Parallel Rejection** — Same story of rejection, different domain. "'Guitar groups are on their way out.' — Decca to The Beatles. 'Get a proper job.' — Danish VCs to Zendesk."
+
+**The Swap Test:** Could you swap in any other company/person and the connection still works? If YES, the connection is forced — find a better angle. If NO, it's specific and valid — use it.
+
+#### Egobait Checklist
+
+When the post mentions a real company, team, or community, it should make those people want to share it. Check:
+- [ ] They feel proud of their story as told
+- [ ] They'd want to share it on their LinkedIn
+- [ ] They'd tag colleagues
+- [ ] They feel like insiders to a story worth telling
+- [ ] Their values are reflected accurately
+
+#### Writing Style Rules
+
+- Lead with conflict, numbers, fear, curiosity, or controversy — not names
+- Specific > Generic ("$125 million spacecraft" not "expensive project")
+- Numbers that feel real (not rounded): $10.2B, not "billions"
+- Create callbacks to the hook at the end of the post
+- Short sentences work. Fragments too.
+- Show conflict, don't just state it happened
 
 **Post file format:**
 ```markdown
@@ -240,7 +303,8 @@ The hook creates a curiosity loop. The body must CONFIRM and then EXCEED the exp
 - **Voice**: [Persona voice markers used]
 - **Idea Legos**: [Hook type] + [Story structure] confirmed
 - **Narrative arc**: [Beat-by-beat story flow]
-- **Ego bait**: [Who feels seen and why]
+- **Psychological triggers**: [Trigger 1] + [Trigger 2] from triggers library
+- **Ego bait**: [Who feels seen and why — run egobait checklist if post mentions a company/team]
 - **Hook analysis (Kallaway)**: Single subject: [X]. Single question: [Y]. 3-step: Context Lean [text] → Scroll Stop [text] → Snap Back [text]. "See more" char count: [N]. Fits mobile preview: [yes/no].
 - **Traffic driver**: [ICP keywords in hook]
 - **AI slop check**: [Confirm clean — list any patterns caught and removed]
@@ -263,7 +327,7 @@ The hook creates a curiosity loop. The body must CONFIRM and then EXCEED the exp
 **Input:** Draft post
 **Output:** Scored audit report with GO / REVISE / KILL verdict
 
-Run the Post-Auditor-Agent (`00_ai_markdowns/Post-Auditor-Agent.md`) on every post.
+Run the Post-Auditor-Agent (`00_ai_markdowns/16_Post-Auditor-Agent.md`) on every post.
 
 **5 Dimensions scored:**
 1. ICP Relevance (25%) — Does the right buyer care?
@@ -317,7 +381,7 @@ The human reviews and:
    - `status: published`
    - `published_date: YYYY-MM-DD`
    - `link: [LinkedIn URL]`
-3. Move file from `Bangers/drafts/` → `Bangers/published/[Persona]/`
+3. Move file from `drafts_[Persona]/` → `published_[Persona]/` (rename to `YYYY-MM-DD_title_slug.md`)
 
 ---
 
@@ -326,21 +390,22 @@ The human reviews and:
 | Doc | Path | Used In |
 |-----|------|---------|
 | **Kallaway Clone (Master)** | `/Users/TERABYTE10/Downloads/Moi/references/kallaway_clone.md` | Step 1 (7 Idea Legos, hook mastery, story structures) |
-| **Content Creation System** | `02_content_creation_resources/content_creation_system.md` | Step 1 [REFERENCE] (image specs, post formulas by persona type. 5 Legos → use 7 from Kallaway master. Jack/James = external models, not team personas.) |
+| **Content Creation System** | `02_content_creation_resources/Content_Creation_Process_Stacksync.md` | Step 1 [REFERENCE] (image specs, post formulas by persona type. 5 Legos → use 7 from Kallaway master. Jack/James = external models, not team personas.) |
 | **Idea Legos Patterns** | `00_ai_markdowns/13_idea_legos_patterns_guide.md` | Step 1 (hook types, story structures, Stacksync examples) |
-| **Central Outliers DB** | `00_ai_markdowns/central_outliers_db.csv` | Step 1 (171 top posts from 86 authors — top 3 per author by engagement. Idea Lego breakdowns: hook types, structures, angles) |
+| **Outlier Research (per persona)** | `[Persona]/research_[Persona]/outliers_raw.csv` + `idea_legos_analysis.csv` | Step 1 (per-persona outlier posts with Idea Lego breakdowns: hook types, structures, angles) |
+| **Creator Research** | `accounts_research/[creator]/[creator]_kallaway_summary.csv` | Step 1 (15 creators with post datasets + Kallaway metrics) |
 | Content Strategy | `00_ai_markdowns/11_content_strategy.md` | Step 1 (3-lane strategy, 5-persona exec role assignment) |
 | ICP | `00_ai_markdowns/00_icp_stacksync.md` | Step 1, Step 4 (audit D1) |
 | ICP Terms & Tags | `00_ai_markdowns/07_stacksync_icp_terms_an_tags.md` | Step 3, Step 4 (audit D1) |
 | AI Slops Blacklist | `00_ai_markdowns/01_ai_slops.md` | Step 3 (during writing), Step 4 (audit D4) |
-| Post Generator | `00_ai_markdowns/06_linkedin-post-generator-prompt.md` | Step 3 [LEGACY] (psychological triggers library only — hook rules/word counts superseded) |
-| Post Auditor Agent | `00_ai_markdowns/Post-Auditor-Agent.md` | Step 4 (audit framework) |
-| YAML Template | `00_ai_markdowns/simple-linkedin-post-template.md` | Step 3 (frontmatter format) |
-| Persona Docs | `04_linkedin_content/Stacksync Universe/[Persona]/[name]_personality_v01.md` | Step 3 (voice, personality, lens) |
+| Stacksync Product Description | `00_ai_markdowns/08_stacksync_Description.md` | Step 3 (product reference: 6 products, features, competitive positioning, messaging angles) + Step 4 (audit D2: fact-check product claims) |
+| Post Auditor Agent | `00_ai_markdowns/16_Post-Auditor-Agent.md` | Step 4 (audit framework) |
+| YAML Template | `00_ai_markdowns/17_simple-linkedin-post-template.md` | Step 3 (frontmatter format) |
+| Persona Docs | `[Persona]/[name]_personality_v01.md` | Step 3 (voice, personality, lens) |
 | List of Connectors | `00_ai_markdowns/05_list_of_connectors.md` | Step 4 (audit D2 — fact-check product claims, referenced by Post-Auditor-Agent) |
 | Content Ideas | `00_ai_markdowns/12_content_ideas.md` | Step 1 (idea sourcing) |
-| Kallaway Transcripts | `/Users/TERABYTE10/Downloads/Moi/0.1_Kallaway Transcripts/` | Step 1, Step 3 (deep reference for hooks, scripts, storytelling) |
-| Top 50 Idea Legos Data | `accounts_analysis/Product_Led_Storytelling/top50_idea_legos_complete.csv` | Step 1 (empirical data on what works) |
+| Kallaway Transcripts | `02_content_creation_resources/kallaway_transcripts/` | Step 1, Step 3 (8 transcripts: hooks, storytelling, packaging, psychology) |
+| Creator Research | `accounts_research/` | Step 1 (15 accounts with post datasets + Kallaway summaries per creator) |
 
 ---
 
@@ -354,5 +419,5 @@ The human reviews and:
 [ ] Step 4:  Post-Auditor-Agent returns GO (8.0+)
 [ ] Step 5:  Cross-post check passed (if multi-voice)
 [ ] Step 6:  Human review and approval
-[ ] Step 7:  Published, YAML updated, file archived to published/[Persona]/
+[ ] Step 7:  Published, YAML updated, file moved from drafts_[Persona]/ to published_[Persona]/
 ```

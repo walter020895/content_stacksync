@@ -40,7 +40,8 @@ For each persona assigned, fill this table BEFORE writing anything:
 
 **Resources to consult:**
 - `00_ai_markdowns/13_idea_legos_patterns_guide.md` — hook types with %, story structures, worked examples
-- `00_ai_markdowns/central_outliers_db.csv` — 171 top posts from 86 authors, search by hook type or structure for inspiration
+- `[Persona]/research_[Persona]/outliers_raw.csv` + `idea_legos_analysis.csv` — per-persona outlier posts, search by hook type or structure for inspiration
+- `accounts_research/[creator]/[creator]_kallaway_summary.csv` — 15 creators with Kallaway metrics
 - `02_content_creation_resources/kallaway_transcripts/` — 8 transcripts: hook architecture, storytelling, packaging, psychology
 
 **Hook Architecture reminder (Kallaway 3-Step Formula):**
@@ -126,10 +127,11 @@ For every post, suggest 3 visual hook options that MATCH the written hook. The v
 ## STEP 4: LOAD PERSONA + WRITE
 
 **Load before writing:**
-- `04_linkedin_content/Stacksync Universe/[Persona]/[name]_personality_v01.md`
-- `00_ai_markdowns/06_linkedin-post-generator-prompt.md` — psychological triggers library ONLY (file is LEGACY)
+- `[Persona]/[name]_personality_v01.md`
+- `00_ai_markdowns/08_stacksync_Description.md` — product reference (6 products, features, competitive positioning)
 - The Idea Legos table from Step 2
 - The deconfliction table (if multi-voice)
+- Psychological Triggers Library, Celebrity Rules, and Egobait Checklist are now in the master process doc (Step 3)
 
 **Write in this order:**
 1. Write 3 hook variations using the chosen hook type. Each hook must follow the 3-step formula: **Context Lean → Scroll Stop → Contra Snap Back.**
@@ -207,6 +209,7 @@ For every post, suggest 3 visual hook options that MATCH the written hook. The v
 - **Voice**: [Persona markers used]
 - **Idea Legos**: [Hook type] + [Story structure] confirmed
 - **Narrative arc**: [Beat-by-beat flow]
+- **Psychological triggers**: [Trigger 1] + [Trigger 2]
 - **Ego bait**: [Who feels seen and why]
 - **Hook analysis (Kallaway)**: Single subject: [X]. Single question: [Y]. 3-step: Context Lean [text] → Scroll Stop [text] → Snap Back [text]. "See more" char count: [N]. Fits mobile preview: [yes/no].
 - **Traffic driver**: [ICP keywords in hook]
@@ -219,7 +222,7 @@ For every post, suggest 3 visual hook options that MATCH the written hook. The v
 
 ## STEP 5: AUDIT
 
-Run the Post-Auditor-Agent (`00_ai_markdowns/Post-Auditor-Agent.md`).
+Run the Post-Auditor-Agent (`00_ai_markdowns/16_Post-Auditor-Agent.md`).
 
 **6 Dimensions:**
 1. ICP Relevance (25%) — check against `00_icp_stacksync.md`
@@ -263,4 +266,5 @@ User reviews, edits, approves.
 
 After user confirms publication:
 1. Add to YAML: `status: published`, `published_date: YYYY-MM-DD`, `link: [URL]`
-2. Move from `Bangers/drafts/` to `Bangers/published/[Persona]/`
+2. Move from `drafts_[Persona]/` to `published_[Persona]/`, renaming to `YYYY-MM-DD_title_slug.md`
+3. If banger (high engagement), copy to `bangers_[Persona]/` with `BANGER_` prefix
