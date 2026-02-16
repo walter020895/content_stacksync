@@ -1,0 +1,1598 @@
+rank,date,author,likes,comments,shares,total_engagement,hook_type,topic,angle,structure,first_line,full_text,url,image_url,is_original_ruben,matched_draft,match_score,keyword_hits,draft_path
+1,2026-01-06,UNKNOWN,2574,91,104,2769,Teacher,Industry/SaaS,Data/Numbers,Story → Lesson,"At 64, Oracle took his company","At 64, Oracle took his company
+At 65, he started building again
+At 71, he went public
+
+Dave Duffield built his first billion-dollar company in his 40s.
+He built his second in his 60s.
+
+Some people retire. Others are just getting started.
+
+In December of 2004 Dave Duffield is 64 years old. 
+He should be retired.
+
+For 18 months, Larry Ellison waged the most aggressive hostile takeover in enterprise software history. 
+
+PeopleSoft —the company Dave built from nothing, ran for two decades— Oracle wanted to absorb it.
+
+The shareholders voted and Oracle won. $10.3 billion.
+
+Dave was out. His life's work belonged to Larry Ellison.
+
+Probably most people would take the money and Disappear.
+
+Dave called his former chief strategist.
+
+""Let's get breakfast.""
+
+Three months later, Workday was incorporated.
+
+Dave wrote the first check: $15 million of his own money.
+
+At 65 years old, he started building again.
+
+Former PeopleSoft employees—the ""cream of the crop""—left Oracle to join him. 
+
+They remembered what it was like to work for someone who cared.
+
+The bet: enterprise software was moving to the cloud. Oracle couldn't cannibalize themselves.
+
+Workday would build for cloud from day one.
+
+In October 2012 Workday went public. 
+
+Valuation: $9 billion.
+
+But Dave did something else.
+
+He structured dual-class voting rights so he and his co-founder control 67%. No hostile takeover can touch Workday.
+
+No hostile takeover can touch Workday.
+
+The move that killed PeopleSoft can't happen here.
+
+""You can take my company. But you cannot stop me from building a better one. And this time, you can't take it.""
+
+Larry Ellison is worth $150 billion.
+
+He still lost this fight.",https://www.linkedin.com/posts/ruben-burdin_at-64-oracle-took-his-company-at-65-he-activity-7414428658985267200-brUs?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAF42GoYBkrrTOUskGWZfkibuhBgBETymwaM,https://media.licdn.com/dms/image/v2/D4E22AQFExkgbPo9l7Q/feedshare-shrink_480/B4EZuVXj7_HIAY-/0/1767737544105?e=1772668800&v=beta&t=sbS8vs97XX5uvywfcRB7J2V_TWctz42fLHhx71TTZu0,True,,0.0,0,
+2,2026-01-19,Marc Benioff,2000,95,32,2127,Magician,Integration/Data,Data/Numbers,Story → Lesson,Salesforce used to pay $10M/year to a celebrity as brand partner.,"Salesforce used to pay $10M/year to a celebrity as brand partner.
+For 2026, they hired MrBeast from a tweet.
+
+MrBeast posted he had a Super Bowl idea.
+Marc Benioff replied publicly within 48 hours.
+
+Later, MrBeast flew to Salesforce HQ, pitched his idea, and got the job.
+
+This is rare in enterprise:
+
+Workday spent millions getting Ozzy Osbourne, Joan Jett, Billy Idol, and Paul Stanley for their Super Bowl spot.
+
+Traditional playbook: hire agency, book celebrities, produce ad.
+
+Salesforce just let a creator reply to a tweet and take over.
+
+I sell into the Salesforce ecosystem.
+Watching them move like this is interesting.
+
+Enterprise companies don't usually make $8M decisions from a X/Twitter thread.
+
+—
+MrBeast found a new way to sync with Salesforce
+
+If you use Salesforce and need to connect it to your data warehouse or ERP, that's what we do at Stacksync.
+
+Check the connector here: https://lnkd.in/eTFrm85g
+
+---
+Jimmy Donaldson, everyone in the comments is asking if this was staged. Was it?",https://www.linkedin.com/posts/ruben-burdin_salesforce-used-to-pay-10myear-to-a-celebrity-activity-7419047813369532416-GIn1?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAD30W0IB23cOrr5FXrEYBnmoxsaIyrAoPbY,https://media.licdn.com/dms/image/v2/D4E22AQGsIIbcWkvR_A/feedshare-shrink_2048_1536/B4EZvXAq8oHUAk-/0/1768838836470?e=1772668800&v=beta&t=bXxbc08b9AiKtMIqYv89vRofM4mLJQFe7UaRBteBHI4,True,MrBeast_Ruben,0.0,3,/Users/TERABYTE10/Downloads/Stacksync/04_linkedin_content/Bangers/drafts/MrBeast_Ruben.md
+3,2026-01-02,"Michael ""Monty"" Widenius",1396,69,63,1528,Teacher,Founder Story,Data/Numbers,Listicle/Breakdown,"He'd created MySQL in 1995. Named it after his daughter ""My""","He'd created MySQL in 1995. Named it after his daughter ""My""
+Built it into the most popular open-source database in the world
+Then Michael Widenius watched Oracle buy his life's work
+
+
+Wikipedia. Facebook, YouTube, Google. All ran on MySQL 
+
+Sun bought MySQL for $1 billion in 2008.
+Then Oracle bought Sun.
+
+The company MySQL spent 15 years competing against now owned it.
+
+Widenius fought:
+
+▪️Launched a ""Save MySQL"" petition.
+▪️ Lobbied the European Commission to block the deal.
+▪️ Testified before regulators.
+
+""Oracle will destroy MySQL. Maybe not immediately. Maybe not obviously. But they'll starve it of resources and let it wither.""
+
+The EU approved the deal anyway.
+
+So he forked his own database.
+
+Recruited the original MySQL engineers who didn't want to work for Oracle.
+Created a foundation so no single company could ever control it again.
+
+Named it after his younger daughter.
+
+MariaDB.
+
+Today:
+✅ Default database for Red Hat
+✅ Default for Fedora
+✅ Default for Debian
+✅ Available on Ubuntu
+
+When the core of Linux switched, millions of servers followed.
+
+Widenius has three children: My, Max, and Maria.
+All three inspired database names.
+
+When Oracle took what he built, he didn't retire.
+
+ He copied the code they couldn't stop him from copying.
+ And built it again.
+
+ The database named after his daughter My was captured.
+
+ The one named after Maria was designed to be uncapturable.
+
+I let Michael ""Monty"" Widenius confirm the story",https://www.linkedin.com/posts/ruben-burdin_hed-created-mysql-in-1995-named-it-after-activity-7412956508788903936-rWot?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAF42GoYBkrrTOUskGWZfkibuhBgBETymwaM,https://media.licdn.com/dms/image/v2/D4E22AQF-6CmLYtlIdw/feedshare-shrink_800/B4EZuAcpnmJQAk-/0/1767386556189?e=1772668800&v=beta&t=IGc638I9EWs-JfIUcNi_32BtRymDbPsG-JKpMKinBZQ,True,,0.0,0,
+4,2026-01-04,Ruben Burdin,1069,38,14,1121,Magician,Founder Story,Contrarian/Challenge,Story → Lesson,A $30B company started because a wife played matchmaker behind a potted plant,"A $30B company started because a wife played matchmaker behind a potted plant
+
+
+Dharmesh's MIT cocktail party strategy: 
+
+Hide behind the largest plant. 
+Send wife out to scout for friends.
+
+Her report on Brian Halligan? 
+""He likes baseball and the Grateful Dead. You don't. This won't work.""
+
+She was wrong. 
+That introduction became HubSpot.
+
+But here's what actually built it and it's the opposite of what most founders do:
+
+- They dated for 9 months before starting the company.
+- Every MIT class project became a test. 
+- Every assignment a simulation of: Can we actually work together under pressure?
+
+Then they had the conversations most co-founders avoid:
+
+""What if someone offers us $100M in year one?""
+""What if one of us wants out?""
+""What defines success for us?""
+
+The result? 
+In 17 years, they've disagreed 1-2 times total.
+
+Not because they're identical. 
+They're opposites:
+
+Brian: Extroverted salesman who cold-called until his fingers bled
+Dharmesh: Super-introvert with zero direct reports for 17 years (by choice)
+
+They worked because they aligned on values before tactics.
+
+The unconventional bets that followed:
+
+VCs: ""Go enterprise"" → HubSpot: SMBs
+""Guard your IP"" → Open-sourced ""inbound marketing""
+""Build product first"" → Blogged for 9 months, ranked as first before launch
+
+The lesson for every HubSpot user, employee, and shareholder:
+
+Your platform was built by two people who tested compatibility before commitment. Who had brutal conversations early. Who disagreed twice in 17 years because they aligned on what mattered before pressure hit.
+
+Proud to be the top 3 contributor of this amazing community and ecosystem. 
+
+That's the culture that scaled to 7,000+ employees.
+
+P.S. I let Dharmesh confirm the story",https://www.linkedin.com/posts/ruben-burdin_a-30b-company-started-because-a-wife-played-activity-7388716876014530560-V6g9?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAF42GoYBkrrTOUskGWZfkibuhBgBETymwaM,https://media.licdn.com/dms/image/v2/D4D22AQGXDxNVJO0bYg/feedshare-shrink_20/B4DZon.15KKQA0-/0/1761607377168?e=1772668800&v=beta&t=nz1Ma4Uync9wApldhSVeKy04YCDqgEsOv79xG8GvyLg,True,,0.0,0,
+5,2026-01-21,Frank Slootman,808,28,13,849,Magician,Industry/SaaS,Contrarian/Challenge,Story → Lesson,$70 billion in one day.,"$70 billion in one day.
+That was Snowflake's market cap when the bell rang in 2020. Largest software IPO in history.
+
+The CEO who led it? Frank Slootman.
+The same Frank Slootman who took ServiceNow public in 2012 for $2 billion.
+
+Two companies. Two industries. Same person at the helm when it mattered most.
+
+But the founders are the real story.
+
+Fred Luddy started ServiceNow at 50. 
+
+After losing $35 million overnight to fraud at his previous company. 
+Everyone thought he was done.
+
+Nine months after swearing he'd never touch IT service management again, he started building. Today that company is worth $150 billion.
+
+Dageville and Cruanes started Snowflake after 16 years at Oracle. 
+They bet against Hadoop when everyone in the industry said Hadoop was the future.
+
+Two years arguing over whiteboards in San Mateo. No funding announcements. No hype. Just conviction that the cloud could do what on-premise never could.
+
+Both founders built something real. Both needed an operator who could see it and scale it.
+
+Both found Slootman.
+
+If you work at ServiceNow: you're part of a comeback story that started in a 50-year-old's worst moment.
+
+If you work at Snowflake: you're part of the company that proved an entire industry wrong.
+
+Founders build what operators can't imagine.
+Operators scale what founders can't reach.
+That's the pattern. Twice.
+
+---
+Snowflake proved it for data warehousing. 
+ServiceNow proved it for workflows. 
+
+The next frontier?
+
+Real-time sync between your CRM and ERP. That's what we're building at Stacksync.",https://www.linkedin.com/posts/ruben-burdin_70-billion-in-one-day-that-was-snowflakes-activity-7419832403675844608-VUnw?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADAEIjUB6-0Ki4Mn4tqi3dc1q7EgfDhzXsM,https://media.licdn.com/dms/image/v2/D4E22AQGsreGltTHy_g/feedshare-shrink_800/B4EZviKQF6KsAk-/0/1769025897261?e=1772668800&v=beta&t=TnC6TJae7_uHkQ2qTHkFapoQmi7yaATqzJZ8NkGMoMU,True,,0.0,0,
+6,2026-01-08,UNKNOWN,383,20,15,418,Teacher,Industry/SaaS,Contrarian/Challenge,Story → Lesson,One company created more billion-dollar competitors than any other in tech history,"One company created more billion-dollar competitors than any other in tech history
+
+Not by accident. By how they treated people.
+
+Oracle.
+
+▪️Marc Benioff was Oracle's youngest VP. Left in 1999. 
+Built Salesforce. Worth $250 billion.
+
+▪️Dave Duffield was 62 when Larry Ellison launched the most aggressive hostile takeover in enterprise software history. Took his company: PeopleSoft.
+
+Dave started Workday at 64. ande went public at 72. Today worth $60 billion.
+
+▪️Monty Widenius spent 15 years building MySQL. Sold it. Then Oracle bought the buyer.
+
+So Monty forked his own database and created MariaDB, designed so no corporation could ever capture it again.
+
+▪️Benoit Dageville and Thierry Cruanes spent over a decade each at Oracle. Left in 2012 when nobody believed cloud data warehouses would work.
+
+Built Snowflake. Largest software IPO in history. $70 billion.
+
+Oracle was the best enterprise software training ground in the world. 
+But the culture pushed out the people who wanted to build, not just optimize.
+
+Those people went on to build tools that are eating Oracle's market share. 
+From every direction. CRM. HR. Data. Databases.
+
+The employees Oracle lost created ~$400 billion in combined value—companies now competing against a $550 billion empire.
+
+If you work at any of these companies, you're part of a lineage. 
+
+People who learned from the empire, then built something better.
+Something they can't take.",https://www.linkedin.com/posts/ruben-burdin_one-company-created-more-billion-dollar-competitors-activity-7415146199349157888-YbrD?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAF42GoYBkrrTOUskGWZfkibuhBgBETymwaM,https://media.licdn.com/dms/image/v2/D4E22AQGV6tsXntS-Mw/feedshare-shrink_2048_1536/B4EZufkKrwLIA0-/0/1767908619115?e=1772668800&v=beta&t=DVuvyFJsOqnSWXioDgnutzd0CNWwDE8mN-GkwicEEgc,True,,0.0,0,
+7,2026-01-17,UNKNOWN,213,22,9,244,Teacher,Integration/Data,Contrarian/Challenge,Listicle/Breakdown,MuleSoft. Workato. Boomi.,"MuleSoft. Workato. Boomi.
+Three different logos. Same fundamental problem.
+
+They were all built for a world where:
+
+▪️Integration was a project, not a product
+▪️Engineers expected to write custom code
+▪️""Real-time"" meant ""pretty fast eventually""
+▪️Complexity justified six-figure contracts
+
+That world is dying.
+
+Here's what they all share:
+
+1. Task-based or connector-based pricing that punishes growth
+2. ""Bi-directional"" that's actually polling intervals and batch jobs stitched together
+3. Implementation timelines measured in months
+4. Platforms that require specialized talent just to connect to your existing stack
+
+You can switch from MuleSoft to Workato.
+You'll have the same problems with a different support team.
+
+You can migrate from Workato to Boomi.
+Different strengths on paper. Same latency in practice. Different invoice.
+
+The problem isn't which iPaaS you choose.
+The problem might be iPaaS itself.
+
+We built Stacksync from first principles.
+
+✅ It replaces: your iPaaS, your EDI provider. your reverse ETL, your event queues, your fragile sync scripts.
+✅ True bi-directional sync. Sub-second latency. SQL-first.
+✅ Pricing based on records, not tasks.
+
+We didn't mean to replace that many tools.
+Customers just kept asking.
+
+If you've been vendor-hopping between the big three and wondering why nothing improves, now you know.
+
+Same problem. Different logo.",https://www.linkedin.com/posts/ruben-burdin_mulesoft-workato-boomi-three-different-activity-7418080805190586368-HE7D?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAD30W0IB23cOrr5FXrEYBnmoxsaIyrAoPbY,https://media.licdn.com/dms/image/v2/D4E22AQFbjViZz_02Og/feedshare-shrink_2048_1536/B4EZvJRLj0KEAk-/0/1768608283274?e=1772668800&v=beta&t=VeY_EL2OQV5pQR9uis3yu5Jf5wDSweZTXDIefXJw_dw,True,,0.0,0,
+8,2026-02-06,UNKNOWN,135,16,2,153,Contrarian,Integration/Data,Contrarian/Challenge,Listicle/Breakdown,Salesforce just killed Heroku Enterprise.,"Salesforce just killed Heroku Enterprise.
+They're calling it ""sustaining engineering mode.""
+
+Not eventually. Not quietly. End of Sale. February 5, 2026.
+
+That means:
+- No product roadmap
+- No new features
+- No investment
+- Just maintenance until you leave
+
+Here's what it means:
+
+1. Support will degrade.
+Salesforce cut 4,000 support jobs this year. The remaining team knows their product has no future. Response times will increase and quality will drop.
+
+2. Security becomes reactive.
+Maintenance mode means patches only. No proactive hardening. No compliance updates for new regulations. 
+Just the minimum to keep CVEs off the news.
+
+3. Your best people will leave.
+Nobody builds a career on a dying platform. The engineers who know Heroku best are already looking. What's left handles your production incidents.
+
+4. Recruiting gets harder.
+""We run on Heroku"" is now a red flag. Every candidate asks: ""What's the migration plan?"" If you don't have one, they'll find a company that does.
+
+5. Due diligence flags you.
+Are you Raising or Getting acquired? ""Primary infrastructure is End of Sale with no roadmap"" is now in your risk section.
+
+The $212M platform Salesforce called ""the future of cloud computing"" is now in hospice care.
+
+The question isn't whether to migrate.
+It's whether you migrate on your timeline or theirs.
+
+We can help you get out of this, at Stacksync, we connect to any Postgres. Heroku, Railway, Render, self-hosted.
+
+Your data layer shouldn't depend on one vendor's AI strategy.",https://www.linkedin.com/posts/ruben-burdin_salesforce-just-killed-heroku-enterprise-activity-7425669851945418752-C6ID?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACduEjUB9RjUluiHlrWu9gJkcoqkDVIC-IE,https://media.licdn.com/dms/image/v2/D4D22AQHZar3_D_kPpg/feedshare-shrink_480/B4DZw1HYPIKwAs-/0/1770417653110?e=1772668800&v=beta&t=QYh1NicN23Qom1fbn4Rj13U_4bFEzoTwN9aAuPmKTvE,True,,0.0,0,
+9,2025-12-31,UNKNOWN,124,14,2,140,Fortune Teller,Founder Story,Origin Story/Narrative,Story → Lesson,Stacksync will be a generational company.,"Stacksync will be a generational company.
+
+
+We started with very little. 
+
+The goal was always to multiply it for our customers, for the team, for everyone who bets on us.
+
+Our customers comes first. Everything else follows.
+
+This is a life mission. We're just getting started. 
+None of this happens without my team and the partners who backed us.
+
+These are some pictures of the team from this year. 
+Looking forward to many more.",https://www.linkedin.com/posts/ruben-burdin_stacksync-will-be-a-generational-company-activity-7412159720612028416-Ksfd?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAF42GoYBkrrTOUskGWZfkibuhBgBETymwaM,https://media.licdn.com/dms/image/v2/D4E22AQEW17eQIdZpNg/feedshare-shrink_1280/B4EZt1H.ZfHcAs-/0/1767196587217?e=1772668800&v=beta&t=dqTq_Y0uaHlDp7v1hlvVII4fOqScieNcQDqaqK1gmdg,True,,0.0,0,
+10,2025-12-18,UNKNOWN,109,9,17,135,Magician,Industry/SaaS,Contrarian/Challenge,Story → Lesson,77% of the world's transaction revenue runs through SAP.,"77% of the world's transaction revenue runs through SAP.
+Not ""enterprise transactions."" Not ""B2B transactions.""
+THE WORLD'S transactions.
+
+When your salary hits your bank account → probably SAP
+When a hospital orders medicine → SAP
+When an airline schedules your flight → SAP
+
+It started in a small apartment in Mannheim, Germany.
+
+5 engineers. Borrowed computers. Nights and weekends.
+
+IBM had just killed their project. Months of work. Gone in a memo.
+So, they quit.
+
+They couldn't afford their own computer. 
+So they worked nights at their first customer's data center—Imperial Chemical Industries.
+
+No venture capital. No bank loans. Just customer cash flow.
+
+52 years later:
+ ~€270B market cap 
+440,000 customers 
+180 countries 
+105,000 employees 
+
+77% of world's transaction revenue
+
+And they never chased hype.
+
+No pivots to crypto. 
+No rebrand every 6 months. 
+No flashy Super Bowl ads.
+
+Just: make the software work. Make it reliable. Make it scale.
+German engineering applied to code. 
+
+While ""hot"" startups rise and fall every 18 months, SAP has been running global commerce for 52 years. 
+
+The people who work at SAP don't get the credit.
+
+Nobody tweets ""just deployed on SAP 🚀"" 
+Nobody makes TikToks about enterprise resource planning. 
+LinkedIn influencers don't talk about ""the SAP ecosystem.""
+
+But every single day, SAP employees keep the world running.
+
+Every paycheck, shipment, transaction.
+
+The invisible infrastructure of modern civilization.
+
+Built by 5 engineers in a small apartment.
+
+Running on values that never went out of style:
+
+Reliability over hype & decades over quarters.
+
+To everyone who works at SAP:
+
+You don't trend on Twitter.
+But you run the world.",https://www.linkedin.com/posts/ruben-burdin_77-of-the-worlds-transaction-revenue-runs-activity-7407278069809303553-Npeu?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADe8BX4BelwWTQ01uSbSHmL-HZjOP4FB6iw,https://media.licdn.com/dms/image/v2/D4E22AQFjd_1GiIjVMg/feedshare-shrink_160/B4EZsvwJJrHUAg-/0/1766032711101?e=1772668800&v=beta&t=YvD5UZzHN86FxaY1Q7ZJD7KAnpNa-k3LSyGtkfuGlFg,True,,0.0,0,
+11,2025-12-20,Tobias Lütke,104,11,6,121,Teacher,Industry/SaaS,Data/Numbers,Story → Lesson,German teachers diagnosed him as learning disabled.,"German teachers diagnosed him as learning disabled.
+He dropped out after 10th grade.
+He's worth $12 billion now.
+
+Tobias couldn't process information the way school demanded. 
+
+Couldn't sit through lectures. Couldn't pass tests designed for a different kind of brain.
+
+So he left. Took a programming apprenticeship at Siemens. He was 16.
+
+But this ""disabled"" kid could hold entire system architectures in his head. Could code for 10 hours without blinking. 
+
+Could teach himself a brand-new programming language in weeks and become one of its core developers.
+
+The test wasn't measuring what he had. It was measuring what he lacked.
+
+He moved to Canada at 22 for a girl he met playing video games. No job. No money. Lived with her parents. Started building software from their house.
+
+That software became Shopify.
+
+By 2007, Shopify was dying. Couldn't make payroll. His father-in-law wrote a check to keep it alive. An angel investor followed months later.
+
+Today: 4 million merchants. 10% of US e-commerce. $200B+ market cap.
+
+His words, years after the diagnosis: ""I didn't have a learning disability. I had a different learning style.""
+
+The German school system measured one kind of intelligence.
+
+Tobi had another kind.",https://www.linkedin.com/posts/ruben-burdin_german-teachers-diagnosed-him-as-learning-activity-7407939431589978112-FBvR?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADe8BX4BelwWTQ01uSbSHmL-HZjOP4FB6iw,https://media.licdn.com/dms/image/v2/D4E22AQFGoAI3J5Gu9Q/feedshare-shrink_2048_1536/B4EZs5JpYlIUA0-/0/1766190392036?e=1772668800&v=beta&t=FLkWxRAjSlNV48qaIpHfrCuH_reUoG7sQbywhT_2s_g,True,,0.0,0,
+12,2026-01-07,UNKNOWN,103,6,4,113,Teacher,Founder Story,Origin Story/Narrative,Story → Lesson,Musk and Thiel built PayPal,"Musk and Thiel built PayPal
+Then funded two brothers to replace it
+Why would fund their own competition?
+
+Because they recognized what Stripe was: 
+
+the payments system they would have made if they'd thought about developers first.
+
+Patrick Collison grew up in Dromineer, Ireland. 
+Population: barely 100. The main sounds were wind and cows.
+
+He learned to code from a book he bought at a Limerick bookshop. He was 10.
+
+By 16, he'd invented his own programming language. 
+By 19, he'd sold his first company. By 21, he was furious.
+
+It was 2010. You could stream movies. 
+Video chat across continents. Summon cars with your phone.
+
+But charging a credit card online? 
+
+Three weeks minimum. 
+Merchant accounts. Gateway providers. PCI compliance.
+
+""Why is this so hard?""
+
+He called his brother John, still in college.
+They dropped out and started building.
+
+The premise was radical: 
+
+What if accepting payments was as easy as copy-pasting a few lines of code?
+
+Not weeks of integration. Not lawyers.
+Seven lines of code.
+
+Every VC said no. ""Payments is solved.""
+
+Then Elon Musk invested. Peter Thiel invested. They'd built PayPal. 
+They recognized what Stripe was doing.
+
+The two brothers from a village of 100 people fixed what the entire payment industry had ignored for decades.
+
+Today, Stripe processes hundreds of billions in transactions. 
+
+Amazon uses it. Google uses it. 
+So does the solo founder shipping at 2am.
+
+Because Patrick and John never forgot what it feels like to be that person.
+Building something with no resources. 
+
+Just a book from a Limerick shop and the belief you could figure it out.",https://www.linkedin.com/posts/ruben-burdin_musk-and-thiel-built-paypal-then-funded-two-activity-7414802637033922560-g921?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAF42GoYBkrrTOUskGWZfkibuhBgBETymwaM,https://media.licdn.com/dms/image/v2/D5622AQHkn-59y_QubQ/feedshare-shrink_800/B56ZuarsMEHMAg-/0/1767826707477?e=1772668800&v=beta&t=dCgmcOg99y37LiC-N_G9ti6F4RcgloBCmVjivCvSNVc,True,,0.0,0,
+13,2026-02-14,UNKNOWN,102,8,2,112,Teacher,Founder Story,Contrarian/Challenge,Story → Lesson,Heroku was built as an in-browser code editor.,"Heroku was built as an in-browser code editor. 
+But nobody used it. This is the story:
+
+The pitch was ""FileMaker Pro for the web"" 
+Democratize programming.
+
+Y Combinator funded it and 20,000 users signed up during the beta.
+
+Nobody used the editor.
+
+They were uploading zip files. 
+
+Code written in Vim or TextMate, zipped up, shoved through a glorified file upload button. 
+
+The first users were using a side feature as the main workflow.
+
+Adam Wiggins watched the logs for weeks. 
+
+He called it a ""folk practice"" Users had wordlessly arrived at the same conclusion: we don't care about your editor. Make deployment not suck.
+
+The founders gave themselves three months and killed the editor. 
+Rebuilt the entire platform around what users were already doing.
+
+That rebuild became four words: git push heroku main.
+
+Before that command, deploying a Rails app meant SSH keys, Apache configs, and Mongrel instances crashing at 3am. 
+
+After it, you pushed your code and it was live shortly
+
+65 million apps. An entire generation of developers shipped their first production code by typing that command. 
+
+The purple homepage. The haiku-style project names. 
+
+A hosting company that believed developers deserved beautiful tools, back when every competitor's dashboard looked like it was designed in FrontPage.
+
+This month, Heroku moved to sustaining engineering mode. No new features. No new Enterprise accounts.
+
+The platform that taught a generation to ship is entering maintenance.
+
+If you ever typed git push heroku main and felt like a hero, you know what we lost.",https://www.linkedin.com/posts/ruben-burdin_heroku-was-built-as-an-in-browser-code-editor-activity-7428268317376737280-vhCT?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACduEjUB9RjUluiHlrWu9gJkcoqkDVIC-IE,https://media.licdn.com/dms/image/v2/D4D22AQE8_am-O2N38g/feedshare-shrink_160/B4DZxaCrAEJEA0-/0/1771037176009?e=1772668800&v=beta&t=qZCvZovbSukRyNN4Tzpkf0OSE68diUAv267GGSqF_ls,True,v2_HerokuPivot_Ruben,0.0,5,/Users/TERABYTE10/Downloads/Stacksync/04_linkedin_content/Bangers/drafts/v2_HerokuPivot_Ruben.md
+14,2026-02-04,Alexis Favre,83,9,1,93,Magician,Integration/Data,Origin Story/Narrative,Story → Lesson,The YC application deadline is coming up (5 days),"The YC application deadline is coming up (5 days)
+I got rejected the first time I applied. Didn't even get an interview
+Six months later, I got accepted within a week
+
+Here's what I'd tell myself before that first application:
+
+1. Progress matters more than timing. I applied on the late deadline the second time. Still got in within a week. Don't stress about when you apply—focus on what you're applying with.
+
+2. If you get rejected, keep building and reapply. Six months of progress changed everything. Same idea, different traction. I found a co-founder (Alexis Favre), grew the team, and got the product working in production.
+
+3.Know why you're applying. Every unicorn in our space went through YC. Airbyte, Fivetran, Hightouch. I applied for the network, not the money.
+
+If you're curious what we've been working on since YC, check it out at www.stacksync.com :)",https://www.linkedin.com/posts/ruben-burdin_the-yc-application-deadline-is-coming-up-activity-7424928731695333376-09Go?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACdwRloBsvQMFO5Hq4nZQD88Dn5VCuqcvz4,https://media.licdn.com/dms/image/v2/D4D22AQFeMSTp07y9Gg/feedshare-shrink_20/B4DZwqlVhWJ8AM-/0/1770240956909?e=1772668800&v=beta&t=WGC1jRmyUK4m4HMlMLnbIbgESBdeu_KZRlfiXuhRMFs,True,,0.0,0,
+15,2026-01-14,UNKNOWN,63,5,0,68,Experimenter,Founder Story,Contrarian/Challenge,Story → Lesson,"In 2007, VCs told Zendesk's founders to ""get a proper job.""","In 2007, VCs told Zendesk's founders to ""get a proper job.""
+In 2022 Zendesk got acquired for $10.2 billion.
+
+Mikkel Svane sat in a conference room watching an IT team struggle with customer service software.
+
+He was the consultant hired to implement it.
+
+Six-figure licensing fees, weeks of configuration and training manuals for basic tasks.
+
+He hated every minute of it.
+
+Not the work itself—the absurdity.
+
+Companies were paying hundreds of thousands for software that made customer service *harder*, not easier.
+
+That night, in his Copenhagen loft, Mikkel and co-founder Morten had the same silent conversation they'd had a hundred times:
+
+""This is insane, why does customer service software have to be this terrible?""
+""It doesn't.""
+
+So they sketched something different.
+
+Simple. Web-based. Set up in minutes, not months.
+
+Something that would put consultants like them out of business.
+
+For 18 months, they pitched across Denmark and Europe.
+
+The response?
+
+""There's not a startup tradition in Copenhagen, 
+""Get a proper job instead.""
+
+Svane later said: ""We met almost nobody who believed in the idea. Nobody.""
+
+But they kept building and something happened:
+
+Customers started showing up. Word of mouth. One by one.
+
+They hit $1M ARR. Bootstrapped. 
+
+Then a Silicon Valley VC called.
+""Move to San Francisco and we're in.""
+
+The three guys everyone dismissed packed their families and crossed the Atlantic.
+
+2014: IPO at $1B+
+2022: Acquired for $10.2B
+
+One of the largest software acquisitions in history.
+
+Zendesk was built by three friends who were told to give up.
+
+Who kept building when nobody believed. 
+
+Who hated a problem so much they put themselves out of business to fix it.
+
+That's the culture behind millions of customer conversations every day.
+
+---
+PS: Speaking of customer service software that just works, we built Stacksync - Integration Cloud to connect Zendesk to your database, CRM, or warehouse. Real-time. Bi-directional. Minutes to set up.",https://www.linkedin.com/posts/ruben-burdin_in-2007-vcs-told-zendesks-founders-to-activity-7417271079146131456-V8cx?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAD30W0IB23cOrr5FXrEYBnmoxsaIyrAoPbY,https://media.licdn.com/dms/image/v2/D4E22AQHoH5_d0QNlBg/feedshare-shrink_480/B4EZu9wvV1KsAw-/0/1768415229858?e=1772668800&v=beta&t=NqyuixDyTO3a9byOWnR5LIVJ1tyKf_97aRd-wBOuNxY,True,,0.0,0,
+16,2025-12-17,Patrick Collison,61,2,1,64,Contrarian,Founder Story,Data/Numbers,Story → Lesson,Patrick wrote an email to Paul Graham that would have killed Stripe.,"Patrick wrote an email to Paul Graham that would have killed Stripe.
+
+He never sent it.
+
+That email is worth $95 billion.
+
+January 2010. Palo Alto. 2:47 AM.
+
+Patrick was 21. His brother John slept on a frameless futon in the next room. 
+
+The radiator clanked. The apartment smelled like Maruchan ramen.
+
+37 banks had said no.
+
+His laptop screen glowed with a draft email to Paul Graham:
+
+""We're considering pivoting to something else...""
+
+His finger moved toward Send.
+But he stopped.
+
+Paul Graham's essays taught him how to code. 
+
+At 15, in rural Ireland, he'd printed them on a dot-matrix printer and read them like secrets.
+
+He couldn't send a quit email to the man who started everything, right?
+He closed the laptop.
+
+The next morning he made one more call.
+
+A woman named Christine at PayByWeb said yes when 37 others didn't.
+
+That yes became Stripe.
+
+Paul Graham would later call it one of YC's best investments ever.",https://www.linkedin.com/posts/ruben-burdin_patrick-wrote-an-email-to-paul-graham-that-activity-7406886438060834816-MVXh?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADe8BX4BelwWTQ01uSbSHmL-HZjOP4FB6iw,https://media.licdn.com/dms/image/v2/D4E22AQF1ODgPAiorhg/feedshare-shrink_1280/B4EZsqL8z9IUAQ-/0/1765939338884?e=1772668800&v=beta&t=TdTlIj9-OXhjgu0M7_CmMgd92hI8Whthd8loOOoYTYI,True,,0.0,0,
+17,2026-02-10,UNKNOWN,57,6,0,63,Teacher,Industry/SaaS,Contrarian/Challenge,Listicle/Breakdown,The biggest opportunity in any market is the segment the leaders won't touch.,"The biggest opportunity in any market is the segment the leaders won't touch.
+SAP ignored mid-market. NetSuite built a $9.3B company there. 
+
+I think The integration market has the same blind spot right now.
+
+If your company runs NetSuite and Salesforce, your engineering team knows the pain. 
+
+Custom API code to move data between the two. Authentication. Rate limits. Pagination. Retry logic. Every schema change breaks something.
+
+The market offers two paths:
+
+1. Enterprise middleware that costs six figures and takes months to deploy. 
+2. Custom code your engineers write and babysit indefinitely.
+
+Companies between $20M and $250M in revenue get squeezed. Too much data for basic tools. Not enough budget for enterprise platforms. So engineering teams become integration teams. Not building product. Maintaining plumbing.
+
+Goldberg saw the same dynamic in 1998 and build Netsuite
+
+When I started building in 2022, I found exactly this. No good option for a mid-market team that needed ERP and CRM data flowing in real time. 
+
+Two paths: 
+1. six-figure middleware 
+2. custom code that eats your engineering capacity. 
+
+Both were wrong answers.
+
+Goldberg's lesson: find the segment the leaders consider too small to serve. Grow with those customers until you're too big to ignore.
+
+Stacksync is built for that segment. Your ERP and CRM data in a database your engineers already know. SQL queries instead of middleware configurations. No six-figure contracts.
+
+The gap in ERP was worth $9.3 billion. 
+
+The gap in integration is just as wide.",https://www.linkedin.com/posts/ruben-burdin_the-biggest-opportunity-in-any-market-is-activity-7427109724837363713-w7FI?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACduEjUB9RjUluiHlrWu9gJkcoqkDVIC-IE,https://media.licdn.com/dms/image/v2/D4D22AQH0_6vPFDgcDg/feedshare-shrink_2048_1536/B4DZxJk761JcAk-/0/1770760945707?e=1772668800&v=beta&t=3Hc4ndvGcCbhXdnvbr_Kr35jcCSZrxOgi6F0uimHR0E,True,Netsuite_Ruben,0.0,5,/Users/TERABYTE10/Downloads/Stacksync/04_linkedin_content/Bangers/drafts/Netsuite_Ruben.md
+18,2026-02-02,UNKNOWN,51,5,2,58,Experimenter,Founder Story,Data/Numbers,Listicle/Breakdown,I studied 6 major CRM companies.,"I studied 6 major CRM companies.
+Every single founder hated CRMs.
+
+Not ""wanted to improve."" Not ""saw an opportunity."" Hated them.
+
+▪️Salesforce ($38B revenue, 150K customers): Marc Benioff at Oracle, watching companies install software from CDs. He swam with dolphins in Hawaii and came back with a mission: ""The End of Software.""
+
+▪️HubSpot ($3B revenue, 228K customers): Brian Halligan watching cold calls and purchased email lists fail. His MIT co-founder Dharmesh Shah had a blog with zero budget outperforming teams with actual marketing spend.
+
+▪️Zoho ($1.5B revenue, 100M users): Sridhar Vembu seeing enterprise tools priced out of reach for small businesses. Built 55+ apps as an affordable alternative. Bootstrapped. No VC. Ever.
+
+▪️Freshworks ($720M revenue, 72K customers): Girish Mathrubootham saw a Hacker News comment after Zendesk hiked prices 60-300%: ""Someone could take all of Zendesk's customers away."" So he did.
+
+▪️Pipedrive ($200M+ revenue, 100K customers): Timo Rein running a sales training company in Estonia. Frustrated with Salesforce's complexity, he built a CRM from a salesperson's point of view, not management's.
+
+▪️Attio ($116M raised, 4x ARR growth): Nicolas Sharp at a VC firm, struggling to track deal flow. Tried every CRM. None worked. Started coding his own on nights and weekends.
+
+Combined: $43B+ in revenue. 650K+ customers. 100M+ users.
+All started the same way.
+
+The pattern:
+
+1. Founder uses existing CRM daily
+2. Founder hits breaking point
+3. Founder builds the CRM they wished existed
+
+Every CRM revolution started with frustration.
+The best products aren't built by people who see opportunity.
+
+They're built by people who can't tolerate the status quo.
+What's the tool you hate using every day? 
+
+---
+PS: At Stacksync, we hated how CRMs don't talk to databases. So we built real-time, two-way sync.",https://www.linkedin.com/posts/ruben-burdin_i-studied-6-major-crm-companies-every-single-activity-7424231131975450624-Ozym?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACdwRloBsvQMFO5Hq4nZQD88Dn5VCuqcvz4,https://media.licdn.com/dms/image/v2/D4D22AQE0HVkDw3CNlg/feedshare-shrink_480/B4DZwgq36CLAAs-/0/1770074636302?e=1772668800&v=beta&t=UDHYjAPR7rds5SMQ5YY7cbhWqrC3yosd2RVkfcqX3XM,True,,0.0,0,
+19,2026-01-13,UNKNOWN,44,8,2,54,Teacher,Integration/Data,Contrarian/Challenge,Story → Lesson,Warren Buffett famously avoids tech stocks,"Warren Buffett famously avoids tech stocks
+But he invested $735 million in Snowflake:
+
+The Oracle of Omaha, who skipped Amazon, Google, Facebook, wrote a check for a database company.
+
+Why?
+
+Because Snowflake wasn't a tech bet. It was a business model bet.
+
+The same logic that made Buffett billions in insurance applied to cloud data.
+
+It all started in San Mateo, California. 2012:
+
+Three men stand before a whiteboard covered in diagrams. They've been at this for months. Coffee cups stacking. Takeout containers accumulating.
+
+Benoit Dageville, Thierry Cruanes, and Marcin Zukowski
+
+They'd left Oracle—15 years of stable salary, stock options, the comfort of being cogs in a profitable machine.
+
+Now they're in a cramped office, betting everything on an idea the entire industry says is wrong.
+
+The prevailing wisdom: ️Hadoop is the future. Big data means MapReduce. Everyone knows this.
+
+Benoit and Thierry think everyone is wrong.
+""We were convinced there were many reasons why Hadoop would fail.""
+
+Their bet: the cloud could do something on-premise never could. Infinite elasticity. Compute that appears when you need it, disappears when you don't.
+
+For 2 years, they built in stealth. But nobody believed them.
+
+▪️Yahoo and Benchmark Capital backed Hortonworks.
+▪️Accel and Greylock backed Cloudera.
+
+Every analyst said Hadoop.
+
+Then September 16, 2020.
+Snowflake went public. Largest software IPO in history 🚀
+
+Warren Buffett’s Berkshire Hathaway invested $735 million
+
+The three architects who bet against every analyst, every VC, every conference keynote built something worth $70 billion.
+
+Meanwhile:
+▪️Hortonworks: merged, absorbed
+▪️Cloudera: went private
+▪️MapR: acquired by HPE after near-collapse
+
+The smart money was wrong.
+The three ""crazy"" guys from Oracle were right.
+
+--
+P.S. Snowflake gave you a place to store your data. But getting data in and out? Still painful. Stacksync syncs Snowflake with NetSuite, Salesforce, HubSpot, and 100+ other systems—in real-time.",https://www.linkedin.com/posts/ruben-burdin_warren-buffett-famously-avoids-tech-stocks-activity-7416631407936081921-Q_RS?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAD30W0IB23cOrr5FXrEYBnmoxsaIyrAoPbY,https://media.licdn.com/dms/image/v2/D4E22AQHVf2RU9eWj8A/feedshare-shrink_2048_1536/B4EZu0q9h5JEAk-/0/1768262720096?e=1772668800&v=beta&t=9i7QqSTFa-FxVD5iHmCn4RJxUF4D2bePS5jxDRAfXa0,True,,0.0,0,
+20,2026-01-13,UNKNOWN,41,9,0,50,Teacher,Founder Story,Contrarian/Challenge,Story → Lesson,I stopped trying to feel in control of my company,"I stopped trying to feel in control of my company
+It made me a better CEO
+
+For months I thought being a good founder meant having answers. 
+Knowing what to do. Feeling confident.
+
+Then I realized something:
+
+As a CEO, I always get into problems that people can't solve. 
+
+Once I know how to solve it, I create a playbook and give it to someone else. 
+
+Then I go to another problem. And that problem is again unresolved.
+
+You're always having problems you don't know how to handle: technical, finance, legal problems that nobody ever told you or warned you about.
+
+If you're comfortable, you're either not delegating enough or not pushing into new territory.
+
+Run a company is about failure. 
+
+It's about getting up faster than you fall. Overall, you fall less than you rise. 
+
+That's what growth looks like.
+
+Building Stacksync taught me this: the discomfort never stops. It just moves to bigger problems.
+
+That's the whole game.",https://www.linkedin.com/posts/ruben-burdin_i-stopped-trying-to-feel-in-control-of-my-activity-7416869800661942272-qsE0?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAD30W0IB23cOrr5FXrEYBnmoxsaIyrAoPbY,,True,,0.0,0,
+21,2026-01-20,UNKNOWN,43,3,4,50,Experimenter,Integration/Data,Origin Story/Narrative,Story → Lesson,We tested every Salesforce integration tool on the market,"We tested every Salesforce integration tool on the market
+Fivetran. Airbyte. Stitch. Heroku Connect. Workato. Celigo.
+Same pattern every time: 
+
+batch windows, polling intervals, or locked into one ecosystem.
+
+But what if you need:
+
+▪️Sub-second sync, not ""near real-time"" that's actually 5-15 minutes
+▪️Updates that bypass API rate limits entirely (because you're querying Postgres, not Salesforce)
+▪️Your own database, anywhere—not vendor lock-in
+
+None of these tools were built for that.
+So we built Stacksync.
+
+This is the feedback we've got:
+
+🎖️Acertus migrated from Heroku Connect: ""We went from treating data integration as a necessary evil that consumed our best engineers to having it just work.""
+
+🎖️Nautilus Solar replaced legacy pipelines: ""Error-free sync with custom object support—our team can focus on growth, not maintenance.""
+
+🎖️Eko eliminated CRM integration headaches: ""Stacksync makes my problem disappear. This investment is pure ROI.""
+
+The difference between polling every 15 minutes and syncing in milliseconds is the difference between a report and a live system.
+
+One shows you what happened. 
+The other lets you act on it.
+
+Want to see the Salesforce two-way sync in action?
+Link in the comments.",https://www.linkedin.com/posts/ruben-burdin_we-tested-every-salesforce-integration-tool-activity-7419460937935388673-AYDH?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADAEIjUB6-0Ki4Mn4tqi3dc1q7EgfDhzXsM,https://media.licdn.com/dms/image/v2/D4E22AQEJyqb4lVvy8A/feedshare-shrink_480/B4EZvc4Z05JAA8-/0/1768937332629?e=1772668800&v=beta&t=c9x_v15tRtH1c9toTyTE0_Tl7DAxtZMAbeP-HsJNVyQ,True,,0.0,0,
+22,2026-01-28,Arvind Jeyakumar,37,3,4,44,Magician,Integration/Data,Data/Numbers,Story → Lesson,"A $100M coffee brand, An a16z-backed EDI platform & A real-time sync engine.","A $100M coffee brand, An a16z-backed EDI platform & A real-time sync engine.
+Three companies that shouldn't have anything in common.
+
+Except NetSuite.
+And the scars from scaling on it.
+
+Feb 4th— Fellow, Orderful, and Stacksync in one room. San Francisco.
+
+Here's who's talking:
+
+🎙️Arvind Jeyakumar — Head of Data at Fellow
+
+Fellow got rejected by investors 73 times.
+Bootstrapped for 8 years.
+Now they're past $100M in revenue—selling in Target, Costco, and Nordstrom.
+
+Arvind built the data infrastructure that made that scale possible. 
+
+🎙️Blake Harries — Senior Channel Manager at Orderful.
+
+Orderful is a16z-backed and just launched Mosaic—the first product to kill manual EDI mapping entirely.
+
+Liquid Death. Faherty. Some of the fastest-moving brands run their partner onboarding through Orderful. 4x faster. Zero manual mapping.
+
+Blake will share how they're solving the connectivity headaches NetSuite users know too well.
+
+👤 And Stacksync?
+
+We're the ones who figured out real-time, bi-directional sync between NetSuite and everything else. No more batch jobs. No more stale data. No more waiting until tomorrow.
+
+Different products.
+Different industries.
+Same ERP battles.
+Same lessons worth sharing.
+
+Details:
+
+📆 Date: February 4th
+📍 Location: Fellow HQ Offices, 320 Florida Street, San Francisco, 94115.
+🚗 Parking: Mission Bartlett Garage (3251 21st St) or 16th Street BART
+
+Spots are limited to keep the conversation high-signal.
+
+Link to RSVP in the comments.
+See you there.",https://www.linkedin.com/posts/ruben-burdin_a-100m-coffee-brand-an-a16z-backed-edi-activity-7422397226343292928-bbBj?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACdwRloBsvQMFO5Hq4nZQD88Dn5VCuqcvz4,https://media.licdn.com/dms/image/v2/D4D22AQEiA-bzYuKKfg/feedshare-shrink_160/B4DZwGm8d0HwAw-/0/1769637398872?e=1772668800&v=beta&t=2fpUNbTpYNb4GcDutgLG2ZRMy-KBscEx1EbY-arlM5s,True,,0.0,0,
+23,2025-12-30,UNKNOWN,39,1,1,41,Experimenter,Integration/Data,Origin Story/Narrative,Story → Lesson,Companies I studied and wrote about this year:,"Companies I studied and wrote about this year:
+
+
+SAP: https://lnkd.in/ey-6taPm
+
+Zoho: https://lnkd.in/ewaJVvfu
+
+Shopify: https://lnkd.in/eSmrcjdf
+
+HubSpot: https://lnkd.in/enEiBY4e
+
+Supabase: https://lnkd.in/ej2Meuzk
+
+Airtable: https://lnkd.in/e-ndkV5c
+
+Lovable: https://lnkd.in/eB3FzBr6
+
+Zendesk: https://lnkd.in/erb7dave
+
+Stripe: https://lnkd.in/ecqc6qPY
+
+
+Some are loved by developers
+Some are hated by developers
+
+But all of them help run REAL businesses.
+
+And we built Stacksync connectors to every one.
+Check them out: https://lnkd.in/evwJHzgX",https://www.linkedin.com/posts/ruben-burdin_companies-i-studied-and-wrote-about-this-activity-7411880082392264704-ROqS?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADe8BX4BelwWTQ01uSbSHmL-HZjOP4FB6iw,https://media.licdn.com/dms/image/v2/D4E22AQHxf6YvCM0xQA/feedshare-shrink_160/B4EZtxJpllIgAc-/0/1767129916099?e=1772668800&v=beta&t=7CBf55SEILwOCkGhqv5om-WRqmNDmbdytnGmuSh2BuA,True,,0.0,0,
+24,2026-01-26,UNKNOWN,30,4,4,38,Teacher,Integration/Data,Origin Story/Narrative,Story → Lesson,🔔 I'm looking for the best NetSuite practitioners in SF.,"🔔 I'm looking for the best NetSuite practitioners in SF.
+
+
+The ones who've scaled it. Broken it. Fixed it at 2am. 
+Built the integrations that actually hold.
+
+Not the people who advise on it. The people who live in it.
+
+Something interesting is coming.
+
+Tag someone who actually runs NetSuite at scale.",https://www.linkedin.com/posts/ruben-burdin_im-looking-for-the-best-netsuite-practitioners-activity-7421663417851179008-FRqu?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADAEIjUB6-0Ki4Mn4tqi3dc1q7EgfDhzXsM,https://media.licdn.com/dms/image/v2/D4E22AQG45NkOawptXA/feedshare-shrink_480/B4EZv8LjJNHwAs-/0/1769462444938?e=1772668800&v=beta&t=Njjg6vZFWsTVpvHUdFlpICVmJHZta4KXaBiQIx1uFMI,True,,0.0,0,
+25,2026-02-05,UNKNOWN,28,6,2,36,Magician,Integration/Data,Data/Numbers,Story → Lesson,"40,000 companies run on NetSuite.","40,000 companies run on NetSuite. 
+We wanted to meet the practitioners behind them. 
+So we brought together the NetSuite community of SF:
+
+
+The SF NetSuite Series: From Silos to AI-Driven Ops. 
+Second edition. 45 people. 
+
+Every one of them lives inside NetSuite every day.
+First edition had 15. This one tripled that. (even on a Super Bowl weekend) 
+
+This happened:
+
+▪️Arvind from Fellow (a $100M+ specialty coffee company) showed how they use Stacksync to sync their NetSuite data. 
+
+Watching a company like that walk a room through how they use your product is something I won't forget.
+
+▪️Blake Orderful (a16z-backed, $50M raised, #1 EDI platform) broke down how supply chain data actually moves between systems. 
+
+▪️Even C-levels from Instacart were in the room.
+
+Origami Precision helped us host and keep everything running smoothly.
+
+What I learned going from 15 to 45: details compound. 
+
+The check-in that knew your name. The champagne. The sushi. None of it revolutionary alone. Together it changes how people experience you.
+
+15. Then 45. Next: 100s.
+
+Huge thanks to everyone who came out!",https://www.linkedin.com/posts/ruben-burdin_40000-companies-run-on-netsuite-we-wanted-activity-7425301157910253568-Z6bb?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACdwRloBsvQMFO5Hq4nZQD88Dn5VCuqcvz4,https://media.licdn.com/dms/image/v2/D4D22AQEccJ96MFgguQ/feedshare-shrink_1280/B4DZwv4DlYKwAc-/0/1770329750327?e=1772668800&v=beta&t=LZ1fxyK6D1o-B3LeM126NGq5sMbQKg6tHCKV3W2Ji70,True,netsuite_event_ruben,0.32,4,/Users/TERABYTE10/Downloads/Stacksync/04_linkedin_content/Post/netsuite_event_ruben.md
+26,2026-01-15,Jennifer Nixon,24,8,3,35,Teacher,Event/Community,Origin Story/Narrative,Story → Lesson,The HubSpot community is special.,"The HubSpot community is special.
+Real practitioners helping each other.
+No fluff. No influencer games:
+
+We've been showing up there for months.
+
+This week, HubSpot's Developer Community Manager posted about us.
+Thank you Jennifer
+
+Swipe to see the full journey.
+
+And DM me if you're are interested in the last page idea. 💡",https://www.linkedin.com/posts/ruben-burdin_stacksync-hubspot-community-activity-7417717131254894593-1AvS?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAD30W0IB23cOrr5FXrEYBnmoxsaIyrAoPbY,,True,,0.0,0,
+27,2026-01-05,UNKNOWN,26,5,2,33,Teacher,Integration/Data,Origin Story/Narrative,Story → Lesson,The definition of a successful company:,"The definition of a successful company: 
+Create more value for customers than it captures for itself. 
+
+That's it. Everything else is commentary.
+
+If you create value, customers pay you. If enough customers pay you, you're profitable. 
+
+If you're profitable, you're creating more than you're extracting. That's the proof.
+
+Funding is not proof. It's a bet that proof will come later.
+Press is not proof. It's attention that may or may not convert to anything.
+Awards are not proof. They're opinions from people who don't use your product.
+
+Customer expansion is proof. It means you solved something real and they want more of it.
+
+I've been running this company long enough to know: the only metric that compounds is customer value. 
+Everything else is noise that fades.
+
+At Stacksync we're not waiting to become successful. 
+We've been operating at the standard that creates it.
+The labels arrive when they arrive.",https://www.linkedin.com/posts/ruben-burdin_the-definition-of-a-successful-company-activity-7413973524555616256-80n1?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAF42GoYBkrrTOUskGWZfkibuhBgBETymwaM,https://media.licdn.com/dms/image/v2/D4E22AQHbOD3i3iegyg/feedshare-shrink_160/B4EZuO5lq3HoAo-/0/1767629032334?e=1772668800&v=beta&t=fhYKIQa0sCMp7XjkBclD3dvPiq1vMzOdmV1OfIMnQVY,True,,0.0,0,
+28,2026-01-09,UNKNOWN,27,5,1,33,Teacher,Founder Story,Personal Experience,Story → Lesson,There's a hierarchy that took us years to fully understand:,"There's a hierarchy that took us years to fully understand:
+💰 Customer money beats investor money. 
+🧑🏻‍💻 Product usage growth beats press coverage. 
+📈 Profitability beats fundraising metrics. 
+🚀 Week-over-week expansion beats vanity announcements.
+
+We ran Stacksync for a year and a half before YC. 
+
+No institutional backing.
+Just customers who found enough value in what we built to pay for it. 
+
+And then to use it more, and then to tell others.
+
+You can't put enough money in marketing. 
+You need real customers who pay for your product because they love it and use it daily.
+
+A profitable company creates more value for people than it extracts from them. 
+
+That's how markets work.
+
+We've been operating on this hierarchy since the beginning.",https://www.linkedin.com/posts/ruben-burdin_theres-a-hierarchy-that-took-us-years-to-activity-7415499933346275328-SkzU?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAF42GoYBkrrTOUskGWZfkibuhBgBETymwaM,,True,,0.0,0,
+29,2026-01-29,UNKNOWN,25,5,2,32,Magician,Founder Story,Contrarian/Challenge,Story → Lesson,Fellow is a $100M+ coffee brand.,"Fellow is a $100M+ coffee brand.
+
+You've probably seen their kettles.
+Maybe own their grinder.
+Definitely seen the awards.
+
+But here's what nobody talks about:
+
+73 rejections before anyone said yes.
+
+The Kickstarter that cost more to fulfill than it raised.
+($200k raised - $300K cost)
+
+The 8 years of bootstrapping before a single institutional dollar.
+
+And underneath all of it?
+
+A data infrastructure that had to scale faster than anyone planned.
+
+Arvind Jeyakumar built it.
+
+Founding data member at Fellow.
+Designed the systems from zero to $100M.
+
+The quiet architect behind the visible brand.
+
+---
+
+I couldn't be more excited to have Arvind share his story at our event.
+
+There's a reason companies like Fellow survive when others don't—and a lot of it comes down to people like him. Builders who figure it out when there's no playbook.
+
+Feb 4th. San Francisco. Fellow HQ
+
+If you want to hear the real story behind Fellow's infrastructure, this is your chance.
+
+Limited spots. 
+RSVP link in comments.",https://www.linkedin.com/posts/ruben-burdin_fellow-is-a-100m-coffee-brand-youve-activity-7422751124085993473-RR8e?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACdwRloBsvQMFO5Hq4nZQD88Dn5VCuqcvz4,https://media.licdn.com/dms/image/v2/D4D22AQFXiFZPkdWQmw/feedshare-shrink_800/B4DZwLo0FdJsAg-/0/1769721774841?e=1772668800&v=beta&t=pddP4VaCcyixH9N0v9qOUzV5hEpX0jQRQJHLh3osVJo,True,,0.0,0,
+30,2026-01-22,UNKNOWN,23,6,2,31,Magician,Integration/Data,Contrarian/Challenge,Listicle/Breakdown,This guy runs the biggest startup podcast and a $400M fund.,"This guy runs the biggest startup podcast and a $400M fund.
+He said Salesforce wins AI.
+If he right, most companies aren't ready for it:
+
+Here's the bottleneck nobody's talking about:
+AI agents need real-time data to work.
+
+Not just CRM data. Everything—ERP, finance, data warehouses, databases—all connected and in sync.
+
+But most companies are running on: 
+
+→ Batch syncs that update hourly—or worse, daily 
+→ ERP data stuck in NetSuite or SAP 
+→ Finance data that doesn't reconcile until month-end 
+→ API rate limits throttling integrations at the worst times
+
+AI on stale data = bad AI.
+
+And even when the data is synced, you need workflows that actually let agents act on it.
+
+That's exactly why we build Stacksync: Real-time sync across all your systems, with workflows that give AI agents something to work with.
+
+But I'm curious: do you agree with Harry? Is distribution really all that matters in AI? 👀",https://www.linkedin.com/posts/ruben-burdin_this-guy-runs-the-biggest-startup-podcast-activity-7420149598481977345-2MRr?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADAEIjUB6-0Ki4Mn4tqi3dc1q7EgfDhzXsM,https://media.licdn.com/dms/image/v2/D4E22AQGMwhGTu7de_A/feedshare-shrink_160/B4EZvmqvcXHwAw-/0/1769101522968?e=1772668800&v=beta&t=ZpL_1TKCgosryVp1ASFqobh_WcbPyPlkTItGtlxgedk,True,,0.0,0,
+31,2026-01-15,Ruben Burdin,18,8,2,28,Teacher,Integration/Data,Origin Story/Narrative,Story → Lesson,"I met Ruben Burdin yesterday and we had a really nice chat about a lot of things...apps, the marketplace, partners, champions, the community, and ofc a little bit of AI.","I met Ruben Burdin yesterday and we had a really nice chat about a lot of things...apps, the marketplace, partners, champions, the community, and ofc a little bit of AI.
+
+He's CEO of Stacksync - Integration Cloud and while I haven't used it I could see the potential this brings to the ecosystem with managing data across tools at scale without dealing directly with API infrastructure (the two-way syncs are all managed through the UI).
+
+There are a lot of projects that come to mind where this would have been a better path forward, it's exciting to see something like this in the marketplace.
+
+If you're integrating data from other sources with HubSpot, it's worth checking out even if that's just to see what's possible when you connect data via API.",https://www.linkedin.com/posts/jnix284_i-met-ruben-burdin-yesterday-and-we-had-a-activity-7417564547009499137-G9w_?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAD30W0IB23cOrr5FXrEYBnmoxsaIyrAoPbY,,True,,0.0,0,
+32,2026-02-11,Carter Supple,26,2,0,28,Teacher,Integration/Data,Origin Story/Narrative,Story → Lesson,Another year at SuiteConnect. Same reason as last year,"Another year at SuiteConnect. Same reason as last year 
+We stay close to our customers. That's the main reason Stacksync exists.
+
+The product gets better every time we're in the same room as the people using it. Last year confirmed that. 
+
+The conversations at SuiteConnect were some of the most useful we had all year.
+
+Carter Supple, our sales engineer, is joining me this time. 
+
+First SuiteConnect for him. 
+
+If you're running NetSuite and thinking about how your data connects to the rest of your stack, come find us. 
+
+Happy to chat.
+
+PS: Photos from last year event, I hope to gather more this year.",https://www.linkedin.com/posts/ruben-burdin_another-year-at-suiteconnect-same-reason-activity-7427356107687415808-U2Le?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACduEjUB9RjUluiHlrWu9gJkcoqkDVIC-IE,https://media.licdn.com/dms/image/v2/D4D22AQEDYDOEcF4LSQ/feedshare-shrink_1280/B4DZxNFBVFJ8Ac-/0/1770819688403?e=1772668800&v=beta&t=Gky4-pjFx5-V4cS6lf7HWT01LtybW8c-PNED2JHxzNo,True,SuiteConnect_Ruben,0.0,4,/Users/TERABYTE10/Downloads/Stacksync/04_linkedin_content/Bangers/drafts/SuiteConnect_Ruben.md
+33,2026-02-09,UNKNOWN,16,9,0,25,Contrarian,Integration/Data,Contrarian/Challenge,Story → Lesson,Salesforce ended Heroku last week. The product is done.,"Salesforce ended Heroku last week. The product is done. 
+But I want to talk about what that team got right. (Because the industry moved on too fast)
+
+Developers should interact with CRM data using SQL. Not APIs.
+In 2014 that was radical. 
+
+Every tool said: learn the Salesforce API. Handle pagination. Manage OAuth. Build retry logic. Maintain it forever.
+
+Heroku Connect said: forget the API. Here's your Salesforce data in a Postgres table. Query with SQL. Write with SQL. Done.
+
+45 lines of API code became 4 lines of SQL. 
+Same data. Same Salesforce objects.
+
+That team proved the database is the right interface between developers and CRMs. Not another API wrapper. 
+
+Not another iPaaS. A Postgres table that syncs both directions.
+
+The product had real problems. Eventual consistency. Silent failures. $4K to $50K/month. Locked to Heroku Postgres only.
+
+I spent years building a company to fix those problems. I know them very well.
+
+But the core architecture was never wrong. 
+Was Genius.
+
+Honestly, Heroku's team deserved better.
+
+If you ran Heroku Connect in production, you understood the pattern before most. 
+
+You used SQL to talk to Salesforce while everyone else fought rate limits.
+
+You weren't on a legacy tool. You were on the right pattern. Wrong platform.
+
+The platform got its End of Sale. The pattern is just getting started.
+
+That's what we're building on at Stacksync. 
+On the foundation that team laid. 
+
+Long live Heroku. 
+-
+Been helping a few teams migrate off Heroku Connect lately. 
+If anyone's stuck figuring out alternatives, happy to help — no strings attached. We also do free migration if it ends up being a fit",https://www.linkedin.com/posts/ruben-burdin_salesforce-ended-heroku-last-week-the-product-activity-7426706660951265280-ykNm?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACduEjUB9RjUluiHlrWu9gJkcoqkDVIC-IE,https://media.licdn.com/dms/image/v2/D4D22AQHIocRP87SGGg/feedshare-shrink_160/B4DZxD2WkMKwAw-/0/1770664848069?e=1772668800&v=beta&t=JnPIz9cxtL-m-JMPEZGbhqgi0OYh1UNeH2bjjaQUp3I,True,Heroku_Connect_Ruben,0.0,2,/Users/TERABYTE10/Downloads/Stacksync/04_linkedin_content/Bangers/Heroku_Connect_Ruben.md
+34,2025-12-22,UNKNOWN,24,0,1,25,Teacher,Industry/SaaS,Data/Numbers,Story → Lesson,OpenAI just broke ground on an AI campus larger than the Pentagon.,"OpenAI just broke ground on an AI campus larger than the Pentagon.
+I had to re-read that twice.
+
+Project Stargate. 
+
+Rural Texas. $25 billion. Oracle and Vantage building it.
+
+The scale is absurd:
+
+1,200 acres = 2.5x Monaco 
+3.7 million sq ft = Pentagon-sized 
+1.4 gigawatts = one nuclear reactor 
+250kW per rack = 5x hotter than Google's data centers
+
+That last number matters. 
+
+At 250kW density, you can't air-cool anymore. 
+The physics don't work. Liquid cooling is the only option.
+
+San Francisco uses 900 megawatts at peak demand. 
+
+This one campus will pull 1,400.
+First building goes live H2 2026. 
+
+They're building a second one in Wisconsin
+
+Sam Altman isn't racing Anthropic anymore
+He's racing the Texas power grid",https://www.linkedin.com/posts/ruben-burdin_openai-just-broke-ground-on-an-ai-campus-activity-7408989131860652034-3CyM?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADe8BX4BelwWTQ01uSbSHmL-HZjOP4FB6iw,https://media.licdn.com/dms/image/v2/D4E22AQF0JUtRNY_YQg/feedshare-shrink_2048_1536/B4EZtIEWHzGYA0-/0/1766440660248?e=1772668800&v=beta&t=RjMUpkQnZwV8hSxULcQGMDMzgyCfCdXhsZFQgNFEPVM,True,,0.0,0,
+35,2025-12-30,UNKNOWN,21,2,1,24,Magician,Founder Story,Data/Numbers,Story → Lesson,Howie Liu left Salesforce to build Airtable. Reached $11.7 billion.,"Howie Liu left Salesforce to build Airtable. Reached $11.7 billion. 
+And then an investor asked him a simple question he couldn't answer: 
+
+""Can you describe how your top 25 customers use Airtable?""
+Liu couldn't do it.
+
+""Howie was like the architect of a house who never saw the finished house,"" the investor said.
+
+But this story starts years earlier.
+
+In 2011, Liu was at Salesforce when he noticed something: almost 90% of spreadsheets don't have formulas. 
+
+People weren't calculating, they were organizing.
+ 
+They were building databases without knowing it.
+
+He quit. 
+
+He reconnected with two Duke friends. 
+
+And instead of launching fast, they just read books for months. 
+Engelbart. Alan Kay. Old HyperCard documentation from the 80s.
+
+""It was almost like being on a sabbatical,"" his co-founder Andrew Ofstad said.
+
+Then they built in silence for three years.
+
+When they shipped, it spread through WeWork offices like a virus. 
+
+Ofstad walked into a Manhattan co-working space and saw his product on every screen.
+
+""Oh my God, this is actually a thing.""
+
+By 2021, Airtable hit $11.7 billion. And Liu made a mistake.
+
+""I let myself get caught in the hyper-competitive environment. We tended to recruit as many smart people as we can and just throw them into the business.""
+
+In 2022 and 2023, he cut 40% of the company.
+
+""It's a sickening feeling. I made the decisions that got us here.""
+
+His fix was to go backwards. 
+
+He became what he calls an ""IC CEO."" He codes every day. 
+He meets customers again.
+
+""Executives should be in the details and experts at the actual craft. Not just delegators and managers.""
+
+The insight that built Airtable in first place came from paying attention to how people actually work.
+
+And Losing that attention almost killed it.
+
+Liu didn't find a new playbook. He returned to the original one. 
+Pay attention, stay close and keep building.",https://www.linkedin.com/posts/ruben-burdin_howie-liu-left-salesforce-to-build-airtable-activity-7411626012242755584-33Pn?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADe8BX4BelwWTQ01uSbSHmL-HZjOP4FB6iw,https://media.licdn.com/dms/image/v2/D4E22AQFslUz2HcKLmA/feedshare-shrink_20/B4EZttik8EIQA0-/0/1767069341398?e=1772668800&v=beta&t=SfvQdidSmn10FUF5QX_vLf2q6gleY0AOGJ3tfsM5msY,True,,0.0,0,
+36,2026-01-23,UNKNOWN,19,3,1,23,Magician,Integration/Data,Origin Story/Narrative,Story → Lesson,The AI companies have a secret,"The AI companies have a secret
+OpenAI, Anthropic, Cursor, xAI. They all run analytics on the same database.
+
+ClickHouse.
+
+Now ClickHouse is launching managed Postgres. Powered by my friend's company, Ubicloud.
+
+The Ubicloud team?
+They built Postgres at Heroku, Citus Data, and Microsoft. 
+
+💡 Why does this matter if you're running Salesforce, NetSuite, or HubSpot?
+
+Postgres is becoming the center of the stack. Transactions and analytics in one place.
+
+But most companies have a problem. 
+
+Their Salesforce data is in Salesforce. 
+Their NetSuite data is in NetSuite. 
+Their HubSpot data is in HubSpot.
+
+Silos everywhere.
+
+ClickHouse can query billions of rows in milliseconds. But first, you need all that data in Postgres.
+
+That's what we built Stacksync to do. 
+Real-time sync between your CRM, ERP, and Postgres. Two-way. No API limits.
+
+Congrats to Umur, Ozgunm, Daniel and the Ubicloud team. 
+This is a big moment for the Postgres ecosystem.",https://www.linkedin.com/posts/ruben-burdin_the-ai-companies-have-a-secret-openai-anthropic-activity-7420512290787209216-HN4g?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADAEIjUB6-0Ki4Mn4tqi3dc1q7EgfDhzXsM,https://media.licdn.com/dms/image/v2/D4E22AQEfUYIUpGx_Yg/feedshare-shrink_2048_1536/B4EZvr0myBGwAI-/0/1769187995173?e=1772668800&v=beta&t=D4i_YOpO4PxvXBgbAoeYuDn11IOtnp0K-jZA5rf-u-A,True,,0.0,0,
+37,2026-02-02,UNKNOWN,18,3,1,22,Teacher,Integration/Data,Contrarian/Challenge,Story → Lesson,Data teams used to build NetSuite integrations by stitching tools together.,"Data teams used to build NetSuite integrations by stitching tools together.
+
+Fivetran for extraction.
+Custom SuiteScripts for write-back.
+An iPaaS for orchestration.
+Engineers for rate limit errors.
+Manual reconciliation for conflicts.
+
+The problem? 
+
+Even modern iPaaS platforms simulate bidirectional sync by running two separate one-way flows.
+
+Salesforce → NetSuite. NetSuite → Salesforce. No unified logic.
+
+That works—until both systems update the same record. 
+Then you get race conditions. Sync loops. Data overwrites.
+
+Teams are getting rid of this.
+
+Instead of an integration stack, they're using a sync layer.
+
+One platform that:
+
+Syncs NetSuite bidirectionally (true two-way, not dual one-way)
+Handles rate limits automatically
+Maps custom fields and objects
+Resolves conflicts when both systems update
+Triggers workflows on record changes
+
+No sync loops. No manual conflict resolution.
+Data flows both ways. In real-time.
+That's what we built.
+
+NetSuite sync = Stacksync
+
+-- 
+Btw, We're hosting a NetSuite event Feb 4th. San Francisco. 
+Link in comments.",https://www.linkedin.com/posts/ruben-burdin_data-teams-used-to-build-netsuite-integrations-activity-7424122016699576320-cPLe?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACdwRloBsvQMFO5Hq4nZQD88Dn5VCuqcvz4,https://media.licdn.com/dms/image/v2/D4D22AQH5IdmZGWrRCQ/feedshare-shrink_20/B4DZwfHoa0JkAQ-/0/1770048621005?e=1772668800&v=beta&t=XS0tqfXIyYLNX96NmQFLrx5Bx8tnJOxtTZ8IaUV94E4,True,,0.0,0,
+38,2026-02-13,UNKNOWN,20,0,2,22,Teacher,Integration/Data,Data/Numbers,Listicle/Breakdown,Every line on the left is a point of failure.,"Every line on the left is a point of failure.
+
+
+Every line is a maintenance ticket. A rate limit. A 3am Slack alert.
+
+Mid-market companies are running 10-15 integrations across their stack:
+- Salesforce
+- NetSuite
+- Shopify
+- Snowflake 
+
+And stitching them together with 3-4 different tools that were never designed to talk to each other.
+
+The result? 
+
+Your data engineers spend 60% of their time babysitting pipelines instead of building product.
+
+The Stacksync approach: one sync layer. Bidirectional. Real-time. Every system reads and writes through a single source of truth.
+
+And one more thing:Enterprise level AI its comming to Stacksync too. :)",https://www.linkedin.com/posts/ruben-burdin_every-line-on-the-left-is-a-point-of-failure-activity-7427883649510981632-qhro?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACduEjUB9RjUluiHlrWu9gJkcoqkDVIC-IE,https://media.licdn.com/dms/image/v2/D4D22AQE8MGt4XQjdTg/feedshare-shrink_20/B4DZxUk0etJkAM-/0/1770945464621?e=1772668800&v=beta&t=aSvJnQYMRloyPhgXYlNZIDaKGEW2oE64eqY_vay-NZw,True,Netsuite_Ruben,0.0,2,/Users/TERABYTE10/Downloads/Stacksync/04_linkedin_content/Bangers/drafts/Netsuite_Ruben.md
+39,2026-02-12,UNKNOWN,19,3,0,22,Teacher,Integration/Data,Data/Numbers,Statement → Commentary,February 6: Salesforce ends Heroku,"February 6: Salesforce ends Heroku
+February 8: Salesforce airs a Super Bowl ad with MrBeast and a $1 million puzzle.
+
+Heroku Connect was a very good way to sync a Postgres database with Salesforce. 
+
+Thousands of companies depend on it. 
+But no replacement announced.
+
+Tens of millions on a Super Bowl puzzle 
+vs 
+Zero investment in keeping a core developer tool alive.
+
+What does that tell you about where Salesforce is headed?",https://www.linkedin.com/posts/ruben-burdin_february-6-salesforce-ends-heroku-february-activity-7427506879339253760-D5l2?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACduEjUB9RjUluiHlrWu9gJkcoqkDVIC-IE,https://media.licdn.com/dms/image/v2/D4D22AQGgBufBRE5P4A/feedshare-shrink_2048_1536/B4DZxPOJXmJUAk-/0/1770855634917?e=1772668800&v=beta&t=Odeo2OjSO8_10cc0dn3LEn9bFF9m6aqaLfzPJM4vz_k,True,MrBeast_Ruben,0.254,3,/Users/TERABYTE10/Downloads/Stacksync/04_linkedin_content/Bangers/drafts/MrBeast_Ruben.md
+40,2025-12-23,UNKNOWN,18,1,1,20,Teacher,Integration/Data,Origin Story/Narrative,Story → Lesson,Why is HubSpot our most popular connector?,"Why is HubSpot our most popular connector? 
+
+
+We asked ourselves this a few months ago.
+We had some theories but did not exactly know why.
+
+So we did something simple:
+
+I went into the HubSpot Community and started answering questions.
+Not promoting and not selling, just helping.
+
+One question became five, then fifty then five hundred.
+
+2 weeks ago I got a badge notification: Problem Solver (500)
+
+Only 22 people in the world have it. But the badge wasn't the point.
+
+Every answer showed us something we'd missed.
+
+Frustrations sometimes we miss in customer calls.
+
+I went in to learn. 
+
+We came out understanding our customers better than ever.
+
+Go where they're already struggling and help. 
+
+Thanks: HubSpot Community :)",https://www.linkedin.com/posts/ruben-burdin_why-is-hubspot-our-most-popular-connector-activity-7409305119093207040-uOta?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADe8BX4BelwWTQ01uSbSHmL-HZjOP4FB6iw,https://media.licdn.com/dms/image/v2/D4E22AQERtkRMio7rQg/feedshare-shrink_2048_1536/B4EZtMjuwCIQA0-/0/1766515997467?e=1772668800&v=beta&t=0lvaYM_uNbPuKN9VsijB73gYIVweijgGGvVzaMtJg-w,True,,0.0,0,
+41,2026-01-07,UNKNOWN,16,3,0,19,Teacher,Integration/Data,Personal Experience,Story → Lesson,Here's a math problem most CTOs face:,"Here's a math problem most CTOs face:
+
+
+Engineers required: 2-3
+Integration project estimate: 6 months
+Opportunity cost: Everything else those engineers could build
+
+Now multiply that by every integration you need.
+
+We've seen this calculation dozens of times over two years. The answer is always the same: too expensive, too slow, too much risk.
+
+One customer brought us their 6-month plan. 10 days later, they were in production. Fully working. Two-way sync. No API maintenance.
+
+The time savings compound. The engineers go back to product work. The integration doesn't break every time the vendor updates their API.
+
+That's been the pattern. Not a one-time result. The consistent outcome for companies that stopped trying to build what we already built.",https://www.linkedin.com/posts/ruben-burdin_heres-a-math-problem-most-ctos-face-engineers-activity-7414703609227194368-Tomb?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAF42GoYBkrrTOUskGWZfkibuhBgBETymwaM,https://media.licdn.com/dms/image/v2/D4E22AQFLzK6bqtyTIA/feedshare-shrink_160/B4EZuZRo99KkAc-/0/1767803097618?e=1772668800&v=beta&t=0JM_-QPnP6xOvBc-bLDpTq8qOHkps4H1HuYplCwR1WI,True,,0.0,0,
+42,2025-12-19,UNKNOWN,16,3,0,19,Experimenter,Founder Story,Data/Numbers,Story → Lesson,Anton Osika founder of Lovable saw this pattern for years:,"Anton Osika founder of Lovable saw this pattern for years:
+
+99% of the world's best ideas are trapped
+Trapped in the heads of people who can't code:
+
+The entrepreneur who sketched an app on a napkin but couldn't afford a developer. 
+
+The teacher who imagined a tool for her students but didn't know where to start. 
+
+The founder who burned through savings paying agencies for something that never worked.
+
+As CTO at Depict (YC, $20M raised, billions of product recommendations served), he kept meeting brilliant people who were stuck. 
+
+Waiting for engineers. Waiting for funding. Waiting.
+
+Then ChatGPT-3 came out. 
+
+And he started experimenting on weekends.
+
+One weekend turned into a side project called GPT Engineer. 
+
+A tool that could turn plain English into working code. He posted a demo video on Twitter and went to sleep.
+
+He woke up at 4:47am to a phone that wouldn't stop buzzing.
+
+GitHub stars. Thousands. Then tens of thousands. 
+
+The fastest-growing code repository in GitHub history.
+
+But it wasn't the numbers that got him.
+
+It was one message from somebody from Texas: ""I just built my first app ever. I'm crying.""
+
+He called his former colleague Fabian Hedin at 6am. 
+
+By 8am, after a two-hour walk through Stockholm at sunrise, they'd decided to quit their jobs and build a company.
+
+Y Combinator wanted them but they said NO.
+
+They didn't want the fundraising circus. They wanted to build. From Stockholm. Their way.
+
+Then they failed twice:
+
+First launch, April 2024. ""Good, but not great."" Users came, hit walls, left.
+Second launch, August 2024. Better tech. Same result.
+Third launch, November 2024. Two days before, they changed the name from 
+
+""GPT Engineer"" to ""Lovable.""
+
+This time it worked.
+
+$4M ARR in 4 weeks. 
+$10M ARR in 2 months. 
+$100M ARR in 8 months.
+
+At their peak: 25,000 new apps created every day.
+
+And one stat that still doesn't sound real:
+
+In one month, Lovable-built websites were 10% of all new websites on the entire internet.
+
+Anton calls Lovable ""the last piece of software.""
+It means: software that lets everyone create software.
+
+Not the end of building.
+
+The beginning of everyone building.",https://www.linkedin.com/posts/ruben-burdin_anton-osika-founder-of-lovable-saw-this-pattern-activity-7407589772279463936-jNN7?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADe8BX4BelwWTQ01uSbSHmL-HZjOP4FB6iw,https://media.licdn.com/dms/image/v2/D4E22AQHsspcCm1HM6A/feedshare-shrink_480/B4EZs0Lo5TKUAk-/0/1766107026555?e=1772668800&v=beta&t=nGrOTG2WEFuFrheEDI25wbBsOe-bj01ABFCpZfhf7k8,True,,0.0,0,
+43,2026-02-03,UNKNOWN,13,3,2,18,Experimenter,Integration/Data,Data/Numbers,Story → Lesson,I saw this feature request in the HubSpot community.,"I saw this feature request in the HubSpot community. 
+Here's why this matters more now than ever:
+
+If you build with Lovable or Bolt. Backend is Supabase.
+Now you need those users in HubSpot.
+
+Script? Breaks on schema changes.
+Zapier? One-way only.
+Engineer? Now they maintain sync instead of building.
+
+This is happening everywhere.
+
+Supabase now has 4.5 million developers. 
+
+30% are AI builders using Lovable, Bolt v0. 
+Lovable alone hit $120M ARR. 
+
+Every one of those apps needs CRM sync
+
+We built Stacksync for exactly this.
+Supabase ↔ HubSpot. Real-time. Two-way. 
+No maintenance.",https://www.linkedin.com/posts/ruben-burdin_i-saw-this-feature-request-in-the-hubspot-activity-7424580361818669056-mF1O?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACdwRloBsvQMFO5Hq4nZQD88Dn5VCuqcvz4,https://media.licdn.com/dms/image/v2/D4D22AQFQD9zTmAXDhQ/feedshare-shrink_2048_1536/B4DZwlof4AJIAk-/0/1770157899513?e=1772668800&v=beta&t=qS4rp0-MFi-_QZBnz8GW9XZvPhAPgQ4fLCod3CTio80,True,,0.0,0,
+44,2025-12-16,UNKNOWN,17,1,0,18,Teacher,Founder Story,Contrarian/Challenge,Story → Lesson,One of the greatest athletes of all time backed 5 guys in an Estonian garage over every CRM in Silicon Valley.,"One of the greatest athletes of all time backed 5 guys in an Estonian garage over every CRM in Silicon Valley.
+
+But the story didn’t start with Shaq: 
+
+In 2010, Timo Rein had just spent €50,000 on enterprise CRM for his sales training company.
+
+His team ignored it. 
+They used post-it notes on the wall instead.
+He called them tombstones for wasted money.
+
+It was his third failed CRM.
+
+At home, his wife was pregnant, exhausted, and under constant stress. Timo feared she’d miscarry, but he couldn’t let the problem go.
+
+So he and four partners started building nights and weekends in an Estonian summer house.
+
+One of them, Urmas Purde, was fighting a brain tumor.
+Three brain surgeries.
+A stroke.
+
+Learning to walk and speak again, three times.
+While Urmas fought for his life, the company quietly kept moving forward.
+
+By 2011, they had customers in 24 countries.
+
+Y Combinator passed. “Eastern European CRM? No.”
+
+AngelPad said yes.
+
+Then a call came, from Vivek Ranadivé (Former founder and CEO of TIBCO Software)
+
+He invested. With Shaq.
+
+By 2020, that summer-house startup became a $1.5B unicorn: Pipedrive.
+But Urmas never saw it.
+He died in 2022 at 46.
+
+The CEO later wrote:
+ “Without his ideas, courage, and dedication, we would not be here today""",https://www.linkedin.com/posts/ruben-burdin_one-of-the-greatest-athletes-of-all-time-activity-7406525137501499392-WOGs?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADe8BX4BelwWTQ01uSbSHmL-HZjOP4FB6iw,https://media.licdn.com/dms/image/v2/D4E22AQHCyfDwfcqgjQ/feedshare-shrink_2048_1536/B4EZslDXNgKgAw-/0/1765853198234?e=1772668800&v=beta&t=5LAMlA-eiCTmtnPPtZKeXrpDHigMkloA1eQ3FN1wC7E,True,,0.0,0,
+45,2026-01-15,UNKNOWN,17,0,0,17,Magician,Integration/Data,Contrarian/Challenge,Listicle/Breakdown,We delivered a 6-month integration in 10 days.,"We delivered a 6-month integration in 10 days.
+But the 6-month estimate wasn't wrong.
+A customer came to us with a real project:
+
+ → Salesforce to their database
+ → Bidirectional
+ → Real-time
+
+ They'd budgeted six months. Not a guess—based on doing this before.
+
+ Building custom CRM integration from scratch genuinely takes that long:
+
+ → Field-level sync
+ → Conflict resolution
+ → Rate limit management
+ → Association handling
+
+ Each piece adds weeks. The complexity is real.
+
+ So how did we do it in 10 days?
+
+ We didn't build it. They configured it.
+
+ The infrastructure already exists. The complexity is already handled.
+
+ Engineering time is the most expensive resource companies have.
+
+ A team that would spend six months building can spend ten days configuring.
+
+ Then get back to work that actually matters.",https://www.linkedin.com/posts/ruben-burdin_we-delivered-a-6-month-integration-in-10-activity-7417604732258709504-PzKQ?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAD30W0IB23cOrr5FXrEYBnmoxsaIyrAoPbY,,True,,0.0,0,
+46,2026-01-27,UNKNOWN,10,5,0,15,Teacher,Integration/Data,Origin Story/Narrative,Story → Lesson,Fivetran now charges you to delete data.,"Fivetran now charges you to delete data.
+
+
+Their 2026 pricing update: deletes count as Monthly Active Rows. (Same as inserts and updates)
+
+Clean up 100,000 stale records? 
+That's 100,000 rows on your bill.
+
+To be fair: each row only counts once per month. 
+Stale data sitting untouched costs nothing.
+
+But that's the weird part.
+Procrastination is free. Action has a price.
+
+Turn on History Mode and it gets worse. Repeated updates start counting separately.
+
+Data engineers learned that clean data beats big data
+This pricing model puts a toll booth on good hygiene
+
+We built Stacksync for operational use cases where data changes constantly
+
+Our pricing: synced rows(that's the only metric)
+Clean your data without checking your budget first",https://www.linkedin.com/posts/ruben-burdin_fivetran-now-charges-you-to-delete-data-activity-7421944748132761601-vWMu?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADAEIjUB6-0Ki4Mn4tqi3dc1q7EgfDhzXsM,https://media.licdn.com/dms/image/v2/D4D22AQFKA1YMDRF7pA/feedshare-shrink_480/B4DZwALav2G4As-/0/1769529519366?e=1772668800&v=beta&t=bCROycNaL_CF68Kq6sCsXoCzElOWvKd2xG7fMI520PU,True,,0.0,0,
+47,2025-12-25,UNKNOWN,12,0,0,12,Contrarian,Industry/SaaS,Contrarian/Challenge,Story → Lesson,How does a $9 billion company order the wrong shoes for an entire quarter?,"How does a $9 billion company order the wrong shoes for an entire quarter?
+Two words: batch sync.
+
+SAP for ERP
+i2 Technologies for demand planning
+Siebel for CRM
+
+And 27 legacy ordering systems across the globe
+
+In 2000, Nike tried to connect all of them at once. 
+$400M budget on a two-year timeline.
+
+By February 2001, they'd lost $100M in sales.
+
+The i2 demand planner was supposed to predict what customers would buy
+The supply chain module was supposed to tell factories what to build
+
+SAP was supposed to tie it all together.
+
+None of them could sync properly.
+The demand planner stored data in one format.
+
+The supply chain planner used another.
+Engineers had to manually export and reimport data between systems every week.
+
+Each entry took up to a minute to record. The system crashed constantly. Orders got deleted, duplicated, or just disappeared.
+
+Factories spent months building Air Garnett sneakers nobody wanted.
+
+They never got the order for Air Jordans that customers were actually asking for.
+
+By the time anyone caught the mismatch, Nike was air-freighting shoes at $4-8 per pair instead of $0.75 by sea.
+
+Stock dropped 20% in a single day.
+
+Phil Knight's comment on the earnings call: 
+
+""This is what you get for $400 million, huh?""
+
+Nike kept going. The fix took five years. 
+Mandatory 180-hour training. 
+
+Phased rollouts instead of big bang. Moving demand planning into SAP.
+
+They got there. 
+
+But not before $100 million went up in smoke because two systems couldn't share data in real time.
+
+Do you know any other case like this?",https://www.linkedin.com/posts/ruben-burdin_how-does-a-9-billion-company-order-the-wrong-activity-7409745320231735296-siMr?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADe8BX4BelwWTQ01uSbSHmL-HZjOP4FB6iw,https://media.licdn.com/dms/image/v2/D4E22AQEIVE1pfnJ40w/feedshare-shrink_800/B4EZtS0FfuJQAg-/0/1766620948812?e=1772668800&v=beta&t=1mgMerLctEkWWGJdITVHc2B-4nxRshuFHEN6SVAeMKA,True,,0.0,0,
+48,2026-02-06,UNKNOWN,11,0,1,12,Teacher,Integration/Data,Contrarian/Challenge,Story → Lesson,One of our most popular connectors: Postgres + HubSpot.,"One of our most popular connectors: Postgres + HubSpot. 
+Not because we pushed it. Because it solves the problem everyone hits👇
+
+The problem:
+Data teams want HubSpot data in their warehouse. 
+RevOps wants warehouse data in HubSpot. 
+Both want it now, not tomorrow morning.
+
+The old way: 
+Fivetran pulls data one direction. 
+Hightouch pushes the other. 
+Custom scripts handle conflicts. 
+
+Three tools. Monthly bill. Constant maintenance.
+
+The Stacksync way: One connection. Both directions. Real-time.
+
+No batches. We handle rate limits so you don't have to. 
+No 6-month integration project.
+
+We built two-way sync because one-way sync was never enough.",https://www.linkedin.com/posts/ruben-burdin_one-of-our-most-popular-connectors-postgres-activity-7425649973926686720-kXOh?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACduEjUB9RjUluiHlrWu9gJkcoqkDVIC-IE,https://media.licdn.com/dms/image/v2/D4D22AQHD9I0Pl87Blw/feedshare-shrink_20/B4DZw01SiIJcAQ-/0/1770412914536?e=1772668800&v=beta&t=2MLCHHS6SOXMo-T8j3_RLq0-aQZd_T4jJWBkBLPxPSU,True,,0.0,0,
+49,2026-02-12,UNKNOWN,8,0,0,8,Teacher,Integration/Data,Insight/Observation,Setup → Punchline,For my fellow Netsuiters,For my fellow Netsuiters,https://www.linkedin.com/posts/ruben-burdin_if-your-team-syncs-netsuite-data-to-anything-activity-7427521113238237184-4soD?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACduEjUB9RjUluiHlrWu9gJkcoqkDVIC-IE,,True,,0.0,0,
+50,2026-01-28,UNKNOWN,5,0,0,5,Fortune Teller,Integration/Data,Origin Story/Narrative,Setup → Punchline,"Calling all NetSuiters! We are bringing the ecosystem together for an exclusive evening of high-level insights, networking, and world-class coffee.","Calling all NetSuiters! We are bringing the ecosystem together for an exclusive evening of high-level insights, networking, and world-class coffee.",https://www.linkedin.com/posts/ruben-burdin_the-netsuite-signal-is-lit-over-san-francisco-activity-7422335905857802240-0xVE?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADAEIjUB6-0Ki4Mn4tqi3dc1q7EgfDhzXsM,,True,,0.0,0,
+51,2026-02-03,UNKNOWN,0,0,0,0,Teacher,General,Insight/Observation,Setup → Punchline,See you tomorrow!,See you tomorrow!,https://www.linkedin.com/posts/ruben-burdin_netsuite-edi-ai-activity-7424569312905990144-SWyM?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACdwRloBsvQMFO5Hq4nZQD88Dn5VCuqcvz4,,True,,0.0,0,

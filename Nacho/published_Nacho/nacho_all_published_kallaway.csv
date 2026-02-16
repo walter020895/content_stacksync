@@ -1,0 +1,1128 @@
+rank,date,author,likes,comments,shares,total_engagement,hook_type,topic,angle,structure,first_line,full_text,url,image_url,is_original_nacho,matched_draft,draft_path
+1,2026-01-23,UNKNOWN,580,22,15,617,Teacher,Industry/SaaS,Data/Numbers,Story → Lesson,Salesforce sold to salespeople. Not C-Level Executives,"Salesforce sold to salespeople. Not C-Level Executives
+Everyone else in 1999 was doing top-down enterprise sale: 
+
+Six-month procurement cycles.
+IT approval. 
+Legal. 
+Security.
+
+Salesforce went around all of it.
+
+They targeted small sales teams. 
+Under 30 users. 
+Companies where a manager could sign up with a credit card.
+
+Get the users addicted first. Let them pressure their managers to pay.
+
+By the time IT heard about it, the sales team was already using it every day.
+
+This was considered very weird.
+Enterprise software was supposed to be sold to executives.
+
+But Salesforce understood something: users have more leverage than buyers think.
+
+If your product is sticky enough, the users become your sales team.
+
+Siebel was selling $500K licenses to CIOs. 
+Salesforce was selling $50/month to sales reps.
+
+Siebel is dead. Salesforce is a $250B company.
+
+▶️ Sell to the person who uses it. Not the person who approves it.",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_salesforce-sold-to-salespeople-not-c-level-activity-7420561109952339968-POob?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAB-umQMBcjYUWG9l1_xTyejpe9tz5vMPbzA,https://media.licdn.com/dms/image/v2/D4D22AQHeHAADinTntQ/feedshare-shrink_2048_1536/B4DZvshAXwKQAo-/0/1769199634446?e=1772668800&v=beta&t=Kt5n44pBWELFXozzRRj2tUep2LlRsFHEcrrVOZ0GjFg,True,,
+2,2026-01-22,UNKNOWN,89,21,4,114,Contrarian,GTM/Sales,Data/Numbers,Story → Lesson,Let's make SDRs be SDRs again.,"Let's make SDRs be SDRs again.
+
+Your SDR should be booking meetings. Not managing sequences.
+
+Full stop.
+
+The SDR is not a marketing ops person. Not a data hygienist. 
+
+The SDR books meetings.
+
+Is the other stuff important? Sure. You need good data. You need sequences that work. You need tools.
+
+But to be honest, the basic principle is simple: talk to the people that need what you're doing. That's it.
+
+If your SDR spends 80% of their time configuring tools and 20% talking to prospects, you don't have an SDR.
+
+You have an admin with a quota.
+
+We always try to go the extra mile. If we have to send 200 emails per hour, we'll do 300. But those emails need to lead to conversations.
+
+Not activities. Not ""touches."" Conversations.
+
+The real constraint isn't headcount. It's time spent on things that don't create pipeline.
+
+You can push your body and your mind a lot. You can build the impossible. Every day.
+
+But only if you're doing the right work.
+
+PS. I know SDRs that wake up and go straight to the phone. 
+Boom. Boom. Boom. Ten Hours straight if needed.
+
+Pick up the phone. That's it.",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_lets-make-sdrs-be-sdrs-again-your-sdr-activity-7419918994523967488-i-Fx?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAB-umQMBcjYUWG9l1_xTyejpe9tz5vMPbzA,https://media.licdn.com/dms/image/v2/D4D22AQFD6IGnas8q7Q/feedshare-shrink_800/B4DZvjZAeVKEAk-/0/1769046542541?e=1772668800&v=beta&t=-GFP5KZJVZvflMRBHWvLWZAcH6YIaz6IdcRHNNNF6Nw,True,,
+3,2026-01-27,UNKNOWN,96,14,2,112,Teacher,GTM/Sales,Data/Numbers,Listicle/Breakdown,NetSuite didn't outbuild SAP. They out-priced them.,"NetSuite didn't outbuild SAP. They out-priced them.
+
+
+SAP's model in 1999:
+→ ~$500K upfront license
+→ 18-month implementation
+→ 22% annual maintenance
+→ $1M+ total cost year one
+
+NetSuite's model:
+→ No upfront license 
+→ Monthly subscription 
+→ Deploy in weeks, not years 
+→ Cancel anytime
+
+Same category. Completely different economics.
+
+SAP couldn't respond. Their entire business was built on services revenue. Cutting implementation fees meant cutting their own throat.
+
+NetSuite didn't win on features.
+
+They won on structure.
+
+By 2007, they IPO'd at $1.7B.
+By 2016, Oracle paid $9.3B to acquire them.
+
+To be honest, this is the part most founders miss. 
+
+Your pricing model isn't a finance decision. It's a competitive weapon.
+
+That's it.",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_netsuite-didnt-outbuild-sap-they-out-priced-activity-7421721405207085056-yzE7?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADakrXoBrim-1nfN8DHgk3OR5K8eppodpWY,https://media.licdn.com/dms/image/v2/D4D22AQETwfH8DjYCOA/feedshare-shrink_1280/B4DZv9ASnRI8Ak-/0/1769476271049?e=1772668800&v=beta&t=P3KQdymee4tPeDh9o617r4UpZbKLRGyoNxW7I117v6k,True,netsuite_vs_sap,/Users/TERABYTE10/Downloads/Stacksync/04_linkedin_content/Stacksync Universe/Nacho/netsuite_vs_sap/
+4,2025-11-07,Charly Wargnier,36,12,0,48,Teacher,AI/Tech,Origin Story/Narrative,Listicle/Breakdown,A trillion-dollar opportunity is being lost because of LLM context.,"A trillion-dollar opportunity is being lost because of LLM context.
+
+
+LLMs without proper context are useless.
+
+Product and software teams are designed for context and collaboration.
+Even before AI.
+
+Git for versioning.  
+Commented functions.  
+Declarative variables.  
+Declarative ticketing.  
+Documentation.
+
+More context. Better data. Better AI. 
+That is why they are getting the most out of new models.  
+
+Business teams on the other side. 
+More tools, more silos.  
+Unstructured data everywhere.  
+
+To improve this, the data has to be connected in a structured way. 
+They need a LLM navigation-friendly approach.
+
+My architecture v0.1:
+
+1/ Database synced with your structured data (CRM, ERP, Customer Service). My go-to will be Postgres because of its extensibility.  
+
+2/ Semi-structured data in XML or Markdown. Dump customer interviews, whitepapers, Slack context, raw learnings, emails, etc. Sweet for LLMs. (Or test TOON, a new approach Charly mentioned. Excited to try it soon)  
+
+3. Navigation-ready. I’m using a kind of Zettelkasten system. Two-way synced tags between files that link them together.  
+
+4. Declarative variables and files. Use snake_case for everything.  
+
+5. Git-versioned, so everyone in the company can pull the context in real time and collaborate on it.  
+
+6. Claude Code, and Cursor as the AI agentic layer.
+
+Pro tip: Obsidian to modify your Markdown files. It makes visualization easier.
+
+I’m already experimenting with this. Great results so far.  
+I’ll keep you posted.
+
+Got big inspo from the triple Js:
+
+Jordan
+Joe
+Jacob
+
+This is the future for business teams.",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_a-trillion-dollar-opportunity-is-being-lost-activity-7392365699488194560-U0WJ?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADSz6EcBr5PdxSaAY4OnRTn1E4v58Es3gfc,https://media.licdn.com/dms/image/v2/D4E22AQF4EWeA7uZDTQ/feedshare-shrink_480/B4EZpb1bleGYAc-/0/1762477325188?e=1772668800&v=beta&t=4sLiL7OYYM1mj3gdp2Vw5EN20T_ApXUKT2ZBoTCvkEI,True,,
+5,2026-01-01,UNKNOWN,38,2,1,41,Experimenter,Integration/Data,Personal Experience,Story → Lesson,This was my first time in Vegas.,"This was my first time in Vegas. 
+Not for the shows 
+Not for the tables
+
+For this: setting up a private dinner, handing out flyers at Netsuite conference, explaining what we do at Stacksync to anyone who'd listen
+
+Most of my year looked like this uncomfortable, new and exhausting
+
+But when you're building something real, the work doesn't feel like sacrifice
+It actually feels good
+
+That's the whole game: Survive, then win.
+
+To everyone who bet on us this year: thank you. 
+Now let's go.",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_this-was-my-first-time-in-vegas-not-for-activity-7412281411136540672-l4TR?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADIsm-sBDLgBfGf9vFksAqOJsqyCiIPXOkw,https://media.licdn.com/dms/image/v2/D4D22AQFsks2BZztofA/feedshare-shrink_20/B4DZt2loYUIAA0-/0/1767221143859?e=1772668800&v=beta&t=GVXxY9V5__XE6Di5g9L6SVbBetw36nHVzQSMFLGP6rQ,True,,
+6,2025-11-12,UNKNOWN,38,2,0,40,Fortune Teller,Event/Community,Origin Story/Narrative,Story → Lesson,Conferences will have a huge come-back.,"Conferences will have a huge come-back. 
+
+
+I went to two conferences in the last quarter. 
+Supabase Select in YC HQs and SuiteWorld in Las Vegas.
+
+GREAT value. 
+I met super smart and kind people.
+
+The cheatsheet to succeed in conferences is that you have to be human. 
+To be more human you have to do less AI work.
+
+So you have to be prepared beforehand.
+
+This is the GTM approach for it.
+
+Pre-event:
+
+1/ Custom landing page for the event. 
+
+2/ Map and register to all the events of the conference beforehand. All the juicy events are the unofficial ones. This is my approach:
+	a/ Do a deep research on ChatGPT, Claude, Gemini and Perplexity
+	b/ Merge them together
+
+3/ Scrape the people that are attending the event and send messages to people that you want to talk to. You can do this on the app of the event + capturing signals like mentions on LinkedIn.
+
+During the event:
+
+This is the most important part. 
+You have to be in the moment. 
+Be genuine and thoughtful. 
+
+For this you have to get rid of all the possible details missed.
+
+So we have internal tooling to scan the badge. 
+Just a photo and it is enriched in your CRM. 
+The workflow is very simple:
+
+1/ Tally form with Photo field and Notes.
+2/ Photo of the badge, then OCR all the details.
+3/ Webhook on orchestration tool we use Stacksync (you can use Clay too)
+4/ Enrichment of all the relevant data
+5/ Update the CRM and create a task
+
+Post-event:
+Follow up as normal with all the context
+   
+For us, it was HUGE. 
+
+I am bullish on conferences and in-person events.",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_conferences-will-have-a-huge-come-back-activity-7394485649413816320-ISZZ?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADSz6EcBr5PdxSaAY4OnRTn1E4v58Es3gfc,https://media.licdn.com/dms/image/v2/D4E22AQHA1S46OMdDuQ/feedshare-shrink_1280/B4EZp59gp0GoAs-/0/1762982760675?e=1772668800&v=beta&t=ub0B7pgHD_B7xaEg4PYbndRNDWQ3X7pvbmDLCDozang,True,,
+7,2025-12-11,Ruben Burdin,31,4,1,36,Teacher,Founder Story,Personal Experience,Listicle/Breakdown,"This is me at 5, amazed by my dad's computer","This is me at 5, amazed by my dad's computer
+At 15, I listened to YC founders like they were gods.
+
+I dropped out of mechatronics to chase that feeling. 
+It took 3 years to find it again.
+
+Today, I build alongside the smartest people who remind me why I fell in love with tech and then with startups.
+
+One conversation with Ruben and Alexis made me realize how Stacksync worked:
+
+→ Ethical capitalism
+→ Humble ambition
+→ Building without ego
+→ Values grounded in faith
+
+A team that didn’t want to win a war. They wanted to multiply the bread for everyone.
+
+I thought I was ready. I wasn't
+
+The pace at Stacksync. The precision.
+The way every person moved with both boldness and integrity.
+I spent months as the slowest mind in every room.
+
+It broke me open.
+And rebuilt me better.
+
+That's what kept me.
+
+One year later, we are building the standard of data integration from the ground up. 
+
+I walked in as a GTM engineer.
+Today I'm Head of GTM.
+
+That kid who used to play with computers and listen to podcasts?
+He finally found his fire and his people.
+
+One year down. A lifetime of gratitude.",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_this-is-me-at-5-amazed-by-my-dads-computer-activity-7404686584752865282-RJj5?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADSz6EcBr5PdxSaAY4OnRTn1E4v58Es3gfc,https://media.licdn.com/dms/image/v2/D4D22AQEePkEPa3CBQA/feedshare-shrink_1280/B4DZsK3k_2KsA0-/0/1765413902851?e=1772668800&v=beta&t=svSjpH4VwUrrbREtoqFH7hswhYoJ3_jwJAUKb1OBtlE,True,,
+8,2026-02-06,UNKNOWN,32,3,0,35,Teacher,Integration/Data,Origin Story/Narrative,Story → Lesson,Heroku Enterprise is dead.,"Heroku Enterprise is dead. 
+Salesforce held the bat.
+
+""Sustaining engineering mode."" 
+
+Translation: no roadmap, no features, just duct tape until you leave.
+
+They cut 4,000 support jobs this year. Your P1 ticket is about to age like milk.
+
+Trying to hire? ""We run on Heroku"" now hits like ""we're like a family here.""
+
+The question isn't whether to migrate. 
+It's whether you do it on your schedule or at 2am.
+
+At Stacksync, we connect to any Postgres. Heroku, Railway, Render, self-hosted. 
+
+Your data layer shouldn't depend on one vendor's AI pivot.",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_heroku-enterprise-is-dead-salesforce-held-activity-7425678879882772481-Po67?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAE2PLXsBuFiD1nAi3PAY2nbRbRYGC5K4OKI,https://media.licdn.com/dms/image/v2/D4D22AQEk5dm6jVvuCQ/feedshare-shrink_160/B4DZw1Pl85JEAw-/0/1770419806240?e=1772668800&v=beta&t=i0hVXcUCmo4bqfaix9nxbE_-DVHiL0RfNkqTa50oM60,True,,
+9,2026-02-02,UNKNOWN,29,2,0,31,Teacher,GTM/Sales,Origin Story/Narrative,Listicle/Breakdown,"""GTM"" is the title.","""GTM"" is the title.
+
+The reality is messier.
+
+SEO, AEO, Cold emails, Sales calls, Implementation.
+RevOps, LinkedIn content, Events.
+
+Same week. Sometimes same day.
+
+What does a typical week looks like?
+
+→ Hiring
+→ Building and launching campaigns
+→ 1M+ impressions on content across our team
+→ Building internal tooling (Stacksync - Integration Cloud + Vibe Code)
+→ AEO pages outranking companies with 100-person marketing teams
+
+
+Not bragging. Just showing what ""GTM at a startup"" actually means.
+And what I love to do.
+
+Content bleeds into sales.
+Sales bleeds into ops.
+Ops bleeds into implementation.
+Implementation bleeds into content.
+
+There's no ""that's not my job.""
+The playbook doesn't exist yet.
+
+You write it while you run it.",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_gtm-is-the-title-the-reality-is-messier-activity-7424141280764440576-jEPx?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADakrXoBrim-1nfN8DHgk3OR5K8eppodpWY,https://media.licdn.com/dms/image/v2/D4D22AQHqsJRdSU2HCg/feedshare-shrink_20/B4DZwfZJ6ZHYAU-/0/1770053214270?e=1772668800&v=beta&t=sljv0nbdkLh4S6UcfK0fGzGgFCnSifghrzIvyHyRS_I,True,nacho_gtm_reality_post,/Users/TERABYTE10/Downloads/Stacksync/04_linkedin_content/Stacksync Universe/Nacho/nacho_gtm_reality_post.md
+10,2025-12-31,UNKNOWN,27,1,0,28,Magician,AI/Tech,Contrarian/Challenge,Story → Lesson,Meta just paid $2.3B for Manus,"Meta just paid $2.3B for Manus
+Everyone's talking about the price
+Wrong lens.
+
+$2.3B is peanuts for Meta. 
+
+When you're that big, you compound money over money. 
+Loans are free
+Capital is infinite.
+
+The real signal: they bought an AI that does things.
+Not generates text.
+Not summarizes.
+Takes actions in the real world.
+
+This is where AI is going. 
+Out of the chatbox. 
+Into systems that book, purchase, negotiate, execute.
+
+Manus hit $100M+ ARR eight months after launch. 
+78 people. Millions of users. 147 trillion tokens processed. 
+
+They shipped something users pay for.
+And the deal closed in 10 days. 
+Now they're inside Meta's infra ( Facebook, Instagram, WhatsApp)
+
+The AGI race isn't about who has the smartest model.
+It's about who builds the most useful agent.
+
+OpenAI and Google knows this. 
+Meta just showed they're serious about it.
+
+Most AI startups are still building wrappers.
+The winners are building actions.
+That's it.",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_meta-just-paid-23b-for-manus-everyones-activity-7411987042970107904-AP4k?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADIsm-sBDLgBfGf9vFksAqOJsqyCiIPXOkw,https://media.licdn.com/dms/image/v2/D4D22AQE_O8ueaL8KMw/feedshare-shrink_20/B4DZtyq72TH8A0-/0/1767155417475?e=1772668800&v=beta&t=JhzKs-R9R97p3haGg_XDQyMi5hTw5WzTddTCBJ8C9cQ,True,,
+11,2025-11-05,Amjad Masad,23,2,1,26,Teacher,AI/Tech,Contrarian/Challenge,Story → Lesson,Avoid AI for writing.,"Avoid AI for writing. 
+
+
+Not because it is bad at it. 
+That is exactly the problem. 
+
+It can be SUPER good with the correct RAG or Fine Tuning.
+
+Don't get me wrong I am not of those Blockbuster/Keep using your typewriter people. 
+
+I am a MEGA AI nerd. 
+I use it daily and I speak with LLMs more than with my family.  
+
+The problem is that if we constantly outsource our writing we are gonna become lazy thinkers aka dumb.
+
+There are two reasons for this:
+
+1/ Stories were and are core for human evolution
+
+The acceleration of evolution in the Homo Sapiens was based on gossiping according to Sapiens (good book btw). 
+
+Gossiping is pure storytelling and storytelling.
+It is transmitting emotions and clear message with words. 
+
+Writing is in this scope. So it is a muscle worth training. 
+
+2/ Writing is thinking
+
+To be a good writer you have to be a clear thinker. 
+That is why writing is hard because thinking is hard.
+
+Think it as the common question of build vs buy.
+
+This is what Amjad Masad, founder and CEO of Replit mentions on one of his essays. 
+
+“Every build-or-buy decision should be treated with care, but what's certain is that buying tech is strategically fraught because once you run into the limits of the technology, you can't fundamentally change it. But when you build, you'll be able to adapt a lot faster and find ways to win on the tail events—e.g. valuable yet rare use-cases—that are impossible to handle with an outsourced platform.”
+
+This is extensible to the usage of AI. 
+
+Sound counter intuitive. 
+But you will need to sacrifice productivity in order to gain long-term productivity. 
+
+Even uncle Sam is using his notebook to write. 
+
+Keep typing my friends.",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_avoid-ai-for-writing-not-because-it-is-activity-7391948028427018241-ARy3?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADSz6EcBr5PdxSaAY4OnRTn1E4v58Es3gfc,https://media.licdn.com/dms/image/v2/D4E22AQHDOOMMwulQDg/feedshare-shrink_2048_1536/B4EZpV5j0SJgA8-/0/1762377744816?e=1772668800&v=beta&t=8PRZt5h2yP14XtU5qZTcsq6LmiUtHDOjiaAW8xOE1RQ,True,,
+12,2026-01-30,UNKNOWN,20,2,1,23,Teacher,General,Origin Story/Narrative,Setup → Punchline,"""Working with someone who thinks like this changes how you build.","""Working with someone who thinks like this changes how you build. 
+You stop tolerating slow. That's the culture""",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_working-with-someone-who-thinks-like-this-activity-7423059253675941888-vGz6?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADakrXoBrim-1nfN8DHgk3OR5K8eppodpWY,https://media.licdn.com/dms/image/v2/D4E22AQF7rYf76qOqxg/feedshare-shrink_2048_1536/B4EZwQBDo4KoAk-/0/1769795238927?e=1772668800&v=beta&t=xyD8ALcrHFWq1umk1XU9DZ56mG8R8MPfJMdttNQqcvs,True,,
+13,2025-12-16,UNKNOWN,17,4,0,21,Teacher,Integration/Data,Origin Story/Narrative,Story → Lesson,"""CRMs are just glorified databases.""","""CRMs are just glorified databases.""
+""This startup is another LLM wrapper""
+
+I've heard this take a thousand times. 
+And honestly? They're right.
+
+But they're also completely missing the point.
+
+Everything is a wrapper.
+Absolutely everything.
+
+Salesforce is a wrapper around a database. 
+Slack is a wrapper around IRC. 
+An MBA is a wrapper around books you could read for free.
+Money is a wrapper around barter and this abstraction enabled civilization.
+
+The value was never in the novelty.
+It's in the abstraction itself.
+
+You could technically manage your sales pipeline in a spreadsheet. 
+Or a Notion table. 
+Or a raw Postgres database.
+Or create your own AI agent.
+
+But you don't.
+Because the abstraction removes friction. 
+It creates workflows. 
+It enforces consistency. 
+
+It becomes a shared language.
+
+So in conclusion. You are:
+
+Technically correct.
+Strategically blind.
+
+The wrapper IS the product.
+The abstraction IS the value.",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_crms-are-just-glorified-databases-this-activity-7406662853790801921-Iy1W?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADSz6EcBr5PdxSaAY4OnRTn1E4v58Es3gfc,https://media.licdn.com/dms/image/v2/D4E22AQHnfGz2CzVJjQ/feedshare-shrink_2048_1536/B4EZsnAko.KMA0-/0/1765886031373?e=1772668800&v=beta&t=LjEp-B_RWy1x4WRrDtZvEX141HITOMIxP4W5N11NIxg,True,,
+14,2025-12-19,UNKNOWN,12,5,0,17,Teacher,AI/Tech,Origin Story/Narrative,Story → Lesson,This is what ‘agentic outbound’ might actually looks like,"This is what ‘agentic outbound’ might actually looks like
+Clay is now an app inside ChatGPT. 
+
+You can run account/contact research and draft outreach without leaving the chat, using Clay’s research stack (contact databases, enrichment providers, AI research agents).
+
+What you can do in the same thread:
+
+Pull a list of buyers at a target account with verified work emails + context (posts, promotions, open headcount, signals)
+
+Get a person brief (org context, career path, interview/social history, recent activity)
+
+Get a company brief (headcount growth, exec hires, funding signals, leadership statements, tech stack)
+
+Draft an email that references the research (AI spend, hiring trends, social mentions, investors)
+
+Clay says they’re bringing first-party sources next (CRM, warehouse, call recordings) into ChatGPT through Clay as a permissioned bridge
+
+It’s live now.
+
+Enable it from the ChatGPT app directory and connect Clay
+
+This is going to be so much fun.",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_this-is-what-agentic-outbound-might-actually-activity-7407609754237194240-WL4L?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADIsm-sBDLgBfGf9vFksAqOJsqyCiIPXOkw,https://media.licdn.com/dms/image/v2/D4D22AQE0AJGEkctawQ/feedshare-shrink_20/B4DZs0dz94HwA0-/0/1766111790094?e=1772668800&v=beta&t=ATDSmRonT3qn3kenXi3KgnE490rBnX58qihMBlwdq_s,True,,
+15,2026-01-20,UNKNOWN,11,5,0,16,Contrarian,GTM/Sales,Contrarian/Challenge,Story → Lesson,"Stop asking ""Can I help you?""","Stop asking ""Can I help you?""
+Just help.
+Best GTM people I know don't ask for permission to add value. 
+
+They add it.
+
+In practice:
+- See a prospect struggling with X? Send them a resource. No pitch.
+- Notice something broken on their site? Fix the copy and send it. No ask.
+- Know someone who could help them? Make the intro. No strings.
+
+Most people wait for permission.
+
+""Can I send you something?""
+""Would you be open to...""
+""Do you have 15 minutes for...""
+
+Asking creates friction. Giving removes it.
+
+Cold pitch = You're selling.
+Cold value = You're helping.
+
+One gets ignored. One gets remembered.
+
+People who respond to permissionless value aren't leads. They're believers.
+Don't ask. Deliver.",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_stop-asking-can-i-help-you-just-help-activity-7419517067650891776-Op-s?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAB-umQMBcjYUWG9l1_xTyejpe9tz5vMPbzA,https://media.licdn.com/dms/image/v2/D4D22AQHhi2g1Ns2pqQ/feedshare-shrink_800/B4DZvdrdJxJQAk-/0/1768950715191?e=1772668800&v=beta&t=MZHBt0XBbv9hDsywL2GcF9SUSbZbVvfRoTzsb3_4EIM,True,,
+16,2025-08-11,UNKNOWN,14,2,0,16,Teacher,Founder Story,Origin Story/Narrative,Story → Lesson,"The more we use AI, the more we'll crave human approval.","The more we use AI, the more we'll crave human approval.
+
+
+It’s a paradox. 
+AI creates infinite options, which leads to decision paralysis. 
+To break the deadlock, we instinctively look for a leader (an expert who can validate our choices)
+
+Why do top consulting firms exist? 
+To sell validation. 
+Their true value is giving a CEO the confidence to say, ""The experts approve.""
+
+This is the future of software.
+
+We'll be swimming in cheap, AI-generated apps. 
+But for the decisions that MATTER, we won't trust a disposable algorithm.
+
+We'll seek out software built on a clear vision, backed by human judgment + AI. We will pay a premium not just for a tool, but for the implied approval that comes from a trusted brand.
+
+The winners won't be the fastest builders. 
+They will be the most credible (reliable over time).
+
+Because when creation is free, the only thing worth paying for is the confidence that you're making the right call.
+
+(I wrote a blog in my newsletter about it, link in the comments)",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_the-more-we-use-ai-the-more-well-crave-activity-7360783181521788928-4SY-?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFla5sYBmTdPb5wrGOGYmNo5mqPWSmve9nY,https://media.licdn.com/dms/image/v2/D4E22AQF4e-FEFFuo1w/feedshare-shrink_160/B4EZibBTIMHgAc-/0/1754947466218?e=1772668800&v=beta&t=7AN7Pk8GHDzARBJu6H4ezglqWV7ONizxR351w7sCww0,True,,
+17,2025-08-05,UNKNOWN,16,0,0,16,Teacher,Industry/SaaS,Origin Story/Narrative,Story → Lesson,I'm seeing a fundamental shift in user behavior.,"I'm seeing a fundamental shift in user behavior. 
+
+
+People aren't just using AI anymore, they are beginning to trust it. 
+They are absorbing its outputs, letting it shape their opinions, and using it to guide their decisions (even extremelly personal ones). 
+
+This is the most significant strategic inflection point for marketing since the dawn of SEO.
+
+When a potential customer's decision-making process is increasingly influenced by an AI's recommendation, our old playbooks become obsolete. 
+
+The argumentative weight of ""what the AI says"" will soon be undeniable.
+
+This is why we need to champion a new discipline: AEO (AI Engine Optimization).
+
+Think of AEO today as SEO early days. 
+It was a niche, misunderstood concept that quickly became the foundation of digital success. 
+
+The question is no longer ""if"" your customers will use AI for purchasing decisions, but ""when."" 
+
+Every time a user asks ChatGPT, Perplexity, or their phone's assistant, ""What's the best software for X?"" or ""Recommend a service provider for Y,"" a judgment is being made.
+
+P.S. looks that there's still a big usage gap, but it's closing super fast",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_im-seeing-a-fundamental-shift-in-user-behavior-activity-7358294102674661376-Zass?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFla5sYBmTdPb5wrGOGYmNo5mqPWSmve9nY,https://media.licdn.com/dms/image/v2/D4E22AQEnP6ZsYH9j7Q/feedshare-shrink_160/B4EZh3pfSjGUAc-/0/1754354022899?e=1772668800&v=beta&t=Kodu3kO-U32CyuuQtNBi1u1557Wkry_tmAf9j4X3lY4,True,,
+18,2025-07-31,UNKNOWN,14,2,0,16,Teacher,AI/Tech,Origin Story/Narrative,Listicle/Breakdown,"Is ChatGPT conversations shared a ""data leak""?","Is ChatGPT conversations shared a ""data leak""?
+Not really.
+
+Conversations shared on other websites are being re-indexed by Google.
+
+But...
+
+This is still an excellent opportunity to improve your market research and understand your customers better.
+
+I call it ""ChatGPT Anthropology.""
+
+Here's the 3-step process I'm using:
+
+1. Use this Google search command: ""[your query]"" site:chat.openai.com/share
+
+2. Study the conversations like a digital anthropologist. Look for initial prompts, corrections, refinements, vocabulary, and sticking points.
+
+3. Organize your findings (the stated problem vs. the REAL sticking point).
+
+The magic happens when you see where AI fails people.
+Those gaps? They're PURE business opportunities.
+
+Pro tip: Set up a Google Alert for your search query to get new conversations sent directly to your inbox as they become public.",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_is-chatgpt-conversations-shared-a-data-leak-activity-7356782873850351616-WuV6?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFla5sYBmTdPb5wrGOGYmNo5mqPWSmve9nY,https://media.licdn.com/dms/image/v2/D4E22AQGB_dJjRfpV5g/feedshare-shrink_800/B4EZhiLCbJGwAg-/0/1753993718015?e=1772668800&v=beta&t=dVnieGLYLT9sgfsTOOLT-ro5NNRcOp3LA8PBHEvGDsE,True,,
+19,2026-01-13,UNKNOWN,13,2,0,15,Teacher,Engineering/Technical,Origin Story/Narrative,Story → Lesson,I'm mad and excited at the same time,"I'm mad and excited at the same time
+Mad because my terminal workflow made me feel cool
+And now its over.
+
+Excited because Cowork solves a real problem.
+
+Claude Code was incredible but created a two-tier system in every company.
+
+Technical people got agentic AI. 
+Everyone else got chat.
+
+Cowork kills that divide.
+Same foundations and task execution.
+
+Just no command line required.
+
+I'll test it this week and share what actually works.",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_im-mad-and-excited-at-the-same-time-mad-activity-7416655274985398272-6Txg?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADIsm-sBDLgBfGf9vFksAqOJsqyCiIPXOkw,https://media.licdn.com/dms/image/v2/D4D22AQGLRNe4p1CTjg/feedshare-shrink_20/B4DZu1Aq60I8AM-/0/1768268410909?e=1772668800&v=beta&t=kedSo-McNgOIuaZ6nQHZY_kzoqMaZDf9HEkY1v9nPvM,True,,
+20,2025-12-23,UNKNOWN,15,0,0,15,Teacher,Founder Story,Contrarian/Challenge,Story → Lesson,Work-life balance is a lie.,"Work-life balance is a lie. 
+So is hustle culture.
+Avoid them both.
+
+
+The 996 (12 hours/day) is just biased micromanagement. It glorifies meaningless inputs (hours) instead of outputs (value).
+
+The 9-5 is a prison. It implies you only start ""living"" when you clock out.
+Don't get me wrong I am not one of those ""sleep when you die"" dudes.
+I value my sleep. I value my family time.
+
+But the current models treat humans like machines (996) or like distinct microservices (9-5).
+
+I am a MEGA believer in the Obsession Model. aka The Renaissance Man approach.
+
+There are two reasons why this is the only way to win.
+
+1/ The backlog never stops
+
+Top-tier founders get their best ideas in the shower or while working out.
+
+Why? Because the problem is running in the backlog.
+
+It means your bandwidth is allocated to something meaningful.
+
+When I am with my family, I am 100% there. But the ""Work Thread"" never terminates. It just lowers priority. It waits for a trigger to spin back up.
+
+It is low-latency context switching.
+
+2/ You can only connect the dots backwards
+
+Steve Jobs took a calligraphy class. It seemed useless. Pure ""waste of time."" Ten years later it became the core of the Macintosh.
+
+This is why the ""renaissance Man"" approach works.
+
+Your personal interests, your sports, your ""downtime"". These are the dots. 
+They are inputs for the backlog.
+
+Now, I know what you might be thinking.
+
+""Isn't this just Workaholism with better PR?""
+
+No. The difference is ownership (not only for founders btw, you can be a cashier and have ownership).
+
+Sound intense.
+It is.
+
+But you need to sacrifice ""balance"" to gain alignment.
+
+Your RAM is limited. SUPER limited.
+You can't have this backlog obsession for everything.
+
+Define what is virtue for you and seek it with obsession.",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_work-life-balance-is-a-lie-so-is-hustle-activity-7409321322926985217-A7jY?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADIsm-sBDLgBfGf9vFksAqOJsqyCiIPXOkw,https://media.licdn.com/dms/image/v2/D4E22AQEoTmabHNlMDg/feedshare-shrink_480/B4EZtMyev8IoAY-/0/1766519860836?e=1772668800&v=beta&t=Vuvx2PyUp9eM0Kzsisl6701BQm_pK6MG83vAxLsMJvU,True,,
+21,2025-12-18,Lenny Rachitsky,15,0,0,15,Magician,Industry/SaaS,Contrarian/Challenge,Listicle/Breakdown,If you’re building B2B and trying to learn enterprise sales: I’d bet money this episode makes you better.,"If you’re building B2B and trying to learn enterprise sales: I’d bet money this episode makes you better.
+
+Jen Abel has seen the movie (GM Enterprise at State Affairs, co-founder of JJELLYFISH) and she explains the $1M → $10M jump in a way that’sunfair.
+
+I pulled these 8 counterintuitive principles from my notes:
+
+1. Go after tier one logos 
+
+Giants like Walmart or Tesla are early adopters, not slow movers. They need to maintain their #1 position and will take risks to gain alpha.
+
+2. Sell the opportunity, not the problem 
+
+Don't sell ""we have fiber optics."" Sell ""we'll give you one second advantage over your competition."" The market doesn't want to be sold to, they want to buy.
+
+3. Aim for $100K deals, not $10K
+
+A $10K deal growing to $100K is almost impossible to defend. The best clients don't nickel-and-dime because they understand the value they're seeking.
+
+4. Your initial price determines your future 
+
+If you anchor your price too low, you'll ruin your expansion capability. Enterprise companies are accustomed to initial contracts of $75K-$150K.
+
+5. The mid-market doesn't exist
+
+There are only two games: SMB (marketing-led) and Enterprise (sales-led). Mixing them guarantees failure.
+
+6. Hire salespeople who can ""cosplay"" the founder 
+
+The best enterprise salespeople don't seem like salespeople. They can sell the vision and creatively adapt to each client.
+
+7. Every enterprise deal is unique
+
+Standardization works for $10K deals, but each $100K+ deal will be different. It's an art, not a science.
+
+8. Build relationships, not pipelines
+
+Enterprise deals close via text, not email. If a Fortune 10 client calls you, you answer immediately.
+
+
+
+This episoder taught me that enterprise sales isn't about rigid processes but creativity: co-creating value with the client instead of selling them a standard product.
+
+Kudos to Lenny, he asked exactly the right questions.",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_if-youre-building-b2b-and-trying-to-learn-activity-7407419469280694273-3SrX?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADIsm-sBDLgBfGf9vFksAqOJsqyCiIPXOkw,https://media.licdn.com/dms/image/v2/D4E22AQHpjuuctN0baw/feedshare-shrink_20/B4EZsv4ySmKkA0-/0/1766034979454?e=1772668800&v=beta&t=Y5MrP1zgBICvbSDo644UlacgiGr4Y3kYtUtE7wgn3ps,True,,
+22,2026-01-27,UNKNOWN,11,4,0,15,Teacher,GTM/Sales,Contrarian/Challenge,Listicle/Breakdown,End-to-end AI for GTM is mostly marketing fiction.,"End-to-end AI for GTM is mostly marketing fiction.
+Here's what actually works:
+
+What vendors promise:
+- ""AI writes your emails""
+- ""AI finds your leads""
+- ""AI books your meetings""
+- ""Just set it and forget it""
+
+What actually happens:
+- AI writes generic emails (prospects ignore)
+- AI finds leads that look right but aren't (wasted time)
+- AI books meetings with wrong people (wasted meetings)
+- You ""set it"" and ""regret it"" (broken pipeline)
+
+The teams winning with AI right now?
+They're not removing humans. They're making humans faster.
+
+AI + human checkpoint = quality at speed.
+AI alone = garbage at scale.
+
+The real constraint isn't automation, it's accuracy.
+If your outreach is critical, it can't be magic. It needs a human who cares.
+
+Better AI needs better human judgment.
+That's the part no one wants to sell you.",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_end-to-end-ai-for-gtm-is-mostly-marketing-activity-7422052072054943744-bjYh?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADakrXoBrim-1nfN8DHgk3OR5K8eppodpWY,https://media.licdn.com/dms/image/v2/D4D22AQFpFPbqn6v29w/feedshare-shrink_480/B4DZwBtB_nGgAs-/0/1769555108154?e=1772668800&v=beta&t=58oF0ZXU1uvQF_Z6L0KUxnY59efz6QcOXjKMiGGLhU8,True,,
+23,2026-01-20,UNKNOWN,11,3,1,15,Teacher,GTM/Sales,Origin Story/Narrative,Listicle/Breakdown,Are you running peacetime GTM in a wartime market?,"Are you running peacetime GTM in a wartime market?
+
+Most teams are.
+
+Peacetime GTM:
+- Long positioning workshops
+- 6-month brand campaigns
+- ""Let's get alignment first""
+- Waiting for perfect messaging
+
+Wartime GTM:
+- Ship something this week
+- Talk to 30 prospects before Friday
+- Fix the message based on real calls
+- Close revenue, then optimize
+
+Your positioning doc won't save you.
+
+Showing up will.
+
+I've watched teams spend 3 months debating taglines while competitors with worse products closed their deals.
+
+Surviving teams don't have better strategy. They move faster.
+
+Burning cash? You're in wartime. Run like it.",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_are-you-running-peacetime-gtm-in-a-wartime-activity-7419174220871634945-rL3v?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAB-umQMBcjYUWG9l1_xTyejpe9tz5vMPbzA,https://media.licdn.com/dms/image/v2/D4D22AQGaac8398x3KQ/feedshare-shrink_20/B4DZvYzpDcKMAM-/0/1768868975087?e=1772668800&v=beta&t=tEAR6v7kh_IYjuQvyGyznU17m_g5Z3M1mmBZyY7A0PE,True,nacho_gtm_reality_post,/Users/TERABYTE10/Downloads/Stacksync/04_linkedin_content/Stacksync Universe/Nacho/nacho_gtm_reality_post.md
+24,2025-10-30,UNKNOWN,12,3,0,15,Magician,General,Data/Numbers,Setup → Punchline,$13.5B in losses. 95% free users. $1T valuation,"$13.5B in losses. 95% free users. $1T valuation
+Let see how this goes",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_135b-in-losses-95-free-users-1t-valuation-activity-7389462533285388288-CO-d?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADSz6EcBr5PdxSaAY4OnRTn1E4v58Es3gfc,https://media.licdn.com/dms/image/v2/D4E22AQGYHrdjy5Rx0A/feedshare-shrink_20/B4EZoylBEVKgA0-/0/1761785156490?e=1772668800&v=beta&t=UdYn7So0UQ9WdumIbYAtmXn9vhxdbb_ixOX8fe3hjoI,True,,
+25,2025-09-16,UNKNOWN,14,0,0,14,Teacher,Industry/SaaS,Data/Numbers,Listicle/Breakdown,Zendesk just dropped a bombshell that could reshape the entire CRM industry.,"Zendesk just dropped a bombshell that could reshape the entire CRM industry.
+
+They're completely abandoning the sales CRM market.
+
+ After capturing only 0.40% market share despite investing over $100 million since 2018.
+
+The biggest strategic retreat in enterprise software this year.
+
+What makes this truly game-changing:
+
+1) They're forcing 2,000 companies to migrate by August 2027, creating the largest CRM customer land-grab opportunity in years
+
+2) This validates what we all suspected: only platforms with massive scale can survive the AI-powered CRM wars
+
+3) Their valuation crashed from $17 billion to $10.2 billion, and now they're admitting they can't compete where it matters most
+
+For years I've watched Zendesk try to expand beyond customer service into sales, acquiring Base CRM and promising unified customer experiences.
+
+Zendesk has quietly revealed the truth about today's CRM market: 
+
+Without 7,000+ app integrations, enterprise-grade AI, and billions in R&D budget, you're dead.
+
+Everyone talks about CRM democratization, but the market is actually consolidating faster than ever.
+
+Platform beats point solution isn't just strategy anymore.
+
+The companies that win will be those with both the scale AND the ecosystem depth to deliver AI-powered revenue intelligence at every touchpoint.
+
+Zendesk just proved that even $100 million and seven years isn't enough if you don't have both.",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_zendesk-just-dropped-a-bombshell-that-could-activity-7373774990891991040-QKmy?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFla5sYBmTdPb5wrGOGYmNo5mqPWSmve9nY,https://media.licdn.com/dms/image/v2/D4E22AQG-9HwDVwK75Q/feedshare-shrink_480/B4EZlTpRwdHgAY-/0/1758044954311?e=1772668800&v=beta&t=V_l9eI35FI2b0J3bv_CffqMyypDhb_MosGqE47Vi6u4,True,,
+26,2026-02-06,UNKNOWN,12,1,0,13,Teacher,GTM/Sales,Data/Numbers,Listicle/Breakdown,Last Year we had 15 NetSuite practitioners on our event,"Last Year we had 15 NetSuite practitioners on our event
+Yesterday we had +45
+This is how we did it:
+
+We hosted the The SF NetSuite Series: From Silos to AI-Driven Ops. 
+We have few days to fill the room so I tried different channels:
+
+- LinkedIn research: Every profile with NetSuite in their background. Enriched through Clay. 
+
+- Cold email: We didn't lead with ""come to our event."" We led with the companies presenting. Fellow, the $100M coffee equipment brand. Orderful, #1 EDI platform backed by a16z. 
+
+That got  people curious.
+
+- Content: Posts about NetSuite. Some about the event. Others about Fellow and Orderful and what they're doing with their data. 
+
+The goal was to reach people who care about NetSuite, not just people who click on event links.
+
+- LinkedIn DMs: We watched who engaged with the posts. Liked. Commented. Then sent them a personal message. Not automated. That converted well.
+
+- Reddit: Didn't plan for this one. NetSuite communities there are active and honest. Real practitioners, real problems. The response surprised us.
+
+Goal: 100 registrations. 
+Result: +130
+
+And when they got there, the experience mattered. 
+
+Champagne at the door. Good food. Real conversations. Not a sales pitch disguised as an event.
+
+ Very happy with the result. 🚀",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_last-year-we-had-15-netsuite-practitioners-activity-7425349013002108930-fG_5?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAE2PLXsBuFiD1nAi3PAY2nbRbRYGC5K4OKI,https://media.licdn.com/dms/image/v2/D4D22AQFSd9eK8TWrFA/feedshare-shrink_800/B4DZwwjlCgGgAk-/0/1770341159464?e=1772668800&v=beta&t=ouj_9m4k3t-7sW0_-aNQc79M02XXRIAaLN2FE88LfuM,True,,
+27,2025-10-15,UNKNOWN,11,1,0,12,Teacher,Engineering/Technical,Insight/Observation,Statement → Commentary,"Si usas LLMs en el chat general, estás optimizando para average results.","Si usas LLMs en el chat general, estás optimizando para average results.
+
+La forma básica en la que funcionan las LLMs es por aproximación y estadística. El clásico ejemplo es cuál sería la palabra que autocompleta la siguiente frase:
+
+Si el perro ladra, el gato 
+
+maúlla?
+
+No necesariamente.
+
+Puede saltar, dormir o comer. 
+
+Pero es la aproximación semántica y la probabilidad contextual lo que hace que ""maullar"" sea la respuesta con mayor probabilidad.
+
+Entonces, por definición, un LLM es el consenso construido por la mayoría. 
+Estadísticamente, y si seguimos una normal distribution, la mayoría está en el average.
+
+Lo que significa que, no puedes esperar respuestas outliers de ningún LLM. 
+
+Estás amplificando la voz de lo obvio y lo común. 
+
+Solo sigues la narrativa popular y si tomas acción en ello obtendrás los resultados del average.  
+
+Útil para tasks de bajo nivel though. Summary, grammar correction, etc
+
+La solución? Fine-tuning y context engineering.
+
+Pero eso es para otro post.",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_si-usas-llms-en-el-chat-general-est%C3%A1s-optimizando-activity-7384238106704728064-sAV4?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADSz6EcBr5PdxSaAY4OnRTn1E4v58Es3gfc,https://media.licdn.com/dms/image/v2/D4E22AQFMIcmK0WmOzg/feedshare-shrink_160/B4EZnoVbbtGUAc-/0/1760539556326?e=1772668800&v=beta&t=BsjwixELCQyjisFQgeWNk2mFeFZN2e6W48o5e9b6vyI,True,,
+28,2025-08-21,UNKNOWN,12,0,0,12,Teacher,GTM/Sales,Origin Story/Narrative,Setup → Punchline,This is the future of gtm engineer,This is the future of gtm engineer,https://www.linkedin.com/posts/fabianignaciomalpartidanegron_latest-in-clay-claygent-navigator-is-activity-7364118091431092224-wazg?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFla5sYBmTdPb5wrGOGYmNo5mqPWSmve9nY,,True,,
+29,2026-01-15,UNKNOWN,8,4,0,12,Teacher,GTM/Sales,Contrarian/Challenge,Listicle/Breakdown,Most people get cold email backwards,"Most people get cold email backwards
+Everyone obsesses over AI personalization
+
+The ""hyper-relevant"" first line
+The ""it looks like you just wrote this for me"" magic
+
+None of it matters. 
+Here's why: if your infrastructure is broken, your message doesn't arrive.
+
+Not in spam. Not in promotions. It simply doesn't exist.
+
+The real order of operations:
+
+1. Diversify infrastructure (SMTP + Outlook + Google accounts — you need all three)
+2. Warm up properly before you send anything at scale
+3. Obsess over deliverability metrics
+4. Then worry about copy 
+
+That's it.
+The unsexy work comes first.
+
+Personalization is the last mile, not the first.
+But it doesn't sell courses. So nobody talks about it. 
+
+Reliability wins.",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_most-people-get-cold-email-backwards-everyone-activity-7417662550294765568-idFb?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADIsm-sBDLgBfGf9vFksAqOJsqyCiIPXOkw,https://media.licdn.com/dms/image/v2/D4D22AQH3udY0Ky-x9w/feedshare-shrink_480/B4DZvDUx.jKkAs-/0/1768508563798?e=1772668800&v=beta&t=F3SKPgH0SlFtH0agKJ0uUhHcBpQEmWMRshD68WtoWnQ,True,,
+30,2026-02-11,UNKNOWN,9,2,1,12,Fortune Teller,Integration/Data,Contrarian/Challenge,Listicle/Breakdown,Introducing EDI to Stacksync 🚀,"Introducing EDI to Stacksync 🚀
+
+
+Onboarding a single trading partner through EDI takes 4-8 weeks. 
+One partner. One connection.
+
+Companies avoid adding new partners because the integration cost is too high.
+
+Electronic Data Interchange(EDI). Purchase orders, invoices, shipping notices, inventory updates. It's been the B2B standard for decades.
+
+The problem:
+- Onboarding one trading partner takes 4-8 weeks
+- Troubleshooting takes days. Visibility is close to zero
+- Every partner uses different formats. X12, EDIFACT, custom
+- Mapping logic is brittle. One schema change breaks the flow
+- Most companies depend on consultants who profit from the complexity
+
+The result: companies avoid adding new partners because the integration cost is too high. Growth gets blocked by plumbing.
+
+We built an EDI service at Stacksync. Cloud-based. Supports X12, EDIFACT, and custom formats. Central partner management. Compliance-ready for healthcare, finance, and manufacturing.
+
+Check +5,300 Available EDI Connectors.
+Link at comments.",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_introducing-edi-to-stacksync-onboarding-activity-7427476610410278912-3sr1?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAE2PLXsBuFiD1nAi3PAY2nbRbRYGC5K4OKI,https://media.licdn.com/dms/image/v2/D4D22AQEGhTMvK_yUrw/feedshare-shrink_480/B4DZxOynhKKMAs-/0/1770848418173?e=1772668800&v=beta&t=vUN0u2nyH3UW-8TARba_5C3KSZAtvgGpe47ZLbN1LZ4,True,EDI_Nacho,/Users/TERABYTE10/Downloads/Stacksync/04_linkedin_content/Bangers/drafts/EDI_Nacho.md
+31,2026-02-09,UNKNOWN,9,3,0,12,Teacher,Integration/Data,Data/Numbers,Listicle/Breakdown,Heroku End of Sale hit last week. The team deserved better.,"Heroku End of Sale hit last week. The team deserved better.
+If you're paying $4K-$50K/month for your Salesforce sync with Heroku connect here's what changes:
+
+First, Salesforce words: ""maintaining quality rather than introducing new features.""
+
+Translation: product stays on. Investment stops.
+
+And here's what it means for you:
+
+The bugs you have today are the bugs you'll have next year. The limitations you've been waiting on? Not coming.
+
+The numbers: Heroku Connect pricing is row-based. Not published. Negotiated with your Salesforce AE. $4,000/month low end. $50,000+/month for large instances. Add Dynos. Add Postgres hosting. Total cost well above the license.
+
+All for a product in maintenance mode.
+
+The lock-in: Heroku Connect works with Heroku Postgres only. Not AWS RDS. Not Cloud SQL. Not Supabase. Your Salesforce sync and your database are locked to a platform with no roadmap.
+
+Four questions to answer now:
+
+1. How many rows are we syncing? What's our actual monthly cost?
+2. One-way or bidirectional? Which Salesforce objects?
+3. What does migration to a non-Heroku Postgres look like?
+4. What's our contract renewal date?
+
+You should answer them now. While your contract is active and your team has time.
+
+I respect what that team built.
+The SQL-to-Salesforce pattern was ahead of its time.
+
+But respect for the past doesn't change the math on your invoice.
+
+We built Stacksync for exactly this. 
+Real-time bidirectional sync. Any Postgres. 60-70% less cost.
+
+The real constraint isn't the product. It's waiting until you don't have time to move.",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_heroku-end-of-sale-hit-last-week-the-team-activity-7426737340561285120-mDcJ?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAE2PLXsBuFiD1nAi3PAY2nbRbRYGC5K4OKI,https://media.licdn.com/dms/image/v2/D4D22AQF6-wNHmkqm4g/feedshare-shrink_480/B4DZxESQiIGQAs-/0/1770672163188?e=1772668800&v=beta&t=L4rCl3Iygpq8uEb5hTBW3vp6oOanhbhxaLdnHwE56ik,True,Heroku_Connect_Nacho,/Users/TERABYTE10/Downloads/Stacksync/04_linkedin_content/Bangers/Heroku_Connect_Nacho.md
+32,2026-02-04,UNKNOWN,10,2,0,12,Teacher,General,Contrarian/Challenge,Listicle/Breakdown,Speed + Alignment,"Speed + Alignment
+Everything else is noise
+Here's how we operationalize that:
+
+Speed:
+- Bias toward action over analysis
+- Ship rough versions, iterate fast
+- Kill things that aren't working quickly
+- Don't wait for permission to add value
+
+Alignment:
+- Everyone knows what matters this quarter
+- Incentives point the same direction
+- No surprises about priorities
+- Constant communication about what's changing
+
+Where teams fail:
+
+Fast but misaligned: Everyone's moving, but in different directions. Lots of activity. No progress.
+
+Aligned but slow: Everyone agrees on what to do. Nobody does it fast enough to matter.
+
+The combination is what works:
+
+Moving fast, in the same direction, with everyone knowing why.
+
+If you're leading a team, ask:
+- Are we moving fast enough?
+- Is everyone pointed at the same target?
+
+If either answer is no, fix that before anything else.
+Speed + Alignment. That's it.",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_speed-alignment-everything-else-is-noise-activity-7424948768485249024-IAwD?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAE2PLXsBuFiD1nAi3PAY2nbRbRYGC5K4OKI,https://media.licdn.com/dms/image/v2/D4D22AQEUcfxcoVRPxw/feedshare-shrink_800/B4DZwq3j5GJ0Ag-/0/1770245734265?e=1772668800&v=beta&t=3zNiCMVeWu9uzbkoPD2fbh2V77-au9F-O0IlIcbkFhg,True,,
+33,2025-12-28,Shane Parrish,8,1,2,11,Teacher,General,Insight/Observation,Setup → Punchline,Credits: Shane Parrish,Credits: Shane Parrish,https://www.linkedin.com/posts/fabianignaciomalpartidanegron_credits-shane-parrish-activity-7411091356237963264-Jz80?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADIsm-sBDLgBfGf9vFksAqOJsqyCiIPXOkw,https://media.licdn.com/dms/image/v2/D4D22AQHY8rJvhMeQDQ/feedshare-shrink_480/B4DZtl8UMnGgAY-/0/1766941869457?e=1772668800&v=beta&t=RVBgCrm4nHk3kUd7KdRymiHfB4aO1aG8AOLupfNRAYc,True,,
+34,2025-12-16,UNKNOWN,11,0,0,11,Magician,GTM/Sales,Data/Numbers,Story → Lesson,$100 million ARR.,"$100 million ARR.
+Seven years to get here. Five of them with almost no revenue.
+This is the Clay story:
+
+Kareem Amin and Nicolae Rusan met at McGill in Montreal. 
+Both ended up at Microsoft. Both quit to build together.
+
+Their first startup died in under a year. 
+Their second hit 1 on the Shopify App Store. 
+They sold it five months after launch. 
+
+Kareem still calls that sale one of his biggest regrets.
+
+Clay started in 2017 as a spreadsheet connected to the entire internet. 
+The demo felt like magic.
+
+And then five years of almost nothing.
+
+Recruiters used it. Salespeople used it. Engineers used it. 
+
+One customer built their entire NetSuite pipeline on Clay and kept crashing the servers.
+
+Everyone loved it. No one stuck around.
+
+Kareem calls this period ""the spiral."" Commit to salespeople. Get distracted by recruiters. Pivot. Circle back. Repeat. For years.
+
+Two things broke it.
+
+In September 2021, Kareem checked into a 10-day silent meditation retreat. 
+
+He'd been doing Internal Family Systems therapy. On that retreat, he sat with why he kept resisting focus.
+
+""There was something in my psychology that made me feel like we could do anything. When you narrow the scope, it feels claustrophobic.""
+
+He made peace with constraints.
+
+The second thing was Varun Anand. At 18, Varun emailed one of Hillary Clinton's senior advisors ten times before getting a meeting. 
+
+She offered him a job. He spent four years on Clinton's campaign.
+
+Years later, he cold-emailed Nicolae. 
+
+Attended a demo with zero other people there. Started sending Clay companies that became their first paying customers. 
+
+Then joined as co-founder.
+Varun searched a sales community for everyone who'd posted about data enrichment. Found 30 people. Emailed them all.
+
+What he learned: cold email agency owners were the only ones who truly got Clay.
+
+January 2022. They made the call. Sales only.
+
+Nicolae—co-founder, Kareem's partner through two companies and a decade of friendship—departed that year. Stayed on the board. Left on good terms. But an era ended.
+
+They turned on a waitlist that lasted 15 months. Invented the ""reverse demo""—customers shared their screen while Clay solved their actual problem live.
+
+End of 2022: $500K ARR. 
+End of 2023: $5M ARR. 
+End of 2024: $30M ARR. 
+Now: $100M.
+
+OpenAI is a customer. So is Anthropic. So is Cursor.
+
+The team runs DJ Fridays, lights off, music on. 
+The holiday party featured tarot readings and live Butoh performance.
+Kareem calls the culture ""chill high achievers.""
+
+The spiral wasn't wasted time. It was what finding product-market fit actually looks like.
+
+""Everything in life is a spiral. You come back to the same place, but with a new perspective.""
+
+Seven years. Countless loops. $100 million.",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_100-million-arr-seven-years-to-get-here-activity-7406821829040054272-nGnr?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADSz6EcBr5PdxSaAY4OnRTn1E4v58Es3gfc,https://media.licdn.com/dms/image/v2/D4E22AQH7XWOM_385AA/feedshare-shrink_800/B4EZspRMugIoAk-/0/1765923934379?e=1772668800&v=beta&t=ewpWqx4-bCJsO7CCFvcfa8oTqizRd-arAPX7ui9O9oc,True,Netsuite_Nacho,/Users/TERABYTE10/Downloads/Stacksync/04_linkedin_content/Bangers/drafts/Netsuite_Nacho.md
+35,2025-08-20,UNKNOWN,10,0,0,10,Fortune Teller,Engineering/Technical,Insight/Observation,Setup → Punchline,🇧🇷 Calling all builders in São Paulo!,"🇧🇷 Calling all builders in São Paulo!
+
+
+I’ll be in your beautiful city on August 21–22 and would love to connect over coffee.
+
+If you’re building something exciting in AI or Data Engineering, let’s make it happen!
+
+Drop a comment or DM me and feel free to tag someone I must meet while I’m there.",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_calling-all-builders-in-s%C3%A3o-paulo-activity-7363888886332198913-g2Hk?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFla5sYBmTdPb5wrGOGYmNo5mqPWSmve9nY,https://media.licdn.com/dms/image/v2/D4E22AQF2gE69LrIvnA/feedshare-shrink_1280/B4EZjHJ6xWGoAs-/0/1755687923729?e=1772668800&v=beta&t=jGBkKK-3TAGx45Q6yDiF8sEwE2-TqcbLVfZwf6gMi4I,True,,
+36,2026-02-04,UNKNOWN,5,2,0,7,Experimenter,Integration/Data,Contrarian/Challenge,Story → Lesson,"Saw this on Reddit: ""Supabase Auth users to HubSpot. Zapier or n8n?""","Saw this on Reddit: ""Supabase Auth users to HubSpot. Zapier or n8n?"" 
+Both are the wrong answer.
+
+Zapier is one-way and breaks at scale.
+n8n is better but you maintain it forever.
+Custom scripts? Someone babysits that.
+
+The real problem isn't the tool.
+
+The problem is: your GTM stack is blind to your product.
+
+Users sign up. Sales doesn't know.
+Users are active. Marketing can't see it.
+Users churn. Support had no warning.
+
+That's not an integration gap. That's a revenue gap.
+
+Rule: if your CRM doesn't know what your product knows, your GTM is broken.
+
+Stacksync connects them.
+Supabase to HubSpot. Real-time. Two-way.
+
+No band-aids. Architecture.
+Reliability wins.",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_saw-this-on-reddit-supabase-auth-users-activity-7424607069661589507-9vsb?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAE2PLXsBuFiD1nAi3PAY2nbRbRYGC5K4OKI,https://media.licdn.com/dms/image/v2/D4D22AQEyUqHJcWQD5g/feedshare-shrink_20/B4DZwmAyZ1JQAM-/0/1770164266970?e=1772668800&v=beta&t=mYKE_jv4QLWCqoAOJLetybFJ9UB9kFEtmETiSSHf4U0,True,,
+37,2026-02-13,UNKNOWN,5,2,0,7,Teacher,Integration/Data,Data/Numbers,Listicle/Breakdown,Your integration costs more than your integration tool.,"Your integration costs more than your integration tool.
+
+Most companies I talk to spend $30-50K a year on integration software. Fivetran. Celigo. Sometimes Zapier held together with prayers.
+
+That's the small number.
+
+The big number:
+- 2 engineers maintaining sync logic: $120K/year (40% of two $150K salaries)
+- 1 data quality incident per quarter that takes a week to untangle: $15K in labor
+- Features not shipped because those engineers were debugging API rate limits: incalculable
+
+Total cost of the integration: $180K+/year.
+Total cost of the tool: $40K/year.
+
+The tool is 22% of the real cost. The other 78% is your people doing work that software should handle.
+
+Companies budget for the tool. They never budget for the maintenance. Then they can't figure out why engineering velocity drops every quarter.
+
+Three signals you're overpaying:
+- Your engineers can describe the Salesforce API rate limit from memory
+- ""The sync broke"" shows up in Slack more often than ""we shipped""
+- You need a human to intervene more than once a month
+
+Cut the tool budget and you save $40K. 
+
+Fix the maintenance problem and you get two engineers back building product.
+
+That's it.",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_your-integration-costs-more-than-your-integration-activity-7427894591959240704-7C8J?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAE2PLXsBuFiD1nAi3PAY2nbRbRYGC5K4OKI,https://media.licdn.com/dms/image/v2/D4D22AQGnxcTHK9xz1g/feedshare-shrink_1280/B4DZxUuxZlJUAg-/0/1770948073371?e=1772668800&v=beta&t=pfEJO4ZxTYuQITT9R0isWXVBGhBhZ4827NfGGJ5qUUE,True,IntegrationCost_Nacho,/Users/TERABYTE10/Downloads/Stacksync/04_linkedin_content/Bangers/drafts/IntegrationCost_Nacho.md
+38,2025-10-13,UNKNOWN,7,0,0,7,Magician,Industry/SaaS,Data/Numbers,Story → Lesson,"""Celebrity marketing partnerships"" get thrown around a lot. Especially when B2B companies try to break through the noise. So, what makes one actually work?","""Celebrity marketing partnerships"" get thrown around a lot. Especially when B2B companies try to break through the noise. So, what makes one actually work? 
+
+I'm interested because we just witnessed one of the boldest yet.
+Depending on who you ask, Matthew McConaughey at Salesforce might be a $10M waste, a tone-deaf move during layoffs, or marketing genius.
+
+It's all of that, and none of it on its own. 
+At its core, this partnership is psychological arbitrage. 
+It exists to make enterprise software memorable in a world where no one remembers enterprise software.
+
+The McConaughey partnership operates at the intersection of four realities:
+
+The Numbers: $10M annual contract while cutting 9,000 jobs looks terrible on paper.
+
+The Platform: Agentforce needed instant recognition in a crowded AI market.
+
+The Audience: 45,000 executives at Dreamforce who influence billions in spending.
+
+The Result: $100M in annual order value generated, 8,000 companies signed up.
+
+THIS IS NOT CELEBRITY ENDORSEMENT. THIS IS ATTENTION ARCHITECTURE.
+
+The same voice that said ""time is a flat circle"" now says ""Agentforce,"" and your brain treats both as profound.
+
+Done well, celebrity partnerships create cognitive monopolies. 
+Done poorly (or done for vanity, that is the same), they destroy shareholder value. 
+
+The hiring was controversial because the optics were intentionally jarring. 
+But one thing is certain: 
+
+Marc Benioff didn't buy a spokesperson. 
+He bought the entire conversation.
+
+They started this partnership year ago we're all still talking about it.",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_celebrity-marketing-partnerships-get-thrown-activity-7383568932789489664-h6Mg?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADSz6EcBr5PdxSaAY4OnRTn1E4v58Es3gfc,https://media.licdn.com/dms/image/v2/D4E22AQFZRvaz9pic2g/feedshare-shrink_2048_1536/B4EZne00MXHEAw-/0/1760380012306?e=1772668800&v=beta&t=3uCcunQsXBJUK-4F2I6FR5sxr0CCAVjM_mt5a4cVRao,True,,
+39,2025-08-15,UNKNOWN,6,0,0,6,Teacher,General,Origin Story/Narrative,Setup → Punchline,This is why we do what we do,This is why we do what we do,https://www.linkedin.com/posts/fabianignaciomalpartidanegron_every-broken-integration-has-a-person-waiting-activity-7362248209139671041-7aoH?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFla5sYBmTdPb5wrGOGYmNo5mqPWSmve9nY,,True,,
+40,2026-01-29,UNKNOWN,5,1,0,6,Magician,GTM/Sales,Contrarian/Challenge,Listicle/Breakdown,5 GTM lessons from a company that raised $43.9M from a16z:,"5 GTM lessons from a company that raised $43.9M from a16z:
+
+Orderful today:
+→ $43.9M raised
+→ a16z, NewRoad on cap table
+→ Former Walmart exec on board
+→ 400+ customers (Liquid Death, Koch, Caraway)
+→ 10,000+ trading partners
+
+Here's what operators can learn:
+
+1. Consulting is customer discovery that pays you.
+
+Erik Kiser spent 7 years running an EDI consulting firm before building Orderful.
+He didn't guess what customers needed. He got paid to learn.
+
+2. Your services clients are your first software customers.
+
+Kiser's consulting clients became Orderful's first users.
+Zero CAC. Pre-built trust. Deep workflow knowledge.
+
+3. Cannibalize yourself before someone else does.
+
+Kiser's consulting business profited from EDI being broken.
+He built software to make his own business obsolete.
+
+4. Boring markets have lazy incumbents.
+
+EDI is 50-year-old technology. Not sexy.
+But incumbents stopped innovating. Orderful walked in.
+
+5. Networks beat products.
+
+Orderful's moat isn't code. It's 10,000+ pre-connected partners.
+Connect once. Trade with anyone.
+
+Brian Roberts (former Walmart, now a16z) on the opportunity:
+
+""During my years at Walmart, I saw how critical EDI infrastructure is. This is exactly the innovation the industry has been missing.""
+
+The part GTM operators miss:
+
+This was a data infrastructure play.
+NetSuite gets overlooked in GTM. But your ERP data drives revenue, customer health, inventory, renewals.
+
+Blake from Orderful goes deeper Feb 4th.
+San Francisco. Fellow HQ. 
+
+Link in comments.",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_5-gtm-lessons-from-a-company-that-raised-activity-7422776155616972800-6y3z?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADakrXoBrim-1nfN8DHgk3OR5K8eppodpWY,https://media.licdn.com/dms/image/v2/D4D22AQGSmykKsoE55A/feedshare-shrink_800/B4DZwL_lFiGgAg-/0/1769727742577?e=1772668800&v=beta&t=y9aVs6uVc6MwLLhAzNIJgCUh-_TFGAq2gZS5bK2D-tI,True,EDI_Nacho,/Users/TERABYTE10/Downloads/Stacksync/04_linkedin_content/Bangers/drafts/EDI_Nacho.md
+41,2026-02-03,UNKNOWN,5,0,0,5,Magician,Integration/Data,Data/Numbers,Setup → Punchline,The math: 4.5M developers × 30% AI builders = 1.35M apps that need CRM sync.,"The math: 4.5M developers × 30% AI builders = 1.35M apps that need CRM sync. 
+I you are one of them, check Stacksync - Integration Cloud",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_i-saw-this-feature-request-in-the-hubspot-activity-7424586806232379392-gD_h?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAE2PLXsBuFiD1nAi3PAY2nbRbRYGC5K4OKI,,True,,
+42,2026-01-14,UNKNOWN,4,0,0,4,Contrarian,Integration/Data,Insight/Observation,Setup → Punchline,Most integration tools don't actually integrate.,"Most integration tools don't actually integrate.
+They move data one way. Call it ""sync."" Charge you per task. 
+Two-way sync is hard. Most vendors fake it. We don't.",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_your-engineers-didnt-get-hired-to-babysit-activity-7416998518944534530--5j8?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADIsm-sBDLgBfGf9vFksAqOJsqyCiIPXOkw,,True,,
+43,2026-01-20,UNKNOWN,3,0,0,3,Teacher,Integration/Data,Origin Story/Narrative,Setup → Punchline,"Hot take: most ""integration"" tools are just expensive one-way pipes.","Hot take: most ""integration"" tools are just expensive one-way pipes. 
+The moment you need data to flow back — which is when it actually matters — you're on your own. 
+Reliability wins.",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_we-tested-every-salesforce-integration-tool-activity-7419465041558765568-uqNZ?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAB-umQMBcjYUWG9l1_xTyejpe9tz5vMPbzA,,True,,
+44,2026-01-28,UNKNOWN,2,0,0,2,Teacher,Integration/Data,Origin Story/Narrative,Setup → Punchline,Skip the webinar. Skip the podcast.,"Skip the webinar. Skip the podcast. 
+Go to this event. 
+If you're running NetSuite and serious about what's next, be there.",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_the-netsuite-signal-is-lit-over-san-francisco-activity-7422337437302931456-Qkdm?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADakrXoBrim-1nfN8DHgk3OR5K8eppodpWY,,True,,
+45,2026-01-27,UNKNOWN,2,0,0,2,Teacher,Integration/Data,Insight/Observation,Setup → Punchline,"""Tag your best NetSuite operator"" — they won't see this.","""Tag your best NetSuite operator"" — they won't see this. 
+They're debugging a saved search that broke because someone added a custom field.",https://www.linkedin.com/posts/fabianignaciomalpartidanegron_every-company-has-one-the-person-who-knows-activity-7422001446663049216-orxR?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADakrXoBrim-1nfN8DHgk3OR5K8eppodpWY,,True,,
+46,2026-01-22,UNKNOWN,1,0,0,1,Teacher,AI/Tech,Insight/Observation,Setup → Punchline,Distribution matters. But distribution of what? Stale data flowing to AI agents is just fast garbage. Real-time or nothing. That's it,Distribution matters. But distribution of what? Stale data flowing to AI agents is just fast garbage. Real-time or nothing. That's it,https://www.linkedin.com/posts/fabianignaciomalpartidanegron_this-guy-runs-the-biggest-startup-podcast-activity-7420160807520526338-hmJI?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAB-umQMBcjYUWG9l1_xTyejpe9tz5vMPbzA,,True,,

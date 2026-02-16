@@ -1,0 +1,553 @@
+full_text,likes,comments,shares,total_engagement,outlier_score,hook_type,topic,angle,structure,visual_format,first_line,hook_150,hook,url,date,_source,rank,followers,author_avg,source
+"The evolution of ""vibe coding production software as a non-dev"" the last few months
+
+Success stories do exist... ones I see all come from people who are/were software engineers
+
+Learning to code / build software not a waste after all?",3137.0,136.0,179,3452.0,5.17,Fortune Teller,AI/ML/Coding Tools,Industry Observation,Question/Engagement,Text-only,"The evolution of ""vibe coding production software as a non-dev"" the last few months","The evolution of ""vibe coding production software as a non-dev"" the last few months
+
+Success stories do exist... ones I see all come from people who a","The evolution of ""vibe coding production software as a non-dev"" the last few months
+
+Success stories do exist... ones I see all come from people who a",https://www.linkedin.com/posts/gergelyorosz_the-evolution-of-vibe-coding-production-activity-7360999520005976064-Kwn9?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACaQac4B7smk15K3Q6ejc5vfuuolWlq_AmU,2025-08-12T11:44:06.327Z,central_outliers_db,6.0,0.0,606.2,alexis_engineering_tech
+"Talked with the Claude Code team on how they build Claude Code. It feels I get a peek into the future, and I get why Dario said 6 months ago that 90% of code will be written by AI.
+
+This team works SO differently than any eng team I saw. A few examples:
+
+1. The first code review is always done by Claude (second done by an engineer!)
+
+2. Their test suite is almost 100% written by Claude Code
+
+3. People no longer feel like a jerk by saying on a code review ""can you please write a test here"" as a result... so nothing goes in without a test. It's so trivial to do vs before.
+
+I also think we might have misinterpreted Dario. He wasn't saying there will be no need for software engineers (at Anthropic, a HUGE need for them, and they are hiring!) 
+
+But these devs work differently: faster, delegating 100% of trivial stuff to Claude, and iterating incredibly quickly, faster than I've seen devs do in the past.
+
+I'll share more next week - I'm writing up what I learned for a deepdive in The Pragmatic Engineer with a lot more details (if you'd like to get it in your inbox when it's out on Tuesday, you can subscribe here: https://lnkd.in/grXSBkVw )
+
+Update: the deepdive is out, here: https://lnkd.in/eBvzDmRK",2756.0,132.0,87,2975.0,4.55,Fortune Teller,Engineering Leadership,Data/Numbers,List Post,Text-only,Talked with the Claude Code team on how they build Claude Code. It feels I get a peek into the futur,"Talked with the Claude Code team on how they build Claude Code. It feels I get a peek into the future, and I get why Dario said 6 months ago that 90% ","Talked with the Claude Code team on how they build Claude Code. It feels I get a peek into the future, and I get why Dario said 6 months ago that 90% ",https://www.linkedin.com/posts/gergelyorosz_talked-with-the-claude-code-team-on-how-they-activity-7374902246419103744-y3-Y?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAF9PVtYBn0ayEYj-TCT7SFDq_YLl5UBbV_o,2025-09-19T20:28:34.604Z,central_outliers_db,8.0,0.0,606.2,alexis_engineering_tech
+"""It's the weirdest job market in my 15 years in tech"" -- from a Big Tech recruiter. But why is the job market so weird? 
+
+Talking to 30+ hiring managers and recruiters, it doesn't seem like AI. It seems more like... interest rates.
+
+My longer analysis in today's The Pragmatic Engineer goes into the reasons, as confirmed by those hiring: https://lnkd.in/eeGSFQFQ",2075.0,164.0,89,2328.0,3.42,Teacher,Engineering Career,Contrast/But,Question/Engagement,Text-only,"""It's the weirdest job market in my 15 years in tech"" -- from a Big Tech recruiter. But why is the j","""It's the weirdest job market in my 15 years in tech"" -- from a Big Tech recruiter. But why is the job market so weird? 
+
+Talking to 30+ hiring manage","""It's the weirdest job market in my 15 years in tech"" -- from a Big Tech recruiter. But why is the job market so weird? 
+
+Talking to 30+ hiring manage",https://www.linkedin.com/posts/gergelyorosz_its-the-weirdest-job-market-in-my-15-years-activity-7381357327863476224-kRN9?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAC4jc3UBNDwi0iakJa7TE73D10HE7YvXxCo,2025-10-07T15:58:45.950Z,central_outliers_db,10.0,0.0,606.2,alexis_engineering_tech
+"Half the internet seems to be down thanks to the us-aws-east-1 outage:
+
+Perplexity, Amazon .com, Signal, and all of Substack are down (just 4 services I tried to use)
+
+When aws-us-east-1 sneezes, the whole world feels it indeed...
+
+Also: services that use Statuspage .io to report their own status to customers, that are hit by this outage, have an ""all green"" status page, because Statuspage itself is down (doesn't allow customers to log in to update and indicate the status!)",2014.0,122.0,59,2195.0,3.32,Experimenter,Technical Skills,Industry Observation,Observation/Opinion,Text-only,Half the internet seems to be down thanks to the us-aws-east-1 outage:,"Half the internet seems to be down thanks to the us-aws-east-1 outage:
+
+Perplexity, Amazon .com, Signal, and all of Substack are down (just 4 services","Half the internet seems to be down thanks to the us-aws-east-1 outage:
+
+Perplexity, Amazon .com, Signal, and all of Substack are down (just 4 services",https://www.linkedin.com/posts/gergelyorosz_half-the-internet-seems-to-be-down-thanks-activity-7385959512895303680-H3Ua?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADw0mRYBSQhH_XZIMc99PusHGtWd6FiGizw,2025-10-20T08:46:12.366Z,idea_legos_alexis,26.0,0.0,606.2,
+"For those saying ""English is the new programming language."" Here's a thought exercise:
+
+Option A: ""Make it dark green
+... no, lighter
+... no, a bit less blueish
+... no, a bit more pinkish
+... no, a little more greyish
+... no, a hint darker""
+
+Option B: use #7DB097
+
+Which option is likely to stick?
+
+""Programming"" using English vs a prupose-made language will have the same difference.
+
+It's perfectly possible to write a complex problem by describing what you want to do, to an LLM.
+
+It will probably take 10-100x as much effort compared to a more constrained language with a bunch of rules, built for precise definitions (like a programming language!) Both to create, and especially to modify and maintain your software.
+
+PS: to spell it out, the above is a metaphor. Hex numbers are precise ways to express something that is tricky to do with natural language. Programming languages are similarly precise ways to express what a program to do: far more precise than what a spoken language like English offers.",1898.0,193.0,84,2175.0,3.13,Teacher,AI/ML/Coding Tools,Framework/How-To,Observation/Opinion,Text-only,"For those saying ""English is the new programming language."" Here's a thought exercise:","For those saying ""English is the new programming language."" Here's a thought exercise:
+
+Option A: ""Make it dark green
+... no, lighter
+... no, a bit le","For those saying ""English is the new programming language."" Here's a thought exercise:
+
+Option A: ""Make it dark green
+... no, lighter
+... no, a bit le",https://www.linkedin.com/posts/gergelyorosz_7db097-activity-7371187510670016512-631u?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFHqbAgBfu0OaxAJFn61NcjPFel2s48lksk,2025-09-09T14:27:32.585Z,idea_legos_alexis,32.0,0.0,606.2,
+"For the last ~20 years, I did most of my coding inside an IDE - the last ~15 with increasingly good autocomplete.
+
+Which is why it’s so weird that I barely opened an IDE the last two weeks, even as I pushed lots of code. I use the CLI, the web and my phone (!!) to prompt code (with a Claude Code set up via the web integration - and now I can prompt code that pushes to prod via Claude Code’s mobile app + GH mobile to merge PRs)
+
+When I just started out developing I remember being so so so full of ideas that I was coding in my head and wished I could have done programming while commuting / on the bus. With eg a phone. But it was impossible, ofc.
+
+Now it’s not only possible - but I assume it will become increasingly the norm.
+
+I feel we’re in the middle of the biggest dev tooling change happening across the industry - and it’s happening over a few short months. And rapidly spreading everywhere.
+
+The next months and years we’ll be inventing  and experimenting with new and efficient ways of building software that will be completely normal for new grads entering the industry in a few years’ time…
+
+What a time to work in tech!",1948.0,118.0,69,2135.0,3.21,Teacher,AI/ML/Coding Tools,Data/Numbers,Story,Text-only,"For the last ~20 years, I did most of my coding inside an IDE - the last ~15 with increasingly good ","For the last ~20 years, I did most of my coding inside an IDE - the last ~15 with increasingly good autocomplete.
+
+Which is why it’s so weird that I b","For the last ~20 years, I did most of my coding inside an IDE - the last ~15 with increasingly good autocomplete.
+
+Which is why it’s so weird that I b",https://www.linkedin.com/posts/gergelyorosz_for-the-last-20-years-i-did-most-of-my-activity-7413221937377787904-q2YM?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAC4jc3UBNDwi0iakJa7TE73D10HE7YvXxCo,2026-01-03T14:17:20.874Z,idea_legos_alexis,30.0,0.0,606.2,
+"Claude Code is scary good... not just for coding
+
+My Finder kept freezing after it grew to 8GB in size. I had no idea why. Restarting did not help. Turning off Spotlight indexing didn't help.
+
+So I turned to Claude Code... and ~10 iterations+30 minutes later it found the issue, and helped fix it. It ran diagnostics commands to map memory usage, scanned the filesystem, looked at the size of nested directories, experimented moving folders with large files from know indexing locations to see if helped then killed the process and monitored to see if it helped (it did not) and then got to this approach.
+
+This kind of debugging - where an agent can execute commands, get their output, and change their next step after - simply did not exist before an AI agent like Claude Code (and similar ones)
+
+It's a brand new capability... and if you can do this, what else can you do? Just food for thought how good these tools are getting, quickly!
+
+(As context, I didn't ""let the LLM run wild, and one reason it took so long is I double checked each command before letting it run, and after a while allowed *read* commands to run without it asking me. Claude Code has a well-designed permissions system - covered more in this deepdive talking with the Claude Code team: https://lnkd.in/e2Hbuy8S)",1622.0,90.0,35,1747.0,2.68,Fortune Teller,AI/ML/Coding Tools,Industry Observation,Observation/Opinion,Text-only,Claude Code is scary good... not just for coding,"Claude Code is scary good... not just for coding
+
+My Finder kept freezing after it grew to 8GB in size. I had no idea why. Restarting did not help. Tu","Claude Code is scary good... not just for coding
+
+My Finder kept freezing after it grew to 8GB in size. I had no idea why. Restarting did not help. Tu",https://www.linkedin.com/posts/gergelyorosz_claude-code-is-scary-good-not-just-for-activity-7377807820412309504-HwCN?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAF9PVtYBn0ayEYj-TCT7SFDq_YLl5UBbV_o,2025-09-27T20:54:17.427Z,idea_legos_alexis,45.0,0.0,606.2,
+"Finally, someone wrote it down in a book:
+
+To understand what is going well/poorly inside your engineering org: ask the devs what this is! Talk to a bunch of them - from different teams, seniority levels etc - and understand what's really going on.
+
+From the excellent new book by Nicole Forsgren and Abi Noda called ""Frictionless""
+
+Arrived yesterday. So far a very timely read.
+
+The book attempts to answer the question: ""AI can generate code in minutes - so why does shipping software still take forever?""
+
+It's a very timely one. As with Accelerate, I think this might also become a classic
+
+You can get the book from its website: https://lnkd.in/enbcjEdP",1515.0,60.0,62,1637.0,2.5,Teacher,Engineering Leadership,Framework/How-To,Observation/Opinion,Text-only,"Finally, someone wrote it down in a book:","Finally, someone wrote it down in a book:
+
+To understand what is going well/poorly inside your engineering org: ask the devs what this is! Talk to a b","Finally, someone wrote it down in a book:
+
+To understand what is going well/poorly inside your engineering org: ask the devs what this is! Talk to a b",https://www.linkedin.com/posts/gergelyorosz_finally-someone-wrote-it-down-in-a-book-activity-7400162033498865664-97g9?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAB7Ric0BnKQ7tSPSuuWqBlA7CQTXt0OjYd0,2025-11-28T13:21:57.148Z,idea_legos_alexis,55.0,0.0,606.2,
+"Ironic: as LLMs make writing much easier, I am finding not more, but less interesting and novel things to read online.
+
+And so I keep paying more attention to the fewer people who still write their original thoughts (without LLMs - you can tell how repetitive / pattern matching it gets with them, including on LinkedIn.)
+
+By “interesting things” I mean when people share their own experiences, connecting the dots, own speculation/analysis etc.
+
+Eg learnings they had on stuff they recently did, and so on.
+
+Anyway, power to those who didn’t forget writing helps you think and reflect as well!
+
+Examples of people who I keep paying attention to thanks to writing about their experiences: Simon Willison and Sean Goedecke on their respective blogs, where they publish regularly: https://simonwillison.net/ and https://lnkd.in/dk7Ywgxm",1504.0,96.0,32,1632.0,2.48,Teacher,AI/ML/Coding Tools,Contrast/But,Observation/Opinion,Text-only,"Ironic: as LLMs make writing much easier, I am finding not more, but less interesting and novel thin","Ironic: as LLMs make writing much easier, I am finding not more, but less interesting and novel things to read online.
+
+And so I keep paying more atte","Ironic: as LLMs make writing much easier, I am finding not more, but less interesting and novel things to read online.
+
+And so I keep paying more atte",https://www.linkedin.com/posts/gergelyorosz_ironic-as-llms-make-writing-much-easier-activity-7366354473910202368-r24p?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADN3fVEB0WfoQ4ScbbnifJnnp6T1Y60M4FY,2025-08-27T06:22:46.828Z,idea_legos_alexis,56.0,0.0,606.2,
+"A product that (almost) everyone uses from mid-sized tech companies and up but I rarely hear talked about: Grafana
+
+In The Pragmatic Engineer  2025 survey, it had about as many mentions as Cursor, and dominates as the answer to ""how do you turn information into graphs."" It had more mentions than Datadog! (the leader in observability, across commercial vendors)
+
+This is Grafana:
+
+It’s open source (and thus free if you’re willing to roll up your sleeves to configure it) and engineering teams at companies like Uber, Cloudflare and many others use it extensively.
+
+(Grafana Labs, like other commercial open source companies also has a managed offering - but the widespread usage comes from teams setting it up themselves, from what I've seen)",1468.0,45.0,44,1557.0,2.42,Teacher,Engineering Leadership,Contrast/But,Observation/Opinion,Text-only,A product that (almost) everyone uses from mid-sized tech companies and up but I rarely hear talked ,"A product that (almost) everyone uses from mid-sized tech companies and up but I rarely hear talked about: Grafana
+
+In The Pragmatic Engineer  2025 su","A product that (almost) everyone uses from mid-sized tech companies and up but I rarely hear talked about: Grafana
+
+In The Pragmatic Engineer  2025 su",https://www.linkedin.com/posts/gergelyorosz_a-product-that-almost-everyone-uses-from-activity-7363464633581473793-ZSFk?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADN3fVEB0WfoQ4ScbbnifJnnp6T1Y60M4FY,2025-08-19T06:59:35.203Z,idea_legos_alexis,58.0,0.0,606.2,
+"So Linear has a 30-minute weekly meeting called ""Quality Wednesdays."" I sat through the last one: just WOW
+
+We went through 17 issues, from massive backend performance wins, to this tiny one, on the image below. Can you see the issue that needed to be fixed?
+
+It was both super casual... devs could really show *anything* that improves the quality or performance of Linear that they fixed. Most devs showed one or two small things. This off-by-one pixel was both found and fixed by Axel Niklasson Yun. Hawk eyes!
+
+It felt like boom-boom-boom-boom. Small fix, neat fix, massive fix, usability fix. The next dev birefly showed what the problem was before, how it's fixed now, and a short summary of what they did, and how they measured it (for performance fixes like rendering times, or resource usage for backend improvements) 
+
+There were some more involved parts, but no time wasted. For example, Kenneth Skovhus spent a few minutes showing how because styled-components *feels* slow, they tried out 3 other frameworks & measured how they compare for build time, JS bundle size, CSS size, and LCP rendering performance.  Based on this, they'll probably move off styled components... mainly for LCP rendering for massive pages to be faster. But it's all tradeoffs. (He actually wrote more about it here: https://lnkd.in/eYTc_m6i)
+
+Or Maciek Pękala showed his fix where for  massive documents when you pressed Tab+F (to search) it took seconds for the search tab to appear because the DOM TreeWalker blocked the UI thread. He made a fix to make it yield, and there are no delays now.
+
+Midway, unexpected (to me!) cofounder and CTO Tuomas Artman also showed his fix for the week. Love seeing hands-on founders, and this is definitely the case at Linear.
+
+The full session was full of energy... pure joy! In the end, we overran by 8 minutes, truth be told, but it was so dense that I don't think anyone minded.
+
+Linear definitely has a unique engineering culture. I previously did a deepdive on this in The Pragmatic Engineer which was paywalled - but now the paywall is removed. If you're interested in how they work, check it out: https://lnkd.in/eqxyrh4M
+
+And if you're building a product, consider doing something like this. Users will be grateful, and as an engineer it's satisfying to fix things!",1381.0,46.0,36,1463.0,2.28,Teacher,Communication,Framework/How-To,Observation/Opinion,Text-only,"So Linear has a 30-minute weekly meeting called ""Quality Wednesdays."" I sat through the last one: ju","So Linear has a 30-minute weekly meeting called ""Quality Wednesdays."" I sat through the last one: just WOW
+
+We went through 17 issues, from massive ba","So Linear has a 30-minute weekly meeting called ""Quality Wednesdays."" I sat through the last one: just WOW
+
+We went through 17 issues, from massive ba",https://www.linkedin.com/posts/gergelyorosz_so-linear-has-a-30-minute-weekly-meeting-activity-7377269920574701569-k7X3?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAF9PVtYBn0ayEYj-TCT7SFDq_YLl5UBbV_o,2025-09-26T09:16:52.112Z,idea_legos_alexis,64.0,0.0,606.2,
+"The positive thing about AI tooling going mainstream and setting expectations high (e.g. ""anyone can build software with AI"") is that a large group will learn what us devs know already:
+
+Creating good software is hard and it's hard to explain to outsiders in a way they understand.
+
+We have millions of non-technical ppl believe that they are equipped to create software that works as they imagined, using AI + vibe coding
+
+...only to crash and burn.
+
+They are now not outsiders, and might be open to understand why software is hard (and how they can get better)
+
+As to why building good software is hard: where do I start?
+
+Because:
+
+- Good software solves a problem people/customers have
+
+- Good software has users and customers
+
+- Good software is not always good code, and good code is not always good software
+
+- Craft and commercial viability are not always connected
+
+- Tech debt is hard to appreciate from the outside, but you feel it every day in the inside
+
+- After a while, code is the trivial part, and everything else (people, the business, politics etc) become the hard parts
+
+... and many, many more things.
+
+If you ever worked as a developer at any company on a software product, you get to learn so many things that are counter-intuitive from the ""outside.""
+
+And don't forget that ""good software"" is very different for a startup looking for product-market fit, a scaleup that found it and needs to grow rapidly, or a stable and mature business that prioritizes keeping existing customers happy vs getting new ones.
+
+Building good software has always been hard, but rewarding when you get it right. I don't think AI changes this - in fact, these tools can create the illusion that it's now easier than before to create it.",1214.0,76.0,88,1378.0,2.0,Teacher,AI/ML/Coding Tools,Personal Experience,List Post,Text-only,"The positive thing about AI tooling going mainstream and setting expectations high (e.g. ""anyone can","The positive thing about AI tooling going mainstream and setting expectations high (e.g. ""anyone can build software with AI"") is that a large group wi","The positive thing about AI tooling going mainstream and setting expectations high (e.g. ""anyone can build software with AI"") is that a large group wi",https://www.linkedin.com/posts/gergelyorosz_the-positive-thing-about-ai-tooling-going-activity-7363993451392049155--Dc6?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADN3fVEB0WfoQ4ScbbnifJnnp6T1Y60M4FY,2025-08-20T18:00:55.194Z,idea_legos_alexis,82.0,0.0,606.2,
+"Another 4 months and this will be my longest-held job (#1 is my tenure at Uber till then)
+
+Comes to show how hard it's predict your career. If you had asked me 5 years ago (when I left Uber) where I see myself in 5 years, I would have listed likely possibilities as:
+
+1. Startup founder or CTO (that was my original plan when leaving Uber!)
+
+2. Back at Big Tech as an engineer or EM 
+
+... writing/researching full-time was not on my bingo list! It's the ""job"" I never thought I'd do, and especially not that so many people would follow along. And yet, it's the best ""job"" I've had so far - one that doesn't feel like a ""job!""
+
+Of course, I couldn't do it without everyone who reads (or listens to) The Pragmatic Engineer and everyone helping with input, observations, and criticism as well - thank you.
+
+Here's to many more years to come with The Pragmatic Engineer!
+
+(I'm writing this in the middle of summarizing all that we've researched about Google's engineering cutlure with Elin Nilsson, after talking with 20+ current and past engineers at Google, spread over 6 months. It's more extensive - and more exciting! - than covered anywhere before, and is coming out tomorrow - you can get it in your inbox by subscribing at https://lnkd.in/grXSBkVw). This is what I mean about work that doesn't feel like ""work"" - because it's so interesting!",1329.0,37.0,2,1368.0,2.19,Fortune Teller,Engineering Career,Data/Numbers,List Post,Text-only,Another 4 months and this will be my longest-held job (#1 is my tenure at Uber till then),"Another 4 months and this will be my longest-held job (#1 is my tenure at Uber till then)
+
+Comes to show how hard it's predict your career. If you had","Another 4 months and this will be my longest-held job (#1 is my tenure at Uber till then)
+
+Comes to show how hard it's predict your career. If you had",https://www.linkedin.com/posts/gergelyorosz_another-4-months-and-this-will-be-my-longest-held-activity-7378380279586959360-40Lk?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAF9PVtYBn0ayEYj-TCT7SFDq_YLl5UBbV_o,2025-09-29T10:49:02.330Z,idea_legos_alexis,69.0,0.0,606.2,
+"One of the most common uses of ""vibe coding"" I'm hearing from professional devs, outside of prototyping:
+
+Building internal-only tools! Where you don't need to worry about security, scalability, malicious usage.
+
+E.g. data visualization / data viewer tools / one-off data analysis or log analysis tools. LLMs are used a lot for this, based on talking with devs! Especially the newer and more capable versions like Claude Code, OpenAI Codex, Cursor Agent Mode etc.
+
+What would have taken ~2 weeks to put together before for a dev - and so it was never done - is now a few prompts and ~30 minutes! And while the code is throwaway (and code quality is unimportant), the utility is absolutely there!",1150.0,167.0,20,1337.0,1.9,Contrarian,AI/ML/Coding Tools,Against Common Wisdom,Observation/Opinion,Text-only,"One of the most common uses of ""vibe coding"" I'm hearing from professional devs, outside of prototyp","One of the most common uses of ""vibe coding"" I'm hearing from professional devs, outside of prototyping:
+
+Building internal-only tools! Where you don'","One of the most common uses of ""vibe coding"" I'm hearing from professional devs, outside of prototyping:
+
+Building internal-only tools! Where you don'",https://www.linkedin.com/posts/gergelyorosz_one-of-the-most-common-uses-of-vibe-coding-activity-7373735342232850433-DBto?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFHqbAgBfu0OaxAJFn61NcjPFel2s48lksk,2025-09-16T15:11:42.966Z,idea_legos_alexis,89.0,0.0,606.2,
+"Two software engineering legends confirmed for The Pragmatic Summit: Martin Fowler and Kent Beck
+
+We'll talk about what past booms+busts taught them, and their take on AI+software engineering: what they see working, and what not so much
+
+11 February, San Francisco. The list of the other standout speakers at the event and tickets: https://lnkd.in/eYTCCX5N
+
+And here is a podcast episode with each of them from earlier this year:
+
+How AI will change software engineering, with Martin Fowler: https://lnkd.in/eCbHyPRA
+
+TDD and AI agents with Kent Beck: https://lnkd.in/e2cqGUqn",1268.0,33.0,35,1336.0,2.09,Teacher,AI/ML/Coding Tools,Framework/How-To,List Post,Text-only,Two software engineering legends confirmed for The Pragmatic Summit: Martin Fowler and Kent Beck,"Two software engineering legends confirmed for The Pragmatic Summit: Martin Fowler and Kent Beck
+
+We'll talk about what past booms+busts taught them, ","Two software engineering legends confirmed for The Pragmatic Summit: Martin Fowler and Kent Beck
+
+We'll talk about what past booms+busts taught them, ",https://www.linkedin.com/posts/gergelyorosz_two-software-engineering-legends-confirmed-activity-7411502966765015041-SlgT?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAC4jc3UBNDwi0iakJa7TE73D10HE7YvXxCo,2025-12-29T20:26:46.343Z,idea_legos_alexis,75.0,0.0,606.2,
+"I'm telling you: GitHub's biggest competitor could soon be Cursor. One hint: Cursor just acquired Graphite. Cursor is playing chess, everyone else is busy with checkers:
+
+Graphite - in my view! - is the best AI code review + stacked diffs + PR workflow product out there (disclaimer: I am [was?] an investor in Graphite - details here: https://lnkd.in/e98J2Bbu). Stacked diffs are an incredibly efficient way to work faster, preferred in larger teams and orgs, which I covered more in this The Pragmatic Engineer deepdive (probably the most quoted one on the topic:) https://lnkd.in/eQXRVmp7
+
+GitHub is already playing catchup to Cursor/Graphite: they will be adding stacked diffs in 2026, years after Graphite has polished this. 
+
+And looking to the future: I am less and less confident that git will be the preferred way to store source code. Git doesn't support metadata like agent trajectories (that are increasingly important to attach to PRs), and was built to satisfy the workflow of Linux kernel development, and not working with AI agents.
+
+If and when a new standard starts to spread: you can bet that Cursor will be natively supporting it - or perhaps they'll create whatever this will be!",1249.0,61.0,25,1335.0,2.06,Teacher,Engineering Leadership,Framework/How-To,Observation/Opinion,Text-only,I'm telling you: GitHub's biggest competitor could soon be Cursor. One hint: Cursor just acquired Gr,"I'm telling you: GitHub's biggest competitor could soon be Cursor. One hint: Cursor just acquired Graphite. Cursor is playing chess, everyone else is ","I'm telling you: GitHub's biggest competitor could soon be Cursor. One hint: Cursor just acquired Graphite. Cursor is playing chess, everyone else is ",https://www.linkedin.com/posts/gergelyorosz_im-telling-you-githubs-biggest-competitor-activity-7407918670104010752-7wcU?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAB6zBnsByR2SpB-9Y_3GrvTtb3_w-yUBRm8,2025-12-19T23:04:03.426Z,idea_legos_alexis,76.0,0.0,606.2,
+"One of the best staff-level engineers I worked with is on the market. Their job search is completely different than almost all job searches:
+
+This is not someone who will fire off a single job application, or reply to any LinkedIn InMail or other message. He already has interviews scheduled with companies where several of his ex-teammates work, and heard that he is looking for his next job. Even if their company is not hiring or doesn't currently need the expertise he brings, they convinced leadership to create space for him.
+
+What you need to know about this person: every team he's ever worked on, he did standout work, in every situation. He got stuff done with high quality, helped others, is not argumentative but is firm in holding up common sense and practicality, and is very curious and humble to top all of this off.
+
+All of his peers liked him on his team. Whenever he worked with another team, engineers and engineering managers on that team got to like him. When we were in org-wide calibration sessions with around 100 people at his level, he was regularly in the ""top top"" bucket (reserved usually for 5% or less of the population) and did this without playing any time of ""political games"" or caring about influence. His manager was junior enough of a manager that they didn’t have the influence to ""push"" to get this kind out outcome: it was several more influential managers, aware of his work, who also concluded that his impact and attitude put him ahead of even their own team members (performance calibrations can be messy and political, I wrote about this at https://lnkd.in/eaavg4h6)
+
+I hate the term ""10x engineer"" but this engineer is a role model for what a standout engineer is - in fact, some of my writing of standout engineers reference my interactions with folks like him (e.g. my article on the product-minded engineer, this one: https://lnkd.in/et7nWBgW)
+
+And still, from the outside, this engineer is near completely invisible.
+
+He has no social media footprint. His LinkedIn lists his companies he worked at, and nothing else: no technologies, no projects, nothing. His GitHub is empty for the last 5 years, and has perhaps a dozen commits throughout the last 10 (the below is screenshot of his actual GitHub profile).
+
+The only people who know how good he is are those who worked with him (or worked with someone who worked with him.)
+
+He still has to do the same interviews that everyone else does (because no decent company allows even the best hires to bypass the standard process), but thanks to his professional reputation built up inside companies, he is unlikely to have to do the job search that almost everyone has to go through. Well over a decade of standout work can lead here.
+
+(Thank you for all the comments and DMs asking if this person would be interested in job X at location Y - that's the point. No they would not! They already have great options at companies where they know current engineers/leaders from years of working together)",1164.0,84.0,23,1271.0,1.92,Magician,Engineering Career,Personal Experience,Observation/Opinion,Text-only,One of the best staff-level engineers I worked with is on the market. Their job search is completely,"One of the best staff-level engineers I worked with is on the market. Their job search is completely different than almost all job searches:
+
+This is ","One of the best staff-level engineers I worked with is on the market. Their job search is completely different than almost all job searches:
+
+This is ",https://www.linkedin.com/posts/gergelyorosz_one-of-the-best-staff-level-engineers-i-worked-activity-7381615884282462209-vVVS?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAC4jc3UBNDwi0iakJa7TE73D10HE7YvXxCo,2025-10-08T09:06:10.604Z,idea_legos_alexis,88.0,0.0,606.2,
+"I didn't believe it until I saw it: but it *really* works in open offices! And you cannot even hear devs ""whispering.""
+
+This is ML engineer Menoua Keshishian at Wispr Flow HQ, in SF, coding... by whispering to Cursor Agent using his mic (a BOYA Gooseneck that costs ~$70).
+
+I was standing next to him and heard nothing. Everyone in the office does the same.
+
+I have no affiliation with Wispr Flow (this post is not paid, I have no form of financial ties or other etc) - but saw devs like Arvid Kahl use it and swear by it. So I also gave it a go, and it slowly is growing on me for agentic coding (when more context for the agent is more helpful than less). The setup is super clever: you press and hold a usually rarey used button (the fn button on the Mac) and then Wispr ""listens"" and when you stop, it insers the *meaning* of what you said (not the exact transcript!). When you ramble and self-correct, it gets it right most of the time!
+
+So when I was in SF, I stopped at their offices to say hi to the team and learn more.
+
+CEO and cofounder Tanay Kothari told me that based on their data of 20K users anonymously analyzed, devs who use Wispr do 18% ""whispering"" (vs 82% typing) in month 1, and 72% ""whispering"" (vs 28% typing) in month 5, and it grows almost linearly until that point.
+
+It's an interesting new trend, and AI agents are the reason it works.
+
+I shared more details in a summary of my trip to SF, and interesting startups I met: https://lnkd.in/eGZscGXj
+
+Update: in the comments, see notes on how whispering strains vocal cords as much as shouting - keep that in mind! My use case is I am alone in my room and talk with normal voice to the agent, similar to how James Stanier shared below. Perhaps this setup works better for those working remote / in a separate space?",1109.0,106.0,43,1258.0,1.83,Teacher,AI/ML/Coding Tools,Contrast/But,Story,Text-only,I didn't believe it until I saw it: but it *really* works in open offices! And you cannot even hear ,"I didn't believe it until I saw it: but it *really* works in open offices! And you cannot even hear devs ""whispering.""
+
+This is ML engineer Menoua Kes","I didn't believe it until I saw it: but it *really* works in open offices! And you cannot even hear devs ""whispering.""
+
+This is ML engineer Menoua Kes",https://www.linkedin.com/posts/gergelyorosz_i-didnt-believe-it-until-i-saw-it-but-it-activity-7389306027000774656-u0r8?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADw0mRYBSQhH_XZIMc99PusHGtWd6FiGizw,2025-10-29T14:24:03.504Z,idea_legos_alexis,98.0,0.0,606.2,
+"Models suddenly getting good enough to write most of my code - which I am now prompting - creates complicated feelings.
+
+It took a long time to get good at coding. And it's not easy. Plus, there was something special about being in ""the zone.""
+
+Full: https://lnkd.in/efYseduE
+
+My longer analysis on what happens to software engineering, as a profession, if and when AI writes most of the code: https://lnkd.in/ebsWNCZm",1083.0,108.0,62,1253.0,1.79,Teacher,AI/ML/Coding Tools,Framework/How-To,Observation/Opinion,Text-only,Models suddenly getting good enough to write most of my code - which I am now prompting - creates co,"Models suddenly getting good enough to write most of my code - which I am now prompting - creates complicated feelings.
+
+It took a long time to get go","Models suddenly getting good enough to write most of my code - which I am now prompting - creates complicated feelings.
+
+It took a long time to get go",https://www.linkedin.com/posts/gergelyorosz_models-suddenly-getting-good-enough-to-write-activity-7414742211155775488-ec7U?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAC4jc3UBNDwi0iakJa7TE73D10HE7YvXxCo,2026-01-07T18:58:22.388Z,idea_legos_alexis,100.0,0.0,606.2,
+"Legendary use case for Claude Code I’ve just heard:
+
+“It managed to uninstall all Adobe products from my Mac by telling Claude Code to do this. Took a bunch of tokens but was so worth it!”
+
+The quote came from Balint Orosz (my brother!) who got tired of seeing Adobe processes show up in Activity Monitor taking up memory and is using Claude Code a lot these days.
+
+Genius!
+
+(Adobe’s Creative Cloud software was made to be ‘sticky’ and extremely hard to remove: it keeps re-spawning itself if any Adobe product is installed and keeps and hogging resources, and there’s no simple way to uninstall it. It’s a running joke how it’s near impossible to get rid of. Adobe’s official guide says “Adobe doesn't recommend that you uninstall the Adobe Creative Cloud desktop app.”)
+
+Btw here's a podcast I did with Balint: he is an unusually ""design-minded engineer"": https://lnkd.in/eJWZKsm7",1146.0,59.0,28,1233.0,1.89,Teacher,AI/ML/Coding Tools,Contrast/But,Observation/Opinion,Text-only,Legendary use case for Claude Code I’ve just heard:,"Legendary use case for Claude Code I’ve just heard:
+
+“It managed to uninstall all Adobe products from my Mac by telling Claude Code to do this. Took a","Legendary use case for Claude Code I’ve just heard:
+
+“It managed to uninstall all Adobe products from my Mac by telling Claude Code to do this. Took a",https://www.linkedin.com/posts/gergelyorosz_legendary-use-case-for-claude-code-ive-just-activity-7361263887268077568--0Aj?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACaQac4B7smk15K3Q6ejc5vfuuolWlq_AmU,2025-08-13T05:14:36.394Z,idea_legos_alexis,90.0,0.0,606.2,
+"Gartner has been out of touch with tech analysis, and their latest report on AI coding assistants shows just how much:
+
+1. They rank Amazon, GitLab, GCP, Windsurf all above Cursor. WTF?
+
+In reality: companies I talk to (large and small) are choosing to go with Cursor, after careful evaluation. One example: Cloud Kitchens evaluated both Windsurf and Cursor; ditched Windsurf (and Devin!) and are going with Cursor. They detailed their evaluation: https://lnkd.in/eFnRfEZ6
+
+I've yet to hear a single company choose Amazon Q or Kiro, or Gemni CLI or Juni over Cursor... and don't think that Amazon or ""Google Cloud"" have any Cursor alternatives (though Gemini CLI is promising, but miles behind Claude Code). Which brings me to my next WTF:
+
+2. No mention of Claude Code or OpenAI Codex. WTF??
+
+Really? For an August 2025 report? Claude Code took the industry by a storm, and OpenAI Codex is also picking up. (Safe to assume neither OpenAI nor Anthropic pay Gartner - a year ago, when Cursor was taking the industry by a storm, Gartner also ""forgot"" them off the list)
+
+3. Conflict of interests in the report that Gartner does not disclose. WTF?
+
+Cursor pays Gartner nothing to be in the report: but others do! Several companies mentioned in the report much more favorably than Cursor - with a product that is worse! - pay Gartner heavy money to talk to Garnter analysts and rank higher up on this chart. This starts at $50K/year, but the more you pay, the more you can ""influence"" analysts.
+
+One company that definitely pays Gartner is GitLab: they can offer the report because you HAVE to pay Gartner to even share a report you can brag about. Which is what they do: https://lnkd.in/eXt6q-nd 
+
+(Is it a coincidence that GitLab is also, conveiently ranked above Cursor? Or that Gartner doesn't mention which companies pay them, and which ones don't?)
+
+The cherry on the top: to get access to the Garnter study, it will start at around $50K/year/seat. Yes, really!
+
+Here's a free report on what tools software engineers *actually* use, where no vendors paid to be covered, in The Pragmatic Engineer: https://lnkd.in/eB-ziSYi
+
+Frankly, Gartner is becoming embarrassing. Anyone making decisions based on their reports deserves to choose subpar products, to be fair.
+
+(And for one more example on the analysis quality of The Pragmatic Engineer vs Gartner, check out this analysis from 2023 that went head-on-head with Gartner on cloud development environments, but covered a lot more alternatives, with none of them paying for coverage. I heard it's a lot more detailed than Gartner's $50K report: https://lnkd.in/ekmP49DX )",1054.0,126.0,51,1231.0,1.74,Teacher,AI/ML/Coding Tools,Framework/How-To,List Post,Text-only,"Gartner has been out of touch with tech analysis, and their latest report on AI coding assistants sh","Gartner has been out of touch with tech analysis, and their latest report on AI coding assistants shows just how much:
+
+1. They rank Amazon, GitLab, G","Gartner has been out of touch with tech analysis, and their latest report on AI coding assistants shows just how much:
+
+1. They rank Amazon, GitLab, G",https://www.linkedin.com/posts/gergelyorosz_gartner-has-been-out-of-touch-with-tech-analysis-activity-7374374378240786432-9WsQ?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFHqbAgBfu0OaxAJFn61NcjPFel2s48lksk,2025-09-18T09:31:01.023Z,idea_legos_alexis,103.0,0.0,606.2,
+"Tomorrow - podcast episode with Martin Fowler dropping in The Pragmatic Engineer Podcast!
+
+(Subscribe to the podcast in your goto player, or here, to not miss it: https://lnkd.in/ed5Pkqsd )
+
+Update: the episode is out!! https://lnkd.in/eCbHyPRA",1135.0,23.0,6,1164.0,1.87,Teacher,Software Engineering,Framework/How-To,Short Punch,Text-only,Tomorrow - podcast episode with Martin Fowler dropping in The Pragmatic Engineer Podcast!,"Tomorrow - podcast episode with Martin Fowler dropping in The Pragmatic Engineer Podcast!
+
+(Subscribe to the podcast in your goto player, or here, to ","Tomorrow - podcast episode with Martin Fowler dropping in The Pragmatic Engineer Podcast!
+
+(Subscribe to the podcast in your goto player, or here, to ",https://www.linkedin.com/posts/gergelyorosz_tomorrow-podcast-episode-with-martin-fowler-activity-7396675108368494592-I9cW?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFQtbscBR0jl8XDw0uqbocpzD1eHL7ZCUmc,2025-11-18T22:26:09.413Z,idea_legos_alexis,95.0,0.0,606.2,
+"An anon poster pretended to be an UberEats software engineer, and baited the internet to believe something completely false:
+
+This Reddit thread claiming that a ""major food delivery app"" is pocketing priority fees and driver benefit fees blew up a few days ago: https://lnkd.in/eFG7M3Vr
+
+It got the attention of journalist Casey Newton (at Platformer.) Casey reached out, and started chatting with this person over Signal. He asked for evidence of the claims, and got a photo of the UberEats badge of this ""whistleblower"" and a 14-page supposedly internal document uncovering damning things.
+
+Except the badge is absolutely fake and AI-generated, as is the document! I know, because I worked at Uber, still meet with people who work at Uber and the badge has not changed, and looks nothing like the one on the photo. There is no ""UberEats"" badge; it is not green; the title is obviously not on the badge (if it was, a new badge would need to be issued on every promotion). (I would upload my own badge that I still have - but now I worry that doing so would make it easier for the next troll to create a more realistic badge, and eventually fool a less careful journalist!)
+
+Casey figured out he is being baited and fed AI-generated documents, and confronted this poster: who then simply deleted their Signal account. A lot longer post by Casey with all the details, and the fake 14-page, AI-generated document: https://lnkd.in/euQGqV6e
+
+The problem is how it took this baiter a few minutes to generate plausible sounding lies, but hours for a journalist to figure out it's all fake... and the lie keeps spreading online. As Casey put it so well:
+
+""The rapid spread of the whistleblower’s post illustrated yet another maxim they taught us in J-school: A lie can travel halfway around the world before the truth can get its boots on. With AI tools at their fingertips, hoaxsters can make those lies travel even faster.""
+
+(All other claims were also false, as confirmed by Uber and DoorDash. If there was a whisper of truth in it, you can bet real whistleblowers would come out: there are thousands of people working at each company, and even more ex-employees who would say something if there was an ounce of truth in it...)",1049.0,75.0,35,1159.0,1.73,Teacher,AI/ML/Coding Tools,Framework/How-To,Observation/Opinion,Text-only,"An anon poster pretended to be an UberEats software engineer, and baited the internet to believe som","An anon poster pretended to be an UberEats software engineer, and baited the internet to believe something completely false:
+
+This Reddit thread claim","An anon poster pretended to be an UberEats software engineer, and baited the internet to believe something completely false:
+
+This Reddit thread claim",https://www.linkedin.com/posts/gergelyorosz_an-anon-poster-pretended-to-be-an-ubereats-activity-7414248891782467584-dTxp?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAC4jc3UBNDwi0iakJa7TE73D10HE7YvXxCo,2026-01-06T10:18:05.884Z,idea_legos_alexis,104.0,0.0,606.2,
+"A worrying trend: AI startups in the US are pushing extreme working hours, similar to the ""996"" work structure in China. This doesn't feel that it will lead to anything good - but the mix of the promise of riches and a sense of urgency about ""AGI"" and more startups doing it is making this work setup more popular.
+
+If it was my first-ever job and I had no family and did not care for the health impact of poor sleep and overwork: sure, I'd do it. Today I see that this would be silly: the more I work without breaks, the worse my work gets.
+
+Food for thought that some of the startups that advocate for the most work are seeing pretty disappointing outcomes, like AI ad maker Icon (that opted for 7 days a week work week, just to see themselves pivoting to becoming an ads agency).
+
+More of my thoughts in today's The Pragmatic Engineer issue on this: https://lnkd.in/e7xnZeAP",920.0,175.0,44,1139.0,1.52,Fortune Teller,Engineering Career,Contrast/But,Observation/Opinion,Text-only,"A worrying trend: AI startups in the US are pushing extreme working hours, similar to the ""996"" work","A worrying trend: AI startups in the US are pushing extreme working hours, similar to the ""996"" work structure in China. This doesn't feel that it wil","A worrying trend: AI startups in the US are pushing extreme working hours, similar to the ""996"" work structure in China. This doesn't feel that it wil",https://www.linkedin.com/posts/gergelyorosz_a-worrying-trend-ai-startups-in-the-us-are-activity-7361842181063548928-yLNj?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADN3fVEB0WfoQ4ScbbnifJnnp6T1Y60M4FY,2025-08-14T19:32:32.379Z,idea_legos_alexis,124.0,0.0,606.2,
+"This is very unusual/weird: average tenure at Big Tech is dramatically increasing since 2023. But why?
+
+Two possible explanations:
+
+1. Big Tech software engineers might be less likely to change jobs than before. Perhaps because of the poor job market, or perhaps because it's harder to get comparable job offers.
+
+2. A hiring slowdown across all of Big Tech. From a commenter on The Pragmatic Engineer:
+
+""Previously, big tech average tenure hovered around 1.5-3 years, not because people were churning jobs that frequently, but because tech companies were hiring at an exponentially growing rate (+20-25% year over year) for so many years in a row. In such an environment, the vast majority of employees are actually new hires, and even when there is zero attrition, the average tenure would still be a very low 2-3 years.""
+
+This is one of several interesting findings about the tech jobs market in 2025, from today's The Pragmatic Engineer deepdive. Read the full issue here: https://lnkd.in/eye2TA6T",913.0,109.0,25,1047.0,1.51,Fortune Teller,Engineering Career,Contrast/But,List Post,Text-only,This is very unusual/weird: average tenure at Big Tech is dramatically increasing since 2023. But wh,"This is very unusual/weird: average tenure at Big Tech is dramatically increasing since 2023. But why?
+
+Two possible explanations:
+
+1. Big Tech softwa","This is very unusual/weird: average tenure at Big Tech is dramatically increasing since 2023. But why?
+
+Two possible explanations:
+
+1. Big Tech softwa",https://www.linkedin.com/posts/gergelyorosz_this-is-very-unusualweird-average-tenure-activity-7368704606262046720-r-Yd?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADN3fVEB0WfoQ4ScbbnifJnnp6T1Y60M4FY,2025-09-02T18:01:22.044Z,idea_legos_alexis,125.0,0.0,606.2,
+"I recently learned that OpenAI has started to hire junior software engineers... and it's working GREAT for them:
+
+Here's what Sulman Choudhry (Head of ChatGPT Engineering) told me: he and the team have been very pleasantly surprised by how the junior engineers they hire are basically ""super junior"" engineers, who end up teaching the rest of the team ways to use AI tools in new ways, oftentimes more efficiently (and are very fast learners - probably partially because of using AI as well!)
+
+Below is an amusing story that highlights how this new generation thinks a lot more ""AI-native"" in how they solve problems... to the point that it surprises even experienced engineers.
+
+The companies that have stopped hiring juniors could well be missing out on exactly this type of energy spreading!
+
+Read more in this week's The Pragmatic Engineer deepdive here: https://lnkd.in/eGZscGXj
+
+Update: my point with all this is not about OpenAI: it's that the whole ""companies should not hire juniors because of X or Y"" (which has been a recurring theme since 2020 to today) just probably don't make that much sense when you look at the bigger picture? A balanced team almost always works better. Companies like OpenAI can afford to only hire senior people (and did it for a long time!) and are learning the same. Same with eg Netflix (who are now hiring new grads!), Shopify (hiring 1,000 interns per year) etc",905.0,70.0,54,1029.0,1.49,Teacher,Engineering Leadership,Personal Experience,Story,Text-only,I recently learned that OpenAI has started to hire junior software engineers... and it's working GRE,"I recently learned that OpenAI has started to hire junior software engineers... and it's working GREAT for them:
+
+Here's what Sulman Choudhry (Head of","I recently learned that OpenAI has started to hire junior software engineers... and it's working GREAT for them:
+
+Here's what Sulman Choudhry (Head of",https://www.linkedin.com/posts/gergelyorosz_i-recently-learned-that-openai-has-started-activity-7389969609317109760-HXHB?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADw0mRYBSQhH_XZIMc99PusHGtWd6FiGizw,2025-10-31T10:20:53.857Z,idea_legos_alexis,127.0,0.0,606.2,
+"Talked with the Claude Code team on how they build Claude Code. Interesting things I've not seen elsewhere:
+
+- 90% of the code in Claude Code was written by Claude Code, and closer 100% of tests
+
+- Some pretty important features were vibe coded with Claude Code... like the rendering engine that translates Markdown to the UI (Claude returns Markdown!)
+
+- Engineers, on average, merge 5 pull requests per day (this is high!!)
+
+- The last year, the engineering team's size doubled at Anthropic. The PR throughput (PRs per engineer, per day) instead of going down or staying the same... went up by 67%! This was the same time when every dev inside Anthropic started to use Claude Code
+
+- Mockups feel like a thing of the past when you can build 5-10 working prototypes per day. And this is what the team is doing - we go into a specific example with ~20 prototypes over 2 days.
+
+The deepdive in today's The Pragmatic Engineer is here: https://lnkd.in/eBvzDmRK 
+
+Thanks a lot to founding Claude Code engineers Boris Cherny and Sid Bidasaria, and founding PM Catherine Wu for talking with me!",909.0,60.0,57,1026.0,1.5,Teacher,Engineering Leadership,Data/Numbers,List Post,Text-only,Talked with the Claude Code team on how they build Claude Code. Interesting things I've not seen els,"Talked with the Claude Code team on how they build Claude Code. Interesting things I've not seen elsewhere:
+
+- 90% of the code in Claude Code was writ","Talked with the Claude Code team on how they build Claude Code. Interesting things I've not seen elsewhere:
+
+- 90% of the code in Claude Code was writ",https://www.linkedin.com/posts/gergelyorosz_talked-with-the-claude-code-team-on-how-they-activity-7376326176442642432-IkxU?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAF9PVtYBn0ayEYj-TCT7SFDq_YLl5UBbV_o,2025-09-23T18:46:45.977Z,idea_legos_alexis,126.0,0.0,606.2,
+"LinkedIn feels really desperate trying to upsell AI products, everywhere, and I am hating it. “Rewrite with AI” on the bottom of my every post - and so my LI feed is full of AI slop and AI comments on most of my posts from people who hit this button and now have the most bland text with zero value add that consider spam (and block when I see it - not interested in AI output)
+
+Now it’s recommending doing hiring with AI - when LinkedIn Jobs inbound is already flooded with AI applications and thus mostly useless as I hear from hiring managers who are looking for new channels and start to rely more on referrals and sourcers (recruiters reaching out to real candidates).
+
+As I concluded in the State of the software engineering jobs market 2025 report, based on input from 30+ hiring managers: “LinkedIn Jobs is the home of low-quality inbound applications, and is being abandoned by some companies.” The deepdive: https://lnkd.in/eeGSFQFQ
+
+You’d think LinkedIn’s main value would be to remain a network where it’s mostly humans here - and yet they are pushing hard to make this a place dominated by AI, everywhere you look.
+
+(Btw its especially annoying how even as a paying user I cannot turn off the “rewrite by AI” button. I don’t use, won’t use it, don’t want to use it - why are you pushing this junk to people who don’t want it, LinkedIn?)",855.0,126.0,20,1001.0,1.41,Fortune Teller,Engineering Career,Industry Observation,Story,Text-only,"LinkedIn feels really desperate trying to upsell AI products, everywhere, and I am hating it. “Rewri","LinkedIn feels really desperate trying to upsell AI products, everywhere, and I am hating it. “Rewrite with AI” on the bottom of my every post - and s","LinkedIn feels really desperate trying to upsell AI products, everywhere, and I am hating it. “Rewrite with AI” on the bottom of my every post - and s",https://www.linkedin.com/posts/gergelyorosz_linkedin-feels-really-desperate-trying-to-activity-7404453984096264192-gs21?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAB6zBnsByR2SpB-9Y_3GrvTtb3_w-yUBRm8,2025-12-10T09:36:37.911Z,idea_legos_alexis,138.0,0.0,606.2,
+"The story of how ""AI"" made me use an LLM in addition to my existing SaaS subscription (Grammarly) because of how this SaaS failed at the core task I pay for:
+
+As context, recently more typos made it into The Pragmatic Engineer: sorry about this! I was confused how this keeps happening, because we do 2 rounds of manual edits with my editor, and then a final spellcheck with Grammarly. And yet, typos in company names or product names kept getting through!
+
+Well, turns out that Grammarly does not flag typos in e.g. ""ChatGTP"" (see the typo?) or company names.
+
+If we would be talking about a 1990s spell checker, I could make this pass, because these are words that are not in a dictionary. But Grammarly claims to be AI-powered!
+
+Curiously, all other LLMs (Claude, Gemini etc) all find the spelling errors that Grammarly cannot spot.
+
+And this is the story of how we changed our final spell check from Grammarly (that doesn't do its job, when this is its only job!) to a general-purpose LLM that does it (when this is not even its job, it's just good at it).
+
+I was a paying customer for Grammarly for 5+ years, and this was disappointing. The final check with a tool to filter out typos left in the text will now happen with Claude or Gemini.
+
+""AI"" is not replacing SaaS businesses: but SaaS businesses that do not keep up with capabilities general LLMs already could well lose customers.
+
+Update: thanks to Grammarly CEO Shishir Mehrotra for his response below, in the first comment.",830.0,106.0,16,952.0,1.37,Teacher,AI/ML/Coding Tools,Framework/How-To,Story,Text-only,"The story of how ""AI"" made me use an LLM in addition to my existing SaaS subscription (Grammarly) be","The story of how ""AI"" made me use an LLM in addition to my existing SaaS subscription (Grammarly) because of how this SaaS failed at the core task I p","The story of how ""AI"" made me use an LLM in addition to my existing SaaS subscription (Grammarly) because of how this SaaS failed at the core task I p",https://www.linkedin.com/posts/gergelyorosz_the-story-of-how-ai-made-me-use-an-llm-activity-7361669063053303808-qBnD?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADN3fVEB0WfoQ4ScbbnifJnnp6T1Y60M4FY,2025-08-14T08:04:37.829Z,idea_legos_alexis,144.0,0.0,606.2,
+"So much talk about using AI coding to generate software from scratch. Yet when I talk with professional devs, the single best use case is...
+
+...migrations! And it's very useful there, saves a bunch of time, and devs are happy to use it.
+
+Just an amusing reminder that what you see talked about in the press/media/social media is not really the reality of many devs. And how more ""niche"" use cases are becoming really helpful for these AI coding tools.
+
+(will cover more on this in The Pragmatic Engineer soon)",832.0,73.0,20,925.0,1.37,Fortune Teller,AI/ML/Coding Tools,Personal Experience,Story,Text-only,So much talk about using AI coding to generate software from scratch. Yet when I talk with professio,"So much talk about using AI coding to generate software from scratch. Yet when I talk with professional devs, the single best use case is...
+
+...migra","So much talk about using AI coding to generate software from scratch. Yet when I talk with professional devs, the single best use case is...
+
+...migra",https://www.linkedin.com/posts/gergelyorosz_so-much-talk-about-using-ai-coding-to-generate-activity-7371822241673662466-Qk9f?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFHqbAgBfu0OaxAJFn61NcjPFel2s48lksk,2025-09-11T08:29:44.249Z,idea_legos_alexis,143.0,0.0,606.2,
+"Asked a few companies how they hire FDEs (forward deployed engineers). Head this article from Alexandr Wang referenced a few times as what worked well:
+
+The full article from Alexandr with details on how he looked for signs of people ""who give a shit"": https://lnkd.in/e39fyPE8",819.0,40.0,44,903.0,1.35,Teacher,AI/ML/Coding Tools,Framework/How-To,Short Punch,Text-only,Asked a few companies how they hire FDEs (forward deployed engineers). Head this article from Alexan,Asked a few companies how they hire FDEs (forward deployed engineers). Head this article from Alexandr Wang referenced a few times as what worked well,Asked a few companies how they hire FDEs (forward deployed engineers). Head this article from Alexandr Wang referenced a few times as what worked well,https://www.linkedin.com/posts/gergelyorosz_asked-a-few-companies-how-they-hire-fdes-activity-7359642957362143232-RN65?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACaQac4B7smk15K3Q6ejc5vfuuolWlq_AmU,2025-08-08T17:53:36.589Z,idea_legos_alexis,149.0,0.0,606.2,
+"One month ago, I analyzed the impact of Section 174 reversed by the US government, closing with ""I expect US companies to hire more in the US, and less outside of it.""
+
+One month later (today), The Wall Street Journal ran a report that confirms these expectations with additional data.
+
+My analysis, published on 10 July: https://lnkd.in/eVhVPTjg
+
+The WSJ today: https://lnkd.in/eWvK2FrZ
+
+It's not the first time that The Pragmatic Engineer analyzes trends weeks or months before mainstream media covers comes to the same conclusion: here are more examples of the same: https://lnkd.in/eGfcFusk
+
+Not bad for a one-person publication (though one that is hyperfocused on the software engineering field!)",789.0,27.0,18,834.0,1.3,Teacher,AI/ML/Coding Tools,Personal Experience,Observation/Opinion,Text-only,"One month ago, I analyzed the impact of Section 174 reversed by the US government, closing with ""I e","One month ago, I analyzed the impact of Section 174 reversed by the US government, closing with ""I expect US companies to hire more in the US, and les","One month ago, I analyzed the impact of Section 174 reversed by the US government, closing with ""I expect US companies to hire more in the US, and les",https://www.linkedin.com/posts/gergelyorosz_one-month-ago-i-analyzed-the-impact-of-section-activity-7361445813895458817-Isvu?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADN3fVEB0WfoQ4ScbbnifJnnp6T1Y60M4FY,2025-08-13T17:17:31.082Z,idea_legos_alexis,161.0,0.0,606.2,
+"Pinch me: my book is this week's best-seller in Japan's largest book store:
+
+The photo is from Kinokuniya Shinjuku, the flagship bookstore complex in the Shinjuku district of Tokyo. It is probably the most famous and historic book retailer in Japan. It's a multi-floor shop with a massive selection, known for its wide range of specialized books. You can see two copies of The Software Engineer's Guidebook on the top shelf on the picture.
+
+The Japanese version of The Software Engineer's Guidebook launched two weeks ago, translated by Ryuichi Kubuki (thank you for the phenomenal work!) published by O'Reilly Japan. O’Reilly told me that the book was temporarily out of stock for a few days, thanks to stronger-than-expected demand.
+
+I love how the book's cover is very different from the English version - though if you zoom in you can see ""The Software Engineer's Guidebook"" in English showing up on the left side of the book.
+
+If you live in Japan, you can order the book on Amazon Japan and find it in book stores: https://lnkd.in/e7FE2EXB
+
+And also on the best seller list - and on the bottom right part of the photo - is  the Japanese version of the excellent AI Engineering book by Chip Huyen! Chip's book is a masterpiece, I recommend it to anyone and everyone who would like to get up to speed on building on top of LLMs.",724.0,30.0,2,756.0,1.19,Teacher,AI/ML/Coding Tools,Framework/How-To,Observation/Opinion,Text-only,Pinch me: my book is this week's best-seller in Japan's largest book store:,"Pinch me: my book is this week's best-seller in Japan's largest book store:
+
+The photo is from Kinokuniya Shinjuku, the flagship bookstore complex in ","Pinch me: my book is this week's best-seller in Japan's largest book store:
+
+The photo is from Kinokuniya Shinjuku, the flagship bookstore complex in ",https://www.linkedin.com/posts/gergelyorosz_pinch-me-my-book-is-this-weeks-best-seller-activity-7404595566162366464-eq2O?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAB6zBnsByR2SpB-9Y_3GrvTtb3_w-yUBRm8,2025-12-10T18:59:13.706Z,idea_legos_alexis,179.0,0.0,606.2,
+"What signing ~500 books looks like 😅
+
+(I’m in Warsaw, Poland, at WAWTECH. Will be both singing more and giving them away at the Netflix booth tomorrow!)",645.0,21.0,2,668.0,1.06,Teacher,Tech Industry,Framework/How-To,Short Punch,Text-only,What signing ~500 books looks like 😅,"What signing ~500 books looks like 😅
+
+(I’m in Warsaw, Poland, at WAWTECH. Will be both singing more and giving them away at the Netflix booth tomorrow","What signing ~500 books looks like 😅
+
+(I’m in Warsaw, Poland, at WAWTECH. Will be both singing more and giving them away at the Netflix booth tomorrow",https://www.linkedin.com/posts/gergelyorosz_what-signing-500-books-looks-like-i-activity-7406378127452475392-n6oJ?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAB6zBnsByR2SpB-9Y_3GrvTtb3_w-yUBRm8,2025-12-15T17:02:29.436Z,idea_legos_alexis,205.0,0.0,606.2,
+"Upcoming guests on The Pragmatic Engineer Podcast:
+
+Armin Ronacher (creator of Flask, early engineer at Sentry, now building an AI startup)
+
+Elizabeth Stone (CTO at Netflix)
+
+Chris Lattner (creator of Swift, LLVM, Mojo and many others)
+
+Bryan Cantrill (cofounder and CTO at Oxide Computer Company, formerly at Sun)
+
+Addy Osmani (building Chrome for 10+ years, author of Beyond Vibe Coding and many other books)
+
+Michelle Lim (founding engineer at Warp, now a founder) 
+
+Johannes Dahse (15+ years of code security, currently VP of Code Security at Sonar)
+
+... and more to come!
+
+Really excited to get these episodes to you. Check out the past ones here: 
+https://lnkd.in/e-HZRYmc or on YouTube: https://lnkd.in/eBrDKCME",588.0,20.0,3,611.0,0.97,Teacher,AI/ML/Coding Tools,Framework/How-To,Observation/Opinion,Text-only,Upcoming guests on The Pragmatic Engineer Podcast:,"Upcoming guests on The Pragmatic Engineer Podcast:
+
+Armin Ronacher (creator of Flask, early engineer at Sentry, now building an AI startup)
+
+Elizabeth","Upcoming guests on The Pragmatic Engineer Podcast:
+
+Armin Ronacher (creator of Flask, early engineer at Sentry, now building an AI startup)
+
+Elizabeth",https://www.linkedin.com/posts/gergelyorosz_upcoming-guests-on-the-pragmatic-engineer-activity-7380205022300569600-haOL?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAC4jc3UBNDwi0iakJa7TE73D10HE7YvXxCo,2025-10-04T11:39:54.895Z,idea_legos_alexis,276.0,0.0,606.2,
+"This was a fun interview to do, and I enjoyed getting to know Gergely. He's a terrific interviewer and did an amazing job on the production of this video.",119.0,8.0,5,,,Teacher,Product/Growth,Insight/Observation,Setup → Punchline,Text-only,"This was a fun interview to do, and I enjoyed getting to know Gergely. He's a terrific interviewer and did an amazing job on the production of this vi","This was a fun interview to do, and I enjoyed getting to know Gergely. He's a terrific interviewer and did an amazing job on the production of this vi",,,,dataset_alexis_dataset,,,,

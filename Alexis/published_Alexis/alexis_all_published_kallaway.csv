@@ -1,0 +1,876 @@
+rank,date,author,likes,comments,shares,total_engagement,hook_type,topic,angle,structure,first_line,full_text,url,image_url,is_original_alexis,matched_draft,draft_path
+1,2025-12-08,UNKNOWN,688,44,28,760,Contrarian,Engineering/Technical,Contrarian/Challenge,Story → Lesson,Data scientists blame data engineers for broken data.,"Data scientists blame data engineers for broken data.
+Data engineers blame scientists for unrealistic requests.
+And both teams are about to get replaced by AI.
+
+At least that's the fear.
+But here's what's actually happening:
+
+LLMs integrated with semantic layers hit near-perfect accuracy.
+LLMs without them? Around 80% hallucination rates.
+
+Same models. 
+Same prompts. 
+Wildly different results.
+
+The difference isn't the AI. 
+It's the infrastructure underneath it.
+
+And that infrastructure? 
+It's built by data engineers and shaped by data scientists.
+
+The problem is they're still working in silos.
+60% of organizations cite data quality as their top priority. 
+Yet most data teams operate like this:
+
+→ Engineers process data without considering ML requirements → Scientists write Python that doesn't translate to production → Nobody owns the schema. 
+
+Everyone owns the blame.
+
+The ""thinker/doer"" dynamic is killing teams. 
+
+Engineers just industrialize whatever scientists build. 
+No real collaboration. Just handoffs and finger-pointing.
+
+Meanwhile, AI is exposing every gap.
+Bad data quality? The LLM hallucinates.
+Schema drift? The model breaks.
+No semantic layer? Good luck getting accurate answers.
+
+Data contracts. Shared tooling. Scientists involved early, not treated as downstream consumers.
+
+85% of firms say lakehouses accelerated their AI readiness.
+Because it finally put both teams in the same architecture.
+
+AI doesn't replace data teams.
+It exposes the dysfunctional ones.",https://www.linkedin.com/posts/favre-alexis_data-scientists-blame-data-engineers-for-activity-7403917248853069824-hdl9?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADq6p-kBcdJAYJMzAN8VuZZFUmNBfOSttAI,https://media.licdn.com/dms/image/v2/D4E22AQFU2dXF-ZBWtA/feedshare-shrink_20/B4EZr__gYbHUAM-/0/1765231429462?e=1772668800&v=beta&t=Yk-XRMFFJ36zJL4aIgrnaWn_e4dD1Qm-3h-aFpbSg7U,True,,
+2,2026-01-09,UNKNOWN,243,9,6,258,Contrarian,Engineering/Technical,Origin Story/Narrative,Setup → Punchline,"Security teams in 2020: ""Please stop committing API keys""","Security teams in 2020: ""Please stop committing API keys""
+Security teams in 2026: ""Please stop pasting our entire customer database into ChatGPT""
+
+The threat model evolved. The behavior didn't.",https://www.linkedin.com/posts/favre-alexis_security-teams-in-2020-please-stop-committing-activity-7415452335671603200-Pg5x?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADOaIt0BRjLO-MIVji43gtwC0Bl2KRs6fXo,https://media.licdn.com/dms/image/v2/D4E22AQFOK0kgAIRp5A/feedshare-shrink_2048_1536/B4EZuFL7EIGoAw-/0/1767466054937?e=1772668800&v=beta&t=YWbV3_4LLNInytHVmfRj_SDwLN37pU2Wc8Blphm420I,True,,
+3,2026-01-27,Alexis Favre,93,11,3,107,Teacher,Industry/SaaS,Data/Numbers,Story → Lesson,"In 2011, integrating payments into your app took weeks.","In 2011, integrating payments into your app took weeks.
+
+PayPal documentation. XML everywhere. Redirect users off your site. 
+Back and forth with support. Up to 60 days to access your own funds.
+
+Stripe launched with 7 lines of JavaScript.
+
+PayPal had brand recognition. 
+Trust. Market share. 
+They were processing over $100 billion a year.
+
+But they built for finance teams.
+
+Stripe built for developers.
+
+Patrick Collison understood something: developers choose the tools. 
+They influence architecture decisions. 
+
+They're the ones implementing the integration at 2am before launch.
+
+Make the developer's life easier. 
+They'll make your product successful.
+
+2024: Stripe hit $70B valuation. 
+Processing over $1 trillion annually.
+
+The companies that win aren't building for the people who approve the budget.
+
+They're building for the people who actually use the product.",https://www.linkedin.com/posts/favre-alexis_in-2011-integrating-payments-into-your-app-activity-7421753081295589376-tA4s?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAGRiZJMBFUHjzYPeIBacpFQyYQ_DUue4DsQ,https://media.licdn.com/dms/image/v2/D4E22AQEGWFd53IBIIQ/feedshare-shrink_800/B4EZv9dGNhIkAk-/0/1769483822285?e=1772668800&v=beta&t=71o6s4AIqPqsZvXPQqKCefCKU7YH518vZmRmlRCcd80,True,,
+4,2026-01-06,UNKNOWN,75,1,3,79,Teacher,Engineering/Technical,Humor/Satire,Setup → Punchline,"Intern: ""What's the difference between data engineer and data analyst?""","Intern: ""What's the difference between data engineer and data analyst?""
+
+
+Engineer: ""I build critical infrastructure"" 
+Analyst: ""I drive business decisions""
+
+Intern after 3 months: ""Oh, you both blame each other when something breaks""",https://www.linkedin.com/posts/favre-alexis_intern-whats-the-difference-between-data-activity-7414395337597042688-shKp?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADOaIt0BRjLO-MIVji43gtwC0Bl2KRs6fXo,https://media.licdn.com/dms/image/v2/D4E22AQGoeAxHg4NKGw/feedshare-shrink_2048_1536/B4EZuFb8O4GoA0-/0/1767470254181?e=1772668800&v=beta&t=rPtdbPO-cAET-x5TPfP0KZt-5RJ_p0xKTxpX7KzK0k4,True,,
+5,2025-12-30,UNKNOWN,67,4,0,71,Teacher,Integration/Data,Humor/Satire,Listicle/Breakdown,"Data engineering job interview: ""you'll architect our real-time analytics platform""","Data engineering job interview: ""you'll architect our real-time analytics platform"" 
+data engineering actual job: 
+
+- debugging why the salesforce sync dropped 47,000 records at 3am 
+- explaining to the ceo why the dashboard numbers don't match 
+- writing the same ""upsert"" logic for the 15th time 
+- pretending ""eventual consistency"" was intentional 
+- mass mass snowflake costs while crying",https://www.linkedin.com/posts/favre-alexis_data-engineering-job-interview-youll-architect-activity-7411607561877073920-uA57?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAEJkUhcBhZbTboFaaYcPg0ZbPEKZ2-g1EWk,,True,,
+6,2026-01-13,UNKNOWN,53,1,2,56,Teacher,Integration/Data,Data/Numbers,Setup → Punchline,Your engineers didn't get hired to babysit Salesforce integrations,"Your engineers didn't get hired to babysit Salesforce integrations
+or debug HubSpot webhooks at 2am.
+That's ~30% of their week you're not getting back.
+Free them !",https://www.linkedin.com/posts/favre-alexis_your-engineers-didnt-get-hired-to-babysit-activity-7416977606111207424-BkPp?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADOaIt0BRjLO-MIVji43gtwC0Bl2KRs6fXo,https://media.licdn.com/dms/image/v2/D4E22AQGP23iVlNGQ0g/feedshare-shrink_2048_1536/B4EZu5l1GIGoAk-/0/1768345261002?e=1772668800&v=beta&t=0h3BI6P6EAscG_lIUN3UlFjDPoN7YFeM9VjtPEagDVg,True,v2_Diagnostic_Alexis,/Users/TERABYTE10/Downloads/Stacksync/04_linkedin_content/Bangers/drafts/v2_Diagnostic_Alexis.md
+7,2026-01-05,UNKNOWN,43,0,2,45,Teacher,Industry/SaaS,Humor/Satire,Setup → Punchline,"Resume: ""Ensured data integrity across billion-record datasets through strategic deduplication initiatives""","Resume: ""Ensured data integrity across billion-record datasets through strategic deduplication initiatives""
+Reality: Found one row where someone entered ""California"" and ""CA"" for the same customer",https://www.linkedin.com/posts/favre-alexis_resume-ensured-data-integrity-across-billion-record-activity-7414032957465632769-KjC2?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAEJkUhcBhZbTboFaaYcPg0ZbPEKZ2-g1EWk,https://media.licdn.com/dms/image/v2/D4E22AQGMxLpeP6EAAg/feedshare-shrink_800/B4EZuFND1NGcAo-/0/1767466353300?e=1772668800&v=beta&t=bAg9ismoEGzzVKh0uuETnHt9Sy0JQhymSj80mPa58ZQ,True,2026-01-05_resume_reality,/Users/TERABYTE10/Downloads/Stacksync/04_linkedin_content/Post/Alexis/02_week_26/2026-01-05_resume_reality.md
+8,2026-02-05,Arvind Jeyakumar,33,8,2,43,Teacher,Integration/Data,Data/Numbers,Story → Lesson,There's a difference between someone buying your product and someone showing the room how they use it.,"There's a difference between someone buying your product and someone showing the room how they use it.
+
+We hosted The SF NetSuite Series: From Silos to AI-Driven Ops.
+45 NetSuite practitioners in one room. Good energy.
+
+Fellow, Orderful, and Origami Precision on stage with us.
+
+And then Arvind Jeyakumar from Fellow (a $100M+ specialty coffee company)
+stood up and showed the room how they use Stacksync.
+
+Their actual workflow. How they sync their NetSuite data with Stacksync in production.
+
+That moment hit me.
+
+I work with customers every day. But this was different.
+
+This was someone choosing to stand in front of a room full of strangers and say: we use this. Let me show you why.
+
+You can raise money. You can ship features. You can grow the team.
+
+But the moment a customer talks about your product and shows it with pride, not because you asked, but because they want to?
+
+That's something you can't build. You can only earn it.
+
+Really happy about this 💙",https://www.linkedin.com/posts/favre-alexis_theres-a-difference-between-someone-buying-activity-7425287866131546112-wzX7?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAB7hd2wBBUaoPHH28mEI3rBDqBuRHVW9qnU,https://media.licdn.com/dms/image/v2/D5622AQFfCTSGD9pu0A/feedshare-shrink_1280/B56Zwvr90gHUAg-/0/1770326580885?e=1772668800&v=beta&t=9Ez6v6_LJ4xZ2DnfeZFvCE7sCapjAxXHsYZzmEL0X9o,True,NetsuiteConnector_Alexis,/Users/TERABYTE10/Downloads/Stacksync/04_linkedin_content/Bangers/drafts/NetsuiteConnector_Alexis.md
+9,2026-02-04,UNKNOWN,34,5,1,40,Teacher,Leadership/Culture,Personal Experience,Story → Lesson,The biggest lesson of my career didn't come from a win.,"The biggest lesson of my career didn't come from a win. 
+It came from watching someone brilliant fail.
+I was working under a former Head of AI at Google:
+
+Health tech startup. Super impactful. Every time I went to the clinic, I could see the difference we were making in people's lives.
+
+My boss was extremely smart in tech.
+But somehow he couldn't build a movement.
+
+You know what I realized?
+
+I understood that I was just executing.
+And executing alone doesn't change anything.
+
+What you need is to be good at something — and then inspire other people to go on a journey with you and do something unbelievable.
+
+That's the difference.
+
+The smartest person in the room stays in the room.
+The one who builds a movement changes which room everyone's in.
+
+I'm trying to do this at Stacksync every day.
+Best people. Best energy. Same journey. 
+
+(Photo taken during our last retreat)",https://www.linkedin.com/posts/favre-alexis_the-biggest-lesson-of-my-career-didnt-come-activity-7424951874912579584-lbUn?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAB7hd2wBBUaoPHH28mEI3rBDqBuRHVW9qnU,https://media.licdn.com/dms/image/v2/D5622AQEJz4UTQ0PjLw/feedshare-shrink_800/B56Zwq6YsaI8Ag-/0/1770246474957?e=1772668800&v=beta&t=Kb96yzqDuBHFNCRHQ6mL8SGsQ6kEevG0x9R5ZY-9obU,True,alexis_leadership_vs_execution,/Users/TERABYTE10/Downloads/Stacksync/04_linkedin_content/Stacksync Universe/Alexis/posts/alexis_leadership_vs_execution.md
+10,2025-12-17,UNKNOWN,38,2,0,40,Teacher,AI/Tech,Origin Story/Narrative,Story → Lesson,Everyone wants to understand how ChatGPT works,"Everyone wants to understand how ChatGPT works
+But they start with Transformers. That might be a mistake
+Start with the Vector.
+
+The idea that you can map the meaning of a word into a multi-dimensional space is the closest thing we have to digital magic.
+
+It's why ChatGPT ""understands"" you.
+
+Stanford's CS224N teaches this better than anything I've seen: 
+
+→ Lecture 1: Words become numbers (Embeddings) 
+→ Lecture 7: Numbers become translations (Attention) 
+→ Lecture 9: Attention becomes intelligence (Transformers)
+
+It's the story of how we taught silicon to speak.
+And it's free.
+
+Link in the comments.",https://www.linkedin.com/posts/favre-alexis_everyone-wants-to-understand-how-chatgpt-activity-7406902625847312385-xHZx?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADq6p-kBcdJAYJMzAN8VuZZFUmNBfOSttAI,https://media.licdn.com/dms/image/v2/D4E22AQHiqv_qMvOXuQ/feedshare-shrink_20/B4EZsqar02JgA0-/0/1765943198236?e=1772668800&v=beta&t=Kz5SjWQz4uQAqy5DRBaa9Eyqk38Ua8PNfghx1FQ8cJg,True,,
+11,2025-12-23,UNKNOWN,40,0,0,40,Teacher,Integration/Data,Personal Experience,Story → Lesson,"Last week, my team and I were working on a sync issue.","Last week, my team and I were working on a sync issue. 
+We were tired, and stuck for an hour.
+
+Then I remember: we had something similar before.
+
+I search our docs. Find a page titled ""Edge case: timestamp conflicts in bidirectional sync.""
+
+My face. My commit. My writing from April 2023.
+
+I don't remember writing this.
+
+Past-me left a note:
+
+""If you're reading this, you're probably seeing phantom duplicates. This will take 10 minutes to fix, not the 4 hours you think.""
+
+Clear explanation. Code snippet. Warning about a misleading error.
+
+Minutes later, done.
+
+I sat there staring at the screen.
+
+Tired-past-me, probably also at 11pm, took 15 extra minutes to write it down. Not for the team. Not for onboarding.
+
+For this exact moment. :)
+
+When you read your own docs from years ago, you meet a version of yourself you forgot existed. 
+
+Sometimes they're smarter than you remember. 
+
+I used to write docs for ""the team.""
+Now I write for tired-future-me. 
+
+The one who won't remember. The one who'll be grateful someone left a map.
+
+The best documentation isn't comprehensive.
+It's kind.
+
+Has this ever happened to you, finding a doc you wrote and forgot?",https://www.linkedin.com/posts/favre-alexis_last-week-my-team-and-i-were-working-on-activity-7409100194002272256-eKPY?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAEJkUhcBhZbTboFaaYcPg0ZbPEKZ2-g1EWk,,True,,
+12,2025-12-12,UNKNOWN,31,3,1,35,Teacher,Integration/Data,Contrarian/Challenge,Story → Lesson,"The best developer I ever worked with didn’t work at Google, Amazon or Meta When I met him, his “stack” looked like this:","The best developer I ever worked with didn’t work at Google, Amazon or Meta When I met him, his “stack” looked like this:
+
+A half-documented monolith, a cron job nobody understood, and a production bug that only appeared when three people checked out from Brazil at the same time.
+
+No platform team.
+No SRE.
+No “we’ll open a ticket.”
+If he didn’t fix it, payroll didn’t run.
+Simple.
+
+That’s the thing about outlier engineers:
+
+At big companies, you’re protected by the system.
+At small, messy ones, you are the system.
+
+In big tech, you can spend two years optimizing 0.5% of a service you don’t really own.
+
+In a 13-person company, you ship something today that either keeps the business alive or doesn’t.
+
+You learn to:
+
+Design systems without unlimited infra.
+
+Debug with incomplete logs and zero “proper” observability.
+
+Make architecture calls with just enough data and way too much risk.
+
+You don’t get polish. You get scars. And those scars are where real judgment comes from.
+
+So if you’re a CTO or tech lead hiring your next key dev:
+
+Don’t just filter by logos and buzzwords.
+
+Look for the people who’ve shipped under real constraints, owned the ugly parts of the system, and kept something fragile alive long enough to grow.
+
+That’s where the outliers usually are.
+
+PS: If this sounds like you, DM me.
+We’re hiring at Stacksync - Integration Cloud.",https://www.linkedin.com/posts/favre-alexis_the-best-developer-i-ever-worked-with-didn-activity-7405303689457999872-mRyv?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADq6p-kBcdJAYJMzAN8VuZZFUmNBfOSttAI,https://media.licdn.com/dms/image/v2/D4E22AQG-U0q1HwzUlQ/feedshare-shrink_480/B4EZsTsdqgKMAY-/0/1765561982450?e=1772668800&v=beta&t=l2CxCqHPCun1tgdKgg3iCiyU2Mx6-pObpkV5EQwUqMY,True,v2_Diagnostic_Alexis,/Users/TERABYTE10/Downloads/Stacksync/04_linkedin_content/Bangers/drafts/v2_Diagnostic_Alexis.md
+13,2026-01-02,UNKNOWN,33,0,0,33,Teacher,Integration/Data,Insight/Observation,Statement → Commentary,"Engineering standup, day 1,847: ""What did you work on yesterday?""","Engineering standup, day 1,847: ""What did you work on yesterday?""
+
+ 
+Engineer: ""Salesforce sync maintenance"" 
+
+Manager: ""What are you working on today?"" 
+Engineer: ""Salesforce sync maintenance"" 
+
+Manager: ""Any blockers?"" 
+Engineer: ""My will to live""",https://www.linkedin.com/posts/favre-alexis_engineering-standup-day-1847-what-did-activity-7412960068658212864-xt2-?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAEJkUhcBhZbTboFaaYcPg0ZbPEKZ2-g1EWk,https://media.licdn.com/dms/image/v2/D4E22AQGsjHqEl4o2CQ/feedshare-shrink_2048_1536/B4EZuAf4wyHMAw-/0/1767387405502?e=1772668800&v=beta&t=4a2qipC1emaFES33KvvdULr8MqDpj9TqqOtjIzlgNeo,True,2-01-25_Salesforce_Maintenance,/Users/TERABYTE10/Downloads/Stacksync/04_linkedin_content/Post/Alexis/2-01-25_Salesforce_Maintenance.md
+14,2026-01-23,UNKNOWN,30,0,1,31,Teacher,Integration/Data,Origin Story/Narrative,Setup → Punchline,Postgres + ClickHouse is a powerful combination 🚀,"Postgres + ClickHouse is a powerful combination 🚀 
+
+The question most companies still need to answer: how does their Salesforce, NetSuite, and HubSpot data actually get there in real-time? 
+
+Congratulations to the Ubicloud team—big moment for the ecosystem.",https://www.linkedin.com/posts/favre-alexis_the-ai-companies-have-a-secret-openai-anthropic-activity-7420515703264387072-h9gw?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAGQIsa8BTZEOVSodjfjP8ce8HxDEw42KDM4,,True,Customer360_Alexis,/Users/TERABYTE10/Downloads/Stacksync/04_linkedin_content/Bangers/drafts/Customer360_Alexis.md
+15,2026-01-13,UNKNOWN,30,0,0,30,Teacher,General,Insight/Observation,Setup → Punchline,dimensional modeling: 😴,"dimensional modeling: 😴 
+star schemas: 😴 
+fact tables: 😴 
+""download as xlsx"": 🤩🎉👏💯",https://www.linkedin.com/posts/favre-alexis_dimensional-modeling-star-schemas-activity-7416645119518511104-gjxY?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADOaIt0BRjLO-MIVji43gtwC0Bl2KRs6fXo,https://media.licdn.com/dms/image/v2/D4E22AQE1gcg4NVdx3Q/feedshare-shrink_1280/B4EZu03b6vKQAc-/0/1768265990170?e=1772668800&v=beta&t=8sVU54_5TQ_wJgnw0n5Gc1fGyGtMUeZK-SE8jw-ppVc,True,,
+16,2026-01-24,UNKNOWN,23,5,2,30,Teacher,Engineering/Technical,Contrarian/Challenge,Story → Lesson,It took me time to realize:,"It took me time to realize:
+Being a CTO is probably 80% orchestration.
+
+And I'm not talking about roadmaps:
+
+▶️ Knowing which engineer to put on which problem (right musician, right instrument)
+▶️ Spotting when someone is rushing or dragging
+▶️ Setting a tempo the whole team can follow
+▶️ Creating the conditions where good work happens naturally
+▶️ Removing friction before people hit it
+
+I used to think leadership was about only inspiring people to join the journey.
+
+I was wrong.
+
+Inspiration fills the seats. Orchestration makes the music.
+
+The best technical leaders I know aren't the smartest in the room. They're the ones who make everyone else 10x more effective.
+
+You can't code your way to that
+Just like you can't solo your way to a symphony",https://www.linkedin.com/posts/favre-alexis_it-took-me-time-to-realize-being-a-cto-is-activity-7420619966170763264-T0_v?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAGQIsa8BTZEOVSodjfjP8ce8HxDEw42KDM4,https://media.licdn.com/dms/image/v2/D4E22AQFVfRNbIRI4_g/feedshare-shrink_1280/B4EZvtWiShHoAc-/0/1769213667035?e=1772668800&v=beta&t=6CZR_Jme_eAiR0EkNQFeTUAT6-4Ugnn46qAic2WU_B4,True,,
+17,2025-12-16,UNKNOWN,27,0,1,28,Teacher,AI/Tech,Origin Story/Narrative,Story → Lesson,Some teams hit Kafka limits and ask: “How do we make Kafka faster?”,"Some teams hit Kafka limits and ask: “How do we make Kafka faster?”
+At OpenAI scale, the question was different:
+
+“How do we make Kafka less central?”
+
+Kafka stopped being the front door
+
+Producers no longer talked to brokers directly
+A proxy layer absorbed retries, spikes, and bad client behavior
+Kafka became the durable backbone and not the place where chaos lands
+
+The result (publicly reported):
+
+ – ~20× higher throughput
+ – Five-nines availability
+ – Regions that fail without taking each other down
+
+Why it worked:
+
+ – Brokers stopped handling unbounded client behavior
+ – Backpressure was intentional instead of emergent
+ – Failure handling moved out of the core
+
+The lesson:
+If something is both critical and central, it will cap your scale.
+
+Don’t just scale the component.
+Move the blast radius.
+
+And be honest about the cost: more moving parts, new failure modes, and more operational work.
+
+That’s what real scale looks like.",https://www.linkedin.com/posts/favre-alexis_some-teams-hit-kafka-limits-and-ask-how-activity-7406536657648386049-PXDu?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADq6p-kBcdJAYJMzAN8VuZZFUmNBfOSttAI,https://media.licdn.com/dms/image/v2/D4E22AQEZHVzp652a_g/feedshare-shrink_1280/B4EZslN0trIQAs-/0/1765855940891?e=1772668800&v=beta&t=qvej8u8MLwjUHSt69mQ7FCXa1rV03R9KRyax48xLEbo,True,,
+18,2026-01-08,UNKNOWN,26,1,1,28,Teacher,Leadership/Culture,Insight/Observation,Setup → Punchline,POV: you're a data quality issue watching three teams decide you're not their problem,POV: you're a data quality issue watching three teams decide you're not their problem,https://www.linkedin.com/posts/favre-alexis_pov-youre-a-data-quality-issue-watching-activity-7415111386629971968-9FNz?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADOaIt0BRjLO-MIVji43gtwC0Bl2KRs6fXo,https://media.licdn.com/dms/image/v2/D4E22AQF7YRk6yo--Xg/feedshare-shrink_1280/B4EZuFUOpwHMAw-/0/1767468231948?e=1772668800&v=beta&t=SD-zrCToSmYsR2LhER6DuekhMyS9NG690pepCoRb_XQ,True,,
+19,2026-01-19,UNKNOWN,18,7,1,26,Teacher,Engineering/Technical,Contrarian/Challenge,Story → Lesson,The engineers who will thrive with AI tools aren't the fastest prompters.,"The engineers who will thrive with AI tools aren't the fastest prompters.
+They're the ones who know when to stop.
+
+I tell my team: every 10 minutes, pause for 10 seconds.
+
+Ask:
+- What am I doing?
+- Why?
+- Is this still the right path?
+
+AI can generate code in seconds. But it can't tell you if you're solving the wrong problem.
+
+The 10-minute rule isn't about slowing down. It's about not wasting speed on the wrong direction.
+
+Flow state feels productive. But flow without checkpoints is just expensive motion.
+
+The skill that will matter most isn't coding faster. It's knowing when to stop and redirect",https://www.linkedin.com/posts/favre-alexis_the-engineers-who-will-thrive-with-ai-tools-activity-7419150705266946049-nAV6?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAGQIsa8BTZEOVSodjfjP8ce8HxDEw42KDM4,https://media.licdn.com/dms/image/v2/D4E22AQFedJVvG4GJGg/feedshare-shrink_20/B4EZvYeQAmGcAM-/0/1768863367758?e=1772668800&v=beta&t=rB_51WgvViG0aUNS_xajNzOH90bMf7gHuxa020lRusA,True,,
+20,2026-02-09,UNKNOWN,24,2,0,26,Teacher,Engineering/Technical,Data/Numbers,Story → Lesson,"In 2014, a Heroku team proved Salesforce data belongs in a Postgres table. Not behind an API.","In 2014, a Heroku team proved Salesforce data belongs in a Postgres table. Not behind an API.
+45 lines of code became 4. The industry is still catching up to what they built.
+
+""Normal"" Salesforce integration looks like this: learn the REST API. Handle OAuth. Build pagination. Hit rate limits. Build retry logic. Parse nested JSON. Deploy. Maintain forever.
+
+30-50% of engineering time goes to this.
+
+The Heroku Connect team saw this problem clearly. They built something different: replicate Salesforce into Postgres. Query with SQL. Write with SQL. Forget the API exists.
+
+The difference?
+Complex join across three Salesforce objects via API: 45+ lines, three paginated requests. 
+
+Same query in SQL against a synced table: 4 lines.
+
+Zero rate limits. Zero token management. Sub-millisecond reads.
+
+The insight was architectural: as long as CRM data lives behind an HTTP API, you can't query it freely. Rate limits throttle you. Latency punishes you.
+
+Put that data in Postgres? Full SQL. Your ORM works. Your BI tools work. Your developer writes SELECT statements instead of learning SOQL.
+
+That's the difference between building your product and maintaining someone else's API.
+
+But last week, Salesforce ended new Heroku Enterprise sales. 
+Heroku Connect included.
+
+The product had problems: polling-based, expensive, locked to Heroku Postgres. But the team that built it understood something the rest of the industry is only now figuring out.
+
+Database-first. SQL-first. API-invisible.
+They were ahead of their time. They deserved more.
+
+Every company building Salesforce-to-Postgres sync now builds on what that team started. Including us at Stacksync.
+
+Respect for my fellow Herokais",https://www.linkedin.com/posts/favre-alexis_in-2014-a-heroku-team-proved-salesforce-activity-7426753979209961473-BUFB?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAB7hd2wBBUaoPHH28mEI3rBDqBuRHVW9qnU,https://media.licdn.com/dms/image/v2/D5622AQFhaGIKc8AFvQ/feedshare-shrink_20/B56ZxEhY0WKcAQ-/0/1770676129334?e=1772668800&v=beta&t=nbCd9UNrw1GysarftdQSooHZVxXfAPi_mHta-wf6Lj4,True,Heroku_Connect_Alexis,/Users/TERABYTE10/Downloads/Stacksync/04_linkedin_content/Bangers/Heroku_Connect_Alexis.md
+21,2026-01-20,UNKNOWN,22,3,1,26,Teacher,General,Contrarian/Challenge,Story → Lesson,If I had to choose five things that make a company successful:,"If I had to choose five things that make a company successful: 
+Details would be number one. 
+
+Not strategy. Not funding. Not even talent.
+
+Details.
+
+Because we live in a world full of garbage. Everything that's just ""okay"" is noise competing with other noise.
+
+The only way to stand out is to be obsessively intentional.
+
+Sloppy work in small things compounds into sloppy work in big things.
+And then you're just another company shipping mediocre stuff that nobody remembers.
+
+The standard isn't ""good enough.""
+The standard is: would I bet my reputation on this detail?
+
+If not, fix it.
+
+Details aren't glamorous. 
+Nobody posts about catching edge cases.
+
+But that's exactly why they're a competitive advantage. 
+Because most people skip them.",https://www.linkedin.com/posts/favre-alexis_if-i-had-to-choose-five-things-that-make-activity-7419516501076123648-yhiF?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAGQIsa8BTZEOVSodjfjP8ce8HxDEw42KDM4,https://media.licdn.com/dms/image/v2/D4E22AQE0vXhLcYtaVw/feedshare-shrink_2048_1536/B4EZvdq8PdGcAk-/0/1768950580452?e=1772668800&v=beta&t=2ujeMu8UFEWJonDEBtoGUekcwUPDF89VmfmBVE6nFEE,True,alexis_details_matter,/Users/TERABYTE10/Downloads/Stacksync/04_linkedin_content/Stacksync Universe/Alexis/posts/alexis_details_matter.md
+22,2025-12-19,UNKNOWN,22,3,0,25,Teacher,AI/Tech,Data/Numbers,Story → Lesson,OpenAI just opened the ChatGPT App Directory for submissions 🧑🏻‍💻,"OpenAI just opened the ChatGPT App Directory for submissions 🧑🏻‍💻
+Here's what's actually happening from a technical standpoint: 
+
+The Apps SDK is built on the Model Context Protocol (MCP) — an open standard that, ironically, Anthropic created. 
+
+Your app responds to natural language triggers, can render interactive UI components directly in the chat, and gets access to conversational context when users invoke it.
+
+The distribution: 800 million weekly active users, and your app can be triggered mid-conversation via @mention or suggested contextually by ChatGPT itself. 
+
+That's fundamentally different from competing for attention in a traditional app store where users have to go looking.
+
+But let's be precise about what this actually is right now:
+
+The SDK is in beta. Every submission goes through a review process. 
+
+The first batch of approved third-party apps won't hit users until early 2026. 
+
+And monetization? Currently you can only link out to your own site or native app for transactions, no digital goods, no subscriptions, no in-app purchases yet. 
+
+OpenAI says they're ""exploring"" options including something called the Agentic Commerce Protocol, but nothing's shipped.
+
+Also worth noting: the entire platform is currently geo-blocked in the EU, Switzerland, and the UK.
+
+So is this an opportunity? Probably yes. 
+
+The technical primitives are interesting, you're building for a conversational interface where users describe intent in natural language rather than navigating UI. 
+
+If you've been thinking about agentic workflows or conversational commerce, the infrastructure is finally being built.
+
+Tell me what are you building",https://www.linkedin.com/posts/favre-alexis_openai-just-opened-the-chatgpt-app-directory-activity-7407927793277394944-Znk7?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADq6p-kBcdJAYJMzAN8VuZZFUmNBfOSttAI,https://media.licdn.com/dms/image/v2/D4E22AQE2GCI0dUaZjg/feedshare-shrink_480/B4EZs4_ELzGQAc-/0/1766187617261?e=1772668800&v=beta&t=NcGgiAHNk-G_sL2b6LXrnCLeBGAFwxxHUfDnntggajI,True,,
+23,2025-12-30,UNKNOWN,21,1,0,22,Teacher,Engineering/Technical,Origin Story/Narrative,Setup → Punchline,"The data team's ""single source of truth"":","The data team's ""single source of truth"": 
+
+
+
+#dataengineering #analytics #dataops",https://www.linkedin.com/posts/favre-alexis_dataengineering-analytics-dataops-activity-7411898769778085888--n7R?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAEJkUhcBhZbTboFaaYcPg0ZbPEKZ2-g1EWk,https://media.licdn.com/dms/image/v2/D4E22AQEsUyzDLnbMlg/feedshare-shrink_20/B4EZtxapLJGoA0-/0/1767134371585?e=1772668800&v=beta&t=7AWyG3OnVhIloNs1H55H81vzSCh3RALtL1FbR0GPxOo,True,,
+24,2026-01-06,UNKNOWN,21,0,1,22,Teacher,General,Insight/Observation,Setup → Punchline,Me: I trust BigQuery,"Me: I trust BigQuery
+Also me: previews estimated bytes on every single query like it's going to betray me.",https://www.linkedin.com/posts/favre-alexis_me-i-trust-bigquery-also-me-previews-estimated-activity-7414334988583583744-CWZ7?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADOaIt0BRjLO-MIVji43gtwC0Bl2KRs6fXo,https://media.licdn.com/dms/image/v2/D4E22AQH1Sn9lQ3aYjA/feedshare-shrink_480/B4EZuFZdQ_GYAc-/0/1767469604099?e=1772668800&v=beta&t=hdgIQ8qJdiKeA5QZF8gBZLMuXuBRRktjJQi4Hqs_1Zs,True,,
+25,2026-01-21,UNKNOWN,20,2,0,22,Fortune Teller,Engineering/Technical,Contrarian/Challenge,Story → Lesson,Page 1: This will be easy,"Page 1: This will be easy 
+Page 47: Why is authentication this complicated 
+Page 203: I've made a terrible mistake 
+
+We've all been there. 
+
+But at some point you have to ask: 
+
+Why does syncing data require understanding OAuth grant flows, refresh token rotation, and rate limit backoff strategies? 
+
+The API is the problem. 
+Not the solution. 
+
+That's why we built Stacksync → Write SQL. Get data. Skip the 203 pages.",https://www.linkedin.com/posts/favre-alexis_page-1-this-will-be-easy-page-47-why-is-activity-7419891221994610690-F1rT?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAGQIsa8BTZEOVSodjfjP8ce8HxDEw42KDM4,https://media.licdn.com/dms/image/v2/D4E22AQFKoT08Q_v5lw/feedshare-shrink_480/B4EZvi_v.bHwAs-/0/1769039921318?e=1772668800&v=beta&t=cN0ADGbQshf0QiWZrUi1HeroE_Zj7-yzrngFXlxUwBg,True,,
+26,2025-12-19,UNKNOWN,21,0,0,21,Teacher,Industry/SaaS,Data/Numbers,Story → Lesson,There's a family whose surname is Null.,"There's a family whose surname is Null.
+They can't book flights online. Forms think they left the field blank.
+
+Bank of America blocked one of their emails for years.
+
+American Express just deletes their last name from mail.
+
+A guy got a NULL vanity plate and received $12k in traffic tickets, every blank plate field in California matched to him.
+
+Christopher Null wrote about it in Wired in 2015. 
+Jennifer Null made the BBC in 2016. 
+The license plate guy presented at DEF CON in 2019.
+
+Hoare called null his billion-dollar mistake. In 1965.
+
+60 years later, we're still shipping it.
+
+Maybe AI will finally fix this. Or maybe it'll just autocomplete if (name == ""NULL"") faster. 😅",https://www.linkedin.com/posts/favre-alexis_theres-a-family-whose-surname-is-null-they-activity-7407623652256399360-ihUA?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADq6p-kBcdJAYJMzAN8VuZZFUmNBfOSttAI,https://media.licdn.com/dms/image/v2/D4E22AQGT8k9R_urqCA/feedshare-shrink_20/B4EZs0qc9LGcA0-/0/1766115104646?e=1772668800&v=beta&t=2IjVaTYauX78k570On5skF7LHPs-8-QwbFki4zeQxBM,True,,
+27,2026-02-12,UNKNOWN,19,1,1,21,Teacher,Integration/Data,Origin Story/Narrative,Listicle/Breakdown,"If your team syncs NetSuite data to anything, this is what we replaced that workflow with.","If your team syncs NetSuite data to anything, this is what we replaced that workflow with.
+
+The sync:
+- Bidirectional. Data flows both ways between NetSuite and Postgres.
+- Real-time. When a record changes, it syncs. Not batch. Not hourly.
+- Custom fields and custom records included.
+
+What changes for your team:
+- Query NetSuite data with standard SQL
+- Build reports and automations on live ERP data
+- No middleware layer between your database and NetSuite
+- No governance unit math. No concurrency headaches.
+
+Who it's for:
+- Teams running NetSuite + Salesforce that need data flowing between both
+- Engineering teams maintaining custom sync scripts
+- Finance and RevOps that need numbers to match across systems
+
+If your team connects NetSuite to anything else, this is what we built.
+
+Long live SQL.",https://www.linkedin.com/posts/favre-alexis_if-your-team-syncs-netsuite-data-to-anything-activity-7427518562547781634-TcYt?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAB7hd2wBBUaoPHH28mEI3rBDqBuRHVW9qnU,https://media.licdn.com/dms/image/v2/D5622AQHfXG4btfCkqg/feedshare-shrink_20/B56ZxPYxj_IAAM-/0/1770858421121?e=1772668800&v=beta&t=N2jLdgEQz7rnjqrWQc90tsakv6XPR-9vHr4M9rF4LfA,True,NetsuiteConnector_Alexis,/Users/TERABYTE10/Downloads/Stacksync/04_linkedin_content/Bangers/drafts/NetsuiteConnector_Alexis.md
+28,2026-01-23,UNKNOWN,16,3,1,20,Teacher,Integration/Data,Contrarian/Challenge,Story → Lesson,3 AM.,"3 AM.
+Slack alert: ""API rate limit exceeded. Sync failed.""
+
+You know what comes next.
+
+Roll out of bed. Open laptop. Check which batch job hit the limit this time. Manually restart. Hope it doesn't happen again in 2 hours.
+
+Our clients had this exact night more times than I can count.
+
+The worst part? It's not even their fault.
+
+They did everything right:
+- Implemented exponential backoff
+- Batched requests efficiently
+- Scheduled jobs during off-peak hours
+
+But Salesforce doesn't care. HubSpot doesn't care. 
+The rate limit exists to protect their infrastructure, not yours.
+
+So you set your alarm. You build monitoring. You create runbooks for failures that shouldn't happen.
+
+You become an integration babysitter instead of an engineer.
+
+This is what we refused to accept when building Stacksync.
+
+Our architecture doesn't hammer APIs with batch requests. 
+
+It listens for changes and syncs events, not bulk queries. We've processed millions of records for customers without hitting a single rate limit.
+
+No 3 AM alerts. No manual restarts. No babysitting.
+
+If you're waking up to rate limit errors, you're not the problem.
+
+Your integration architecture is.",https://www.linkedin.com/posts/favre-alexis_3-am-slack-alert-api-rate-limit-exceeded-activity-7420262635583111169-8_nF?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAGQIsa8BTZEOVSodjfjP8ce8HxDEw42KDM4,,True,v2_Diagnostic_Alexis,/Users/TERABYTE10/Downloads/Stacksync/04_linkedin_content/Bangers/drafts/v2_Diagnostic_Alexis.md
+29,2025-12-23,UNKNOWN,15,3,0,18,Teacher,Engineering/Technical,Origin Story/Narrative,Story → Lesson,Backend engineering is not a job title.,"Backend engineering is not a job title.
+It's a way of thinking.
+
+Every technical role uses it:
+
+Data engineers think in backend. 
+DevOps thinks in backend. 
+MLOps thinks in backend. 
+Platform engineers think in backend.
+
+The difference is context, not skill.
+Master the principles → pick any path.
+
+This playlist its very good to do it 👇",https://www.linkedin.com/posts/favre-alexis_backend-engineering-is-not-a-job-title-its-activity-7409071296786882561-JlK7?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAEJkUhcBhZbTboFaaYcPg0ZbPEKZ2-g1EWk,https://media.licdn.com/dms/image/v2/D4E22AQEqI4hIMqzaTg/feedshare-shrink_2048_1536/B4EZtJPDKKHMA0-/0/1766460242172?e=1772668800&v=beta&t=RuYrVf9capP18DEP4gJxUo3_R1ecMDi626eUgyhWrQ8,True,,
+30,2026-01-30,UNKNOWN,13,4,1,18,Magician,Engineering/Technical,Data/Numbers,Story → Lesson,San Francisco captured $90B in VC funding last year:,"San Francisco captured $90B in VC funding last year:
+
+
+57% of all US venture capital.
+76% of all US AI funding.
+3.5x more than New York.
+2x more than all of Europe.
+
+The pandemic ""SF is dead"" narrative aged poorly.
+The city's share of US VC in 2024 was the highest in eight years.
+
+If you're here, you're already ahead.
+Not because you're better. Because you're where the network is densest.
+
+Here are some numbers:
+
+👨‍💻49% of Big Tech engineers live here
+🤖 35% of AI/ML engineers
+🦄 268 unicorns headquartered in the Bay Area 
+💰Seed rounds close in weeks, not months
+
+That's why we believe in events.
+Same principle. Compress the serendipity.
+
+Feb 4th we're bringing NetSuite operators together. 
+Fellow. Orderful. Real infrastructure people.
+
+San Francisco. Fellow HQ. 
+Link in comments.",https://www.linkedin.com/posts/favre-alexis_san-francisco-captured-90b-in-vc-funding-activity-7423039103744610304-LZG1?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAGRiZJMBFUHjzYPeIBacpFQyYQ_DUue4DsQ,https://media.licdn.com/dms/image/v2/D4E22AQGjTLdk7oerOg/feedshare-shrink_160/B4EZwPuuwCJ8Aw-/0/1769790434980?e=1772668800&v=beta&t=RNsXhoy0Xj3Dvi3QKvHigMgQ5XC26CLoBbeGlpJ3QoA,True,,
+31,2026-01-03,UNKNOWN,18,0,0,18,Contrarian,General,Data/Numbers,Setup → Punchline,Unpopular opinion: 80% of dashboard requests are actually just 'can you answer this one question for me' in disguise.,"Unpopular opinion: 80% of dashboard requests are actually just 'can you answer this one question for me' in disguise. 
+
+We need to normalize saying 'you don't need a dashboard, you need a Slack message.",https://www.linkedin.com/posts/favre-alexis_unpopular-opinion-80-of-dashboard-requests-activity-7413264645810974720-8dg9?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAEJkUhcBhZbTboFaaYcPg0ZbPEKZ2-g1EWk,https://media.licdn.com/dms/image/v2/D4E22AQFkV15RFzgRUw/feedshare-shrink_480/B4EZuE06YTIgAY-/0/1767460022712?e=1772668800&v=beta&t=kGA0I8k14ve_LLN0IlO58_M610iIwWPyEyCe355r8fs,True,,
+32,2026-01-29,UNKNOWN,13,3,1,17,Teacher,Integration/Data,Data/Numbers,Story → Lesson,It's rare to get operators like this in one room.,"It's rare to get operators like this in one room.
+Rarer for them to share what actually worked.
+
+Feb 4th, it's happening.
+
+The SF NetSuite Series: From Silos to AI-Driven Ops
+
+The lineup:
+
+Arvind Jeyakumar — Staff Analytics Engineer at Fellow.
+
+Fellow bootstrapped for 8 years.
+Now over $100M in revenue.
+
+Blake Harries — Senior Channel Manager at Orderful.
+
+Orderful is a16z-backed and just launched Mosaic—the first AI-native EDI product that eliminates mapping entirely.
+
+Ruben Burdin — CEO & Co-Founder at Stacksync.
+
+My co-founder. We built real-time, bi-directional sync between NetSuite and everything else.
+
+Three companies.
+Three different paths.
+One shared obsession: making NetSuite stop being a bottleneck.
+
+Feb 4th | San Francisco | Fellow HQ Offices, 320 Florida Street.
+
+Spots are limited to keep the conversation valuable.
+Link to RSVP in comments.
+
+See you there.",https://www.linkedin.com/posts/favre-alexis_its-rare-to-get-operators-like-this-in-one-activity-7422429794979446786-9Fmy?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAGRiZJMBFUHjzYPeIBacpFQyYQ_DUue4DsQ,https://media.licdn.com/dms/image/v2/D4D22AQGoZA5IZqUw2Q/feedshare-shrink_1280/B4DZwHEkRnHEAc-/0/1769645164278?e=1772668800&v=beta&t=G8Xj5HUqghMYTXXnONsDfAHDIpktI-GzQhGKulicG18,True,NetsuiteConnector_Alexis,/Users/TERABYTE10/Downloads/Stacksync/04_linkedin_content/Bangers/drafts/NetsuiteConnector_Alexis.md
+33,2025-12-03,UNKNOWN,16,0,0,16,Teacher,Integration/Data,Contrarian/Challenge,Listicle/Breakdown,Kafka's biggest expense isn't on your AWS bill.,"Kafka's biggest expense isn't on your AWS bill.
+It's on your org chart.
+
+I've seen teams spin up ""free"" open-source Kafka expecting to save money.
+But here's what the TCO actually looks like:
+$350K - $1.2M+ per year.
+And most of it isn't infrastructure.
+
+Let me break it down:
+
+Networking:
+Networking eats 50-90% of your Kafka infrastructure costs.
+Why? Cross-AZ traffic.
+
+67% of producer writes hit remote zones
+67% of consumer reads hit remote zones
+Every replica syncs across zones
+
+At 100/300 MB/s ingress/egress?
+That's ~$9,330/month in networking alone.
+Just moving bytes.
+
+Humans
+Minimum viable Kafka team: 2 engineers.
+Fully-loaded cost: $350K-$392K/year.
+But that's just to keep the lights on.
+At Lyft-scale? 7-10 engineers.
+That's $980K-$1.4M in salaries. Before benefits.
+
+Ecosystem
+Kafka alone isn't production-ready. You'll need:
+
+Schema Registry (90%+ adoption)
+Kafka Connect clusters (90%+ adoption)
+GUI monitoring (90%+ adoption)
+Stream processing (80-90%)
+Geo-replication (80-90%)
+
+Building this in-house?
+20,000+ engineering hours.
+6-12 months before you ship anything useful.
+
+Nobody budgets for these:
+- Over-provisioning (clusters run at 20-25% CPU utilization)
+- Downtime costs ($87K/year at just 99% uptime)
+- Load balancers, NAT gateways, K8s overhead (+25% to total cost)
+- The one engineer who actually understands your configs
+
+Before you kubectl apply that Helm chart:
+1/ Calculate the 3-year TCO (not just infra. Include headcount)
+2/ Price out managed alternatives honestly
+3/ Ask: ""Is Kafka ops our core competency?""
+
+Open-source is free.
+Operating it at scale is not.",https://www.linkedin.com/posts/favre-alexis_kafkas-biggest-expense-isnt-on-your-aws-activity-7402076725439778816-Y_3M?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADq6p-kBcdJAYJMzAN8VuZZFUmNBfOSttAI,https://media.licdn.com/dms/image/v2/D4E22AQE0GYJ3xUxJjg/feedshare-shrink_1280/B4EZrl1jgoIoA4-/0/1764792614063?e=1772668800&v=beta&t=nwxLvzX-hZn_mh-svikmHHDEHaAEAGqdz1GB9pvAMoY,True,,
+34,2026-01-14,UNKNOWN,14,2,0,16,Teacher,Integration/Data,Origin Story/Narrative,Story → Lesson,"If you've ever watched your Salesforce integration fail at the worst possible moment, you know this feeling.","If you've ever watched your Salesforce integration fail at the worst possible moment, you know this feeling.
+
+Month-end close: big data migration and marketing just uploaded 50,000 contacts.
+
+Then: HTTP 429. 
+
+Rate limit exceeded. Your sync stops. Your data sits in limbo.
+
+You Google the error. The advice? 
+
+""Implement exponential backoff."" 
+""Queue your requests."" 
+""Batch your operations.""
+
+Translation: make your integration slower.
+
+But the whole point of connecting systems is to move data fast. 
+
+Slowing down isn't a solution. It's a band-aid on an architectural problem.
+
+The real issue: most integrations poll APIs. 
+
+They ask ""what changed?"" over and over. 
+
+When you ask too often, you get throttled.
+
+Stacksync - Integration Cloud works differently. 
+
+We sync your Salesforce data to a Postgres database you control—in real-time. 
+
+Once it's there, you query your database, not Salesforce's API.
+
+No rate limits. No 429s. Read as fast as Postgres allows.
+
+We built this because we got tired of watching that dog sit in the fire. There's a better way.",https://www.linkedin.com/posts/favre-alexis_if-youve-ever-watched-your-salesforce-integration-activity-7417344440463204353-s6d3?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADOaIt0BRjLO-MIVji43gtwC0Bl2KRs6fXo,https://media.licdn.com/dms/image/v2/D4E22AQGC-GHyGpJn2g/feedshare-shrink_20/B4EZu.zdqnHEAM-/0/1768432721023?e=1772668800&v=beta&t=iavyoGHMJbBwKMTo645BXNSKubtIvgMtJ9j5S1ZrUBU,True,,
+35,2026-01-04,UNKNOWN,13,2,0,15,Teacher,Engineering/Technical,Origin Story/Narrative,Story → Lesson,Who owns the CRM data pipeline?,"Who owns the CRM data pipeline?
+
+Engineering: ""That's Data's responsibility""
+Data: ""Engineering built it, they own it""
+IT: ""We just provision the servers""
+DevOps: ""We deploy it, we don't maintain it""
+Analytics: ""We just consume the data""
+
+Who actually fixes it when it breaks at 3am?
+
+The one engineer who happened to respond to the Slack notification first.
+He just put in his two weeks.
+
+Pipelines shouldn't need heroes. They should just work.
+(Yes, this is what we solve at Stacksync.)",https://www.linkedin.com/posts/favre-alexis_who-owns-the-crm-data-pipeline-engineering-activity-7413610168539631616-EUKl?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAEJkUhcBhZbTboFaaYcPg0ZbPEKZ2-g1EWk,,True,,
+36,2026-02-03,UNKNOWN,11,2,0,13,Teacher,Engineering/Technical,Contrarian/Challenge,Story → Lesson,Fred Luddy started ServiceNow at 49.,"Fred Luddy started ServiceNow at 49. 
+After losing $35 million to fraud at Peregrine.
+
+His insight after 13 years building IT asset management: Everyone was building ticketing systems. Nobody was building workflow engines.
+
+The difference:
+
+Ticketing system:
+•Capture request
+•Assign to agent
+•Track to resolution
+•Report on tickets
+
+Workflow engine:
+•Model any business process
+•Automate approvals and routing
+•Connect to any system
+•Extend to any department
+
+ServiceNow's architecture decision: Build the workflow engine first. Ticketing is just one workflow.
+
+Technical implications:
+
+Metadata-driven configuration
+Process designer (not code-first)
+Integration framework (connect anything)
+Extensible data model
+
+The insight: IT help desk was the entry point, not the product.
+
+43x customer expansion (from $100K to $4.3M over 15 years). 
+Because the workflow engine could do more. And more. And more.
+
+IT → HR → Customer Service → Finance. 
+Same platform. Same architecture. New workflows.",https://www.linkedin.com/posts/favre-alexis_fred-luddy-started-servicenow-at-49-after-activity-7424264227621646336-DGAY?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAGRiZJMBFUHjzYPeIBacpFQyYQ_DUue4DsQ,https://media.licdn.com/dms/image/v2/D4D22AQE0ZbjF-cpwjQ/feedshare-shrink_2048_1536/B4DZwhI.ZXGgAk-/0/1770082527183?e=1772668800&v=beta&t=kWzmOCs3-IUo0Fn9m9y911a_AukDNoxVz7y6L3CcIlI,True,,
+37,2025-12-24,UNKNOWN,11,1,0,12,Teacher,Founder Story,Origin Story/Narrative,Setup → Punchline,"Somewhere, a dashboard is being built for this list.","Somewhere, a dashboard is being built for this list. 
+
+Merry Christmas everyone! :) 🎄",https://www.linkedin.com/posts/favre-alexis_somewhere-a-dashboard-is-being-built-for-activity-7409691161986125824-3hAU?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAEJkUhcBhZbTboFaaYcPg0ZbPEKZ2-g1EWk,https://media.licdn.com/dms/image/v2/D4E22AQFf_saAhILD0w/feedshare-shrink_1280/B4EZtO1cEtGQAw-/0/1766554190827?e=1772668800&v=beta&t=1Dvs3polfyJ7dRRS8flsboojZG7Ew__coGUQnqwjbkg,True,,
+38,2026-02-12,UNKNOWN,8,3,0,11,Teacher,Engineering/Technical,Data/Numbers,Story → Lesson,there are two types of engineers. Builders and maintainers.,"there are two types of engineers. Builders and maintainers. 
+the gap between them has nothing to do with talent:
+
+it has everything to do with what they spend their time on.
+
+most engineers learned to code because they wanted to build something. 
+ship products. solve hard problems. create things that didn't exist before.
+
+then they join a company, and 30-40% of their week disappears into integration maintenance. 
+
+mapping custom fields, handling rate limits and debugging sync failures
+
+I see this constantly. Smart engineers turning into expensive API babysitters
+
+at Stacksync we ask ourselves one question every ten minutes: what am I working on right now, and is it the highest-impact thing I could be doing?
+
+most integration maintenance fails that test. 
+
+the difference between a team that ships fast and a team that drowns in technical debt has nothing to do with talent. 
+
+It comes down to how much of that talent goes toward the actual product versus the pipes connecting it to other systems.
+
+Your best engineers should be building the thing your customers pay for. 
+
+Not maintaining connections between systems that should just work.
+
+builders or maintainers. 
+
+wich one best describes your team?",https://www.linkedin.com/posts/favre-alexis_there-are-two-types-of-engineers-builders-activity-7427846232783392768-o59T?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAB7hd2wBBUaoPHH28mEI3rBDqBuRHVW9qnU,https://media.licdn.com/dms/image/v2/D5622AQGpM-V3SRb_AA/feedshare-shrink_1280/B56ZxUCyfaIEAc-/0/1770936543544?e=1772668800&v=beta&t=ceF1yUurgAP7rqbxzyransPCkVQZ-htqYAGrrQPpI34,True,BuilderDivide_Alexis,/Users/TERABYTE10/Downloads/Stacksync/04_linkedin_content/Bangers/drafts/BuilderDivide_Alexis.md
+39,2026-01-16,UNKNOWN,11,0,0,11,Teacher,Integration/Data,Origin Story/Narrative,Setup → Punchline,Engineers after their saved search times out for the 47th time today 😵,"Engineers after their saved search times out for the 47th time today 😵 
+
+
+This is why we built Stacksync. 
+Real-time NetSuite sync. Zero timeouts. Your sanity intact.",https://www.linkedin.com/posts/favre-alexis_engineers-after-their-saved-search-times-activity-7418043962097303553-3-2D?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADOaIt0BRjLO-MIVji43gtwC0Bl2KRs6fXo,https://media.licdn.com/dms/image/v2/D4E22AQFHgtpjo8Zh9w/feedshare-shrink_480/B4EZvIvrPtKgAs-/0/1768599500160?e=1772668800&v=beta&t=JaeRUx9r8KvXkOcw8fNiD4cxub-DJ2FDfylkaHTgB3k,True,NetsuiteConnector_Alexis,/Users/TERABYTE10/Downloads/Stacksync/04_linkedin_content/Bangers/drafts/NetsuiteConnector_Alexis.md
+40,2026-02-04,UNKNOWN,7,3,0,10,Teacher,Integration/Data,Data/Numbers,Story → Lesson,Most engineers spend their careers,"Most engineers spend their careers 
+becoming experts at someone else's API.
+
+
+Salesforce documentation. 
+NetSuite authentication flows. 
+HubSpot pagination quirks.
+
+That's not really building. That's maintenance.
+
+I've watched talented engineers lose months to API plumbing. Learning rate limits. Handling batch endpoints. Debugging authentication failures at 2am.
+
+The actual business problem? Maybe 20% of the work. 
+The API interface? 80%.
+
+This is backwards.
+
+We built Stacksync to flip that ratio.
+
+Your database table becomes a mirror of your CRM. 
+You write SQL. The API calls happen automatically.
+
+Authentication. Rate limiting. Pagination. Conflict resolution. All handled.
+
+An INSERT creates a CRM record. An UPDATE modifies it. A JOIN queries relationships that would take five API calls to fetch.
+
+You describe what you want. Stacksync handles how to get it.
+This isn't about making APIs easier. It's about making APIs invisible.
+
+Engineers should spend their time on problems that matter. Not on interfaces that don't.
+
+We've processed over a million records per minute this way. 
+The architecture scales. The complexity doesn't.
+
+ That's the difference between building infrastructure and maintaining it.",https://www.linkedin.com/posts/favre-alexis_most-engineers-spend-their-careers-becoming-activity-7424603584517959681-hM2M?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAB7hd2wBBUaoPHH28mEI3rBDqBuRHVW9qnU,https://media.licdn.com/dms/image/v2/D5622AQFcH1Jl_n56PQ/feedshare-shrink_2048_1536/B56Zwl9ngZHAAk-/0/1770163435716?e=1772668800&v=beta&t=6egTVF3O7IN0w5VyR7k8J0MJ6D4LVbMUp30GkLZL_MY,True,NetsuiteConnector_Alexis,/Users/TERABYTE10/Downloads/Stacksync/04_linkedin_content/Bangers/drafts/NetsuiteConnector_Alexis.md
+41,2026-02-07,UNKNOWN,8,1,1,10,Contrarian,Integration/Data,Origin Story/Narrative,Listicle/Breakdown,"Heroku Enterprise sales ended (February 5, 2026)","Heroku Enterprise sales ended (February 5, 2026)
+Salesforce just killed it.
+
+Heroku is now in ""maintenance mode"" — no new features, just keeping the lights on.
+
+If you're on Heroku Connect and need to migrate, here's what to know:
+
+- Your existing contract is honored (for now)
+- But no new features are coming
+- Time to evaluate alternatives
+
+Stacksync does everything Heroku Connect does + more:
+
+✅ True bi-directional sync (not just polling)
+✅ Millisecond latency (not 5-minute intervals)
+✅ Works with Salesforce, HubSpot, and 200+ connectors
+✅ SOC 2, HIPAA, GDPR certified
+
+Questions about migrating? 
+Drop them below.",https://www.linkedin.com/posts/favre-alexis_heroku-enterprise-sales-ended-february-5-activity-7425696749928865792-QTwq?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAB7hd2wBBUaoPHH28mEI3rBDqBuRHVW9qnU,https://media.licdn.com/dms/image/v2/D5622AQEm4dfqt3Q5MQ/feedshare-shrink_1280/B56Zw1f2NvH0Ac-/0/1770424067130?e=1772668800&v=beta&t=z_zL9Tz3J41SA4Q28NDXjZsUB7D06xp7dSz9sVnvwDo,True,NetsuiteConnector_Alexis,/Users/TERABYTE10/Downloads/Stacksync/04_linkedin_content/Bangers/drafts/NetsuiteConnector_Alexis.md
+42,2026-01-15,Jennifer Nixon,9,0,0,9,Teacher,Integration/Data,Origin Story/Narrative,Setup → Punchline,There's a reason HubSpot became our most popular connector.,"There's a reason HubSpot became our most popular connector. 
+It's the people. 
+Appreciate you sharing this Jennifer.",https://www.linkedin.com/posts/favre-alexis_i-met-ruben-burdin-yesterday-and-we-had-a-activity-7417597316091670530-pNNH?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADOaIt0BRjLO-MIVji43gtwC0Bl2KRs6fXo,,True,,
+43,2025-12-18,UNKNOWN,7,0,0,7,Teacher,General,Insight/Observation,Setup → Punchline,“Nothing changed except it works now.”,“Nothing changed except it works now.”,https://www.linkedin.com/posts/favre-alexis_nothing-changed-except-it-works-now-activity-7407279663900676097-K9L_?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADq6p-kBcdJAYJMzAN8VuZZFUmNBfOSttAI,https://media.licdn.com/dms/image/v2/D4E22AQGl5UWFgK2PNA/feedshare-shrink_20/B4EZsvxmciKoA0-/0/1766033091037?e=1772668800&v=beta&t=BuNUdtN42i0Z-P23l_D5fZHpt4PnxvcG7xtsf3pBwc8,True,,
+44,2026-01-28,UNKNOWN,5,0,0,5,Teacher,Integration/Data,Data/Numbers,Listicle/Breakdown,HubSpot's CRM is free.,"HubSpot's CRM is free. 
+Forever. 
+For up to 2 users and 1,000 contacts.
+
+This isn't charity. It's architecture.
+
+The technical strategy: CRM is the data foundation. 
+Everything else (Marketing Hub, Sales Hub, Service Hub) layers on top.
+
+What the free CRM creates:
+
+• Contact database (unified identity)
+• Company records (account hierarchy)
+• Deal tracking (revenue pipeline)
+• Activity timeline (engagement history)
+
+Why this is technically genius: When you upgrade to any paid hub, your data is already structured. No import. No mapping. No migration.
+
+The CRM is the schema. 
+The hubs are the features.
+
+This explains HubSpot's expansion revenue: 
+Start with free CRM. 
+• Add Marketing Hub (your contacts are already there). 
+• Add Sales Hub (your deals are already tracked). 
+• Add Service Hub (your customers are already known).
+
+(Worth noting: HubSpot tightened the free tier in late 2024. It used to be 1 million contacts. Now it's 1,000. The on-ramp got smaller, but the architecture remains the same.)
+
+The insight: Data structure should precede feature adoption. 
+
+Give away the structure. 
+Charge for the capabilities.",https://www.linkedin.com/posts/favre-alexis_hubspots-crm-is-free-forever-for-up-activity-7422066650486714368-fjhR?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAGRiZJMBFUHjzYPeIBacpFQyYQ_DUue4DsQ,https://media.licdn.com/dms/image/v2/D5622AQFv0pGPdIjaSQ/feedshare-shrink_20/B56ZwB6SgkIQAM-/0/1769558583573?e=1772668800&v=beta&t=-ol9TIIbPhppFAlUG4Cao46ndjrwUXXp_EVnShT_CGw,True,,
+45,2026-01-28,Arvind Jeyakumar,4,0,1,5,Teacher,General,Insight/Observation,Setup → Punchline,Really looking forward to this👇,"Really looking forward to this👇
+
+Excited to hear from Arvind Jeyakumar and Blake Harries and connect with everyone building through similar challenges.",https://www.linkedin.com/posts/favre-alexis_a-100m-coffee-brand-an-a16z-backed-edi-activity-7422399680493277184-66-w?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAGRiZJMBFUHjzYPeIBacpFQyYQ_DUue4DsQ,,True,,
+46,2026-01-28,UNKNOWN,4,0,0,4,Teacher,General,Origin Story/Narrative,Setup → Punchline,You could stay home and manually map another EDI file.,"You could stay home and manually map another EDI file. 
+
+Or you could drink champagne with the people who killed that problem. 
+
+Your call. Hope to see you there!",https://www.linkedin.com/posts/favre-alexis_the-netsuite-signal-is-lit-over-san-francisco-activity-7422337962048217089-gzqU?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAGRiZJMBFUHjzYPeIBacpFQyYQ_DUue4DsQ,,True,,
+47,2025-12-18,UNKNOWN,2,0,1,3,Teacher,Leadership/Culture,Origin Story/Narrative,Setup → Punchline,An amazing product that's saving me precious time everyday!,"An amazing product that's saving me precious time everyday!
+Keep the great work team!",https://www.linkedin.com/posts/favre-alexis_were-live-on-product-hunt-willow-is-activity-7407255732892360706-vhbo?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADq6p-kBcdJAYJMzAN8VuZZFUmNBfOSttAI,,True,,
+48,2026-01-26,UNKNOWN,1,0,0,1,Teacher,Integration/Data,Origin Story/Narrative,Setup → Punchline,Trying to find the right people,"Trying to find the right people
+Tag the best NetSuite operator you know",https://www.linkedin.com/posts/favre-alexis_im-looking-for-the-best-netsuite-practitioners-activity-7421665243493212160-bWit?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAGQIsa8BTZEOVSodjfjP8ce8HxDEw42KDM4,,True,,
+49,2026-02-12,UNKNOWN,1,0,0,1,Teacher,Integration/Data,Insight/Observation,Setup → Punchline,Happy to Offer EDI Integrations Now,Happy to Offer EDI Integrations Now,https://www.linkedin.com/posts/favre-alexis_introducing-edi-to-stacksync-onboarding-activity-7427502396274221056-98-D?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAB7hd2wBBUaoPHH28mEI3rBDqBuRHVW9qnU,,True,,

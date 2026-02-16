@@ -1,0 +1,1472 @@
+full_text,likes,comments,shares,total_engagement,outlier_score,hook_type,topic,angle,structure,visual_format,first_line,hook_150,hook,url,date,_source,rank,followers,author_avg,source
+"Stop using SignalR for every real-time feature in .NET.
+
+If you only need to push data from the server to the client, you might be using a sledgehammer to crack a nut.
+
+While SignalR is a powerhouse for two-way communication, it can be heavy for simple ""server push"" scenarios.
+
+Starting with ASPNET Core 10, we have a native, lightweight alternative: 𝗦𝗲𝗿𝘃𝗲𝗿-𝗦𝗲𝗻𝘁 𝗘𝘃𝗲𝗻𝘁𝘀 (𝗦𝗦𝗘).
+
+In my latest video, I walk you through the implementation of native SSE, which allows the server to communicate with the client on demand over a single, persistent HTTP connection.
+
+Check it out: https://lnkd.in/d3CGCuMC",1443.0,53.0,133,1629.0,3.32,Contrarian,Productivity,Against Common Wisdom,Observation/Opinion,Text-only,Stop using SignalR for every real-time feature in .NET.,"Stop using SignalR for every real-time feature in .NET.
+
+If you only need to push data from the server to the client, you might be using a sledgehamme","Stop using SignalR for every real-time feature in .NET.
+
+If you only need to push data from the server to the client, you might be using a sledgehamme",https://www.linkedin.com/posts/milan-jovanovic_stop-using-signalr-for-every-real-time-feature-activity-7407761045471088640-smB8?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACQAEEkBDb2FlfV06XgwYywsXPZjc1EPy8w,2025-12-19T12:37:42.785Z,central_outliers_db,16.0,0.0,435.1,alexis_engineering_tech
+".NET 10 is officially released! 🎉
+
+Here are the top updates 👇
+
+First, .NET 10 is an LTS (long-term support) release. So we get support for the next 3 years.
+
+🔥 Performance improvements
+
+Under the hood, .NET 10 delivers major performance boosts. The JIT compiler has been tuned with new optimizations such as de‑abstraction, smarter inlining heuristics and constant‑folding, allowing the runtime to do more work at compile‑time rather than at run‑time. There are many other optimizations across collections and LINQ, which translate to tangible speedups across everyday workloads.
+
+🚀 Aspire goes polyglot
+
+Formerly .NET Aspire, Aspire is now a polyglot, developer‑first platform for orchestrating front ends, APIs, containers and databases. Version 9.5 introduces a preview of a single‑file AppHost, letting you define and run your entire distributed application in a single file. The release also debuts a Generative AI visualizer to inspect and debug prompts and responses, plus expanded AI support with typed clients for GitHub Models and Azure AI Foundry and first‑class OpenAI integration.
+
+🔗 EF Core’s new LeftJoin/RightJoin operators
+
+LINQ’s lack of a built‑in outer join has long been a pain point. EF Core 10 fixes this by adding LeftJoin and RightJoin operators, so the code now reads exactly like the SQL you intend. For example, you can join products to reviews using LeftJoin() and EF will generate the correct LEFT JOIN statement under the hood. A corresponding RightJoin() keeps all rows from the right side while bringing in matches from the left. These new operators eliminate the verbose GroupJoin + DefaultIfEmpty pattern and make LINQ queries easier to read and maintain.
+
+What's your favorite feature coming in .NET 10?
+
+---
+Sign up for the .NET Weekly with 74K+ other engineers, and get a free Clean Architecture template: https://lnkd.in/e3q7Nu4s",1396.0,44.0,184,1624.0,3.21,Teacher,Productivity,Framework/How-To,List Post,Text-only,.NET 10 is officially released! 🎉,".NET 10 is officially released! 🎉
+
+Here are the top updates 👇
+
+First, .NET 10 is an LTS (long-term support) release. So we get support for the next 3 ",".NET 10 is officially released! 🎉
+
+Here are the top updates 👇
+
+First, .NET 10 is an LTS (long-term support) release. So we get support for the next 3 ",https://www.linkedin.com/posts/milan-jovanovic_whats-new-in-net-10-activity-7394275511956582400-DQRu?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADoipL4BPavl-hmH48vlRBnFYLnQqO1RsRU,2025-11-12T07:31:01.046Z,central_outliers_db,17.0,0.0,435.1,alexis_engineering_tech
+"I upgraded my Clean Architecture template to .NET 10.
+
+And it took only a few minutes. Here's how 👇
+
+My .NET version is defined in one place, a Build props file. I updated to net10 and that took care of all the projects in the solution.
+
+The next part was updating the NuGet packages.
+
+This was equally simple with central package management. I updated the version in the Packages props file, and it was picked up by all the projects in the solution.
+
+Here's what's inside:
+- Simple domain model with Domain Events pattern
+- CQRS (no MediatR) + clean use cases implementation
+- Validation and logging cross-cutting concerns
+- Authentication with JWT and user context
+- Boilerplate for RBAC authorization
+- Docker Compose orchestration
+- Minimal APIs, health checks
+
+You can get the template here: https://lnkd.in/eihaFihr
+
+I recently found out my template is used by a local company, doing $30M+ yearly revenue.",1413.0,63.0,115,1591.0,3.25,Teacher,Engineering Leadership,Personal Experience,List Post,Text-only,I upgraded my Clean Architecture template to .NET 10.,"I upgraded my Clean Architecture template to .NET 10.
+
+And it took only a few minutes. Here's how 👇
+
+My .NET version is defined in one place, a Build ","I upgraded my Clean Architecture template to .NET 10.
+
+And it took only a few minutes. Here's how 👇
+
+My .NET version is defined in one place, a Build ",https://www.linkedin.com/posts/milan-jovanovic_i-upgraded-my-clean-architecture-template-activity-7396450049662013440-Hkk3?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACrQoogBzcO6PdHYllCLqPsl2uMapGCOPVg,2025-11-18T07:31:51.236Z,central_outliers_db,18.0,0.0,435.1,alexis_engineering_tech
+"Did you check out the new IExceptionHandler feature?
+
+You have to handle exceptions somehow.
+
+IExceptionHandler implements the ""try-"" pattern.
+
+You can decide which exceptions to handle.
+
+To tell the middleware you handled the exception, you return true.
+
+So, what makes this so interesting?
+
+You can also chain multiple exception handlers that will run sequentially.
+
+The first one to handle the exception successfully breaks the chain.
+
+Here's how to use this in .NET 10: https://lnkd.in/e9k5yeJ3
+
+It's a way to compose multiple exception handlers.
+
+How do you approach global error handling?
+
+---
+Sign up for the .NET Weekly with 74K+ other engineers, and get a free Clean Architecture template: https://lnkd.in/e3q7Nu4s",1328.0,37.0,107,1472.0,3.05,Teacher,AI/ML/Coding Tools,Framework/How-To,List Post,Text-only,Did you check out the new IExceptionHandler feature?,"Did you check out the new IExceptionHandler feature?
+
+You have to handle exceptions somehow.
+
+IExceptionHandler implements the ""try-"" pattern.
+
+You ca","Did you check out the new IExceptionHandler feature?
+
+You have to handle exceptions somehow.
+
+IExceptionHandler implements the ""try-"" pattern.
+
+You ca",https://www.linkedin.com/posts/milan-jovanovic_did-you-check-out-the-new-iexceptionhandler-activity-7394996964750229505-RIZD?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADoipL4BPavl-hmH48vlRBnFYLnQqO1RsRU,2025-11-14T07:17:48.796Z,idea_legos_alexis,35.0,0.0,435.1,
+"The .sln file as we know it is finally dead.
+
+After nearly two decades of dealing with unreadable GUIDs and painful merge conflicts, Visual Studio 2026 has introduced the new .slnx format. It’s clean, it’s XML-based, and it actually makes sense.
+
+But that’s not the only upgrade.
+
+In my latest video, I show you how I moved my entire solution from .NET 9 to .NET 10 in just a few minutes.
+
+The secret isn't upgrading every project manually, it’s using a ""Smart Setup"" with Directory.Build.props and Central Package Management.
+
+In this video, I break down:
+
+- How to change target frameworks for 20+ projects instantly
+- Managing NuGet versions in one single file
+- A deep dive into the new .slnx format (and how to migrate)
+- Handling Dockerfile updates for .NET 10
+
+Stop fighting with your solution files.
+
+Here is the better way to handle the upgrade: https://lnkd.in/dFgdarZe",1117.0,43.0,88,1248.0,2.57,Contrarian,AI/ML/Coding Tools,Against Common Wisdom,List Post,Text-only,The .sln file as we know it is finally dead.,"The .sln file as we know it is finally dead.
+
+After nearly two decades of dealing with unreadable GUIDs and painful merge conflicts, Visual Studio 202","The .sln file as we know it is finally dead.
+
+After nearly two decades of dealing with unreadable GUIDs and painful merge conflicts, Visual Studio 202",https://www.linkedin.com/posts/milan-jovanovic_the-sln-file-as-we-know-it-is-finally-dead-activity-7404213390392406017-glNr?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAD7yo78B760w1OzXX2HFGNqUYGS32K3evyU,2025-12-09T17:40:35.902Z,idea_legos_alexis,51.0,0.0,435.1,
+"I failed an interview because I didn't know how locks work in C#.
+
+Read this to make sure it never happens to you.
+
+I've told this story a couple of times before, but it's worth repeating.
+
+I was in an interview some 7-8 years ago, doing a live coding exercise.
+
+I was integrating with a currency conversion API and needed to add caching.
+
+The problem was how this would scale with multiple concurrent requests.
+
+A classic cache stampede problem.
+
+I wanted to prevent this with locking.
+
+Locking allows us to control how many threads can access some piece of code.
+
+Note that I rarely worked with low-level code.
+
+But the company I was interviewing for does.
+
+Of course, they'd have this in the interview process.
+
+Here's the situation:
+
+- I knew I needed a locking mechanism
+- But the method was async (oof!)
+- So I tried to solve this using the `lock` statement
+
+And that's where it all went to shit...
+
+The `lock` statement doesn't work with async-await.
+
+And it makes sense.
+
+You can't guarantee which thread will complete the method.
+
+So what's the solution?
+
+You need to use an asynchronous synchronization primitive.
+
+Luckily, C # has many to choose from.
+
+Semaphore, SemaphoreSlim, Mutex, Monitor, etc.
+
+Two important remarks:
+
+1) Use a timeout when waiting on the semaphore
+2) Always release the lock with a try-finally
+
+Here's a tough question for you.
+
+How would you implement a lock in a database?
+
+If you want to find the answer, go here: https://lnkd.in/eVTMfu-y
+
+Would you have nailed this interview?
+
+---
+Sign up for the .NET Weekly with 75K+ other engineers, and get a free Clean Architecture template: https://lnkd.in/ejtkZwup",854.0,31.0,69,954.0,1.96,Teacher,Engineering Career,Personal Experience,List Post,Text-only,I failed an interview because I didn't know how locks work in C#.,"I failed an interview because I didn't know how locks work in C#.
+
+Read this to make sure it never happens to you.
+
+I've told this story a couple of t","I failed an interview because I didn't know how locks work in C#.
+
+Read this to make sure it never happens to you.
+
+I've told this story a couple of t",https://www.linkedin.com/posts/milan-jovanovic_i-failed-an-interview-because-i-didnt-know-activity-7400436293563863040-9DDB?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFkvkTAB0d8WbobX52s3XSR2kf5PfrWy8V4,2025-11-29T07:31:45.843Z,idea_legos_alexis,86.0,0.0,435.1,
+"You can find security risks in your code at build time.
+
+Here's a simple way you can implement this in .NET in a few minutes.
+
+Imagine being able to find security risks when you build your code.
+
+Static code analysis lets you do this.
+
+Here's an example build error that warns me my password hashing code is insecure. 👇
+
+Static code analysis can help you write secure and consistent code. And you can also enforce this at build, even in CI pipelines.
+
+If you want to see how to set this up from scratch, check out this article: https://lnkd.in/dyYFpBYZ
+
+Note that this doesn't detect every possible issue.
+
+If you want to take this further, you can look at more powerful solutions like SonarQube.
+
+---
+Sign up for the .NET Weekly with 75K+ other engineers, and get a free Clean Architecture template: https://lnkd.in/ejtkZwup",649.0,30.0,64,743.0,1.49,Teacher,Software Engineering,Framework/How-To,List Post,Text-only,You can find security risks in your code at build time.,"You can find security risks in your code at build time.
+
+Here's a simple way you can implement this in .NET in a few minutes.
+
+Imagine being able to f","You can find security risks in your code at build time.
+
+Here's a simple way you can implement this in .NET in a few minutes.
+
+Imagine being able to f",https://www.linkedin.com/posts/milan-jovanovic_you-can-find-security-risks-in-your-code-activity-7398986847265132544-f2rt?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFkvkTAB0d8WbobX52s3XSR2kf5PfrWy8V4,2025-11-25T07:32:10.916Z,idea_legos_alexis,128.0,0.0,435.1,
+"The riskiest line of code you'll write today is the one without a feature flag.
+
+Fortunately, .NET has you covered right out of the box.
+
+Feature flags are a software development technique that allows you to wrap application features in a conditional statement.
+
+You can then toggle the feature on or off at runtime to control which features are enabled.
+
+.NET already has feature flag support built in.
+
+You can use the IFeatureManager in your code to check whether a feature is enabled.
+
+Want to learn more about using feature flags?
+
+Check out this article: https://lnkd.in/ddxmMg4V
+
+There are many popular services for managing feature flags.
+
+I've used LaunchDarkly often, and recently also PostHog (it offers many more features).
+
+---
+Sign up for the .NET Weekly with 75K+ other engineers, and get a free Clean Architecture template: https://lnkd.in/ej4nP9pY",628.0,49.0,55,732.0,1.44,Teacher,Engineering Leadership,Framework/How-To,List Post,Text-only,The riskiest line of code you'll write today is the one without a feature flag.,"The riskiest line of code you'll write today is the one without a feature flag.
+
+Fortunately, .NET has you covered right out of the box.
+
+Feature flag","The riskiest line of code you'll write today is the one without a feature flag.
+
+Fortunately, .NET has you covered right out of the box.
+
+Feature flag",https://www.linkedin.com/posts/milan-jovanovic_the-riskiest-line-of-code-youll-write-today-activity-7405147410806820865-tL__?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAD7yo78B760w1OzXX2HFGNqUYGS32K3evyU,2025-12-12T07:32:03.722Z,idea_legos_alexis,131.0,0.0,435.1,
+"Not all Load Balancing strategies are created equal.
+
+If you are using YARP (Yet Another Reverse Proxy) in .NET, you have 5 built-in ways to distribute traffic. But which one should you choose?
+
+Here is the breakdown:
+
+1. RoundRobin: The classic. It cycles through servers evenly. Simple, but it assumes all servers are equally fast.
+
+2. LeastRequests: The smart choice. It sends traffic to the server currently doing the least work.
+
+3. Random: It picks a server at random. Surprisingly effective for high-volume, uniform workloads.
+
+4. PowerOfTwoChoices: The balanced approach. It picks two random servers and chooses the one with fewer requests. It avoids the overhead of checking every server.
+
+5. FirstAlphabetical: The ""sticky"" one. It always picks the first available server. Good for failover setups, bad for load distribution.
+
+Most people stick with RoundRobin, but switching to LeastRequests can significantly improve tail latency in systems where request times vary.
+
+I dive deeper into how to scale horizontally using YARP here: https://lnkd.in/daDNMpmB
+
+Which strategy is your default choice?
+
+---
+Sign up for the .NET Weekly with 75K+ other engineers, and get a free Clean Architecture template: https://lnkd.in/dcvJmi7E",646.0,16.0,66,728.0,1.48,Teacher,Technical Skills,Contrast/But,List Post,Text-only,Not all Load Balancing strategies are created equal.,"Not all Load Balancing strategies are created equal.
+
+If you are using YARP (Yet Another Reverse Proxy) in .NET, you have 5 built-in ways to distribut","Not all Load Balancing strategies are created equal.
+
+If you are using YARP (Yet Another Reverse Proxy) in .NET, you have 5 built-in ways to distribut",https://www.linkedin.com/posts/milan-jovanovic_not-all-load-balancing-strategies-are-created-activity-7415656713519013889-AiFq?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACQtiwkB6kGZiEBy4_4SPa_ge0XcIUugnbw,2026-01-10T07:32:16.742Z,idea_legos_alexis,129.0,0.0,435.1,
+"How did we make a simple idea so complicated?
+
+CQRS is the simplest pattern out there.
+
+First, there was CQS: Command Query Separation.
+
+What does this mean? We split an object's methods into write (command) and read (query) methods.
+
+CQRS is the evolution of CQS. CQRS works on the architectural level. At the same time, CQS works on the method (or class) level.
+
+The CQRS pattern uses separate models for reading and updating data.
+
+This separation can be logical OR physical.
+
+My preferred approach is starting with logical CQRS.
+
+One database + separate flows for writes and reads.
+
+You can design a data model fine-tuned for each operation.
+
+A lot of developers stay away from CQRS because they think it's complex.
+
+The reality is you're probably already applying CQRS principles without knowing it.
+
+Here's a simple implementation: https://lnkd.in/d-qUdpn3
+
+What do you think about the CQRS pattern?
+
+---
+Sign up for the .NET Weekly with 75K+ other engineers, and get a free Clean Architecture template: https://lnkd.in/dnecq4zh",615.0,41.0,53,709.0,1.41,Fortune Teller,Productivity,Industry Observation,List Post,Text-only,How did we make a simple idea so complicated?,"How did we make a simple idea so complicated?
+
+CQRS is the simplest pattern out there.
+
+First, there was CQS: Command Query Separation.
+
+What does thi","How did we make a simple idea so complicated?
+
+CQRS is the simplest pattern out there.
+
+First, there was CQS: Command Query Separation.
+
+What does thi",https://www.linkedin.com/posts/milan-jovanovic_how-did-we-make-a-simple-idea-so-complicated-activity-7413482291743588352-o2X2?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFsquNIBL-Bah7UT0aAl0gV3gz4HeyE43g0,2026-01-04T07:31:54.192Z,idea_legos_alexis,137.0,0.0,435.1,
+"In .NET, you usually have to choose between Speed and Consistency.
+
+In-Memory Caching (IMemoryCache):
+✅ Blazing fast (nanoseconds).
+❌ Data is stuck on one server. If you have 10 nodes, you have 10 caches.
+
+Distributed Caching (IDistributedCache / Redis):
+✅ Shared across all servers. Consistent data.
+❌ Network latency. Serialization costs. It's slower.
+
+The Solution: HybridCache.
+
+Don't choose one. Use both.
+
+A Hybrid Cache creates a tiered architecture:
+
+- L1 (Local): The app checks RAM first. If it's there, return instantly.
+- L2 (Distributed): If missing locally, check Redis.
+- Source: If missing in Redis, fetch from DB, then populate both L1 and L2.
+
+While Microsoft is working on a native implementation, I still swear by FusionCache as the most robust, battle-tested library for this.
+
+I wrote a guide on how to set this up properly: https://lnkd.in/d6NKgMVp
+
+Are you currently using just Redis, or a multi-layer cache?
+
+---
+Sign up for the .NET Weekly with 75K+ other engineers, and get a free Clean Architecture template: https://lnkd.in/dCMpeCNe",579.0,54.0,74,707.0,1.33,Teacher,System Design,Framework/How-To,List Post,Text-only,"In .NET, you usually have to choose between Speed and Consistency.","In .NET, you usually have to choose between Speed and Consistency.
+
+In-Memory Caching (IMemoryCache):
+✅ Blazing fast (nanoseconds).
+❌ Data is stuck on","In .NET, you usually have to choose between Speed and Consistency.
+
+In-Memory Caching (IMemoryCache):
+✅ Blazing fast (nanoseconds).
+❌ Data is stuck on",https://www.linkedin.com/posts/milan-jovanovic_in-net-you-usually-have-to-choose-between-activity-7416381399496122368-Z9k3?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACQtiwkB6kGZiEBy4_4SPa_ge0XcIUugnbw,2026-01-12T07:31:55.343Z,idea_legos_alexis,157.0,0.0,435.1,
+"What is the cleanest way to get configuration values in .NET?
+
+I use the Options pattern.
+
+Here's why you should know about it.
+
+App configuration lives in:
+
+- Environment variables
+- (appsettings) JSON files
+- User secrets
+- Other config providers
+
+You can get individual values using the IConfiguration interface.
+
+But this is error-prone and won't scale, so I don't recommend it.
+
+Instead, I use the Options pattern:
+
+- Create a class to represent the settings
+- Bind the class properties to application settings (JSON)
+- Consume the Options pattern in my code using IOption
+
+You can also add data annotations to your settings class for simple validation.
+
+Here's how you can implement the Options pattern in .NET: https://lnkd.in/gjVBDHqM
+
+Do you know the difference between IOptions, IOptionsSnapshot and IOptionsMonitor?
+
+---
+Sign up for the .NET Weekly with 75K+ other engineers, and get a free Clean Architecture template: https://lnkd.in/edzd2tK5",610.0,44.0,45,699.0,1.4,Investigator,Technical Skills,Industry Observation,List Post,Text-only,What is the cleanest way to get configuration values in .NET?,"What is the cleanest way to get configuration values in .NET?
+
+I use the Options pattern.
+
+Here's why you should know about it.
+
+App configuration liv","What is the cleanest way to get configuration values in .NET?
+
+I use the Options pattern.
+
+Here's why you should know about it.
+
+App configuration liv",https://www.linkedin.com/posts/milan-jovanovic_what-is-the-cleanest-way-to-get-configuration-activity-7409133594666889216-3anY?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADSrhNYB6WX_yttMZS5zKuw4oAmgtZapKSg,2025-12-23T07:31:44.014Z,idea_legos_alexis,140.0,0.0,435.1,
+"If you're still writing five separate interfaces and classes for every single command in .NET, you need to see this.
+
+For years, many of us in the .NET community have relied on MediatR and MassTransit for command handling and messaging. But the boilerplate is real.
+
+I finally took the plunge and explored Wolverine, a library that claims to be the ""next generation"" of .NET messaging by focusing on convention over configuration.
+
+In my new video, I share my raw, first-take as a long-time user of other messaging tools: https://lnkd.in/eDm9Aa3p",613.0,26.0,52,691.0,1.41,Magician,AI/ML/Coding Tools,Industry Observation,Observation/Opinion,Text-only,"If you're still writing five separate interfaces and classes for every single command in .NET, you n","If you're still writing five separate interfaces and classes for every single command in .NET, you need to see this.
+
+For years, many of us in the .NE","If you're still writing five separate interfaces and classes for every single command in .NET, you need to see this.
+
+For years, many of us in the .NE",https://www.linkedin.com/posts/milan-jovanovic_if-youre-still-writing-five-separate-interfaces-activity-7401600465882263553-0Eha?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAB0q1vsBp4hULNTjGJX-vWVJ4DU-a38UXeY,2025-12-02T12:37:46.153Z,idea_legos_alexis,139.0,0.0,435.1,
+"I run my integration tests inside the CI/CD pipeline.
+
+This gives me maximum confidence in my code.
+
+It's all thanks to Testcontainers and Docker.
+
+You can run external services as containers and access them in the tests.
+
+Here's how to spin up:
+
+- PostgreSQL
+- Keycloak
+- Redis
+
+And now you can connect to these services from your application code.
+
+Ready to take your integration testing in .NET to the next level?
+
+You will love this article: https://lnkd.in/dpXd2NUx
+
+Don't write flaky tests. Use real external services.
+
+---
+Sign up for the .NET Weekly with 75K+ other engineers, and get a free Clean Architecture template: https://lnkd.in/eWxxt8kC",586.0,52.0,51,689.0,1.35,Teacher,AI/ML/Coding Tools,Personal Experience,List Post,Text-only,I run my integration tests inside the CI/CD pipeline.,"I run my integration tests inside the CI/CD pipeline.
+
+This gives me maximum confidence in my code.
+
+It's all thanks to Testcontainers and Docker.
+
+Yo","I run my integration tests inside the CI/CD pipeline.
+
+This gives me maximum confidence in my code.
+
+It's all thanks to Testcontainers and Docker.
+
+Yo",https://www.linkedin.com/posts/milan-jovanovic_i-run-my-integration-tests-inside-the-ci-activity-7407684089526386688-UWK-?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACQAEEkBDb2FlfV06XgwYywsXPZjc1EPy8w,2025-12-19T07:31:55.058Z,idea_legos_alexis,152.0,0.0,435.1,
+"What's the fastest way to do a SQL bulk insert?
+
+I tested out all the popular approaches...
+
+SqlBulkCopy is your winner. It's the fastest way to insert a large amount of data into SQL Server. But it does require writing more code than the other approaches.
+
+Postgres has the COPY command, which works similarly.
+
+Here are 5 more solutions I compared: https://lnkd.in/eearSh_z
+
+Which one would you use?
+
+---
+Sign up for the .NET Weekly with 74K+ other engineers, and get a free Clean Architecture template: https://lnkd.in/e3q7Nu4s",585.0,21.0,72,678.0,1.34,Experimenter,System Design,Industry Observation,List Post,Text-only,What's the fastest way to do a SQL bulk insert?,"What's the fastest way to do a SQL bulk insert?
+
+I tested out all the popular approaches...
+
+SqlBulkCopy is your winner. It's the fastest way to inser","What's the fastest way to do a SQL bulk insert?
+
+I tested out all the popular approaches...
+
+SqlBulkCopy is your winner. It's the fastest way to inser",https://www.linkedin.com/posts/milan-jovanovic_the-fastest-way-to-do-bulk-inserts-activity-7395362671312703488-rBH3?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADoipL4BPavl-hmH48vlRBnFYLnQqO1RsRU,2025-11-15T07:31:00.035Z,idea_legos_alexis,153.0,0.0,435.1,
+"This is how you do integration testing the right way.
+
+In-memory API instance → Postgres container → Run integration test
+
+You don't need to change anything in your code.
+
+Just set the connection string to point to the Postgres instance.
+
+It doesn't get any simpler than this.
+
+Here's the complete example: https://lnkd.in/d8YU6Raq
+
+How do you write integration tests?
+
+If you're still not using Testcontainers, you're doing yourself a disservice.
+
+---
+Sign up for the .NET Weekly with 75K+ other engineers, and get a free Clean Architecture template: https://lnkd.in/dnecq4zh",593.0,29.0,50,672.0,1.36,Contrarian,AI/ML/Coding Tools,Against Common Wisdom,List Post,Text-only,This is how you do integration testing the right way.,"This is how you do integration testing the right way.
+
+In-memory API instance → Postgres container → Run integration test
+
+You don't need to change an","This is how you do integration testing the right way.
+
+In-memory API instance → Postgres container → Run integration test
+
+You don't need to change an",https://www.linkedin.com/posts/milan-jovanovic_this-is-how-you-do-integration-testing-the-activity-7412757523738419200-6mhE?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFsquNIBL-Bah7UT0aAl0gV3gz4HeyE43g0,2026-01-02T07:31:56.034Z,idea_legos_alexis,146.0,0.0,435.1,
+"I love working with the Service Discovery library in .NET.
+
+It's a lightweight configuration-based approach.
+
+This actually came out of the effort done in Aspire.
+
+If you're new to this concept, here's a quick breakdown.
+
+Service discovery allows developers to reference external services using logical names instead of physical IP addresses and ports.
+
+There's a centralized store for services to register themselves.
+
+Clients can query the service registry to find the service's physical address.
+
+The service discovery library for .NET is simpler, though.
+
+It still lets you use logical names to refer to external services.
+
+However, the discovery side is ""lacking"".
+
+You have to specify the physical addresses in the application settings.
+
+Here's a step-by-step tutorial: https://lnkd.in/eX4Wy3jD
+
+You can configure the service URLs during deployment in your CI/CD pipelines.
+
+Or even use a central configuration store (Azure App Configuration) for service discovery URLs.
+
+---
+Sign up for the .NET Weekly with 74K+ other engineers, and get a free Clean Architecture template: https://lnkd.in/eihaFihr",594.0,14.0,60,668.0,1.37,Contrarian,Technical Skills,Personal Experience,List Post,Text-only,I love working with the Service Discovery library in .NET.,"I love working with the Service Discovery library in .NET.
+
+It's a lightweight configuration-based approach.
+
+This actually came out of the effort don","I love working with the Service Discovery library in .NET.
+
+It's a lightweight configuration-based approach.
+
+This actually came out of the effort don",https://www.linkedin.com/posts/milan-jovanovic_i-love-working-with-the-service-discovery-activity-7397899569981857792-wGB4?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACrQoogBzcO6PdHYllCLqPsl2uMapGCOPVg,2025-11-22T07:31:43.811Z,idea_legos_alexis,145.0,0.0,435.1,
+"I like my API endpoints ""thin"".
+
+If I can have controllers (or Minimal APIs) with 4-5 lines of code, that'd be best.
+
+Here's why you should implement this.
+
+The API endpoint's only responsibility becomes:
+
+1. Accepting a request
+2. Constructing a command/query object
+3. Sending it to the respective handler and getting a result
+
+The best part?
+
+You don't need MediatR.
+
+With it going commercial, I'm sure many people will switch away.
+
+I implemented my custom solution with <100 lines of code.
+
+Here's how: https://lnkd.in/dURSP2Bc
+
+What do you think about this approach?
+
+---
+Sign up for the .NET Weekly with 75K+ other engineers, and get a free Clean Architecture template: https://lnkd.in/ej4nP9pY",569.0,67.0,29,665.0,1.31,Teacher,System Design,Personal Experience,List Post,Text-only,"I like my API endpoints ""thin"".","I like my API endpoints ""thin"".
+
+If I can have controllers (or Minimal APIs) with 4-5 lines of code, that'd be best.
+
+Here's why you should implement ","I like my API endpoints ""thin"".
+
+If I can have controllers (or Minimal APIs) with 4-5 lines of code, that'd be best.
+
+Here's why you should implement ",https://www.linkedin.com/posts/milan-jovanovic_i-like-my-api-endpoints-thin-if-i-can-activity-7404060172089954305-tfnY?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAB0q1vsBp4hULNTjGJX-vWVJ4DU-a38UXeY,2025-12-09T07:31:45.812Z,idea_legos_alexis,159.0,0.0,435.1,
+"The worst kind of bug is the one that explodes 3 days after deployment.
+
+This is the hidden danger of the standard Options Pattern in .NET.
+
+You might bind your appsettings.json to a class, inject it, and everything looks fine. The app starts up perfectly.
+
+But if a required API Key is missing? You won't know until a user triggers that specific feature, and the app crashes.
+
+This is why ""Fail Fast"" is crucial for configuration.
+
+If your config is invalid, your application should refuse to start. Period.
+
+You can achieve this by extending the Options Pattern with IValidateOptions.
+
+Instead of just binding data, you attach validation logic:
+
+1. Define rules (e.g., ""ApiKey cannot be null"", ""RetryCount must be > 0"").
+2. Register the validator.
+3. If the config breaks the rules, the DI container throws an exception immediately at startup.
+
+I took this a step further and integrated FluentValidation to make the rules cleaner and more expressive.
+
+Here is the complete implementation code: https://lnkd.in/djz5Yfux
+
+---
+Sign up for the .NET Weekly with 75K+ other engineers, and get a free Clean Architecture template: https://lnkd.in/dcvJmi7E",526.0,35.0,58,619.0,1.21,Investigator,AI/ML/Coding Tools,Industry Observation,List Post,Text-only,The worst kind of bug is the one that explodes 3 days after deployment.,"The worst kind of bug is the one that explodes 3 days after deployment.
+
+This is the hidden danger of the standard Options Pattern in .NET.
+
+You might","The worst kind of bug is the one that explodes 3 days after deployment.
+
+This is the hidden danger of the standard Options Pattern in .NET.
+
+You might",https://www.linkedin.com/posts/milan-jovanovic_hidden-danger-of-options-pattern-in-net-activity-7414931695226994688-_bTy?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACQtiwkB6kGZiEBy4_4SPa_ge0XcIUugnbw,2026-01-08T07:31:18.911Z,idea_legos_alexis,175.0,0.0,435.1,
+"Are you accidentally crippling your EF Core queries?
+
+Before you start bashing on EF, this is an SQL problem, not an EF problem.
+
+But it can be problematic to find and fix with EF.
+
+Understand the Cartesian Explosion problem and how it occurs in your queries.
+
+I'll give you a practical solution using EF Core's query-splitting feature.
+
+Here's the full story: https://lnkd.in/ezv5B48v
+
+In future versions of EF, the split queries will be batched, which should significantly improve performance. 
+
+---
+Sign up for the .NET Weekly with 74K+ other engineers, and get a free Clean Architecture template: https://lnkd.in/eihaFihr",496.0,27.0,68,591.0,1.14,Teacher,Personal Growth,Framework/How-To,List Post,Text-only,Are you accidentally crippling your EF Core queries?,"Are you accidentally crippling your EF Core queries?
+
+Before you start bashing on EF, this is an SQL problem, not an EF problem.
+
+But it can be proble","Are you accidentally crippling your EF Core queries?
+
+Before you start bashing on EF, this is an SQL problem, not an EF problem.
+
+But it can be proble",https://www.linkedin.com/posts/milan-jovanovic_ef-query-splitting-activity-7397537002792882176-d490?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACrQoogBzcO6PdHYllCLqPsl2uMapGCOPVg,2025-11-21T07:31:01.057Z,idea_legos_alexis,188.0,0.0,435.1,
+"Most “event-driven” systems fail in dev for one dumb reason:
+
+everyone shares the same Service Bus.
+
+Queues get polluted, subscriptions don’t match, and your “bug” is just someone else’s test message.
+
+So I recorded a quick walkthrough on running Azure Service Bus locally using the Azure Service Bus Emulator + .NET Aspire.
+
+You can watch it here: https://lnkd.in/gYx8YiBU",505.0,34.0,41,580.0,1.16,Teacher,AI/ML/Coding Tools,Framework/How-To,Observation/Opinion,Text-only,Most “event-driven” systems fail in dev for one dumb reason:,"Most “event-driven” systems fail in dev for one dumb reason:
+
+everyone shares the same Service Bus.
+
+Queues get polluted, subscriptions don’t match, a","Most “event-driven” systems fail in dev for one dumb reason:
+
+everyone shares the same Service Bus.
+
+Queues get polluted, subscriptions don’t match, a",https://www.linkedin.com/posts/milan-jovanovic_most-event-driven-systems-fail-in-dev-for-activity-7409573035873054720-o8RM?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADSrhNYB6WX_yttMZS5zKuw4oAmgtZapKSg,2025-12-24T12:37:54.962Z,idea_legos_alexis,187.0,0.0,435.1,
+"Stop storing secrets in appsettings.json. Seriously.
+
+That file was never meant to hold production credentials, yet I see it in real projects all the time.
+
+I just published a new walkthrough where I show how to secure your .NET apps with Azure Key Vault:
+
+- Creating your first Key Vault
+- The exact RBAC roles you actually need
+- Storing secrets with versioning
+- Authenticating with DefaultAzureCredential
+- Pulling secrets directly into ASPNET Core configuration
+- Loading connection strings + options without touching appsettings
+
+It’s a clean setup that keeps your sensitive values out of the repo and follows Azure’s best practices.
+
+Learn more here: https://lnkd.in/eU4mUKnY
+
+If you want to upgrade how you handle secrets in .NET, this one will help you get it right from the start.",492.0,31.0,47,570.0,1.13,Contrarian,Productivity,Against Common Wisdom,List Post,Text-only,Stop storing secrets in appsettings.json. Seriously.,"Stop storing secrets in appsettings.json. Seriously.
+
+That file was never meant to hold production credentials, yet I see it in real projects all the ","Stop storing secrets in appsettings.json. Seriously.
+
+That file was never meant to hold production credentials, yet I see it in real projects all the ",https://www.linkedin.com/posts/milan-jovanovic_stop-storing-secrets-in-appsettingsjson-activity-7397614229773766656-J8zt?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACrQoogBzcO6PdHYllCLqPsl2uMapGCOPVg,2025-11-21T12:37:53.404Z,idea_legos_alexis,193.0,0.0,435.1,
+"We’ve been faking left joins in LINQ for over a decade.
+
+EF Core 10 finally adds native LeftJoin and RightJoin operators.
+
+No more GroupJoin + DefaultIfEmpty just to express something every SQL dev understands instantly.
+
+In this video, I break down:
+- Why left joins in LINQ were always awkward
+- What EF Core 10 actually ships (and what it doesn’t)
+- Why this is about readability and intent, not performance
+- Whether this change came too late (or right on time)
+
+Same SQL. Much clearer code.
+
+You can watch it here: https://lnkd.in/dtuYzayn",494.0,24.0,49,567.0,1.14,Fortune Teller,Software Engineering,Industry Observation,List Post,Text-only,We’ve been faking left joins in LINQ for over a decade.,"We’ve been faking left joins in LINQ for over a decade.
+
+EF Core 10 finally adds native LeftJoin and RightJoin operators.
+
+No more GroupJoin + Default","We’ve been faking left joins in LINQ for over a decade.
+
+EF Core 10 finally adds native LeftJoin and RightJoin operators.
+
+No more GroupJoin + Default",https://www.linkedin.com/posts/milan-jovanovic_weve-been-faking-left-joins-in-linq-for-activity-7405224371130425344-GG49?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAD7yo78B760w1OzXX2HFGNqUYGS32K3evyU,2025-12-12T12:37:52.493Z,idea_legos_alexis,190.0,0.0,435.1,
+"Most OAuth demos are useless in the real world.
+
+They skip the part that matters: how public clients should actually get tokens.
+
+I just published a step-by-step video on running Keycloak in Docker + OAuth 2.0 Authorization Code flow with PKCE.
+
+What you’ll see:
+- Keycloak (latest) running locally with Docker/Compose
+- Realm + user + public client setup
+- Using .well-known/openid-configuration so you don’t guess endpoints
+- Full PKCE flow in Postman (authorize → code → token exchange)
+- Quick JWT inspection + the “why is this 401/403?” scope moment
+
+If you’re building SPAs or mobile apps, PKCE isn’t optional. It’s the safe default.
+
+Watch it here: https://lnkd.in/deZWiEbi",505.0,15.0,44,564.0,1.16,Contrarian,Software Engineering,Against Common Wisdom,List Post,Text-only,Most OAuth demos are useless in the real world.,"Most OAuth demos are useless in the real world.
+
+They skip the part that matters: how public clients should actually get tokens.
+
+I just published a s","Most OAuth demos are useless in the real world.
+
+They skip the part that matters: how public clients should actually get tokens.
+
+I just published a s",https://www.linkedin.com/posts/milan-jovanovic_most-oauth-demos-are-useless-in-the-real-activity-7417966918692937728-ezNz?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACrQoogBzcO6PdHYllCLqPsl2uMapGCOPVg,2026-01-16T16:32:12.577Z,idea_legos_alexis,185.0,0.0,435.1,
+"Looking for a simple message bus in .NET?
+
+I recommend taking a look at System Threading Channels.
+
+You can implement a simple in-memory message bus using Channels in .NET.
+
+Channels implement the producer-consumer pattern:
+
+- Producers asynchronously produce data
+- Consumers asynchronously consume that data
+
+A channel has a Writer and Reader, that you can use to publish and consume messages. respectively.
+
+Here's how you can use this to implement a simple message bus: https://lnkd.in/ekfJZd5n
+
+Remember that this is still an in-memory bus, so it's not reliable.
+
+You can implement resiliency around this, but it only goes so far.
+
+---
+Sign up for the .NET Weekly with 75K+ other engineers, and get a free Clean Architecture template: https://lnkd.in/ejtkZwup",479.0,26.0,58,563.0,1.1,Teacher,Technical Skills,Personal Experience,List Post,Text-only,Looking for a simple message bus in .NET?,"Looking for a simple message bus in .NET?
+
+I recommend taking a look at System Threading Channels.
+
+You can implement a simple in-memory message bus u","Looking for a simple message bus in .NET?
+
+I recommend taking a look at System Threading Channels.
+
+You can implement a simple in-memory message bus u",https://www.linkedin.com/posts/milan-jovanovic_looking-for-a-simple-message-bus-in-net-activity-7398624385596620800-8WlR?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACrQoogBzcO6PdHYllCLqPsl2uMapGCOPVg,2025-11-24T07:31:53.320Z,idea_legos_alexis,197.0,0.0,435.1,
+"If you need to run a task ""Every Friday at 5 PM,"" how do you implement it?
+
+A While(true) loop with a Thread.Sleep() is not the answer.
+
+You need a robust scheduler that understands Cron Expressions.
+
+A Cron expression allows you to define complex recurring schedules with a compact string.
+
+For example:
+
+• 15 10 * * * = 10:15 AM every day.
+• 15 10 * * MON-FRI = 10:15 AM, but only on weekdays.
+
+In the .NET ecosystem, the heavyweight champion for this is Quartz.
+
+It parses these expressions for you and ensures your background services fire exactly when they are supposed to.
+
+I broke down how to configure your first job and trigger in this article: https://lnkd.in/dfy-U7jp
+
+What library do you currently use for background jobs?
+
+---
+Sign up for the .NET Weekly with 75K+ other engineers, and get a free Clean Architecture template: https://lnkd.in/dJGs8Uzv",464.0,42.0,55,561.0,1.07,Teacher,Technical Skills,Framework/How-To,List Post,Text-only,"If you need to run a task ""Every Friday at 5 PM,"" how do you implement it?","If you need to run a task ""Every Friday at 5 PM,"" how do you implement it?
+
+A While(true) loop with a Thread.Sleep() is not the answer.
+
+You need a ro","If you need to run a task ""Every Friday at 5 PM,"" how do you implement it?
+
+A While(true) loop with a Thread.Sleep() is not the answer.
+
+You need a ro",https://www.linkedin.com/posts/milan-jovanovic_if-you-need-to-run-a-task-every-friday-at-activity-7416019004827373569-16dY?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACQtiwkB6kGZiEBy4_4SPa_ge0XcIUugnbw,2026-01-11T07:31:53.721Z,idea_legos_alexis,204.0,0.0,435.1,
+"How do you draw architectural diagrams?
+
+One of the most popular and widely used options is UML.
+
+It's been around for ages, and it works great.
+
+However, there's also the C4 model.
+
+C4 stands for:
+
+- (System) Context Diagram
+- Container Diagram
+- Component Diagram
+- Code Diagram
+
+It's a lightweight model to describe your architecture.
+
+Want to learn more about the C4 model?
+
+Check out this article: https://lnkd.in/ezQ8EBUa
+
+Drawing tools I use: draw .io, Excalidraw, IcePanel
+
+---
+Sign up for the .NET Weekly with 75K+ other engineers, and get a free Clean Architecture template: https://lnkd.in/dnecq4zh",466.0,51.0,43,560.0,1.07,Teacher,AI/ML/Coding Tools,Framework/How-To,List Post,Text-only,How do you draw architectural diagrams?,"How do you draw architectural diagrams?
+
+One of the most popular and widely used options is UML.
+
+It's been around for ages, and it works great.
+
+Howe","How do you draw architectural diagrams?
+
+One of the most popular and widely used options is UML.
+
+It's been around for ages, and it works great.
+
+Howe",https://www.linkedin.com/posts/milan-jovanovic_how-do-you-draw-architectural-diagrams-activity-7411670369276825600-3xQZ?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFsquNIBL-Bah7UT0aAl0gV3gz4HeyE43g0,2025-12-30T07:31:58.212Z,idea_legos_alexis,202.0,0.0,435.1,
+"I failed a .NET interview question that looked easy.
+
+“Add caching to an async API.”
+
+The tricky part isn’t caching.
+It’s what happens when 50 requests hit the same cold cache at once:
+- race conditions
+- cache stampedes (thundering herd)
+- why ConcurrentDictionary still isn’t enough
+- why you can’t await inside a lock
+- the SemaphoreSlim async-lock pattern (with try/finally, double-check, timeout)
+- scaling it with per-key locks to reduce contention
+
+I break it down step-by-step using a currency conversion example, and show the exact refactor path from “works locally” to “works under load.”
+
+Watch it here: https://lnkd.in/dyN7_acX",505.0,24.0,29,558.0,1.16,Teacher,Engineering Career,Personal Experience,List Post,Text-only,I failed a .NET interview question that looked easy.,"I failed a .NET interview question that looked easy.
+
+“Add caching to an async API.”
+
+The tricky part isn’t caching.
+It’s what happens when 50 request","I failed a .NET interview question that looked easy.
+
+“Add caching to an async API.”
+
+The tricky part isn’t caching.
+It’s what happens when 50 request",https://www.linkedin.com/posts/milan-jovanovic_i-failed-a-net-interview-question-that-looked-activity-7414284081137623042-YmpY?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACQtiwkB6kGZiEBy4_4SPa_ge0XcIUugnbw,2026-01-06T12:37:55.680Z,idea_legos_alexis,186.0,0.0,435.1,
+"We all know the pain of code reviews.
+
+You open a Pull Request (PR). You wait. And when you finally get feedback, it’s just nitpicks about formatting or style.
+
+That doesn't help you ship better software. It just slows you down.
+
+I’ve been testing out 𝗔𝘂𝗴𝗺𝗲𝗻𝘁 𝗖𝗼𝗱𝗲 and their new Code Review feature. I have to say, it feels different.
+
+Most AI tools only look at the few lines of code you changed. They act like a basic spellchecker.
+
+Augment acts like a Senior Engineer.
+
+I typed auggie review on my PR, saw the little 👀 emoji pop up, and waited. Here is what surprised me:
+
+1. 𝗜𝘁 𝗸𝗻𝗼𝘄𝘀 𝘁𝗵𝗲 𝘄𝗵𝗼𝗹𝗲 𝗽𝗶𝗰𝘁𝘂𝗿𝗲: It looks at your entire repository, not just the file you touched. It caught a breaking change I made that would have broken a different part of the app.
+
+2. 𝗡𝗼 𝗻𝗼𝗶𝘀𝗲: It didn't nag me about style. It focused on real logic bugs and security risks.
+
+3. 𝗜𝘁 𝗹𝗲𝗮𝗿𝗻𝘀 𝗺𝘆 𝗿𝘂𝗹𝗲𝘀: You can add a simple YAML file to teach it your team's specific guidelines.
+
+It helps you catch the bad stuff, like edge cases and logic errors, before you merge.
+
+If you want an AI that actually understands how you build software, give this a try.
+
+Check it out here: https://fandf.co/4phaDOt
+
+𝗠𝘆 𝗮𝗱𝘃𝗶𝗰𝗲: Don't skip the custom code review guidelines file. If you take five minutes to list your team's specific rules, the AI stops guessing and starts reviewing exactly the way you want it to. It saves you from repeating the same comments over and over.
+
+Huge thanks to Augment Code for collaborating on this post with me.",478.0,29.0,50,557.0,1.1,Teacher,AI/ML/Coding Tools,Framework/How-To,List Post,Text-only,We all know the pain of code reviews.,"We all know the pain of code reviews.
+
+You open a Pull Request (PR). You wait. And when you finally get feedback, it’s just nitpicks about formatting ","We all know the pain of code reviews.
+
+You open a Pull Request (PR). You wait. And when you finally get feedback, it’s just nitpicks about formatting ",https://www.linkedin.com/posts/milan-jovanovic_we-all-know-the-pain-of-code-reviews-you-activity-7404960428386201601-odOC?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAD7yo78B760w1OzXX2HFGNqUYGS32K3evyU,2025-12-11T19:09:03.639Z,idea_legos_alexis,199.0,0.0,435.1,
+"What does your CI pipeline look like?
+
+Here's a simple GitHub Action for building and testing your .NET application.
+
+This is an easy way to get instant feedback when something breaks in your application (assuming you have tests in place).
+
+You can steal the source code for the CI pipeline from my article.
+
+Check it out here: https://lnkd.in/gpq9YhcS
+
+This is a good baseline for most projects.
+
+You can easily extend it with more functionality if you need to.
+
+---
+Sign up for the .NET Weekly with 75K+ other engineers, and get a free Clean Architecture template: https://lnkd.in/eWxxt8kC",485.0,17.0,47,549.0,1.11,Teacher,Software Engineering,Personal Experience,List Post,Text-only,What does your CI pipeline look like?,"What does your CI pipeline look like?
+
+Here's a simple GitHub Action for building and testing your .NET application.
+
+This is an easy way to get insta","What does your CI pipeline look like?
+
+Here's a simple GitHub Action for building and testing your .NET application.
+
+This is an easy way to get insta",https://www.linkedin.com/posts/milan-jovanovic_what-does-your-ci-pipeline-look-like-heres-activity-7408408845347303426-l_9W?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACQAEEkBDb2FlfV06XgwYywsXPZjc1EPy8w,2025-12-21T07:31:50.311Z,idea_legos_alexis,195.0,0.0,435.1,
+"Clean code tip:
+
+- Merge nested IF statements into one condition
+
+I often make this simple change to improve code readability.
+
+Clean code principles will make you a better developer.
+
+But what is clean code in the first place?
+
+Clean code is code that's:
+
+- Easy to read
+- Easy to maintain
+- Easy to understand
+
+Writing clean code is a skill.
+
+It's a skill you can learn and improve with practice.
+
+In the initial example:
+
+- Nesting increases complexity
+- Nesting makes the code harder to reason about
+
+The solution is to combine the nested IF statements into a single IF.
+
+Three ways you can do this:
+
+- Write an inline boolean expression
+- Expose a method with the expression
+- Create a variable with the expression
+
+But this is just the start.
+
+Here are 8 more clean code tips: https://lnkd.in/dt84mr9J
+
+Which solution do you like better?
+
+---
+Sign up for the .NET Weekly with 75K+ other engineers, and get a free Clean Architecture template: https://lnkd.in/ej4nP9pY",458.0,60.0,17,535.0,1.05,Teacher,AI/ML/Coding Tools,Framework/How-To,List Post,Text-only,Clean code tip:,"Clean code tip:
+
+- Merge nested IF statements into one condition
+
+I often make this simple change to improve code readability.
+
+Clean code principles ","Clean code tip:
+
+- Merge nested IF statements into one condition
+
+I often make this simple change to improve code readability.
+
+Clean code principles ",https://www.linkedin.com/posts/milan-jovanovic_clean-code-tip-merge-nested-if-statements-activity-7403697790884773888-egsy?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAB0q1vsBp4hULNTjGJX-vWVJ4DU-a38UXeY,2025-12-08T07:31:47.400Z,idea_legos_alexis,208.0,0.0,435.1,
+"I rewrote a 40-year-old APL system to a modern tech stack.
+
+It powers a $10M manufacturing business with 460+ database tables.
+
+Here are 5 lessons I learned in 4 years:
+
+1. Start with core business logic first
+
+2. Modular architecture is worth the investment
+
+3. Data sync is harder than you think
+
+4. Balance technical needs with business pressure
+
+5. Document institutional knowledge before it's gone
+
+Want the full story of our legacy migration journey?
+
+Check out my blog post: https://lnkd.in/eacxqj7z
+
+This project taught me so many things about enterprise architecture.
+
+I think you'll learn a few things too.
+
+---
+Sign up for the .NET Weekly with 75K+ other engineers, and get a free Clean Architecture template: https://lnkd.in/ejtkZwup",465.0,40.0,27,532.0,1.07,Fortune Teller,System Design,Data/Numbers,List Post,Text-only,I rewrote a 40-year-old APL system to a modern tech stack.,"I rewrote a 40-year-old APL system to a modern tech stack.
+
+It powers a $10M manufacturing business with 460+ database tables.
+
+Here are 5 lessons I l","I rewrote a 40-year-old APL system to a modern tech stack.
+
+It powers a $10M manufacturing business with 460+ database tables.
+
+Here are 5 lessons I l",https://www.linkedin.com/posts/milan-jovanovic_i-rewrote-a-40-year-old-apl-system-to-a-modern-activity-7399711496454184960-aFGc?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFkvkTAB0d8WbobX52s3XSR2kf5PfrWy8V4,2025-11-27T07:31:40.746Z,idea_legos_alexis,203.0,0.0,435.1,
+"5 books I can't recommend enough:
+
+1. Clean Architecture (R. Martin)
+2. Domain Driven Design (E. Evans)
+3. Building Microservices (S. Newman)
+4. Designing Data-Intensive Applications (M. Kleppman)
+5. Patterns of Enterprise Application Architecture (M. Fowler)
+
+My favorite: Building Microservices.
+
+There are many others that didn't make this list.
+
+I can't list all of them, for practical reasons.
+
+What's on your reading list?
+
+---
+Sign up for the .NET Weekly with 75K+ other engineers, and get a free Clean Architecture template: https://lnkd.in/ejtkZwup",444.0,39.0,42,525.0,1.02,Teacher,AI/ML/Coding Tools,Personal Experience,List Post,Text-only,5 books I can't recommend enough:,"5 books I can't recommend enough:
+
+1. Clean Architecture (R. Martin)
+2. Domain Driven Design (E. Evans)
+3. Building Microservices (S. Newman)
+4. Desig","5 books I can't recommend enough:
+
+1. Clean Architecture (R. Martin)
+2. Domain Driven Design (E. Evans)
+3. Building Microservices (S. Newman)
+4. Desig",https://www.linkedin.com/posts/milan-jovanovic_5-books-to-become-a-better-software-engineer-activity-7400073717856456704-4CSU?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFkvkTAB0d8WbobX52s3XSR2kf5PfrWy8V4,2025-11-28T07:31:01.058Z,idea_legos_alexis,217.0,0.0,435.1,
+"What is Claims Transformation in ASPNET Core?
+
+You can use it to extend your authorization logic by adding dynamic claims at runtime.
+
+If your Identity Provider's access token doesn't perfectly align with your application's internal authorization needs, you can use claims transformation.
+
+Claims transformation allows you to modify the claims before the application uses them for authorization.
+
+You can use this to fill in the missing claims from your database or another source.
+
+Here's why this is helpful: https://lnkd.in/eMsd69UY
+
+Did you run a situation like this in your projects?
+
+Now you know one way to solve it.
+
+---
+Sign up for the .NET Weekly with 75K+ other engineers, and get a free Clean Architecture template: https://lnkd.in/ejtkZwup",423.0,33.0,45,501.0,0.97,Teacher,AI/ML/Coding Tools,Framework/How-To,List Post,Text-only,What is Claims Transformation in ASPNET Core?,"What is Claims Transformation in ASPNET Core?
+
+You can use it to extend your authorization logic by adding dynamic claims at runtime.
+
+If your Identit","What is Claims Transformation in ASPNET Core?
+
+You can use it to extend your authorization logic by adding dynamic claims at runtime.
+
+If your Identit",https://www.linkedin.com/posts/milan-jovanovic_how-claims-transformation-works-activity-7399348942099947520-aKuj?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFkvkTAB0d8WbobX52s3XSR2kf5PfrWy8V4,2025-11-26T07:31:01.052Z,idea_legos_alexis,274.0,0.0,435.1,
+"5 EF Core features you need to know 🦄
+
+EF Core is fast, but only if you use the right tools.
+
+Here are 5 features that will speed up your data access:
+
+1. Query Splitting: Stops ""Cartesian Explosion"" by breaking huge JOINs into separate SQL queries.
+
+2. Bulk Updates: ExecuteUpdate() modifies rows directly in the DB. Zero memory allocation.
+
+3. Bulk Deletes: ExecuteDelete() wipes data instantly without fetching it first.
+
+4. Raw SQL: Sometimes LINQ generates bad SQL. Raw SQL lets you take the wheel for complex queries.
+
+5. IgnoreQueryFilters: Perfect for Admin dashboards where you need to see ""Soft Deleted"" data or tenant-specific records.
+
+Bonus: I covered 5 more advanced features in this article: https://lnkd.in/dxbAfjUR
+
+Which one of these saved your production app?
+
+---
+Sign up for the .NET Weekly with 75K+ other engineers, and get a free Clean Architecture template: https://lnkd.in/dCMpeCNe",402.0,28.0,69,499.0,0.92,Contrarian,Productivity,Contrast/But,List Post,Text-only,5 EF Core features you need to know 🦄,"5 EF Core features you need to know 🦄
+
+EF Core is fast, but only if you use the right tools.
+
+Here are 5 features that will speed up your data access:","5 EF Core features you need to know 🦄
+
+EF Core is fast, but only if you use the right tools.
+
+Here are 5 features that will speed up your data access:",https://www.linkedin.com/posts/milan-jovanovic_5-ef-core-features-you-must-know-activity-7417830723488931840-xD4m?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACrQoogBzcO6PdHYllCLqPsl2uMapGCOPVg,2026-01-16T07:31:01.110Z,idea_legos_alexis,298.0,0.0,435.1,
+"Most people think Redis is just used for caching.
+
+But you can also use it as a vector database.
+
+Here are a few use cases for Redis:
+
+- Counters
+- Rate limiting
+- Leaderboards
+- Session store
+- Message queue
+- Distributed locking
+
+And of course, Redis as a vector database.
+
+What are vectors?
+
+Vectors are sequences of numbers that represent data.
+
+You use an LLM to generate a vector embedding.
+
+This allows you to do Vector Search: searching based on meaning.
+
+Want to learn more?
+
+Check out this article: https://lnkd.in/dwu4f7dj
+
+This is one of the simplest but very valuable AI features you can add to your applications.
+
+---
+Sign up for the .NET Weekly with 75K+ other engineers, and get a free Clean Architecture template: https://lnkd.in/ej4nP9pY",440.0,23.0,32,495.0,1.01,Contrarian,Engineering Leadership,Contrast/But,List Post,Text-only,Most people think Redis is just used for caching.,"Most people think Redis is just used for caching.
+
+But you can also use it as a vector database.
+
+Here are a few use cases for Redis:
+
+- Counters
+- Ra","Most people think Redis is just used for caching.
+
+But you can also use it as a vector database.
+
+Here are a few use cases for Redis:
+
+- Counters
+- Ra",https://www.linkedin.com/posts/milan-jovanovic_most-people-think-redis-is-just-used-for-activity-7405872159023087618-LKc4?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAD7yo78B760w1OzXX2HFGNqUYGS32K3evyU,2025-12-14T07:31:57.162Z,idea_legos_alexis,221.0,0.0,435.1,
+"Your database isn't slow.
+
+Your indexing strategy is.
+
+Most developers treat SQL indexes like a ""magic button"". You add one to a column, the query gets faster, and you move on.
+
+But what happens when your table hits 10 million rows and that ""magic"" disappears?
+
+I just dropped a deep dive into how SQL indexing actually works under the hood.
+
+I took a standard PostgreSQL query from 21ms down to 0.02ms (a 1,000x performance gain) by understanding three core concepts.
+
+Learn more: https://lnkd.in/diNSHk3Z",430.0,25.0,38,493.0,0.99,Contrarian,AI/ML/Coding Tools,Against Common Wisdom,Question/Engagement,Text-only,Your database isn't slow.,"Your database isn't slow.
+
+Your indexing strategy is.
+
+Most developers treat SQL indexes like a ""magic button"". You add one to a column, the query get","Your database isn't slow.
+
+Your indexing strategy is.
+
+Most developers treat SQL indexes like a ""magic button"". You add one to a column, the query get",https://www.linkedin.com/posts/milan-jovanovic_your-database-isnt-slow-your-indexing-activity-7411747306191982592--jkF?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFsquNIBL-Bah7UT0aAl0gV3gz4HeyE43g0,2025-12-30T12:37:41.402Z,idea_legos_alexis,269.0,0.0,435.1,
+"Cursor pagination is blazing fast.
+
+But it's not a good solution for every situation. Here's why. 👇
+
+Cursor pagination uses a reference point (cursor) to fetch the next page of results.
+
+This reference point must be a unique identifier or a combination of fields that define the sort order.
+
+My tests showed cursor pagination was 17x faster compared to offset pagination.
+
+So why don't we always use it?
+
+Cursor pagination works particularly well for real-time feeds and infinite scroll interfaces.
+
+If most users start at the first page and rarely visit other pages, offset pagination might be sufficient. This will be the case for many applications.
+
+Want to learn more about cursor pagination?
+
+Here's an implementation guide + performance analysis: https://lnkd.in/eS2h4CgC
+
+Did you ever implement cursor pagination?
+
+---
+Sign up for the .NET Weekly with 75K+ other engineers, and get a free Clean Architecture template: https://lnkd.in/e5MTtpdb",408.0,36.0,44,488.0,0.94,Experimenter,Productivity,Contrast/But,List Post,Text-only,Cursor pagination is blazing fast.,"Cursor pagination is blazing fast.
+
+But it's not a good solution for every situation. Here's why. 👇
+
+Cursor pagination uses a reference point (cursor)","Cursor pagination is blazing fast.
+
+But it's not a good solution for every situation. Here's why. 👇
+
+Cursor pagination uses a reference point (cursor)",https://www.linkedin.com/posts/milan-jovanovic_cursor-pagination-is-blazing-fast-but-its-activity-7401161049695035392-AUyG?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFkvkTAB0d8WbobX52s3XSR2kf5PfrWy8V4,2025-12-01T07:31:41.170Z,idea_legos_alexis,294.0,0.0,435.1,
+"Did you check out the resilience improvements in .NET 9?
+
+We have two official NuGet packages:
+
+- Microsoft.Extensions.Resilience
+- Microsoft.Extensions.Http.Resilience
+
+They're built on top of Polly, so the API should be familiar. You can use them to define resilience policies in C#.
+
+They extend Polly with some useful features. For example, a standard pipeline you can add to HttpClients. There's also an OpenTelemetry integration.
+
+A few strategies that are available out of the box:
+
+- Retries
+- Timeouts
+- Fallbacks
+- Circuit breakers
+
+Want to learn more about resilience in .NET?
+
+Start here: https://lnkd.in/dzmqjFuC
+
+If this saves you from even one network failure, it'll be worth it.
+
+---
+Sign up for the .NET Weekly with 75K+ other engineers, and get a free Clean Architecture template: https://lnkd.in/dnecq4zh",408.0,31.0,44,483.0,0.94,Teacher,AI/ML/Coding Tools,Framework/How-To,List Post,Text-only,Did you check out the resilience improvements in .NET 9?,"Did you check out the resilience improvements in .NET 9?
+
+We have two official NuGet packages:
+
+- Microsoft.Extensions.Resilience
+- Microsoft.Extensio","Did you check out the resilience improvements in .NET 9?
+
+We have two official NuGet packages:
+
+- Microsoft.Extensions.Resilience
+- Microsoft.Extensio",https://www.linkedin.com/posts/milan-jovanovic_did-you-check-out-the-resilience-improvements-activity-7411307969276956672-f1ER?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADSrhNYB6WX_yttMZS5zKuw4oAmgtZapKSg,2025-12-29T07:31:55.319Z,idea_legos_alexis,293.0,0.0,435.1,
+"Most teams get microservices communication wrong.
+
+They obsess over APIs and forget the real problem: coupling and reliability.
+
+In my latest video, I break down how microservices should actually talk to each other. You’ll see where synchronous (HTTP, gRPC) calls make sense, and where you should switch to asynchronous messaging with queues and topics.
+
+I also cover real .NET examples with Azure Service Bus, Redis, and distributed tracing, so you can see how to design communication that’s fast, reliable, and easy to reason about.
+
+Check it out here: https://lnkd.in/eGB3WUqW
+
+If you’re building or refactoring a microservices system, this will save you a lot of pain later.",435.0,16.0,32,483.0,1.0,Contrarian,Engineering Leadership,Against Common Wisdom,Observation/Opinion,Text-only,Most teams get microservices communication wrong.,"Most teams get microservices communication wrong.
+
+They obsess over APIs and forget the real problem: coupling and reliability.
+
+In my latest video, I","Most teams get microservices communication wrong.
+
+They obsess over APIs and forget the real problem: coupling and reliability.
+
+In my latest video, I",https://www.linkedin.com/posts/milan-jovanovic_most-teams-get-microservices-communication-activity-7394715095425130496-wWls?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADoipL4BPavl-hmH48vlRBnFYLnQqO1RsRU,2025-11-13T12:37:45.912Z,idea_legos_alexis,264.0,0.0,435.1,
+"Implementing resilience in .NET? You better...
+
+Polly is probably your first choice.
+
+And Polly is much faster in V8+.
+
+But why should you care about making your application resilient?
+
+Let's say your services communicate by sending HTTP requests.
+
+HTTP requests can fail because of network or server issues.
+
+These failures can disrupt service availability, especially as dependencies increase. This increases the risk of cascading failures.
+
+Luckily, there's a simple way to solve this in your .NET applications.
+
+Here's how you can make your apps resilient: https://lnkd.in/e39__DXH
+
+Do you use Polly in your applications?
+
+There's also an official resilience library in .NET.
+
+But it's a wrapper around Polly that adds OpenTelemetry on top.
+
+---
+Sign up for the .NET Weekly with 74K+ other engineers, and get a free Clean Architecture template: https://lnkd.in/eihaFihr",422.0,13.0,41,476.0,0.97,Teacher,AI/ML/Coding Tools,Framework/How-To,List Post,Text-only,Implementing resilience in .NET? You better...,"Implementing resilience in .NET? You better...
+
+Polly is probably your first choice.
+
+And Polly is much faster in V8+.
+
+But why should you care about ","Implementing resilience in .NET? You better...
+
+Polly is probably your first choice.
+
+And Polly is much faster in V8+.
+
+But why should you care about ",https://www.linkedin.com/posts/milan-jovanovic_implementing-resilience-in-net-you-better-activity-7398261963203497984-yg8r?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACrQoogBzcO6PdHYllCLqPsl2uMapGCOPVg,2025-11-23T07:31:45.088Z,idea_legos_alexis,277.0,0.0,435.1,
+"How do you handle a transaction that spans 3 different microservices?
+
+You can't use a standard Database Transaction (ACID) because the data lives in different places.
+
+You need a Saga.
+
+And a Saga is essentially just a State Machine with memory.
+
+It tracks the progress of a workflow:
+
+1. Current State: ""OrderPlaced""
+2. Event: ""PaymentReceived""
+3. Transition: Move to ""OrderPaid"" state and send a command to the Shipping Service.
+
+If something fails (e.g., ""ShippingFailed""), the State Machine triggers a specific ""Compensating Action"" to undo the previous steps (e.g., Issue Refund).
+
+It turns chaos into a deterministic workflow.
+
+You can see a full code example of an Order Saga here: https://lnkd.in/d6jY3KaP
+
+Sagas are complex at first, but they are a lifesaver for data consistency.
+
+---
+Sign up for the .NET Weekly with 75K+ other engineers, and get a free Clean Architecture template: https://lnkd.in/dCMpeCNe",402.0,29.0,41,472.0,0.92,Teacher,AI/ML/Coding Tools,Framework/How-To,List Post,Text-only,How do you handle a transaction that spans 3 different microservices?,"How do you handle a transaction that spans 3 different microservices?
+
+You can't use a standard Database Transaction (ACID) because the data lives in ","How do you handle a transaction that spans 3 different microservices?
+
+You can't use a standard Database Transaction (ACID) because the data lives in ",https://www.linkedin.com/posts/milan-jovanovic_how-do-you-handle-a-transaction-that-spans-activity-7416743884082388992-qmeb?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACQtiwkB6kGZiEBy4_4SPa_ge0XcIUugnbw,2026-01-13T07:32:18.403Z,idea_legos_alexis,299.0,0.0,435.1,
+"I spent 2 days speeding up an API endpoint...
+
+And I made it 15x faster.
+
+The endpoint did heavy calculations and pulled data from several services, so it didn’t scale.
+
+My process was simple:
+
+- Find the slowest code
+- Fix the queries
+- Cut external calls
+- Add caching last
+
+Measure everything. The slow parts were obvious:
+
+- DB calls inside a loop
+- Repeated external calls
+- Duplicate calculations
+
+Database round trips cost time, so avoid loops and batch what you can.
+
+Independent service calls? Run them concurrently.
+
+Still slow? Add caching with clear expiration rules (IMemoryCache / IDistributedCache).
+
+For distributed systems, OpenTelemetry makes the bottlenecks visible.
+
+👉 Here’s how: https://lnkd.in/dsxuMvmz
+
+What would you do differently?
+
+---
+Sign up for the .NET Weekly with 75K+ other engineers, and get a free Clean Architecture template: https://lnkd.in/eWxxt8kC",406.0,36.0,29,471.0,0.93,Fortune Teller,System Design,Personal Experience,List Post,Text-only,I spent 2 days speeding up an API endpoint...,"I spent 2 days speeding up an API endpoint...
+
+And I made it 15x faster.
+
+The endpoint did heavy calculations and pulled data from several services, s","I spent 2 days speeding up an API endpoint...
+
+And I made it 15x faster.
+
+The endpoint did heavy calculations and pulled data from several services, s",https://www.linkedin.com/posts/milan-jovanovic_i-spent-2-days-speeding-up-an-api-endpoint-activity-7406234514886152192-HIK5?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAD7yo78B760w1OzXX2HFGNqUYGS32K3evyU,2025-12-15T07:31:49.532Z,idea_legos_alexis,295.0,0.0,435.1,
+"Data Annotations are great for simple things.
+
+[Required]? Fine.
+[MaxLength(50)]? Sure.
+
+But what happens when you need to validate something against a database?
+Or validate based on a configuration setting in appsettings.json?
+
+Data Annotations hit a wall. You can't easily inject dependencies into an Attribute.
+
+This is where FluentValidation shines.
+
+Because your validators are just standard classes registered in the DI container, you can inject anything you need.
+
+Want to check if a CouponCode is valid by calling the IPricingService? Just inject it into the OrderValidator constructor.
+
+It turns validation from a static check into a dynamic, intelligent logic layer.
+
+I explain how to wire this up seamlessly in ASPNET Core here: https://lnkd.in/d9nVR8fu
+
+It is a game changer for complex business rules.
+
+---
+Sign up for the .NET Weekly with 75K+ other engineers, and get a free Clean Architecture template: https://lnkd.in/dCMpeCNe",409.0,19.0,37,465.0,0.94,Teacher,AI/ML/Coding Tools,Framework/How-To,List Post,Text-only,Data Annotations are great for simple things.,"Data Annotations are great for simple things.
+
+[Required]? Fine.
+[MaxLength(50)]? Sure.
+
+But what happens when you need to validate something against ","Data Annotations are great for simple things.
+
+[Required]? Fine.
+[MaxLength(50)]? Sure.
+
+But what happens when you need to validate something against ",https://www.linkedin.com/posts/milan-jovanovic_data-annotations-are-great-for-simple-things-activity-7418555701205192704-2ako?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACrQoogBzcO6PdHYllCLqPsl2uMapGCOPVg,2026-01-18T07:31:49.267Z,dataset_alexis_dataset,292.0,0.0,435.1,
+"Most modern APIs are stateless by default.
+
+So how do you know who the current user is?
+
+This is a common requirement: get the current user's information in a given request.
+
+How can you do this in ASPNET Core?
+
+You can create a class like the UserContext in the code snippet.
+
+It uses the HttpContext to pull the user's information from the claims.
+
+Here are a few more use cases for this: https://lnkd.in/dUKqKwCa
+
+Would you use this in your applications?
+
+---
+Sign up for the .NET Weekly with 75K+ other engineers, and get a free Clean Architecture template: https://lnkd.in/dacePcXh",410.0,22.0,31,463.0,0.94,Teacher,AI/ML/Coding Tools,Framework/How-To,List Post,Text-only,Most modern APIs are stateless by default.,"Most modern APIs are stateless by default.
+
+So how do you know who the current user is?
+
+This is a common requirement: get the current user's informat","Most modern APIs are stateless by default.
+
+So how do you know who the current user is?
+
+This is a common requirement: get the current user's informat",https://www.linkedin.com/posts/milan-jovanovic_most-modern-apis-are-stateless-by-default-activity-7403335432547053568-Tfib?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAB0q1vsBp4hULNTjGJX-vWVJ4DU-a38UXeY,2025-12-07T07:31:54.440Z,idea_legos_alexis,289.0,0.0,435.1,
+"Most .NET developers are focusing on the wrong things.
+
+We spend months mastering the latest trending library, only for it to go commercial, get abandoned, or be replaced by something ""shinier"" a year later.
+
+If you want to be a senior-level engineer in 2026, you need to stop chasing implementation details and start mastering the fundamentals that don't change.
+
+I just released my 2026 .NET Developer Roadmap (Fundamentals Edition).
+
+If you’re unsure what to learn next, start here: https://lnkd.in/djUw7J2B",414.0,19.0,24,457.0,0.95,Contrarian,AI/ML/Coding Tools,Against Common Wisdom,Observation/Opinion,Text-only,Most .NET developers are focusing on the wrong things.,"Most .NET developers are focusing on the wrong things.
+
+We spend months mastering the latest trending library, only for it to go commercial, get aband","Most .NET developers are focusing on the wrong things.
+
+We spend months mastering the latest trending library, only for it to go commercial, get aband",https://www.linkedin.com/posts/milan-jovanovic_most-net-developers-are-focusing-on-the-activity-7415371221137092608-Q7MD?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACQtiwkB6kGZiEBy4_4SPa_ge0XcIUugnbw,2026-01-09T12:37:50.054Z,idea_legos_alexis,285.0,0.0,435.1,
+"Most developers get this system design question completely wrong.
+
+And years ago, I was one of them.
+
+The scenario was simple:
+A user clicks “Generate Report.”
+The API takes 5 minutes to finish.
+What do you change?
+
+Back then, I tried to “optimize” the slow part... faster queries, better hardware, parallelization.
+None of that solved the real problem.
+
+The issue wasn’t performance.
+It was the architecture.
+
+Here’s what I learned:
+
+• Don’t run long tasks in an HTTP request
+• Use a queue and a background worker
+• Return 202 Accepted instead of blocking
+• Store the final file in object storage
+• Notify the user when the work is done (SignalR / email / polling)
+
+This simple question changed how I think about system design.
+It taught me to design workflows, not endpoints.
+
+I recorded a full breakdown here: https://lnkd.in/etjZHbqA",402.0,22.0,23,447.0,0.92,Contrarian,System Design,Against Common Wisdom,List Post,Text-only,Most developers get this system design question completely wrong.,"Most developers get this system design question completely wrong.
+
+And years ago, I was one of them.
+
+The scenario was simple:
+A user clicks “Generate","Most developers get this system design question completely wrong.
+
+And years ago, I was one of them.
+
+The scenario was simple:
+A user clicks “Generate",https://www.linkedin.com/posts/milan-jovanovic_most-developers-get-this-system-design-question-activity-7400150936402305024-DSIm?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFkvkTAB0d8WbobX52s3XSR2kf5PfrWy8V4,2025-11-28T12:37:51.394Z,idea_legos_alexis,300.0,0.0,435.1,
+"You thought the Outbox pattern was great for consistency.
+
+You didn't realize it was also the slowest part of your microservices architecture.
+
+Don't let it kill your performance.
+
+Here are 4 ways to scale it up:
+
+1. 𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗲 𝗥𝗲𝗮𝗱𝘀: Index your status columns. Queries must be instant.
+
+2. 𝗕𝗮𝘁𝗰𝗵 𝗨𝗽𝗱𝗮𝘁𝗲𝘀: Don't update row-by-row. Update statuses in one go.
+
+3. 𝗕𝗮𝘁𝗰𝗵 𝗣𝘂𝗯𝗹𝗶𝘀𝗵𝗶𝗻𝗴: Network latency kills speed. Send messages to the broker in groups.
+
+4. 𝗦𝗰𝗮𝗹𝗲 𝗪𝗼𝗿𝗸𝗲𝗿𝘀: One processor isn't enough. Run multiple instances in parallel.
+
+I wrote a guide on exactly how to implement this.
+
+Read it here: https://lnkd.in/dcwQT52Q
+
+P.S. If you scale out workers (Step 4), watch out for ordering. Parallel workers can process events out of sequence. Use partitioning to keep related messages in order.
+
+---
+Sign up for the .NET Weekly with 76K+ other engineers, and get a free Clean Architecture template: https://lnkd.in/dbU3m97Q",270.0,30.0,31,,,Teacher,Engineering/Technical,Tactical/Framework,Listicle/Breakdown,Text-only,You thought the Outbox pattern was great for consistency.,"You thought the Outbox pattern was great for consistency.
+
+You didn't realize it was also the slowest part of your microservices architecture.
+
+Don't",,,,dataset_alexis_dataset,,,,

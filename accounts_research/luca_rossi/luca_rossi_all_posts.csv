@@ -1,0 +1,984 @@
+full_text,likes,comments,shares,total_engagement,outlier_score,hook_type,topic,angle,structure,visual_format,first_line,hook_150,hook,url,date,_source,rank,followers,author_avg,source
+"Managers have been vibe coding forever.
+
+Saw this on X — it put a smile on my face but also made me think a lot.",258.0,13.0,9,280.0,5.45,Teacher,Engineering Leadership,Contrast/But,Short Punch,Text-only,Managers have been vibe coding forever.,"Managers have been vibe coding forever.
+
+Saw this on X — it put a smile on my face but also made me think a lot.","Managers have been vibe coding forever.
+
+Saw this on X — it put a smile on my face but also made me think a lot.",https://www.linkedin.com/posts/lucaronin_managers-have-been-vibe-coding-forever-activity-7381235104716677120-rmsP?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACMGb3oBRaMXx5ky1s8XlW5ehBwhaT5lQhE,2025-10-07T07:53:05.681Z,central_outliers_db,46.0,0.0,47.3,alexis_engineering_tech
+"Engineers are quietly replacing the IDE with the terminal
+
+Six months ago, every serious “AI coder” I knew was using Cursor, while today most of them have shifted to Claude Code or some other CLI tool.
+
+How is that possible?! We have been working inside IDEs for 20+ years! I talked with a lot of engineers and here is my interpretation of it:
+
+Traditional coding splits ~80/20 between writing code and running commands (build, run, test, etc). IDEs optimize for that first 80%—the actual code writing.
+
+But AI is flipping this ratio. We're writing less code by hand, but we still need to run and check stuff. So the terminal becomes more important.
+
+Also, IDEs give you classic ""engineer context"" — file trees, text editor, syntax highlighting, etc, while CLI tools give you ""manager context""—what's the plan, what commands are running, what are the outputs. AI tools are good enough now that we probably need to default to manager mode, not engineer mode. It feels funny to say it, but: don’t micromanage AI!
+
+If I look at the best AI coders I know these aren't the best traditional developers. They are first and foremost good managers—they work in small batches, provide good context, and jump in only when needed.
+
+That's probably the way to go (and always has been?!)",125.0,104.0,8,237.0,2.64,Fortune Teller,AI/ML/Coding Tools,Industry Observation,Observation/Opinion,Text-only,Engineers are quietly replacing the IDE with the terminal,"Engineers are quietly replacing the IDE with the terminal
+
+Six months ago, every serious “AI coder” I knew was using Cursor, while today most of them ","Engineers are quietly replacing the IDE with the terminal
+
+Six months ago, every serious “AI coder” I knew was using Cursor, while today most of them ",https://www.linkedin.com/posts/lucaronin_engineers-are-quietly-replacing-the-ide-with-activity-7384495192709447680-wipj?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAF9OAqkBXZL7JtXparkGjcSj_hK277ry46U,2025-10-16T07:47:31.228Z,central_outliers_db,49.0,0.0,47.3,alexis_engineering_tech
+"How do engineering managers create value inside organizations? 🎭
+
+Today I'm publishing an incredible piece by my friend Thiago Ghisi, who spent months researching and creating the most comprehensive framework for EM archetypes I've ever seen.
+
+Most existing models focus on skills or job titles, but those break down quickly. Thiago's approach is different: he identifies *how* managers create leverage, not just what they do. All backed by decades of leadership + psychology research, and 50+ real-world EM case studies.
+
+His model maps managers across two key dimensions:
+↳ 𝗦𝘁𝗮𝗯𝗶𝗹𝗶𝘁𝘆 𝘃𝘀 𝗖𝗵𝗮𝗻𝗴𝗲 — do you optimize systems for steadiness or push them to evolve? 
+↳ 𝗘𝘅𝗲𝗰𝘂𝘁𝗶𝗼𝗻 𝘃𝘀 𝗣𝗲𝗼𝗽𝗹𝗲 — do you scale through hard power (delivery) or soft power (culture)?
+
+This creates four foundational archetypes:
+
+↳ 🧰 𝗢𝗽𝗲𝗿𝗮𝘁𝗼𝗿 (Stability + Execution) — the run-the-business managers. Excel at scaling processes, operational rigor, and predictable output.
+
+↳ 🪴 𝗚𝘂𝗶𝗱𝗲 (Stability + People) — the grow-the-humans managers. Focus on mentorship, psychological safety, and building strong culture.
+
+↳ 🏁 𝗗𝗿𝗶𝘃𝗲𝗿 (Change + Execution) — the fast-delivery managers. Thrive on velocity, ambitious goals, and pushing technical/product boundaries.
+
+↳ 🔋 𝗖𝗮𝘁𝗮𝗹𝘆𝘀𝘁 (Change + People) — the transformation managers. Excel at inspiring teams through vision, reorgs, and cultural shifts.
+
+This would be already incredibly valuable by itself, but Thiago went the extra mile and, for each archetype, he identified both productive and failure patterns: a Driver can be an inspiring ""Finisher"" or a toxic ""Dictator."" A Guide can be a nurturing ""Mentor"" or an enabling ""Comforter.""
+
+The practical applications are awesome:
+↳ 𝗣𝗲𝗿𝘀𝗼𝗻𝗮𝗹 𝗴𝗿𝗼𝘄𝘁𝗵 — understand your “center of gravity” and blind spots. 
+↳ 𝗧𝗲𝗮𝗺 𝗰𝗼𝗺𝗽𝗼𝘀𝗶𝘁𝗶𝗼𝗻 — when staffing your team, balance complementary styles instead of cloning yourself. 
+↳ 𝗛𝗶𝗿𝗶𝗻𝗴 — match archetypes to context (e.g. need a crisis manager? get a Driver)
+↳ 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 — have precise language for leadership patterns
+
+Thiago even includes AI prompts to help you identify your own archetype using performance reviews and peer feedback!
+
+This is the most useful management framework I've read in years. Full article linked in the comments! 👇",168.0,7.0,12,187.0,3.55,Teacher,Engineering Career,Framework/How-To,Observation/Opinion,Text-only,How do engineering managers create value inside organizations? 🎭,"How do engineering managers create value inside organizations? 🎭
+
+Today I'm publishing an incredible piece by my friend Thiago Ghisi, who spent months","How do engineering managers create value inside organizations? 🎭
+
+Today I'm publishing an incredible piece by my friend Thiago Ghisi, who spent months",https://www.linkedin.com/posts/lucaronin_how-do-engineering-managers-create-value-ugcPost-7335980473258541056-e5UQ?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACuI5A8BX1v8g9AOaMsa2Q3tgSu26oVR9wA,2025-06-04T15:02:45.522Z,dataset_alexis_dataset,22.0,0.0,47.3,
+"Is it possible to vibe-code production apps into existence? This question is everywhere on my feed. 
+
+Based on everything I tried myself + the apps I have seen + the people I talked with, here is my take:
+
+1) If you are a non-technical person: 100% impossible. Tools get stuck pretty soon. They also get unstuck equally fast if pointed to the right direction, but you are not equipped with the skills to help them do so.
+
+2) If you are an engineer, the definition of vibe coding gets tricky. AI may write 99% of the code, but you may still have a lot of input on system design, requirements, bug fixing, etc. So you are technically not writing almost any code, but you are in the loop of how things are getting done.
+
+In this second version of vibe coding, it is 100% possible to deliver functioning, revenue-generating apps. 
+
+But, I suspect, this is not the use case most people (and VCs) get excited about. It looks, to me, like an updated version of the low/no code tools movement: they, too, promised to give non techies the ability to create apps, but for the most part only made engineers more productive.",119.0,51.0,4,174.0,2.52,Experimenter,AI/ML/Coding Tools,Industry Observation,Observation/Opinion,Text-only,Is it possible to vibe-code production apps into existence? This question is everywhere on my feed.,"Is it possible to vibe-code production apps into existence? This question is everywhere on my feed. 
+
+Based on everything I tried myself + the apps I ","Is it possible to vibe-code production apps into existence? This question is everywhere on my feed. 
+
+Based on everything I tried myself + the apps I ",https://www.linkedin.com/posts/lucaronin_is-it-possible-to-vibe-code-production-apps-activity-7362779209141837824-Q90a?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAEIWbD0BJKrG7iRdUpFYZAC3-9q6QhxhwOY,2025-08-17T09:35:57.282Z,dataset_alexis_dataset,54.0,0.0,47.3,
+"Wonder why some team members need more guidance than others? Spoiler: it's not about skill.
+
+In his landmark book High Output Management, Andy Grove introduced the idea of 𝘁𝗮𝘀𝗸-𝗿𝗲𝗹𝗲𝘃𝗮𝗻𝘁 𝗺𝗮𝘁𝘂𝗿𝗶𝘁𝘆, capturing an employee's readiness to shoulder responsibility.
+
+Grove dissects TRM into several factors, but let's focus on the two key ones:
+
+1) 🎓 𝗦𝗸𝗶𝗹𝗹/𝗙𝗮𝗺𝗶𝗹𝗶𝗮𝗿𝗶𝘁𝘆 — the employee's expertise and readiness for the task.
+2) 📋 𝗖𝗼𝗻𝘁𝗲𝘅𝘁 𝗤𝘂𝗮𝗹𝗶𝘁𝘆 — how robust and well-documented your standards are.
+
+Both items are crucial.
+
+Say you need to create a design doc around a new product feature. You may have the best engineer in the world, who has done hundreds of them in their career, but they still need context from you:
+
+✔️ 𝗧𝗮𝘀𝗸-𝘀𝗽𝗲𝗰𝗶𝗳𝗶𝗰 — what tradeoffs should they consider? What about speed and scale?
+
+🔭 𝗣𝗿𝗶𝗻𝗰𝗶𝗽𝗹𝗲𝘀 — what do design docs look like on our team? How do you plan rollouts and rollbacks? How is the code instrumented?
+
+The right amount of management depends on the level of TRM:
+
+1) 🔴 𝗟𝗼𝘄 𝗧𝗥𝗠 — your team hasn't done this before, and there's no existing procedure. Provide detailed instructions, pair regularly, and maintain a close feedback loop. Don't let them work too long without your input; correct often and update the procedure with your feedback.
+
+2) 🟡 𝗠𝗲𝗱𝗶𝘂𝗺 𝗧𝗥𝗠 — your teammate has completed similar tasks before and knows what good look like, thanks to experience and/or good docs. Provide clear context about the goals, then allow them the freedom to execute.
+Keep communication lines open to offer support as needed.
+
+3) 🟢 𝗛𝗶𝗴𝗵 𝗧𝗥𝗠 — your teammate has completed plenty of similar tasks in the past, with good results. In this case, other than giving full autonomy, you can challenge them to improve the definition of good. What can we do better?
+
+——
+
+✏️ I wrote a full article about how to figure out the ""right amount"" of management, you can find it in the first comment!
+
+♻️ Also, please repost this if you found it useful, it means a lot to me!",134.0,14.0,13,161.0,2.83,Fortune Teller,Engineering Leadership,Industry Observation,Observation/Opinion,Text-only,Wonder why some team members need more guidance than others? Spoiler: it's not about skill.,"Wonder why some team members need more guidance than others? Spoiler: it's not about skill.
+
+In his landmark book High Output Management, Andy Grove i","Wonder why some team members need more guidance than others? Spoiler: it's not about skill.
+
+In his landmark book High Output Management, Andy Grove i",https://www.linkedin.com/posts/lucaronin_wonder-why-some-team-members-need-more-guidance-activity-7222160457078349824-auFk?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADIH0wkBRL2K1g3VG7YO32sknMUIuLvalNI,2024-07-25T12:13:40.371Z,idea_legos_alexis,42.0,0.0,47.3,
+"Yesterday, I had an interesting conversation with my wife about AI.
+
+My wife is a radiologist, which is one of the hottest spaces where AI is believed to make an impact, but she argued that AI is *never* going to save her time.
+
+At first I thought she was nuts — but she had a great point instead.
+
+She argued that even if they had *perfect* AI to create examination reports, they would obviously use it only to create *drafts*, to be later verified by doctors. And the thing is, verifying the draft of a report takes roughly the same time as doing it from scratch, because you have to go through all the examination data and images again to see if AI has missed something. 
+
+So, unless at some point we decide to accept AI output as-is, without human verification—which seems highly unlikely—this is an inescapable problem. AI can help doctors create higher-quality work, but it will not save a lot of time.
+
+This made me think that there are two classes of activities: the ones where verifying correctness takes significantly less time than doing the actual thing—let’s call them *verifiable*— and the ones where verification is comparable to the full execution—let’s call them *unverifiable*.
+
+(not a big fan of these names, can you think of better alternatives?)
+
+So, in software, coding is a verifiable activity: it’s (usually?!) way easier to verify correctness of software than writing it from scratch.
+
+But code reviews, for example, are unverifiable: checking that an AI code review hasn’t missed anything requires you to go through the code yourself. Taking meeting notes is another obviously unverifiable task.
+
+This is relevant because, for example, as AI makes us write faster code, we need to be able to review it just as fast to keep up with it — but AI code reviews are not going to save us significant time unless we accept them without verification, which means giving up some control over the code.
+
+What does this mean for the future? I should write a conclusion but for now I don’t have any 🙂
+
+These were just some morning thoughts ☀️
+
+Have a good start of the week!",99.0,44.0,4,147.0,2.09,Fortune Teller,AI/ML/Coding Tools,Contrast/But,Observation/Opinion,Text-only,"Yesterday, I had an interesting conversation with my wife about AI.","Yesterday, I had an interesting conversation with my wife about AI.
+
+My wife is a radiologist, which is one of the hottest spaces where AI is believed","Yesterday, I had an interesting conversation with my wife about AI.
+
+My wife is a radiologist, which is one of the hottest spaces where AI is believed",https://www.linkedin.com/posts/lucaronin_yesterday-i-had-an-interesting-conversation-activity-7345343837663297537-xk2B?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACdmXNYBitmvc8eOWzKRs0OEekQFSuxVwUA,2025-06-30T06:54:00.788Z,dataset_alexis_dataset,74.0,0.0,47.3,
+"The best article I have read this week is ""The Profitable Startup"" by Karri Saarinen at Linear.
+
+You can easily measure the quality of a piece by the density of highlights you take. So here are a few of my own:
+
+↳ ""I don't know why hiring massive teams ever became the norm. In my own experience, small teams always delivered better quality, and faster.""
+
+↳ ""What holds you back is rarely team size – it's the clarity of your focus, skill and ability to execute.""
+
+↳ ""For most software startups, ten people before product-market fit should be your ceiling, not your target.""
+
+↳ ""After PMF, every hire should address a specific, pressing need – not just fill out an org chart.""
+
+—
+
+The main thesis here is that today profitability has become easier to reach, especially if you work in a space where there is already a market (you have competition), and no big investments are needed upfront.
+
+Profitability is also a good north star that drives good behavior: focus on business value, don’t over hire, keep talking with customers, and so on.
+
+I like how it feels like the tide is shifting a bit on this. With the (glaring) exception of glorious AI slop startups, it feels like there is a growing sub-culture of small to mid-size companies shipping top quality products, and creating good, sustainable culture in the process.
+
+There is something beautiful about this “long-tail innovation”, and I hope to keep doing my small part in helping people who work on it 😊
+
+Here is Karri's piece: https://lnkd.in/d4h5uP3P",124.0,16.0,3,143.0,2.62,Contrarian,Engineering Career,Personal Experience,Observation/Opinion,Text-only,"The best article I have read this week is ""The Profitable Startup"" by Karri Saarinen at Linear.","The best article I have read this week is ""The Profitable Startup"" by Karri Saarinen at Linear.
+
+You can easily measure the quality of a piece by the ","The best article I have read this week is ""The Profitable Startup"" by Karri Saarinen at Linear.
+
+You can easily measure the quality of a piece by the ",https://www.linkedin.com/posts/lucaronin_the-best-article-i-have-read-this-week-is-activity-7392219097645785088-fQBw?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAF9OAqkBXZL7JtXparkGjcSj_hK277ry46U,2025-11-06T15:19:33.668Z,idea_legos_alexis,50.0,0.0,47.3,
+"I am back in Rome after spending two days in London for LDX3 — and what a high it was!
+
+I have many *work friends* on the internet, but I rarely get to see them face to face. In fact, I spend most of my days alone in my *cave* writing newsletter articles 😄
+
+So it was incredible to meet so many of them all in the same place — and most of them for the first time. Shout-outs to Camille, Laura, Patrick, Lena (we literally bumped into each other in the elevator), Maria, Claire, Gergely, and all the others I met who I am inevitably forgetting, for making these days special.  
+
+A special shout-out to Charity, who made me incredibly happy by bringing on stage “In Praise of Normal Engineers” — the article she published on Refactoring. She did an amazing job (linking it in the comments in case you missed it) and it was just the perfect way to close the event!
+
+Also, to comply with my duties as a writer, I took *a ton* of notes during the event, and I will publish a write-up with the ideas I liked the most in the next week or so!
+
+Finally, a big thank you to Mariana, Penny, Meri, and all the folks at LeadDev who made this possible. It was my first time at a Leaddev conference and everything was a blast: from the level of the talks, to the atmosphere, to the overall organization. 
+
+Looking forward to the next one!",112.0,22.0,2,136.0,2.37,Magician,AI/ML/Coding Tools,Contrast/But,Observation/Opinion,Text-only,I am back in Rome after spending two days in London for LDX3 — and what a high it was!,"I am back in Rome after spending two days in London for LDX3 — and what a high it was!
+
+I have many *work friends* on the internet, but I rarely get t","I am back in Rome after spending two days in London for LDX3 — and what a high it was!
+
+I have many *work friends* on the internet, but I rarely get t",https://www.linkedin.com/posts/lucaronin_i-am-back-in-rome-after-spending-two-days-activity-7341034399368372224-AQqE?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACdmXNYBitmvc8eOWzKRs0OEekQFSuxVwUA,2025-06-18T09:29:50.633Z,dataset_alexis_dataset,60.0,0.0,47.3,
+"We, managers, are back to coding! Is this a good thing?
+
+One of the biggest stories I have been hearing recently is that many engineering managers are back to coding, because of AI. 
+
+AI is helping in two ways:
+
+↳ 🧠 𝗜𝘁 𝗿𝗲𝗱𝘂𝗰𝗲𝘀 𝘁𝗵𝗲 𝗰𝗼𝗴𝗻𝗶𝘁𝗶𝘃𝗲 𝗹𝗼𝗮𝗱 — managers often retain good taste for what good code looks like, but are a bit rusty on implementation details. AI makes the latter less relevant.
+
+↳ 🗓️ 𝗜𝘁 𝗳𝗶𝘁𝘀 𝗰𝗼𝗱𝗶𝗻𝗴 𝗶𝗻𝘁𝗼 𝗽𝗮𝗰𝗸𝗲𝗱 𝗮𝗴𝗲𝗻𝗱𝗮𝘀 — by letting terminal agents run while people are on meetings or doing something else.
+
+Is this a good thing? A reader told me ""Managers need to focus on the things that only they can do, rather than the things that anyone on their team can do.""
+
+This is not wrong, but I also think many managers end up completely detached from how their team works, and spending some time coding can help *a lot*. 
+
+The benefit here is not about throughput, but about empathy and staying in touch with what the DX and the whole process looks like.
+
+This is most definitely good and I would love to see more of it.
+
+Have a good week! ☀️",95.0,26.0,5,126.0,2.01,Teacher,Engineering Leadership,Framework/How-To,Observation/Opinion,Text-only,"We, managers, are back to coding! Is this a good thing?","We, managers, are back to coding! Is this a good thing?
+
+One of the biggest stories I have been hearing recently is that many engineering managers are","We, managers, are back to coding! Is this a good thing?
+
+One of the biggest stories I have been hearing recently is that many engineering managers are",https://www.linkedin.com/posts/lucaronin_we-managers-are-back-to-coding-is-this-activity-7383407717735989249-wJbv?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACMGb3oBRaMXx5ky1s8XlW5ehBwhaT5lQhE,2025-10-13T07:46:16.990Z,idea_legos_alexis,80.0,0.0,47.3,
+"What type of manager are you?
+
+Are you:
+- An Operator, focused on stability and execution?
+- A Guide, nurturing your team culture?
+- A Driver, pushing for change? Or
+- A Catalyst, inspiring your team to evolve?
+
+These days I am reviewing the top articles we published this year, and I keep going back to the one about engineering manager archetypes, written with my friend Thiago Ghisi.
+
+Thiago designed two axes along which you can place yourself — one about people vs execution, and another about stability vs change. There is so much you can understand about your role (and about yourself) by thinking about what you prioritize in these tradeoffs.
+
+I find these quadrants useful in many ways:
+– I can reflect on what I *default* to — the style that fits my personality best.
+– I can reflect on what my team needs right now. E.g. is it time to nurture culture and tighten screws, or just create momentum and ship fast?
+– I can reflect on my team composition. Do we overly skew in some direction? Do we need more (or less) of some of these?
+
+It's a handy mental model that I added to my EM *tools*.
+
+What about you? Do you see yourself in some of these categories?",89.0,15.0,14,118.0,1.88,Fortune Teller,Engineering Leadership,Industry Observation,List Post,Text-only,What type of manager are you?,"What type of manager are you?
+
+Are you:
+- An Operator, focused on stability and execution?
+- A Guide, nurturing your team culture?
+- A Driver, pushing","What type of manager are you?
+
+Are you:
+- An Operator, focused on stability and execution?
+- A Guide, nurturing your team culture?
+- A Driver, pushing",https://www.linkedin.com/posts/lucaronin_what-type-of-manager-are-you-are-you-activity-7409149615192686592--J_Z?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAABmkfQwBdcd2N4mdCYhNad7ezx_lBw3r6yI,2025-12-23T08:35:23.605Z,dataset_alexis_dataset,94.0,0.0,47.3,
+"My TL;DR of database choices for 2025 (same as 2024)
+• Pick Sqlite iff you don’t need the db to be accessed over network
+• Pick Postgres otherwise
+• Never pick NoSQL (and I did my PhD on NoSQL)
+
+Have a good week!",77.0,24.0,2,103.0,1.63,Teacher,System Design,Framework/How-To,Short Punch,Text-only,My TL;DR of database choices for 2025 (same as 2024),"My TL;DR of database choices for 2025 (same as 2024)
+• Pick Sqlite iff you don’t need the db to be accessed over network
+• Pick Postgres otherwise
+• N","My TL;DR of database choices for 2025 (same as 2024)
+• Pick Sqlite iff you don’t need the db to be accessed over network
+• Pick Postgres otherwise
+• N",https://www.linkedin.com/posts/lucaronin_my-tldr-of-database-choices-for-2025-same-activity-7406240033902415872-g3uN?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAC068VkBV9XY3vJkG9xYvL4BarqCBKeMpgc,2025-12-15T07:53:45.368Z,dataset_alexis_dataset,109.0,0.0,47.3,
+"How do you create an AI coding workflow that actually works? 🤖
+
+In this week’s podcast episode I had the pleasure of speaking with Birgitta Boeckeler, distinguished engineer and global lead for AI-assisted software delivery at Thoughtworks.
+
+Birgitta's full-time job is to figure out how engineering teams can make the most out of AI — and she shared some fantastic insights about what's working (and what's not) in real-world teams.
+
+Here are a few takeaways from our chat:
+
+↳ 🔄 𝗛𝘂𝗺𝗮𝗻-𝗶𝗻-𝘁𝗵𝗲-𝗹𝗼𝗼𝗽 𝗶𝘀 𝗸𝗲𝘆 — small, incremental changes with constant review beat large autonomous agent workflows. Non-determinism is a feature, not a bug.
+
+↳ 📊 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝘃𝗶𝘁𝘆 𝗴𝗮𝗶𝗻𝘀 𝘃𝗮𝗿𝘆 𝘄𝗶𝗹𝗱𝗹𝘆 — from negative to 10x improvement, depending on tech stack, codebase quality, and team practices. And remember: if coding is only 30% of your work, you can't exceed 15-20% overall improvement.
+
+↳ 🧠 𝗕𝗮𝗹𝗮𝗻𝗰𝗲 𝘀𝗸𝗲𝗽𝘁𝗶𝗰𝗶𝘀𝗺 𝘄𝗶𝘁𝗵 𝗮𝗺𝗯𝗶𝘁𝗶𝗼𝗻 — the best teams combine critical thinking about AI's limitations with ambitious experimentation. Both perspectives bring value and you should reward them.
+
+↳ 🏗️ 𝗪𝗵𝗮𝘁'𝘀 𝗴𝗼𝗼𝗱 𝗳𝗼𝗿 𝗵𝘂𝗺𝗮𝗻𝘀 𝗶𝘀 𝗴𝗼𝗼𝗱 𝗳𝗼𝗿 𝗔𝗜 — modular, well-structured code helps AI as much as it helps developers. Clean architecture still matters.
+
+↳ 🎯 𝗖𝗼𝗻𝘀𝘁𝗮𝗻𝘁 𝗿𝗶𝘀𝗸 𝗮𝘀𝘀𝗲𝘀𝘀𝗺𝗲𝗻𝘁 — evaluate probability, impact, and detectability for every AI-generated change. Your experience and ""scars from the past"" are still crucial.
+
+↳ 🔧 𝗧𝗼𝗼𝗹𝘀 𝗮𝗿𝗲 𝗰𝗼𝗻𝘃𝗲𝗿𝗴𝗶𝗻𝗴 — whether terminal-based like Claude Code or IDE-based like Cursor, successful tools integrate deeply with existing workflows. 
+
+You can find the links to the episode in the comments!",77.0,3.0,4,84.0,1.63,Contrarian,Engineering Career,Personal Experience,Observation/Opinion,Text-only,How do you create an AI coding workflow that actually works? 🤖,"How do you create an AI coding workflow that actually works? 🤖
+
+In this week’s podcast episode I had the pleasure of speaking with Birgitta Boeckeler,","How do you create an AI coding workflow that actually works? 🤖
+
+In this week’s podcast episode I had the pleasure of speaking with Birgitta Boeckeler,",https://www.linkedin.com/posts/lucaronin_how-do-you-create-an-ai-coding-workflow-that-activity-7377260345335115777-kISq?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACMGb3oBRaMXx5ky1s8XlW5ehBwhaT5lQhE,2025-09-26T08:38:49.197Z,idea_legos_alexis,110.0,0.0,47.3,
+"What can we learn from forensic psychology about… technical debt?!
+
+Over the past couple of weeks I spoke multiple times with Adam Tornhill, author of the super popular book 𝗬𝗼𝘂𝗿 𝗖𝗼𝗱𝗲 𝗮𝘀 𝗮 𝗖𝗿𝗶𝗺𝗲 𝗦𝗰𝗲𝗻𝗲, and founder of CodeScene. 
+
+Adam has a unique background in psychology + engineering, which led him to develop a forensic approach to code quality: don't just look at current state, but understand what happened and why through 𝘃𝗲𝗿𝘀𝗶𝗼𝗻 𝗰𝗼𝗻𝘁𝗿𝗼𝗹 𝗵𝗶𝘀𝘁𝗼𝗿𝘆.
+
+His key insight is that tech debt work should focus on 𝗵𝗼𝘁𝘀𝗽𝗼𝘁𝘀: code that is both complex AND frequently changed. Bad—but stable—code isn't a problem: the killer combination is bad code you touch all the time.
+
+Here's what Adam's research found about bad code's impact:
+
+↳ 🐛 𝟭𝟱𝘅 𝗺𝗼𝗿𝗲 𝗱𝗲𝗳𝗲𝗰𝘁𝘀 𝘁𝗵𝗮𝗻 𝗵𝗶𝗴𝗵 𝗾𝘂𝗮𝗹𝗶𝘁𝘆 𝗰𝗼𝗱𝗲
+↳ ⏱️ 𝟭𝟮𝟰% 𝗹𝗼𝗻𝗴𝗲𝗿 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝘁𝗶𝗺𝗲 
+↳ ⁉️ 𝗨𝗽 𝘁𝗼 𝟵𝘅 𝗹𝗼𝗻𝗴𝗲𝗿 𝗺𝗮𝘅𝗶𝗺𝘂𝗺 𝗰𝘆𝗰𝗹𝗲 𝘁𝗶𝗺𝗲𝘀 𝘃𝘀 𝗲𝘀𝘁𝗶𝗺𝗮𝘁𝗲𝘀
+
+That last point hits the hardest — it's not just that bad code takes longer, it's that you can't reliably estimate *how much* longer. 
+
+This week we wrote a full article together where we explored all of this and much more, including the impact of knowledge distribution on your team, the infamous bus factor, and, of course, how to prevent (or remediate) these problems.
+
+You can find the full article in the comments!",64.0,14.0,5,83.0,1.35,Teacher,Software Engineering,Framework/How-To,Observation/Opinion,Text-only,What can we learn from forensic psychology about… technical debt?!,"What can we learn from forensic psychology about… technical debt?!
+
+Over the past couple of weeks I spoke multiple times with Adam Tornhill, author of","What can we learn from forensic psychology about… technical debt?!
+
+Over the past couple of weeks I spoke multiple times with Adam Tornhill, author of",https://www.linkedin.com/posts/lucaronin_what-can-we-learn-from-forensic-psychology-activity-7366376336837197827-c9iy?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAEIWbD0BJKrG7iRdUpFYZAC3-9q6QhxhwOY,2025-08-27T07:49:39.356Z,dataset_alexis_dataset,148.0,0.0,47.3,
+"Bad code is bad only if you need to change it. If it looks bad, but is stable, it doesn’t pose any concerns.
+
+This might seem trivial, but it has deep implications. The main one is that you should focus your quality work on 𝗵𝗼𝘁𝘀𝗽𝗼𝘁𝘀 (cit. Adam Tornhill): the parts of your codebase that are frequently subject to change.
+
+As humans we are bad at judging this intuitively, so a lot of work on tech debt is simply misguided: it either happens on bad—but stable—code, or on areas that are active but already in relatively good shape.
+
+This is also hard to evaluate because activity distribution is extremely skewed: in most codebases, ~5% of the code gets 90% of the activity.
+
+This reminds me of something from my startup days.
+
+During an M&A conversation, the buyer’s consulting firm ran a technical due diligence. They found several areas of poor quality code—as we expected. In fact, over time we had doubled down on specific parts of the product we cared about, while phasing out others. The latter stayed experimental: less testing, more duplication, etc.
+
+What I didn’t expect was how hard this proved to be to argue. We pointed to the strategic parts we were proud of, but they weighted the sketchy marginal code as an equal part of the whole.
+
+In other words, the 𝗳𝗿𝗲𝗾𝘂𝗲𝗻𝗰𝘆 𝗼𝗳 𝗰𝗵𝗮𝗻𝗴𝗲 wasn’t considered.
+
+Eventually the M&A failed for a variety of reasons. This was not explicitly mentioned as a blocker, but I always suspected it contributed.
+
+I had a chat with Adam a few months ago that influenced a lot of how I think about this topic. I wrote an article from it, which I am linking in the comments 👇",58.0,20.0,1,79.0,1.23,Teacher,AI/ML/Coding Tools,Contrast/But,Observation/Opinion,Text-only,"Bad code is bad only if you need to change it. If it looks bad, but is stable, it doesn’t pose any c","Bad code is bad only if you need to change it. If it looks bad, but is stable, it doesn’t pose any concerns.
+
+This might seem trivial, but it has deep","Bad code is bad only if you need to change it. If it looks bad, but is stable, it doesn’t pose any concerns.
+
+This might seem trivial, but it has deep",https://www.linkedin.com/posts/lucaronin_bad-code-is-bad-only-if-you-need-to-change-activity-7407713780798910464-TNi1?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAABmkfQwBdcd2N4mdCYhNad7ezx_lBw3r6yI,2025-12-19T09:29:54.009Z,idea_legos_alexis,172.0,0.0,47.3,
+"Introducing the new Refactoring brand ❤️
+
+It’s Christmas Eve, so it’s time for a bit of a special announcement. After working on it for several months, today we are introducing our new brand, developed with my long-time friends Matteo, Emily, and Sergio from Moze.
+
+I have always been extremely protective of how Refactoring looks and feels, so this has been a very personal work for me. We went back to the basics of what makes Refactoring… Refactoring: what I write about, what I stand for, and what makes it unique.
+
+I am incredibly proud of the final result. We tweaked everything: the logo, the colors, the main design elements — we even designed a new font! All while still feeling 100% Refactoring. 
+
+Let me know if you like it!
+
+I have also written about the whole process and lessons learned in the latest newsletter edition, which I attach in the comments 👇
+
+I wish you happy holidays with your loved ones! 🎄",61.0,15.0,1,77.0,1.29,Fortune Teller,Productivity,Industry Observation,Observation/Opinion,Text-only,Introducing the new Refactoring brand ❤️,"Introducing the new Refactoring brand ❤️
+
+It’s Christmas Eve, so it’s time for a bit of a special announcement. After working on it for several months","Introducing the new Refactoring brand ❤️
+
+It’s Christmas Eve, so it’s time for a bit of a special announcement. After working on it for several months",https://www.linkedin.com/posts/lucaronin_introducing-the-new-refactoring-brand-activity-7409516534215188480-3p2n?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAABmkfQwBdcd2N4mdCYhNad7ezx_lBw3r6yI,2025-12-24T08:53:23.917Z,idea_legos_alexis,163.0,0.0,47.3,
+"Back to Rome after some great time in Berlin at the CTO Craft Con!
+
+I had the privilege to keynote the first day 🙏 and I brought some thoughts about how software engineering teams should think about AI.
+
+The truth is everything these days feels shaky and early, so I believe good mental models are more useful than specific practices. And my favorite one is: 𝘄𝗵𝗮𝘁’𝘀 𝗴𝗼𝗼𝗱 𝗳𝗼𝗿 𝗵𝘂𝗺𝗮𝗻𝘀 𝗶𝘀 𝗴𝗼𝗼𝗱 𝗳𝗼𝗿 𝗔𝗜.
+
+What’s evident from the countless conversations and data points we have been collecting over the past few months, is that if you have good engineering practices in place, AI is going to amplify them. 
+
+AI thrives on the same things humans thrive on: good docs, clear abstractions, good testing, small batches. It also makes it *easier* to implement them, by lifting a lot of grunt work off of our shoulders.
+
+So the ROI of good engineering is just skyrocketing: good practices are now easier to put in place + more valuable, because they benefit both human and AI productivity.
+
+The opposite is also true: if your house is a mess, AI is just going to create more mess.
+
+So, all in all, there’s never been a better time to be a software engineer — let’s get to work!
+
+p.s. it was great to meet with so many friends at the conference! Shout-outs to Hannah (finally in person!), Joel, Melinda, Patrick, Danilo and many more I am sure I am forgetting!",63.0,11.0,0,74.0,1.33,Contrarian,Engineering Leadership,Against Common Wisdom,Observation/Opinion,Text-only,Back to Rome after some great time in Berlin at the CTO Craft Con!,"Back to Rome after some great time in Berlin at the CTO Craft Con!
+
+I had the privilege to keynote the first day 🙏 and I brought some thoughts about h","Back to Rome after some great time in Berlin at the CTO Craft Con!
+
+I had the privilege to keynote the first day 🙏 and I brought some thoughts about h",https://www.linkedin.com/posts/lucaronin_back-to-rome-after-some-great-time-in-berlin-activity-7376968998468534272-VlgQ?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACMGb3oBRaMXx5ky1s8XlW5ehBwhaT5lQhE,2025-09-25T13:21:06.691Z,idea_legos_alexis,156.0,0.0,47.3,
+"How does Shopify execute at startup speed — but with 4,000 engineers? ⚡️
+
+Today I published a deep dive with Eytan Seidman, Director of Product for the Developer Platform at Shopify, about how they achieve startup velocity at enterprise scale.
+
+One of their secrets is a unique approach that combines continuous delivery with strategic storytelling through biannual ""Editions.""
+
+Here are a few things that I learned:
+
+↳ 🎭 𝗘𝗱𝗶𝘁𝗶𝗼𝗻𝘀 𝗮𝗿𝗲 𝘀𝘁𝗼𝗿𝘆𝘁𝗲𝗹𝗹𝗶𝗻𝗴, 𝗻𝗼𝘁 𝘄𝗮𝘁𝗲𝗿𝗳𝗮𝗹𝗹 — teams ship continuously, but twice a year they bundle major updates into cohesive narratives that capture market attention.
+
+↳ 🔬 𝗖𝗼𝗻𝘃𝗲𝗿𝗴𝗲𝗻𝗰𝗲 𝗰𝗿𝗲𝗮𝘁𝗲𝘀 𝗰𝗼𝗵𝗲𝗿𝗲𝗻𝗰𝗲 — before each Edition, teams stop building new features and focus entirely on integration, stress-testing the full user journey to avoid ""feature soup.""
+
+↳ 👥 𝗛𝘆𝗯𝗿𝗶𝗱 𝘁𝗲𝗮𝗺 𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 — durable teams own complex domains for deep expertise, while task forces tackle new initiatives for agility. Best of both worlds.
+
+↳ 🏛️ 𝗘𝘃𝗲𝗿𝘆𝘁𝗵𝗶𝗻𝗴 𝗮𝘀 𝗖𝗼𝗱𝗲 — they adopted a declarative, code-first approach to their platform, which is paying huge dividents with AI. Now AI can read and update config files and run full apps without touching GUIs.
+
+↳ 💻 𝗜𝗗𝗘 𝗮𝘀 𝗛𝘂𝗯 — meeting developers where they are increasingly means never making them leave their development environment. The platform comes to them, not the other way around.
+
+Link to the full article in the comments! 👇",60.0,11.0,3,74.0,1.27,Investigator,Engineering Leadership,Contrast/But,Story,Text-only,"How does Shopify execute at startup speed — but with 4,000 engineers? ⚡️","How does Shopify execute at startup speed — but with 4,000 engineers? ⚡️
+
+Today I published a deep dive with Eytan Seidman, Director of Product for th","How does Shopify execute at startup speed — but with 4,000 engineers? ⚡️
+
+Today I published a deep dive with Eytan Seidman, Director of Product for th",https://www.linkedin.com/posts/lucaronin_how-does-shopify-execute-at-startup-speed-activity-7348698827903631360-Ucri?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAB6K1cEBWGklm42wKpdPEhH6bEDzT2raZN4,2025-07-09T13:05:32.794Z,dataset_alexis_dataset,167.0,0.0,47.3,
+"Today I published an article about something very close to my heart: note-taking. It's a review of ""How to Take Smart Notes"" — a book that completely changed how I work and think 👇
+
+This book introduced me to the 𝗭𝗲𝘁𝘁𝗲𝗹𝗸𝗮𝘀𝘁𝗲𝗻 method used by Niklas Luhmann, who published 70+ books and 400+ scientific papers in 30 years (!!). His secret? A system of 90,000 interconnected notes that acted as his second brain.
+
+But here's the thing: after 5 years and 600+ notes of my own, I've learned that you don't need to copy Luhmann exactly. In fact, I don’t. You need something sustainable that works for you.
+
+Here are some things I learned:
+
+↳ ✍️ 𝗪𝗿𝗶𝘁𝗶𝗻𝗴 𝗶𝘀 𝘁𝗵𝗶𝗻𝗸𝗶𝗻𝗴 — you don't write to capture thoughts: you write to create them. Writing forces linear thinking and reveals both meaning and inconsistencies.
+
+↳ 🍱 𝗕𝗿𝗲𝗮𝗸 𝗱𝗼𝘄𝗻 𝘁𝗵𝗲 𝘄𝗼𝗿𝗸 — separate capture (save everything raw), organize (periodic review), and express (create output). Trying to do all at once == writer's block.
+
+↳ 📥 𝗖𝗮𝗽𝘁𝘂𝗿𝗲 𝗲𝘃𝗲𝗿𝘆𝘁𝗵𝗶𝗻𝗴, 𝗸𝗲𝗲𝗽 𝗵𝗮𝗹𝗳 𝗼𝗳 𝗶𝘁 — during my weekly review, I delete most of what I captured in the prior days. And that's fine!
+
+↳ 🪣 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀, 𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝗯𝗶𝗹𝗶𝘁𝗶𝗲𝘀, 𝗮𝗻𝗱 𝗧𝗼𝗽𝗶𝗰𝘀 — I organize notes by actionability. Projects have deadlines, responsibilities recur, while topics are just areas of interests.
+
+↳ 🤖 𝗔𝗜 𝗵𝗲𝗹𝗽𝘀 𝗰𝗮𝗽𝘁𝘂𝗿𝗲, 𝗻𝗼𝘁 𝗼𝗿𝗴𝗮𝗻𝗶𝘇𝗲 — I have found that AI is great for capturing and summarizing content, but organizing is where I need make the connections. We can’t outsource your thinking. Same thing with writing.
+
+So, after 260+ articles and 600+ notes, I confirm: good note-taking compounds — but it's a journey. 
+
+As in software, it's not about creating a perfect system: it's about a workflow that grows with you, which you keep iterating on.
+
+Full article in the comments! 👇",61.0,10.0,1,72.0,1.29,Teacher,AI/ML/Coding Tools,Personal Experience,Observation/Opinion,Text-only,"Today I published an article about something very close to my heart: note-taking. It's a review of ""","Today I published an article about something very close to my heart: note-taking. It's a review of ""How to Take Smart Notes"" — a book that completely ","Today I published an article about something very close to my heart: note-taking. It's a review of ""How to Take Smart Notes"" — a book that completely ",https://www.linkedin.com/posts/lucaronin_today-i-published-an-article-about-something-activity-7361389025892491264-H0eo?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAB6K1cEBWGklm42wKpdPEhH6bEDzT2raZN4,2025-08-13T13:31:51.767Z,idea_legos_alexis,164.0,0.0,47.3,
+"What does *minimum viable testing* look like?
+
+Testing is one of the topics on which I receive the most questions from the newsletter. But these are usually not like: “how do I test things thoroughly?"" But rather “how do I get the best bang for my buck?”
+
+So as always YMMV, but here is my quick cheat sheet:
+
+𝟭) 𝗨𝘀𝗲 𝗮 𝘀𝘁𝗮𝘁𝗶𝗰 𝘁𝘆𝗽𝗲𝗱 𝗹𝗮𝗻𝗴𝘂𝗮𝗴𝗲
+
+Most languages today have statically typed versions you can adopt, e.g. Typescript for Javascript, or Sorbet for Ruby.
+
+My opinion is that this is a no-brainer for 99% of teams.
+
+Static types catch a ton of bugs early, make AI safer, and self-document the code.
+
+𝟮) 𝗪𝗿𝗶𝘁𝗲 𝘂𝗻𝗶𝘁 𝘁𝗲𝘀𝘁𝘀 *𝘄𝗵𝗲𝗻 𝗿𝗲𝗹𝗲𝘃𝗮𝗻𝘁*
+
+Unit tests are an important part of your testing investment. However, I am not adamant about their coverage — you should write them for whatever is non-trivial or subject to implementation changes in the future.
+
+𝟯) 𝗪𝗿𝗶𝘁𝗲 𝗽𝗹𝗲𝗻𝘁𝘆 𝗼𝗳 𝗶𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻 𝘁𝗲𝘀𝘁𝘀
+
+Integration tests are about testing execution paths that involve multiple functions / components. Figure out the most important ones for each area of your product, and test them in depth. 
+
+To identify them, you can think about business paths based on how your product is used. API endpoints are also usually good candidates.
+
+Sometimes, the difference between unit and integration is a bit murky, but it doesn’t matter. Just focus on what feels worthwhile to be tested.
+
+𝟰) 𝗪𝗿𝗶𝘁𝗲 𝗮 𝗳𝗲𝘄, 𝗰𝗿𝗶𝘁𝗶𝗰𝗮𝗹 𝗲𝗻𝗱-𝘁𝗼-𝗲𝗻𝗱 𝘁𝗲𝘀𝘁𝘀
+
+E2E tests are expensive to develop and maintain. My rule of thumb is to invest in testing those parts that you would check manually anyway. The entire goal of E2E is to remove manual checks, so you can release faster.
+
+If you are an e-commerce, you may start by testing the main purchase funnel, checkout included. If you are a SaaS, you may test that new customers are able to subscribe, and the core features used by your existing ones.
+
+𝟱) 𝗔𝘃𝗼𝗶𝗱 𝘀𝘁𝗮𝗴𝗶𝗻𝗴 𝗶𝗳 𝘆𝗼𝘂 𝗰𝗮𝗻
+
+I wrote a full article about this, but the TL;DR is you can probably avoid a staging environment by implementing some combination of canary rollouts and live PR previews. I also have a friend who also does video walkthroughs for PR, and they look great.
+
+The idea is: the fewer steps to production, the faster you release, the better feedback loop you have, which also helps stability because you recover faster from mistakes.",58.0,8.0,3,69.0,1.23,Teacher,AI/ML/Coding Tools,Contrast/But,Observation/Opinion,Text-only,What does *minimum viable testing* look like?,"What does *minimum viable testing* look like?
+
+Testing is one of the topics on which I receive the most questions from the newsletter. But these are u","What does *minimum viable testing* look like?
+
+Testing is one of the topics on which I receive the most questions from the newsletter. But these are u",https://www.linkedin.com/posts/lucaronin_what-does-minimum-viable-testing-look-like-activity-7401539753243901952-nrIt?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAChrmHMBoeF2TJr0KNDHwGzHHBzLvrGpHx8,2025-12-02T08:36:31.132Z,idea_legos_alexis,173.0,0.0,47.3,
+"This year I renovated a lot of my home office. This week’s newsletter explores the ~20 essential items I use every day 🪑
+
+(the chair emoji is a trap, I don't use chairs!)
+
+It’s a free bonus newsletter, maybe in time for some last-minute Xmas gifts, or to write something down for the new year!
+
+Here’s what I cover:
+
+🪑 𝗗𝗲𝘀𝗸 — my standing desk and its core accessories.
+💻 𝗧𝗲𝗰𝗵 — computer, monitor, and a couple other essential devices
+🎥 𝗩𝗶𝗱𝗲𝗼 / 𝗔𝘂𝗱𝗶𝗼 — everything I use to record the podcast and videos.
+💡 𝗟𝗶𝗴𝗵𝘁𝗶𝗻𝗴 — making the office seriously bright + looking good in video.
+🪴 𝗠𝗶𝘀𝗰 — plants and cups!
+
+You can find everything here: https://lnkd.in/eqJ5E3_U",45.0,18.0,1,64.0,0.95,Contrarian,AI/ML/Coding Tools,Personal Experience,Observation/Opinion,Text-only,This year I renovated a lot of my home office. This week’s newsletter explores the ~20 essential ite,"This year I renovated a lot of my home office. This week’s newsletter explores the ~20 essential items I use every day 🪑
+
+(the chair emoji is a trap, ","This year I renovated a lot of my home office. This week’s newsletter explores the ~20 essential items I use every day 🪑
+
+(the chair emoji is a trap, ",https://www.linkedin.com/posts/lucaronin_this-year-i-renovated-a-lot-of-my-home-office-activity-7406975448313929729-OQKp?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAC068VkBV9XY3vJkG9xYvL4BarqCBKeMpgc,2025-12-17T08:36:01.827Z,dataset_alexis_dataset,287.0,0.0,47.3,
+"As managers, we always say we should cut meetings whose value is low, that is, lower than the opportunity cost of attendees' time.
+
+In my experience, though, this is tricky to judge. The ROI of ceremonies is often not linear, e.g:
+
+↳ Daily standups may feel like a waste of time until you casually intercept a big blocker.
+↳ Retrospectives may seem shallow until a project goes bad and it prompts a real discussion.
+
+Some processes are simply designed to run *at a loss* most of the time, and then have a few instances that repay the whole bill.
+
+I feel that, as humans, we are bad at assessing these situations. When the value distribution is uneven, we need longer feedback loops — and we don’t like that.
+
+This is one of the cruxes of moving from IC to management. As an engineer, most feedback loops are extremely short: you write code, it works, deploy to prod, check how it goes. As a manager, good luck with that! When it comes to how your team works—as a system—you need many cycles to figure out how things are doing. And a full cycle goes from minutes/hours (coding) to weeks (management).
+
+I wish a good week to all the managers out there! ❤️",49.0,4.0,4,57.0,1.04,Teacher,Engineering Leadership,Framework/How-To,Story,Text-only,"As managers, we always say we should cut meetings whose value is low, that is, lower than the opport","As managers, we always say we should cut meetings whose value is low, that is, lower than the opportunity cost of attendees' time.
+
+In my experience, ","As managers, we always say we should cut meetings whose value is low, that is, lower than the opportunity cost of attendees' time.
+
+In my experience, ",https://www.linkedin.com/posts/lucaronin_as-managers-we-always-say-we-should-cut-activity-7342821496093822977-K_1I?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACdmXNYBitmvc8eOWzKRs0OEekQFSuxVwUA,2025-06-23T07:51:07.695Z,dataset_alexis_dataset,212.0,0.0,47.3,
+"I enjoyed this article by Matt Webb about how to coordinate agents that do stuff for us: https://lnkd.in/dVQdgzBz
+
+It also made me discover Weft, which I didn’t know: https://lnkd.in/dXjUwzJp
+
+Matt argues that the best abstraction for agents is *teammates*, and so they belong to our todo lists. E.g. Linear for work (which jumped on this and smartly released “Linear for Agents”) and… Apple Reminders for our lives.
+
+Personally I don’t use Reminders, I use Todoist, which has an API and MCP server, so I think I will tinker with it 🤔 e.g. I may turn my own workspace in a Team, add a fake person who is an agent, and assign stuff to it.
+
+Has anyone tried something similar?
+
+All this stuff is duct-taped for now, but to me it makes sense. Makes me think that a lot of software may end up adding first-party support for agents as individual users, which is helpful and doesn’t break how we have been using tools so far.
+
+p.s. trying to post more “unfiltered” thoughts on Linkedin, you know, as a human, ignoring the algorithm (two links in a post?!)",15.0,14.0,2,,,Teacher,Engineering/Technical,Insight/Observation,Statement → Commentary,Text-only,I enjoyed this article by Matt Webb about how to coordinate agents that do stuff for us: https://lnkd.in/dVQdgzBz,"I enjoyed this article by Matt Webb about how to coordinate agents that do stuff for us: https://lnkd.in/dVQdgzBz
+
+It also made me discover Weft, whic",,,,dataset_alexis_dataset,,,,
+"Speed is all that matters — if you measure it right.
+
+I have always believed there is no tradeoff between speed and quality in software. Shipping fast creates a tight feedback loop, which makes you improve faster and recover faster from mistakes.
+
+All of this enables quality and stability.
+
+But that’s only if you measure speed based on the work you actually ship.
+Speed is not the amount of commits you make, or the amount of PRs. It’s not even about the amount of deployments.
+
+Speed ultimately means minimizing the *wall-clock time* between when someone asks for something, and when they get it.
+
+It’s about what the outside world experiences.
+
+So, if you think you are fast, ask yourself: would your customers say the same?
+
+Have a good start of the week! ☀️☕",29.0,17.0,2,,,Teacher,Engineering/Technical,Insight/Observation,Statement → Commentary,Text-only,Speed is all that matters — if you measure it right.,"Speed is all that matters — if you measure it right.
+
+I have always believed there is no tradeoff between speed and quality in software. Shipping fast",,,,dataset_alexis_dataset,,,,
+"Hard work is a lagging indicator
+
+There is a big feud in tech over hard work. It’s between teams who work long hours / 996 / hustle all the time, vs those who focus on a more measured approach, in the style of “slow is smooth, smooth is fast”. 
+
+It has become a culture war — people attach part of their identities to one camp, and often disdain the other.
+
+I believe this whole conversation is based on a fallacy.
+
+In my experience, motivated people *naturally* work hard — because they care, not because you told them so. When you hire talented people and give them the right amount of direction and agency, the result is... they work hard!
+
+Working hard feels *fun* when people do so because they enjoy pushing themselves. It’s not fun when they do it out of fear, or to seek approval. That’s where teams crash and burn.
+
+So the question is: have you created the conditions where people *want* to work hard? Or do they do it because they feel they need to?
+
+Hard work works best as a *lagging indicator* — the natural output of a healthy, high-agency environment. You can’t force it *upstream*, but you can create the conditions for it to happen *downstream*.",34.0,11.0,2,,,Teacher,Culture/Career,Personal Experience,Contrast Format,Text-only,Hard work is a lagging indicator,"Hard work is a lagging indicator
+
+There is a big feud in tech over hard work. It’s between teams who work long hours / 996 / hustle all the time, vs t",,,,dataset_alexis_dataset,,,,
+"It’s interesting how our feelings about the same ideas change over time.
+
+I have seen this picture online countless times over the years. 
+
+- At first I thought it was funny
+- After a few times I thought it was deep
+- Today I saw it again and thought most problems in life are actually a variation of this comic
+
+It’s not like I didn’t get the actual meaning of the picture the first time. I did, but somehow it didn’t *register*. It felt cliché.
+
+I think that repeated exposure gave my mind more time to relate with the idea itself, and connect it to my own experience, so now it feels more profound — but it's the same idea! 
+
+This is probably the problem with clichés: they are deep insights, passed on too rapidly for their real meaning to register anymore. But if we slow down, we can find incredible wisdom almost everywhere.
+
+It made me think about this article that I read a few days ago, on the virtues of slowing down: https://lnkd.in/dvirDrmE",33.0,4.0,1,,,Teacher,Engineering/Technical,Insight/Observation,Statement → Commentary,Text-only,It’s interesting how our feelings about the same ideas change over time.,"It’s interesting how our feelings about the same ideas change over time.
+
+I have seen this picture online countless times over the years. 
+
+- At first",,,,dataset_alexis_dataset,,,,
+"I am an insufferable note-taking nerd.
+
+Always have been — but since I am a full-time writer I got even worse, because now I can say “it’s because of my job”. 
+
+I am super opinionated about all-things-note-taking, but I usually avoid giving specific advice, because I believe everyone should find the tools and workflows that work best for their life.
+
+There’s one thing, though, I recommend to everyone: do a *weekly review* of your notes to 1) organize them, and 2) trash what doesn’t deserve long-term storage.
+
+I do it every Tuesday, it takes one hour, and I go through everything I captured that week. What's key about the review is that 1) it separates *reviewing* from *capturing*, and 2) it makes me process all captured notes in the same sitting. 
+
+When I do this, interesting things happen:
+
+– Many things that seemed interesting days ago no longer do. I usually delete over 60% of what I have captured.
+– When I am in “organization mode”, I find more connections and work faster than doing it hastily on the spot.
+– It becomes a genuinely pleasurable activity—like a mini time capsule where each idea feels like a rediscovery.
+
+I also use this time to clear email, DMs, downloads, and tasks—everything that piles up during the week—so each week starts with a clean slate.
+
+If you set personal goals, it’s also the perfect time to check on progress and plan your next actions.
+
+The weekly review is by far my most important note-taking / productivity routine.
+
+p.s. posting this while doing my review on a plane. That's how insufferable I am!",43.0,14.0,3,,,Teacher,Product/Growth,Personal Experience,Statement → Commentary,Text-only,I am an insufferable note-taking nerd.,"I am an insufferable note-taking nerd.
+
+Always have been — but since I am a full-time writer I got even worse, because now I can say “it’s because of",,,,dataset_alexis_dataset,,,,
+"Engineering metrics have always been a bit controversial for me, and that’s why I never focused too much on them.
+
+My team’s well-being comes first.
+
+Despite that, I recognize that in recent years, engineering metrics have evolved to be more “human” and thus become useful if you want to:
+
+📈 𝗦𝗽𝗼𝘁 𝗧𝗿𝗲𝗻𝗱𝘀
+↳ Identify whether things are improving.
+
+💬 𝗦𝘁𝗮𝗿𝘁 𝗖𝗼𝗻𝘃𝗲𝗿𝘀𝗮𝘁𝗶𝗼𝗻𝘀
+↳ Use numbers to discuss improvements.
+
+💪 𝗕𝗮𝗰𝗸 𝗜𝗻𝗶𝘁𝗶𝗮𝘁𝗶𝘃𝗲𝘀
+↳ Use evidence to support changes.
+
+There are different types of metrics you can measure:
+
+❤️ 𝗪𝗲𝗹𝗹𝗯𝗲𝗶𝗻𝗴: team satisfaction through surveys and retrospectives.
+
+⚖️ 𝗜𝗻𝘃𝗲𝘀𝘁𝗺𝗲𝗻𝘁: track time allocation to balance team efforts.
+
+⚙️ 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝘃𝗶𝘁𝘆: measure efficiency with DORA and Cycle Time metrics.
+
+If you are considering using engineering metrics, do so responsibly and follow these suggestions:
+
+🗣️ Talk to Your Team: identify top issues.
+🤝 Team Metrics: better than individual metrics.
+🚫 Don’t Assign Blame: avoid using metrics for blame.
+🔄 Regular Review: adjust metrics regularly.
+📚 Educate Your Team: ensure understanding of metrics.
+🎯 Keep It Simple: focus on a few key metrics.
+
+I’d also suggest you read the first article 🌀 Luca Rossi wrote today on The Hybrid Hacker; it’s a great starting point! 👇
+
+https://lnkd.in/dZRPg7cW
+
+♻️ PLEASE REPOST IF YOU FOUND IT USEFUL, IT MEANS A LOT TO ME.
+
+---
+🔔 Enjoy my posts? Hit the bell and follow me → Nicola Ballotta
+🤓 Consider subscribing to The Hybrid Hacker newsletter (link in the first comment)
+
+#metrics #management #leadership #productivity #engineering",92.0,22.0,6,,,Contrarian,Engineering/Technical,Contrarian/Challenge,Statement → Commentary,Text-only,"Engineering metrics have always been a bit controversial for me, and that’s why I never focused too much on them.","Engineering metrics have always been a bit controversial for me, and that’s why I never focused too much on them.
+
+My team’s well-being comes first.",,,,dataset_alexis_dataset,,,,
+"The age of everything as code?
+
+One of the most underrated trends that is developing as a second-order effect of AI, is expressing everything as code.
+
+AI is still generally bad at using GUIs and navigating websites, while it’s amazing at reading and writing text — which means that, in your tech stack, whenever you can do something with code (instead of e.g. a dashboard or an admin panel) you probably should.
+
+Infrastructure-as-code has been a thing for a long time, but recently I spoke with several teams who are going further: Shopify designed their developer platform to allow all configuration to be expressed as code, and so did Convex.
+
+This strategy has *always* had upsides — think reproducibility, version control, self-documentation, automation — but at the expense of more cumbersome UX and having developers remember complex DSLs.
+
+What’s changing now is that the downsides have largely disappeared, because AI is extremely good at writing this stuff, leaving you mostly with the upsides.
+
+p.s. I have tried my hand at a Linkedin carousel for the first time (and spent waaay too much time on it 😂) let me know if you like it!",28.0,3.0,4,,,Teacher,AI/ML,Humor/Satire,Statement → Commentary,Text-only,The age of everything as code?,"The age of everything as code?
+
+One of the most underrated trends that is developing as a second-order effect of AI, is expressing everything as code.",,,,dataset_alexis_dataset,,,,
+"Here is my weekly post about the best articles I have read this week! 📚
+
+Since I committed publicly to this, I changed my routine to start every morning with 30 mins of reading, and that has changed my mood *a lot*. I am so happy to start my days like this, and now I look forward to it. I am also finding myself reading more throughout the day and being more rigorous about the whole process.
+
+So far so good! Here are my favorite items from this week:
+
+🥇 𝗙𝗮𝗰𝗶𝗹𝗶𝘁𝗮𝘁𝗶𝗻𝗴 𝗔𝗜 𝗔𝗱𝗼𝗽𝘁𝗶𝗼𝗻 𝗮𝘁 𝗜𝗺𝗽𝗿𝗶𝗻𝘁
+13 𝘮𝘪𝘯 • 𝘣𝘺  Will Larson 
+This is a side-quest (to say the least) for every engineering leader right now. Will shares his working notes on how he is doing it, with a lot of practical ideas and lessons learned.
+Link: https://lnkd.in/d_KmgDGf
+
+🥈 𝗨𝘀𝗶𝗻𝗴 𝗟𝗟𝗠𝘀 𝗮𝘁 𝗢𝘅𝗶𝗱𝗲
+8 𝘮𝘪𝘯 • 𝘣𝘺 Oxide Computer Company
+This is the best manifesto about team LLM adoption I have seen. It covers values, patterns, and anti-patterns, covering everything from first principles. Chances are you can take it and almost copy-paste it for your team. It's also the perfect complement to Will's article above.
+Link: https://lnkd.in/dqv5hTcJ
+
+🥉 𝗨𝘀𝗲𝗳𝘂𝗹 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 𝗔𝗿𝘁𝗶𝗳𝗮𝗰𝘁𝘀
+5 𝘮𝘪𝘯 • 𝘣𝘺 Bjorn Roche
+A practical toolkit that also works as a checklist for everything you may need as an engineering manager. Career development plans, title ladders, team charters, roadmaps, and more — all the key docs that help you scale management without losing your mind.
+Link: https://lnkd.in/dKnxZ4Hs
+
+4) 𝗪𝗼𝘂𝗹𝗱 𝗬𝗼𝘂 𝗣𝗮𝘆 𝘁𝗼 𝗛𝗮𝘃𝗲 𝗬𝗼𝘂𝗿 𝗥𝗲𝘀𝘂𝗺𝗲 𝗥𝗲𝗮𝗱?
+4 𝘮𝘪𝘯 • 𝘣𝘺 Pawel Brodzinski 
+Great piece about how AI has broken tech hiring. It's become a game of prompting one AI agent to pass through the filters of another AI agent. So, what if candidates paid a small fee to guarantee a human actually reads their resume?
+Link: https://lnkd.in/dCgTmMCQ
+
+5) 𝗗𝗲𝗹𝗶𝗯𝗲𝗿𝗮𝘁𝗲𝗹𝘆 𝗦𝗵𝗮𝗽𝗶𝗻𝗴 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗢𝗿𝗴𝘀
+3 𝘮𝘪𝘯 • 𝘣𝘺 Aviv Ben-Yosef 🥐
+Great list of four *failure modes* that happen when you are not intentionally shaping your engineering org. A reminder that you need to carve out time to deliberately design your team's future state.
+Link: https://lnkd.in/d5Gy6RAv
+
+If you read other interesting things this week, feel free to post them in the comments! So I can catch up 😂",36.0,8.0,1,,,Teacher,Leadership/Management,Tactical/Framework,Statement → Commentary,Text-only,Here is my weekly post about the best articles I have read this week! 📚,"Here is my weekly post about the best articles I have read this week! 📚
+
+Since I committed publicly to this, I changed my routine to start every morni",,,,dataset_alexis_dataset,,,,
+"Our last Product Showcase of the year is coming up, and boy, have we been cooking up a spicy feast of features for eng leaders and devs alike 🔥 
+
+We're going live next Thursday, and will be joined by the one and only 🌀 Luca Rossi from Refactoring, and the great Aruneesh Salhotra, founder of the OWASP AI BOM project, co-lead for the OWASP AI Exchange, and co-author of OWASP Top 10 LLM, for an expert panel discussion on AI risk governance + dev experience in the age of AI.
+
+If you find yourself navigating the 'Wild West' of AI coding tools and scrambling to govern AI risk at scale, this session is for you.
+
+Save your spot 👉 https://lnkd.in/d3MgYjiP",31.0,6.0,5,,,Teacher,AI/ML,Insight/Observation,Contrast Format,Text-only,"Our last Product Showcase of the year is coming up, and boy, have we been cooking up a spicy feast of features for eng leaders and devs alike 🔥","Our last Product Showcase of the year is coming up, and boy, have we been cooking up a spicy feast of features for eng leaders and devs alike 🔥 
+
+We'r",,,,dataset_alexis_dataset,,,,
+"I am incredibly excited to announce that we have raised a €𝟮.𝟳𝗠 seed round at CommerceClarity we’re looking for 𝗽𝗿𝗼𝗱𝘂𝗰𝘁-𝗺𝗶𝗻𝗱𝗲𝗱 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝘀 to join us and help us reinvent how global e-commerce runs with AI.
+
+We’re building 𝗔𝗜 𝘀𝘆𝘀𝘁𝗲𝗺𝘀 𝘁𝗵𝗮𝘁 𝗺𝗮𝗸𝗲 𝗽𝗿𝗼𝗱𝘂𝗰𝘁 𝗰𝗮𝘁𝗮𝗹𝗼𝗴𝘀 𝗼𝗽𝘁𝗶𝗺𝗶𝘇𝗲 𝘁𝗵𝗲𝗺𝘀𝗲𝗹𝘃𝗲𝘀 — automatically adapting every SKU for Amazon, Shopify, Google Shopping, and 20+ marketplaces.
+
+But unlike most AI companies, 𝘄𝗲 𝗱𝗼𝗻’𝘁 𝗰𝗵𝗮𝘀𝗲 𝗱𝗲𝗺𝗼𝘀 𝗼𝗿 𝗵𝘆𝗽𝗲.
+
+We solve 𝗿𝗲𝗮𝗹, 𝗵𝗶𝗴𝗵-𝗶𝗺𝗽𝗮𝗰𝘁 𝗽𝗿𝗼𝗯𝗹𝗲𝗺𝘀 for international e-commerce, where:
+ • outputs must be 𝗰𝗼𝗻𝘀𝗶𝘀𝘁𝗲𝗻𝘁 𝗮𝗻𝗱 𝗱𝗲𝘁𝗲𝗿𝗺𝗶𝗻𝗶𝘀𝘁𝗶𝗰 across millions of cases
+ • systems must be 𝗿𝗲𝗹𝗶𝗮𝗯𝗹𝗲, 𝗳𝗮𝘀𝘁, 𝗮𝗻𝗱 𝗰𝗼𝘀𝘁-𝗰𝗼𝗻𝘁𝗿𝗼𝗹𝗹𝗲𝗱
+ • architectures must 𝘀𝗰𝗮𝗹𝗲 𝗮𝗰𝗿𝗼𝘀𝘀 𝗹𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗺𝗮𝗿𝗸𝗲𝘁𝘀
+
+That’s what makes the work hard and incredibly exciting.
+
+Some of the challenges our engineers are tackling:
+↳ 𝗠𝘂𝗹𝘁𝗶-𝗮𝗴𝗲𝗻𝘁 𝗔𝗜 𝗮𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 coordinating 30+ specialized models
+↳ 𝗥𝗲𝗮𝗹-𝘁𝗶𝗺𝗲 𝘃𝗮𝗹𝗶𝗱𝗮𝘁𝗶𝗼𝗻 layer keeping error rates under 0.8%
+↳ 𝗣𝗮𝗿𝗮𝗹𝗹𝗲𝗹 𝗽𝗶𝗽𝗲𝗹𝗶𝗻𝗲𝘀 that scale to 100,000+ items with no latency
+
+If you want to build AI that actually powers products used worldwide, 𝗻𝗼𝘁 𝗷𝘂𝘀𝘁 𝗽𝗿𝗼𝘁𝗼𝘁𝘆𝗽𝗲𝘀, join us.
+
+Check our open positions here: https://lnkd.in/d7KSh_xG",99.0,27.0,4,,,Teacher,Engineering/Technical,Insight/Observation,Statement → Commentary,Text-only,I am incredibly excited to announce that we have raised a €𝟮.𝟳𝗠 seed round at CommerceClarity we’re looking for 𝗽𝗿𝗼𝗱𝘂𝗰𝘁-𝗺𝗶𝗻𝗱𝗲𝗱 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝘀 to join us an,I am incredibly excited to announce that we have raised a €𝟮.𝟳𝗠 seed round at CommerceClarity we’re looking for 𝗽𝗿𝗼𝗱𝘂𝗰𝘁-𝗺𝗶𝗻𝗱𝗲𝗱 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝘀 to join us an,,,,dataset_alexis_dataset,,,,
+"Yesterday, I achieved a significant milestone much sooner than I ever expected.
+
+🚀 20,000 subscribers to my newsletter, The Hybrid Hacker.
+
+In just about 13 months. Back in November, I was at 9k, which means I nearly doubled my subscriber count in the last three months.
+
+These numbers are all relative. I know of people who grew much faster, and others slower. As I often say, statistics only give you a perception of growth.
+
+What truly confirms my growth is:
+
+📚 The amount I've learned from writing
+↳ Writing not only enhanced my consistency but also significantly broadened my knowledge, including a big improvement in my English.
+
+👥 The number of people I've connected with during this period.
+↳ Despite being an introvert and often hesitant about networking, I met 100+ great people in the last year, some of whom I've developed genuine relationships with.
+
+🙏 People who reached out to thank me for my writing.
+↳ Here on LinkedIn alone, I have an endless backlog of DMs awaiting my response (I promise to reply to all, as always!). These messages range from thanks and support requests to simple greetings.
+
+💖 And, of course, those who chose to support me with a paid subscription.
+↳ Currently, I have 111 paid subscribers. While this isn't a business for me (I have my full-time job), the income helps me purchase tools, newsletter subscriptions, courses, etc., to enhance my content quality. It's also incredibly rewarding to see people willing to pay for what I create.
+
+Considering these four ""KPIs"", I can confidently say my growth was exponential.
+
+So, how did I achieve these numbers?
+
+Two factors were key:
+
+- Consistency
+- People
+
+The latter was crucial, and there's an endless list of people I need to thank. I'm sure I'll forget someone; they are simply too many:
+
+For being a great inspiration and supporting me from the start of my journey:
+- 🌀 Luca Rossi
+- Jordan Cutler
+- Gregor Ojstersek
+- Omar Halabieh
+- Irina Stanescu
+- Caleb Mellas
+- Anemari Fiser
+- Ryan Peterman
+- Raviraj Achar
+- Richard Donovan
+- Luca Sartoni
+- Roberto Ferraro
+- Janis Ozolins
+- Anton Zaides
+
+For becoming part of my network and helping me grow over the past months:
+- Neo Kim
+- Alex Xu
+- Wes Kao
+- Alex Nguyen
+- Kahlil Lechelt
+- Dr Milan Milanović
+- Alex Ewerlöf
+- Pascalle Bergmans 🧚‍♀️
+
+For joining and consistently supporting my Slack community of creators:
+- Sergio Visinoni
+- Petar Ivanov
+- Anco van der Wurff
+- Mihai-Valentin Curelea
+- Mauro B.
+- Itzy Sabo
+- Radu-Tudor Susanu
+- Denis Čahuk
+- Adrian Stanek
+- Daniel Hauck
+
+For recently joining my network and being supportive:
+- Matteo Cellini
+- Ryan Murphy
+- Alvaro Jose Lorente Perez
+- Daniel Moka
+- Francisco Manuel Soto Ramírez
+- Lee Sampson
+
+A huge thanks to everyone from the bottom of my heart!
+
+♻️ PLEASE REPOST IF YOU FOUND IT USEFUL, IT MEANS A LOT TO ME.
+
+---
+🔔 Enjoy my posts? Hit the bell and follow me → Nicola Ballotta
+
+#newsletter #growth #leadership #management #engineering",208.0,108.0,7,,,Teacher,Leadership/Management,Data/Numbers,Listicle/Breakdown,Text-only,"Yesterday, I achieved a significant milestone much sooner than I ever expected.","Yesterday, I achieved a significant milestone much sooner than I ever expected.
+
+🚀 20,000 subscribers to my newsletter, The Hybrid Hacker.
+
+In just ab",,,,dataset_alexis_dataset,,,,
+"Our AI industry report is out! It's our biggest research ever! 💥
+
+Together with the folks at Augment Code, over the last three months we surveyed more than 500 teams and held countless conversations with tech leaders about 𝗵𝗼𝘄 𝘁𝗵𝗲𝘆 𝘂𝘀𝗲 𝗔𝗜 𝗶𝗻 𝘁𝗵𝗲𝗶𝗿 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝘁𝗲𝗮𝗺𝘀.
+
+The result is a massive report which combines both quantitative and qualitative data, going out today for ✨ 𝗳𝗿𝗲𝗲 ✨ to every Refactoring subscriber!
+
+Here are some of the main takeaways — and you can find more in the full report in the comments!
+
+↳ 🚀 𝗣𝗲𝗿𝘀𝗼𝗻𝗮𝗹 𝗮𝗱𝗼𝗽𝘁𝗶𝗼𝗻 𝗶𝘀 𝘀𝘁𝗿𝗼𝗻𝗴 — 77% of engineers use AI daily, with 54% saving 5+ hours weekly through coding assistance and task automation.
+
+↳ 📝 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗶𝘀 𝘁𝗵𝗲 𝘀𝗲𝗰𝗿𝗲𝘁 𝘄𝗲𝗮𝗽𝗼𝗻 — Engineers happiest with AI use it extensively for docs, creating better understanding for both humans and AI.
+
+↳ 👥 𝗧𝗲𝗮𝗺 𝗮𝗱𝗼𝗽𝘁𝗶𝗼𝗻 𝗹𝗮𝗴𝘀 𝗯𝗲𝗵𝗶𝗻𝗱 𝗶𝗻𝗱𝗶𝘃𝗶𝗱𝘂𝗮𝗹 𝘂𝘀𝗲 — While 77% of teams recommend AI tools, most lack shared practices, keeping adoption bottom-up and chaotic.
+
+↳ 💼 𝗠𝗮𝗻𝗮𝗴𝗲𝗿𝘀 𝗮𝗿𝗲 𝗰𝗼𝗱𝗶𝗻𝗴 𝗮𝗴𝗮𝗶𝗻 — AI brings engineering managers back to hands-on work by reducing cognitive load and fitting coding into packed schedules.
+
+↳ 😊 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝘀 𝗮𝗿𝗲 𝗼𝗽𝘁𝗶𝗺𝗶𝘀𝘁𝗶𝗰 — Despite online negativity, 71% believe AI will make their jobs better and more enjoyable.
+
+↳ 📊 𝗛𝗲𝗮𝗱𝗰𝗼𝘂𝗻𝘁 𝗳𝗲𝗮𝗿𝘀 𝗮𝗿𝗲 𝗼𝘃𝗲𝗿𝗯𝗹𝗼𝘄𝗻 — Only 11% of Directors/VPs/CTOs expect fewer engineers needed; 26% actually plan to hire more.
+
+↳ 🎯 𝗦𝗸𝗶𝗹𝗹𝘀 𝗮𝗿𝗲 𝘀𝗵𝗶𝗳𝘁𝗶𝗻𝗴 𝘂𝗽𝘄𝗮𝗿𝗱 — 73% report changed hiring priorities, focusing on high-level skills like system design over specific languages.
+
+↳ 🌱 𝗙𝗼𝗹𝗹𝗼𝘄 𝘁𝗵𝗲 𝗮𝗱𝗼𝗽𝘁𝗶𝗼𝗻 𝗽𝗮𝘁𝗵 — Successful teams progress through: Explore (individual experimentation), Embrace (team practices), and Empower (expanding scope).
+
+What do you think about the above? Is anything surprising? Let me know where you stand on these topics!
+
+Also, you can find the full free report in the comments 👇",34.0,4.0,2,,,Teacher,Leadership/Management,Data/Numbers,Statement → Commentary,Text-only,Our AI industry report is out! It's our biggest research ever! 💥,"Our AI industry report is out! It's our biggest research ever! 💥
+
+Together with the folks at Augment Code, over the last three months we surveyed more",,,,dataset_alexis_dataset,,,,
+"Join us for a deep-dive webinar where we connect the dots between code quality, business outcomes, refactoring, and the evolving role of AI in software engineering. 🚀 
+
+🎙 Speakers:
+🌀 Luca Rossi – Founder, Refactoring.fm
+Adam Tornhill – CTO & Founder, CodeScene
+
+💡 In this session, you’ll learn how to:
+✔️ Spot productivity bottlenecks and make the business case for refactoring with real-world data.
+
+ ✔️ Track long-term trends in your codebase to drive data-backed decisions.
+Set smart expectations for AI-assisted coding, understand its real impact on speed & quality and the quality gates you need in place.
+
+✔️ Explore AI-powered refactoring agents to fix technical debt automatically.
+
+📅  Save your spot and take the first step toward making your codebase a competitive advantage.
+
+👉 Register Now https://lnkd.in/dVsPG-_v
+
+#aicoding  #codequality #codehealth #technicaldebt #refactoring",58.0,0.0,7,,,Teacher,Engineering/Technical,Insight/Observation,Statement → Commentary,Text-only,"Join us for a deep-dive webinar where we connect the dots between code quality, business outcomes, refactoring, and the evolving role of AI in softwar","Join us for a deep-dive webinar where we connect the dots between code quality, business outcomes, refactoring, and the evolving role of AI in softwar",,,,dataset_alexis_dataset,,,,
+"One of the ugliest trends in our industry in recent years is the pushback on the value of diversity in engineering teams. 
+
+Also, it has become an extremely charged topic. It feels hard to discuss it without falling into all kinds of partisanship.
+
+So I'll try to be practical.
+
+What is diversity in a team? People immediately think about genders and ethnicities, but it's much more:
+
+↳ It's people from different levels (juniors & seniors)
+↳ It's different age groups
+↳ It's introverts vs extroverts
+↳ It's people with kids vs no kids
+↳ It's movie guys vs TV show guys
+
+At its core, diversity just means having people around you who are different from you. Who think different from you. This is valuable because we all have biases and blind spots — and the more similar we are, the more likely it is that we have the same ones.
+
+In a diverse team, people hold each other to higher standards. This is absolutely obvious to anyone who has been lucky to work on a team like that, but it's (somewhat understandably) hard to grasp for those who have not.
+
+To many, this looks like a moral argument — but it is a very practical one.
+
+The most effective argument in favor of diverse teams is not some ethical obligation that companies should match the composition of society—that's at least debatable—is that 𝗱𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗺𝗮𝗸𝗲𝘀 𝗳𝗼𝗿 𝗯𝗲𝘁𝘁𝗲𝗿 𝘁𝗲𝗮𝗺𝘀, 𝗳𝘂𝗹𝗹 𝘀𝘁𝗼𝗽.
+
+So how diverse should your team be?
+
+Your team exists to serve your users, so my rule of thumb, which I stole from Dana, is that you want a team whose composition at least reflects that of your community of users. You create better products by better relating to your users.
+
+Do you serve a global, diverse community of people? The best way to serve their needs is to craft a team that reflects that. Which is just common sense.",34.0,0.0,4,,,Contrarian,Engineering/Technical,Contrarian/Challenge,Contrast Format,Text-only,One of the ugliest trends in our industry in recent years is the pushback on the value of diversity in engineering teams.,"One of the ugliest trends in our industry in recent years is the pushback on the value of diversity in engineering teams. 
+
+Also, it has become an ext",,,,dataset_alexis_dataset,,,,
+"How do you build a successful product in the AI era? 🤖
+
+In our latest podcast episode I chatted with Kevin Smith, co-founder of the AI-powered podcast app Snipd. 
+
+Kevin shared his incredible journey from quantitative finance to building and leading AI teams, offering a masterclass in creating value with new tech. Also, since he works on one of the most beloved podcast apps in the world, I asked Kevin for advice about retaining knowledge from all the stuff we consume, and, of course, what his favorite podcasts are!
+
+Here are a few takeaways from our chat:
+
+↳ 💡 𝗙𝗮𝗹𝗹 𝗶𝗻 𝗹𝗼𝘃𝗲 𝘄𝗶𝘁𝗵 𝘁𝗵𝗲 𝗽𝗿𝗼𝗯𝗹𝗲𝗺 — don't start by asking what you can build with AI. Instead, focus on the user's problem first and foremost. AI is just a tool in the toolbox to solve it.
+
+↳ ⚙️ 𝗧𝗿𝗲𝗮𝘁 𝗔𝗜 𝗹𝗶𝗸𝗲 𝗮𝗻 𝗶𝗻𝘁𝗲𝗿𝗻 — to handle the randomness of AI models, think of them as interns. Give the same task to multiple ""interns"" and have another one judge the best output.
+
+↳ 🚀 𝗔𝗜 𝗶𝘀 𝘁𝗵𝗲 𝗻𝗲𝘄 𝗖𝗣𝗨 — AI is becoming a commodity, accessible to everyone. Your competitive moat won't come from having the best model, but from classic advantages like network effects, brand, and user experience.
+
+↳ 📈 𝗚𝗼 𝗯𝗲𝘆𝗼𝗻𝗱 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝘃𝗶𝘁𝘆 — the biggest impact of AI in development isn't just about coding faster. It's about empowering teams to tackle things they previously couldn't, like building a video streaming infrastructure with no prior experience.
+
+↳ 🧠 𝗟𝗲𝗮𝗿𝗻 𝗶𝗻𝘁𝗲𝗻𝘁𝗶𝗼𝗻𝗮𝗹𝗹𝘆 — to truly retain knowledge from content you consume, force yourself to identify one single key takeaway from every podcast or article. This simple habit makes a huge difference.
+
+Listen to the full episode to dive deeper into building AI products and the future of learning:
+
+• Substack: https://lnkd.in/dH5ANm5w
+• Youtube: https://lnkd.in/d-3aQQii
+• Spotify: https://lnkd.in/dWA_HzD4",11.0,9.0,3,,,Teacher,Marketing/Content,Insight/Observation,Statement → Commentary,Text-only,How do you build a successful product in the AI era? 🤖,"How do you build a successful product in the AI era? 🤖
+
+In our latest podcast episode I chatted with Kevin Smith, co-founder of the AI-powered podcast",,,,dataset_alexis_dataset,,,,
+"Tribal knowledge is engineering teams' biggest bottleneck.
+
+Last week I spoke with Dennis Pilarinos, founder and CEO of Unblocked, on the podcast, and this quote stuck with me. 
+
+Dennis spent his *whole career* working on dev tools: from Director roles at Microsoft and Amazon, to founding BuddyBuild and selling it to Apple, to now building Unblocked, which is one of the few AI dev tools that's specifically NOT about coding.
+
+Here are a few takeaways from our chat:
+
+↳ 🎯 𝗖𝗼𝗻𝘁𝗲𝘅𝘁 𝗶𝘀 𝗸𝗶𝗻𝗴 — developers spend most of their time searching for the right information, not writing code. One customer's top engineer once spent 5 days writing just 12 lines of code!
+
+↳ 🧠 𝗛𝗮𝗹𝗹𝘂𝗰𝗶𝗻𝗮𝘁𝗶𝗼𝗻𝘀 𝗮𝗿𝗲 𝗮 𝗯𝗮𝗱 𝗾𝘂𝗲𝘀𝘁𝗶𝗼𝗻 𝗽𝗿𝗼𝗯𝗹𝗲𝗺 — ""there's no such thing as a bad answer from an LLM, it's just a bad question."" We're learning to use these tools just like we learned to use Google effectively.
+
+↳ 🔨 𝗔𝗜 𝗶𝘀 𝗮 𝗻𝗮𝗶𝗹 𝗴𝘂𝗻, 𝗻𝗼𝘁 𝗮 𝗷𝗼𝗯 𝗸𝗶𝗹𝗹𝗲𝗿 — when construction workers got nail guns, they didn't work less - they built more buildings. AI tools let developers tackle more ambitious projects.
+
+↳ 📚 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗺𝗮𝘆 𝗯𝗲 𝗱𝗲𝗮𝗱 — why write docs when AI can extract knowledge from code, PRs, and Slack conversations? Semantic search beats traditional documentation.
+
+↳ 🚀 𝗧𝗵𝗲 𝗳𝘂𝘁𝘂𝗿𝗲 𝗶𝘀 𝗮𝘂𝘁𝗼𝗻𝗼𝗺𝗼𝘂𝘀 𝗽𝗿𝗼𝗯𝗹𝗲𝗺-𝘀𝗼𝗹𝘃𝗶𝗻𝗴 — imagine AI that not only triages CI failures but proposes and implements fixes. We're moving from writing code to orchestrating intelligent systems.
+
+Check out the full episode in the comments!",34.0,6.0,4,,,Teacher,Engineering/Technical,Insight/Observation,Statement → Commentary,Text-only,Tribal knowledge is engineering teams' biggest bottleneck.,"Tribal knowledge is engineering teams' biggest bottleneck.
+
+Last week I spoke with Dennis Pilarinos, founder and CEO of Unblocked, on the podcast, and",,,,dataset_alexis_dataset,,,,
+"We are entering the age of AI-first APIs 🤖
+
+As engineers, we've built applications for different *consumers* throughout the decades. First for humans (visual interfaces), then for other software (APIs), and now for AI — which is neither human nor traditional software.
+
+AI agents are a weird middle ground: they make API calls like software, but they can also figure out how to use tools, make sense of unstructured data, and make unpredictable mistakes — more like humans.
+
+So today I published a long piece together with Ankit Sobti, CTO of Postman, exploring how all of this changes API design. Here are some key principles:
+
+↳ 🌊 𝗜𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲𝘀 𝗮𝗿𝗲 𝗲𝘃𝗼𝗹𝘃𝗶𝗻𝗴 𝗮𝗴𝗮𝗶𝗻 — From human-first UIs to API-first for deterministic software, we're now entering the AI-first era where consumers have both machine precision and human-like understanding.
+
+↳ 💰 𝗧𝗼𝗸𝗲𝗻 𝗲𝗰𝗼𝗻𝗼𝗺𝗶𝗰𝘀 𝗰𝗵𝗮𝗻𝗴𝗲𝘀 𝗲𝘃𝗲𝗿𝘆𝘁𝗵𝗶𝗻𝗴 — Every byte costs money when processed by LLMs, creating new design tradeoffs between verbosity and clarity that didn't exist before.
+
+↳ ⏱️ 𝗟𝗮𝘁𝗲𝗻𝗰𝘆 𝗰𝗼𝗺𝗽𝗼𝘂𝗻𝗱𝘀 𝗱𝗶𝗳𝗳𝗲𝗿𝗲𝗻𝘁𝗹𝘆 — AI's multi-second processing times force us to rethink API orchestration, favoring batching, predictive responses, and streaming.
+
+↳ 🔄 𝗦𝗲𝗹𝗳-𝗵𝗲𝗮𝗹𝗶𝗻𝗴 𝗯𝗲𝗰𝗼𝗺𝗲𝘀 𝗽𝗼𝘀𝘀𝗶𝗯𝗹𝗲 — AI consumers can retry creatively and work around errors, but only if APIs provide rich, actionable error information.
+
+↳ 📚 𝗗𝗼𝗰𝘀 𝗯𝗲𝗰𝗼𝗺𝗲 𝗼𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝗮𝗹 — Your docs aren't just guides anymore; they directly shape production behavior at scale, requiring the same rigor as code.
+
+We also covered MCP — the emerging standard for AI-API connections — and looked ahead to agent-to-agent communication protocols like Google's A2A.
+
+A lot of this may look like speculation, but this is all very near future, which is being shaped right now in front of us. And this future belongs to systems that can think, adapt, and collaborate. Time to start building them!
+
+Full article (free!) in the comments!",28.0,9.0,1,,,Teacher,Engineering/Technical,Insight/Observation,Statement → Commentary,Text-only,We are entering the age of AI-first APIs 🤖,"We are entering the age of AI-first APIs 🤖
+
+As engineers, we've built applications for different *consumers* throughout the decades. First for humans",,,,dataset_alexis_dataset,,,,
+"When is it time to hire more people? What are the signs? 🔍
+
+This question has always been tricky — and today more than ever, because founders always feel they should do more with AI, automation, and systems in general, before they bring in more folks.
+
+About this, a mental model that has been useful to me in the past is to hire because of 𝗯𝗼𝘁𝘁𝗹𝗲𝗻𝗲𝗰𝗸𝘀, rather than 𝗼𝗽𝗽𝗼𝗿𝘁𝘂𝗻𝗶𝘁𝗶𝗲𝘀.
+
+Just like with funding—you should only raise money when you know exactly how you would spend it—you should only hire people when you are clearly bottlenecked on something, rather than to chase new things.
+
+Let's make an example: let's say your product relies on integrations with external APIs (e.g. a-la Zapier), and the more integrations you build the more customers your sales people are going to win. It is a 𝗽𝗿𝗼𝘃𝗲𝗻 𝗽𝗿𝗼𝗰𝗲𝘀𝘀 where more engineers == higher development velocity == more business, so you can hire with confidence.
+
+Now let's make a different example: your product relies on sales and word of mouth, and you think you should now invest in SEO because it looks promising: decent volume and low-competition.
+
+This is not a bottleneck, this is a 𝗻𝗲𝘄 𝗼𝗽𝗽𝗼𝗿𝘁𝘂𝗻𝗶𝘁𝘆 that may or may not play out the way you think. My preferred way of chasing it would probably be:
+
+↳ 1) Learn the basic skills yourself (your existing team).
+↳ 2) Prototype the work and get some initial results.
+↳ 3) Get to the point where the 𝗼𝗽𝗽𝗼𝗿𝘁𝘂𝗻𝗶𝘁𝘆 𝘁𝘂𝗿𝗻𝘀 𝗶𝗻𝘁𝗼 𝗮 𝗯𝗼𝘁𝘁𝗹𝗲𝗻𝗲𝗰𝗸 — that is, you validate the value that would be brought by a specialist.
+↳ 4) Hire a specialist to do 10x better work.
+
+You may also work with an agency / consultants in the initial stages to bring in expertise while keeping risk low.
+
+Overall your final decision of hiring somebody should be a 𝗱𝗼𝘂𝗯𝗹𝗲 𝗻𝗼-𝗯𝗿𝗮𝗶𝗻𝗲𝗿:
+
+↳ 💼 𝗣𝗼𝘀𝗶𝘁𝗶𝗼𝗻 — no-brainer to hire for that position.
+↳ 🙋‍♂️ 𝗖𝗮𝗻𝗱𝗶𝗱𝗮𝘁𝗲 — no-brainer to hire that candidate for that position.",26.0,2.0,1,,,Teacher,Engineering/Technical,Personal Experience,Statement → Commentary,Text-only,When is it time to hire more people? What are the signs? 🔍,"When is it time to hire more people? What are the signs? 🔍
+
+This question has always been tricky — and today more than ever, because founders always f",,,,dataset_alexis_dataset,,,,
+"Is TDD having a quiet renaissance?!
+
+Out of the people I know that make the most use of AI in coding, there is a surprisingly high share that writes (or makes AI write) tests first. So not exactly how people have done TDD in the past, but we can say it’s TDD for 2025.
+
+If you ask me, TDD has always been an obviously good workflow, but often hard to put into practice because of *cognitive load*. In fact, people 1) hate to write tests, and 2) hate to think too much beforehand. So, for many devs and teams that already have their own share of troubles, that’s too much to ask for.
+
+AI is changing all of this, by attacking from both angles:
+
+↳ 1) AI is very good at writing tests, removing the *boilerplating* from humans.
+
+↳ 2) AI disproportionately rewards those who think more beforehand. Teams that are getting the best results are those that create good specs and plans and let AI implement them.
+
+At this point, TDD becomes trivial: if 1) you need to write good specs anyway and 2) testing becomes (almost) free, you might just as well have AI create a testing plan first.
+
+So, add that to the AGI conversation. If AI finally convinces us to write tests, it might really be smarter than us.",24.0,13.0,3,,,Teacher,AI/ML,Insight/Observation,Contrast Format,Text-only,Is TDD having a quiet renaissance?!,"Is TDD having a quiet renaissance?!
+
+Out of the people I know that make the most use of AI in coding, there is a surprisingly high share that writes (",,,,dataset_alexis_dataset,,,,

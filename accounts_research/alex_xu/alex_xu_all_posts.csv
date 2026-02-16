@@ -1,0 +1,1069 @@
+full_text,likes,comments,shares,total_engagement,outlier_score,hook_type,topic,angle,structure,visual_format,first_line,hook_150,hook,url,date,_source,rank,followers,author_avg,source
+"MCP vs API: what’s the difference?
+
+APIs have been the backbone of software-to-software communication for decades. Now, a new player — the Model Context Protocol (MCP) — is emerging as an AI-native protocol designed for agents, IDEs, and LLMs.
+
+API (Application Programming Interface):
+
+- Purpose: Enables software-to-software communication.
+- Discovery: Requires documentation.
+- Standardization: Varies — REST, GraphQL, gRPC, etc.
+
+MCP (Model Context Protocol):
+
+- Purpose: Enables AI-native communication between clients (agents, IDEs, LLMs) and servers.
+- Discovery: Self-describing (no external docs needed).
+- Standardization: One uniform protocol for resources, tools, and prompts.
+
+Over to you: Do you think MCP will complement APIs or eventually replace them in AI-driven systems?
+
+--
+We just launched the all-in-one tech interview prep platform, covering coding, system design, OOD, and machine learning.
+
+Launch sale: 50% off. Check it out: https://lnkd.in/euwKh6u8
+
+#systemdesign #coding #interviewtips 
+.",7416.0,138.0,943,8497.0,4.5,Fortune Teller,AI/ML/Coding Tools,Industry Observation,List Post,Text-only,MCP vs API: what’s the difference?,"MCP vs API: what’s the difference?
+
+APIs have been the backbone of software-to-software communication for decades. Now, a new player — the Model Conte","MCP vs API: what’s the difference?
+
+APIs have been the backbone of software-to-software communication for decades. Now, a new player — the Model Conte",https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7378454841234341889-N4mV?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFsi1KEB0NjkEVQ4jL0A7FVh21zBRaPUg9s,2025-09-29T15:45:19.212Z,central_outliers_db,1,0,1648.6,alexis_engineering_tech
+"10 Key Data Structures We Use Every Day 
+.
+.
+- list: keep your Twitter feeds 
+- stack: support undo/redo of the word editor 
+- queue: keep printer jobs, or send user actions in-game 
+- hash table: cashing systems 
+- Array: math operations 
+- heap: task scheduling 
+- tree: keep the HTML document, or for AI decision 
+- suffix tree: for searching string in a document 
+- graph: for tracking friendship, or path finding 
+- r-tree: for finding the nearest neighbor 
+- vertex buffer: for sending data to GPU for rendering 
+
+Over to you: Which additional data structures have we overlooked?
+
+--
+We just launched the all-in-one tech interview prep platform, covering coding, system design, OOD, and machine learning.
+
+Launch sale: 50% off. Check it out: https://lnkd.in/euwKh6u8
+
+#systemdesign #coding #interviewtips 
+.",5092.0,66.0,651,5809.0,3.09,Fortune Teller,Engineering Career,Industry Observation,List Post,Text-only,10 Key Data Structures We Use Every Day,"10 Key Data Structures We Use Every Day 
+.
+.
+- list: keep your Twitter feeds 
+- stack: support undo/redo of the word editor 
+- queue: keep printer job","10 Key Data Structures We Use Every Day 
+.
+.
+- list: keep your Twitter feeds 
+- stack: support undo/redo of the word editor 
+- queue: keep printer job",https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7388244954717777921-2EMY?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAABmkfQwBdcd2N4mdCYhNad7ezx_lBw3r6yI,2025-10-26T16:07:44.158Z,central_outliers_db,2,0,1648.6,alexis_engineering_tech
+"Docker vs Kubernetes
+
+Docker is a container platform that lets you package applications with their dependencies and run them on a single machine. Here’s how it works:
+
+1. Starts with the app code and dependencies written into a Dockerfile.
+2. The build image step creates a portable container image.
+3. A container runtime runs the image directly on the host machine.
+4. Networking connects containers and external services and produces the final running app.
+
+Kubernetes is a container orchestration platform that manages containerized applications across a cluster of machines for scalability and resilience. Here’s how it works:
+
+1. Starts with the app code and dependencies in a Dockerfile.
+2. The build image is passed to a container runtime supported by Kubernetes.
+3. A master node runs the API server, etcd (key-value store), controller manager, and scheduler to coordinate the cluster.
+4. Worker nodes run the actual containers inside the Pods, managed by Kubelet and kube-proxy for networking.
+5. Produces a running app that is distributed, scalable, and self-healing in nature.
+
+Over to you: Have you used Docker or Kubernetes in your projects?
+
+--
+We just launched the all-in-one tech interview prep platform, covering coding, system design, OOD, and machine learning.
+
+Launch sale: 50% off. Check it out: https://lnkd.in/euwKh6u8
+
+#systemdesign #coding #interviewtips 
+.",4799.0,87.0,602,5488.0,2.91,Magician,AI/ML/Coding Tools,Industry Observation,List Post,Text-only,Docker vs Kubernetes,"Docker vs Kubernetes
+
+Docker is a container platform that lets you package applications with their dependencies and run them on a single machine. Here","Docker vs Kubernetes
+
+Docker is a container platform that lets you package applications with their dependencies and run them on a single machine. Here",https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7383890669414825984-7e0o?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAEDHVaQB7hlMCdQ52qeZy8YZGE7bT29Ss8g,2025-10-14T15:45:21.643Z,central_outliers_db,3,0,1648.6,alexis_engineering_tech
+"Database Types You Should Know in 2025
+
+There’s no such thing as a one-size-fits-all database anymore. Modern applications rely on multiple database types, from real-time analytics to vector search for AI. Knowing which type to use can make or break your system’s performance.
+
+Relational: Traditional row-and-column databases, great for structured data and transactions.
+
+Columnar: Optimized for analytics, storing data by columns for fast aggregations.
+
+Key-Value: Stores data as simple key–value pairs, enabling fast lookups. 
+
+In-memory: Stores data in RAM for ultra-low latency lookups, ideal for caching or session management.
+
+Wide-Column: Handles massive amounts of semi-structured data across distributed nodes.
+
+Time-series: Specialized for metrics, logs, and sensor data with time as a primary dimension.
+
+Immutable Ledger: Ensures tamper-proof, cryptographically verifiable transaction logs.
+
+Graph: Models complex relationships, perfect for social networks and fraud detection
+
+Document: Flexible JSON-like storage, great for modern apps with evolving schemas.
+
+Geospatial: Manages location-aware data such as maps, routes, and spatial queries.
+
+Text-search: Full-text indexing and search with ranking, filters, and analytics.
+
+Blob: Stores unstructured objects like images, videos, and files.
+
+Vector: Powers AI/ML apps by enabling similarity search across embeddings.
+
+Over to you: Which database type do you think will grow fastest in the next 5 years?
+
+--
+We just launched the all-in-one tech interview prep platform, covering coding, system design, OOD, and machine learning.
+
+Launch sale: 50% off. Check it out: https://lnkd.in/euwKh6u8
+
+#systemdesign #coding #interviewtips 
+.",4725.0,95.0,563,5383.0,2.87,Teacher,AI/ML/Coding Tools,Framework/How-To,List Post,Text-only,Database Types You Should Know in 2025,"Database Types You Should Know in 2025
+
+There’s no such thing as a one-size-fits-all database anymore. Modern applications rely on multiple database t","Database Types You Should Know in 2025
+
+There’s no such thing as a one-size-fits-all database anymore. Modern applications rely on multiple database t",https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7403837042260185090-3zKy?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFFHfikBhIO9fYltl6JsMMGlm8UMt2G85sM,2025-12-08T16:45:07.515Z,idea_legos_alexis,41,0,1648.6,
+"Evolution of HTTP
+
+The Hypertext Transfer Protocol (HTTP) has evolved over the years to meet the needs of modern applications, from simple text delivery to high-performance, real-time experiences.
+
+Here is how HTTP has progressed:
+- HTTP/0.9: Built to fetch simple HTML documents with a single GET request.
+- HTTP/1.0: Added headers and status codes to support richer interactions, but every request still required a new connection.
+- HTTP/1.1: Introduced persistent connections and more methods, making the web faster and more efficient for everyday browsing.
+- HTTP/2: Solved performance bottlenecks with multiplexing, enabling multiple requests to share one connection.
+- HTTP/3 (QUIC): Shifted to UDP with QUIC to reduce latency and improve reliability, especially for mobile and real-time apps.
+
+Over to you: Are you already taking advantage of HTTP/3 in your projects?
+
+--
+We just launched the all-in-one tech interview prep platform, covering coding, system design, OOD, and machine learning.
+
+Launch sale: 50% off. Check it out: https://lnkd.in/euwKh6u8
+
+#systemdesign #coding #interviewtips 
+.",4526.0,70.0,470,5066.0,2.75,Fortune Teller,Software Engineering,Industry Observation,List Post,Text-only,Evolution of HTTP,"Evolution of HTTP
+
+The Hypertext Transfer Protocol (HTTP) has evolved over the years to meet the needs of modern applications, from simple text delive","Evolution of HTTP
+
+The Hypertext Transfer Protocol (HTTP) has evolved over the years to meet the needs of modern applications, from simple text delive",https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7406737345879760896-p4a5?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAEFs0N4BjmHKIMYKDQqtQLKHHg9KmFzH-ig,2025-12-16T16:49:53.783Z,idea_legos_alexis,43,0,1648.6,
+"Top 5 Software Architectural Patterns
+
+In software development, architecture plays a crucial role in shaping the structure and behavior of software systems. It provides a blueprint for system design, detailing how components interact with each other to deliver specific functionality. They also offer solutions to common problems, saving time and effort and leading to more robust and maintainable systems.
+
+However, with the vast array of architectural styles and patterns available, it can take time to discern which approach best suits a particular project or system. Aims to shed light on these concepts, helping you make informed decisions in your architectural endeavors.
+
+To help you navigate the vast landscape of architectural styles and patterns, there is a cheat sheet that encapsulates all. This cheat sheet is a handy reference guide that you can use to quickly recall the main characteristics of each architectural style and pattern.
+
+--
+We just launched the all-in-one tech interview prep platform, covering coding, system design, OOD, and machine learning.
+
+Launch sale: 50% off. Check it out: https://lnkd.in/euwKh6u8
+
+#systemdesign #coding #interviewtips 
+.",4385.0,50.0,548,4983.0,2.66,Fortune Teller,Engineering Leadership,Industry Observation,List Post,Text-only,Top 5 Software Architectural Patterns,"Top 5 Software Architectural Patterns
+
+In software development, architecture plays a crucial role in shaping the structure and behavior of software sy","Top 5 Software Architectural Patterns
+
+In software development, architecture plays a crucial role in shaping the structure and behavior of software sy",https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7382078665636978688-mGuX?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAEDHVaQB7hlMCdQ52qeZy8YZGE7bT29Ss8g,2025-10-09T15:45:06.277Z,idea_legos_alexis,47,0,1648.6,
+"Cloudflare is much more than just a CDN and DDoS protection service.
+
+Let’s do a quick comparison of Cloudflare, AWS, and Azure.
+
+Cloudflare has rapidly expanded beyond its traditional CDN roots, launching a suite of modern developer-first services like Workers, R2, D1, and so on. These offerings position it as a serious edge-native alternative to other cloud providers.
+
+Here are the key cloud capabilities that Cloudflare supports:
+
+1 - Edge Compute and Serverless
+2 - Object and Blob Storage
+3 - Relational Databases
+4 - Containers
+5 - Sandboxes
+6 - Workflows
+7 - AI Agents SDK
+8 - Vector and AI search
+9 - Data Connectivity
+10 - AI Infrastructure
+11 - Content Delivery Network
+12 - DNS
+13 - Load Balancing
+
+Over to you: Have you used Cloudflare’s new offerings? What are your thoughts on them?
+
+--
+We just launched the all-in-one tech interview prep platform, covering coding, system design, OOD, and machine learning.
+
+Launch sale: 50% off. Check it out: https://lnkd.in/euwKh6u8
+
+#systemdesign #coding #interviewtips 
+.",4068.0,70.0,611,4749.0,2.47,Teacher,System Design,Framework/How-To,List Post,Text-only,Cloudflare is much more than just a CDN and DDoS protection service.,"Cloudflare is much more than just a CDN and DDoS protection service.
+
+Let’s do a quick comparison of Cloudflare, AWS, and Azure.
+
+Cloudflare has rapid","Cloudflare is much more than just a CDN and DDoS protection service.
+
+Let’s do a quick comparison of Cloudflare, AWS, and Azure.
+
+Cloudflare has rapid",https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7396951684805009411-p7a3?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADnKMZ4B-Oiq1O1Fnt-hGSFzUxSfAsmfsnI,2025-11-19T16:45:10.374Z,idea_legos_alexis,57,0,1648.6,
+Popular Backend Tech Stack.,4182.0,70.0,415,4667.0,2.54,Teacher,Tech Industry,Framework/How-To,Short Punch,Text-only,Popular Backend Tech Stack.,Popular Backend Tech Stack.,Popular Backend Tech Stack.,https://www.linkedin.com/posts/alexxubyte_popular-backend-tech-stack-activity-7397310303404711936-wdlA?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFExDSABRCfDps2vz8BwL3pcxWzy6fiDV8g,2025-11-20T16:30:11.711Z,idea_legos_alexis,52,0,1648.6,
+"HTTP vs. HTTPS
+
+When you open a website, the difference between HTTP and HTTPS decides whether your data travels safely or in plain sight. Here’s what actually happens under the hood:
+
+HTTP:
+- Sends data in plain text, anyone on the network can intercept it.
+- The client and server perform a simple TCP handshake: SYN, SYN-ACK, ACK
+- Fast but completely insecure. Passwords, tokens, and forms can all be read in transit.
+
+HTTPS (SSL/TLS):
+- Step 1: TCP Handshake: Standard connection setup.
+- Step 2: Certificate Check: Client says hello. Server responds with hello and its SSL/TLS certificate. That certificate contains the server's public key and is signed by a trusted Certificate Authority. 
+
+Your browser verifies this certificate is legitimate, not expired, and actually belongs to the domain you're trying to reach. This proves you're talking to the real server, not some attacker pretending to be it.
+
+- Step 3: Key Exchange: Here's where asymmetric encryption happens. The server has a public key and a private key. Client generates a session key, encrypts it with the server's public key, and sends it over. Only the server can decrypt this with its private key.
+
+Both sides now have the same session key that nobody else could have intercepted. This becomes the symmetric encryption key for the rest of the session.
+
+- Step 4: Data Transmission: Now every request and response gets encrypted with that session key using symmetric encryption.
+
+Over to you: What’s your go-to tool for debugging TLS issues, openssl, curl -v, or something else?
+
+--
+We just launched the all-in-one tech interview prep platform, covering coding, system design, OOD, and machine learning.
+
+Launch sale: 50% off. Check it out: https://lnkd.in/euwKh6u8
+
+#systemdesign #coding #interviewtips 
+.",3770.0,55.0,551,4376.0,2.29,Contrarian,AI/ML/Coding Tools,Against Common Wisdom,List Post,Text-only,HTTP vs. HTTPS,"HTTP vs. HTTPS
+
+When you open a website, the difference between HTTP and HTTPS decides whether your data travels safely or in plain sight. Here’s what","HTTP vs. HTTPS
+
+When you open a website, the difference between HTTP and HTTPS decides whether your data travels safely or in plain sight. Here’s what",https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7396594540402483200-EkhI?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADnKMZ4B-Oiq1O1Fnt-hGSFzUxSfAsmfsnI,2025-11-18T17:06:00.513Z,idea_legos_alexis,63,0,1648.6,
+"Apache Kafka vs. RabbitMQ
+
+Kafka and RabbitMQ both handle messages, but they solve fundamentally different problems. Understanding the difference matters when designing distributed systems.
+
+Kafka is a distributed log. Producers append messages to partitions. Those messages stick around based on retention policy, not because someone consumed them. Consumers pull messages at their own pace using offsets. You can rewind, replay, reprocess everything. It is designed for high throughput event streaming where multiple consumers need the same data independently.
+
+RabbitMQ is a message broker. Producers publish messages to exchanges. Those exchanges route to queues based on binding keys and patterns (direct, topic, fanout). Messages get pushed to consumers and then deleted once acknowledged. It is built for task distribution and traditional messaging workflows.
+
+The common mistake is using Kafka like a queue or RabbitMQ like an event log. They're different tools built for different use cases.
+
+Over to you:  If you had to explain when NOT to use Kafka, what would you say?
+
+--
+We just launched the all-in-one tech interview prep platform, covering coding, system design, OOD, and machine learning.
+
+Launch sale: 50% off. Check it out: https://lnkd.in/euwKh6u8
+
+#systemdesign #coding #interviewtips 
+.",3689.0,81.0,514,4284.0,2.24,Teacher,Productivity,Contrast/But,List Post,Text-only,Apache Kafka vs. RabbitMQ,"Apache Kafka vs. RabbitMQ
+
+Kafka and RabbitMQ both handle messages, but they solve fundamentally different problems. Understanding the difference matt","Apache Kafka vs. RabbitMQ
+
+Kafka and RabbitMQ both handle messages, but they solve fundamentally different problems. Understanding the difference matt",https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7404561853466750978-kgMk?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFFHfikBhIO9fYltl6JsMMGlm8UMt2G85sM,2025-12-10T16:45:15.973Z,idea_legos_alexis,67,0,1648.6,
+"24 Good Resources to Learn Software Architecture in 2025
+
+The resources can be divided into different types such as:
+
+1 - Software Design Books
+Some books that can help are DDIA, System Design Volume 1 & 2, Clean Architecture, Domain-Driven Design, and Software Architecture: the Hard Parts
+
+2 - Tech Blogs and Newsletters
+Read technical blogs by companies like Netflix, Uber, Meta, and Airbnb. Also, the ByteByteGo newsletter provides insights into software design every week.
+
+3 - YouTube Channels and Architectural Resources
+YouTube channels like MIT Distributed Systems, Goto Conferences, and ByteByteGo can help with software architecture and system design. Azure Architecture Center and AWS Architecture Blog are other important resources.
+
+4 - WhitePapers
+For deeper insights, read whitepapers like Facebook Memcache Scaling, Cassandra, Amazon DynamoDB, Kafka, and Google File System.
+
+5 - Software Career Books
+A Software Architect also needs to develop holistic skills. Books about software career aspects such as Pragmatic Programmer, The Software Architect Elevator, The Software Engineer's Guidebook, and Philosophy of Software Design can help.
+
+Over to you: Which other resources will you add to the list?
+
+--
+We just launched the all-in-one tech interview prep platform, covering coding, system design, OOD, and machine learning.
+
+Launch sale: 50% off. Check it out: https://lnkd.in/euwKh6u8
+
+#systemdesign #coding #interviewtips 
+.",3753.0,67.0,398,4218.0,2.28,Teacher,AI/ML/Coding Tools,Framework/How-To,List Post,Text-only,24 Good Resources to Learn Software Architecture in 2025,"24 Good Resources to Learn Software Architecture in 2025
+
+The resources can be divided into different types such as:
+
+1 - Software Design Books
+Some b","24 Good Resources to Learn Software Architecture in 2025
+
+The resources can be divided into different types such as:
+
+1 - Software Design Books
+Some b",https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7382450109889851392-NDQM?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAEDHVaQB7hlMCdQ52qeZy8YZGE7bT29Ss8g,2025-10-10T16:21:05.488Z,idea_legos_alexis,65,0,1648.6,
+"12 Architectural Concepts Developers Should Know
+
+1 - Load Balancing: Distributed incoming traffic across multiple servers to ensure no single node is overwhelmed.
+2 - Caching: Stores frequently accessed data in memory to reduce latency.
+3 - Content Delivery Network (CDN): Stores static assets across geographically distributed edge servers so users download content from the nearest location.
+4 - Message Queue: Decouples components by letting producers enqueue messages that consumers process asynchronously.
+5 - Publish-Subscribe: Enables multiple consumers to receive messages from a topic.
+6 - API Gateway: Acts as a single entry point for client requests, handling routing, authentication, rate limiting, and protocol translation.
+7 - Circuit Breaker: Monitors downstream service calls and stops attempts when failures exceed a threshold.
+8 - Service Discovery: Automatically tracks available service instances so components can locate and communicate with each other dynamically.
+9 - Sharding: Splits large datasets across multiple nodes based on a specific shard key.
+10 - Rate Limiting: Controls the number of requests a client can make in a given time window to protect services from overload.
+11 - Consistent Hashing: Distributes data across nodes in a way that minimizes reorganization when nodes join or leave.
+12 - Auto Scaling: Automatically adds or removes compute resources based on defined metrics.
+
+Over to you: Which architectural concept will you add to the list?
+
+--
+Subscribe to our weekly newsletter to get a Free System Design PDF (158 pages): https://lnkd.in/g9wAgcke
+
+#systemdesign #coding #interviewtips 
+.",3365.0,52.0,602,4019.0,2.04,Magician,Productivity,Contrast/But,List Post,Text-only,12 Architectural Concepts Developers Should Know,"12 Architectural Concepts Developers Should Know
+
+1 - Load Balancing: Distributed incoming traffic across multiple servers to ensure no single node is","12 Architectural Concepts Developers Should Know
+
+1 - Load Balancing: Distributed incoming traffic across multiple servers to ensure no single node is",https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7415080280257953792-04wT?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAEDCCCcBm142lrLnzXR5EA6jeVT4I0tEesA,2026-01-08T17:21:44.343Z,idea_legos_alexis,77,0,1648.6,
+"How to Design Good APIs
+
+A well-designed API feels invisible, it just works. Behind that simplicity lies a set of consistent design principles that make APIs predictable, secure, and scalable.
+
+Here's what separates good APIs from terrible ones:
+
+- Idempotency: GET, HEAD, PUT, and DELETE should be idempotent. Send the same request twice, get the same result. No unintended side effects. POST and PATCH are not idempotent. Each call creates a new resource or modifies the state differently.
+
+Use idempotency keys stored in Redis or your database. Client sends the same key with retries, server recognizes it and returns the original response instead of processing again.
+
+- Versioning
+
+- Noun-based resource names: Resources should be nouns, not verbs. “/api/products”, not “/api/getProducts”.
+
+- Security: Secure every endpoint with proper authentication. Bearer tokens (like JWTs) include a header, payload, and signature to validate requests. Always use HTTPS and verify tokens on every call.
+
+- Pagination: When returning large datasets, use pagination parameters like “?limit=10&offset=20” to keep responses efficient and consistent.
+
+Over to you: What’s the most common API design mistake you’ve seen, and how would you fix it?
+
+--
+We just launched the all-in-one tech interview prep platform, covering coding, system design, OOD, and machine learning.
+
+Launch sale: 50% off. Check it out: https://lnkd.in/euwKh6u8
+
+#systemdesign #coding #interviewtips 
+.",3227.0,75.0,542,3844.0,1.96,Teacher,System Design,Personal Experience,List Post,Text-only,How to Design Good APIs,"How to Design Good APIs
+
+A well-designed API feels invisible, it just works. Behind that simplicity lies a set of consistent design principles that ma","How to Design Good APIs
+
+A well-designed API feels invisible, it just works. Behind that simplicity lies a set of consistent design principles that ma",https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7393690294581350400-RRK9?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADnKMZ4B-Oiq1O1Fnt-hGSFzUxSfAsmfsnI,2025-11-10T16:45:34.351Z,idea_legos_alexis,87,0,1648.6,
+"How to learn payment systems? 
+.
+.
+
+--
+We just launched the all-in-one tech interview prep platform, covering coding, system design, OOD, and machine learning.
+
+Launch sale: 50% off. Check it out: https://lnkd.in/euwKh6u8
+
+#systemdesign #coding #interviewtips 
+.",3316.0,32.0,234,3582.0,2.01,Teacher,Engineering Career,Framework/How-To,List Post,Text-only,How to learn payment systems?,"How to learn payment systems? 
+.
+.
+
+--
+We just launched the all-in-one tech interview prep platform, covering coding, system design, OOD, and machine ","How to learn payment systems? 
+.
+.
+
+--
+We just launched the all-in-one tech interview prep platform, covering coding, system design, OOD, and machine ",https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7387520146308825088-yMSh?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAABmkfQwBdcd2N4mdCYhNad7ezx_lBw3r6yI,2025-10-24T16:07:36.367Z,idea_legos_alexis,79,0,1648.6,
+"Explaining 9 types of API testing. 
+ 
+🔹 Smoke Testing 
+This is done after API development is complete. Simply validate if the APIs are working and nothing breaks. 
+ 
+🔹 Functional Testing 
+This creates a test plan based on the functional requirements and compares the results with the expected results. 
+ 
+🔹 Integration Testing 
+This test combines several API calls to perform end-to-end tests. The intra-service communications and data transmissions are tested. 
+ 
+🔹 Regression Testing 
+This test ensures that bug fixes or new features shouldn’t break the existing behaviors of APIs. 
+ 
+🔹 Load Testing 
+This tests applications’ performance by simulating different loads. Then we can calculate the capacity of the application. 
+ 
+🔹 Stress Testing 
+We deliberately create high loads to the APIs and test if the APIs are able to function normally. 
+ 
+🔹 Security Testing 
+This tests the APIs against all possible external threats. 
+ 
+🔹 UI Testing 
+This tests the UI interactions with the APIs to make sure the data can be displayed properly. 
+ 
+🔹 Fuzz Testing 
+This injects invalid or unexpected input data into the API and tries to crash the API. In this way, it identifies the API vulnerabilities. 
+
+--
+We just launched Become an AI Engineer | Learn by Doing: Cohort 2. If you missed Cohort 1, now’s your chance to join us for Cohort 2.
+
+Check it out here: https://bit.ly/3LdaWuw
+
+#AI #AIEngineer #MachineLearning 
+.",2634.0,46.0,448,3128.0,1.6,Experimenter,AI/ML/Coding Tools,Personal Experience,List Post,Text-only,Explaining 9 types of API testing.,"Explaining 9 types of API testing. 
+ 
+🔹 Smoke Testing 
+This is done after API development is complete. Simply validate if the APIs are working and not","Explaining 9 types of API testing. 
+ 
+🔹 Smoke Testing 
+This is done after API development is complete. Simply validate if the APIs are working and not",https://www.linkedin.com/posts/alexxubyte_ai-aiengineer-machinelearning-activity-7390413667957309440-y6TW?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADwrDL4BPgsl7e_bv0m37s91EFOD8vdaNQQ,2025-11-01T15:45:25.687Z,idea_legos_alexis,114,0,1648.6,
+"How to Learn AWS?
+
+AWS is one of the most popular cloud platforms. When AWS goes down, a large part of the Internet goes down.
+ 
+Here’s a learning map that can help you master AWS:
+
+1 - AWS Fundamentals
+This includes topics like “What is AWS?”, Global Infrastructure, AWS Billing, Management, and IAM basics.
+2 - Core Compute, Storage & Networking
+This includes compute services like EC2, Lambda, ECS, EKS, Storage Services (such as S3, EBS, EFS, Glacier), and Networking Services (such as VPC, ELB, Route 53).
+3 - Databases and Data Services
+This includes topics like Relational Databases (RDS MySQL and PostgreSQL), NoSQL, and In-Memory Databases like ElastiCache (Redis and Memcached).
+4 - Security, Identity & Compliance
+Consists of topics like IAM Deep Dive, Encryption (KMS, S3 SSE), Security Tools, VPC Security Groups, and Compliance-related tools for HIPAA, SOC, and GDPR.
+5 - DevOps, Monitoring & Automation
+This includes topics like DevOps Tools (CodeCommit, CodeBuild, CodePipeline), Infrastructure as Code, CI/CD Pipelines, Monitoring Tools (CloudWatch, CloudTrail), and Cost Management and Billing Dashboard
+6 - Learning Paths and Certifications
+Consists of topics like AWS Learning Resources, such as Skill Builder and documentation, and certification paths such as Cloud Practitioner, Solutions Architect Associate, Developer Associate, SysOps, and DevOps Engineer.
+
+Over to you: What else will you add to the list for learning AWS?
+
+--
+We just launched the all-in-one tech interview prep platform, covering coding, system design, OOD, and machine learning.
+
+Launch sale: 50% off. Check it out: https://lnkd.in/euwKh6u8
+
+#systemdesign #coding #interviewtips 
+.",2655.0,49.0,409,3113.0,1.61,Teacher,Engineering Leadership,Framework/How-To,List Post,Text-only,How to Learn AWS?,"How to Learn AWS?
+
+AWS is one of the most popular cloud platforms. When AWS goes down, a large part of the Internet goes down.
+ 
+Here’s a learning map","How to Learn AWS?
+
+AWS is one of the most popular cloud platforms. When AWS goes down, a large part of the Internet goes down.
+ 
+Here’s a learning map",https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7394052627371601921-BwKb?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADnKMZ4B-Oiq1O1Fnt-hGSFzUxSfAsmfsnI,2025-11-11T16:45:21.220Z,idea_legos_alexis,113,0,1648.6,
+"The AI Agent Tech Stack
+
+1. Foundation Models: Large-scale pre-trained language models that serve as the “brains” of AI agents, enabling capabilities like reasoning, text generation, coding, and question answering.
+2. Data Storage: This layer handles vector databases and memory storage systems used by AI agents to store and retrieve context, embeddings, or documents.
+3. Agent Development Frameworks: These frameworks help developers build, orchestrate, and manage multi-step AI agents and their workflows.
+4. Observability: This category enables monitoring, debugging, and logging of AI agent behavior and performance in real-time.
+5. Tool Execution: These platforms allow AI agents to interface with real-world tools (for example, APIs, browsers, external systems) to complete complex tasks.
+6. Memory Management: These systems manage long-term and short-term memory for agents, helping them retain useful context and learn from past interactions.
+
+Over to you: What else will you add to the list?
+
+--
+We just launched the all-in-one tech interview prep platform, covering coding, system design, OOD, and machine learning.
+
+Launch sale: 50% off. Check it out: https://lnkd.in/euwKh6u8
+
+#systemdesign #coding #interviewtips 
+.",2585.0,56.0,382,3023.0,1.57,Fortune Teller,AI/ML/Coding Tools,Personal Experience,List Post,Text-only,The AI Agent Tech Stack,"The AI Agent Tech Stack
+
+1. Foundation Models: Large-scale pre-trained language models that serve as the “brains” of AI agents, enabling capabilities ","The AI Agent Tech Stack
+
+1. Foundation Models: Large-scale pre-trained language models that serve as the “brains” of AI agents, enabling capabilities ",https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7394777386057224193-ItNQ?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADnKMZ4B-Oiq1O1Fnt-hGSFzUxSfAsmfsnI,2025-11-13T16:45:17.156Z,idea_legos_alexis,115,0,1648.6,
+"Big Data Pipeline Cheatsheet for AWS, Azure, and Google Cloud
+
+Each platform offers a comprehensive suite of services that cover the entire lifecycle:
+
+1 - Ingestion: Collecting data from various sources
+2 - Data Lake: Storing raw data
+3 - Computation: Processing and analyzing data
+4 - Data Warehouse: Storing structured data
+5 - Presentation: Visualizing and reporting insights
+
+AWS uses services like Kinesis for data streaming, S3 for storage, EMR for processing, RedShift for warehousing, and QuickSight for visualization.
+
+Azure’s pipeline includes Event Hubs for ingestion, Data Lake Store for storage, Databricks for processing, Cosmos DB for warehousing, and Power BI for presentation.
+
+GCP offers PubSub for data streaming, Cloud Storage for data lakes, DataProc and DataFlow for processing, BigQuery for warehousing, and Data Studio for visualization.
+
+Over to you: What else would you add to the pipeline?
+
+--
+LAST DAY to enroll in Become an AI Engineer Learn by Doing, Cohort 2. If you missed Cohort 1, now is your chance to join us in Cohort 2.
+
+Check it out here: https://bit.ly/3LdaWuw
+
+#AI #AIEngineer #MachineLearning 
+.",2537.0,40.0,378,2955.0,1.54,Teacher,Productivity,Framework/How-To,List Post,Text-only,"Big Data Pipeline Cheatsheet for AWS, Azure, and Google Cloud","Big Data Pipeline Cheatsheet for AWS, Azure, and Google Cloud
+
+Each platform offers a comprehensive suite of services that cover the entire lifecycle:","Big Data Pipeline Cheatsheet for AWS, Azure, and Google Cloud
+
+Each platform offers a comprehensive suite of services that cover the entire lifecycle:",https://www.linkedin.com/posts/alexxubyte_ai-aiengineer-machinelearning-activity-7392963886032777216-k9at?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADnKMZ4B-Oiq1O1Fnt-hGSFzUxSfAsmfsnI,2025-11-08T16:39:05.057Z,idea_legos_alexis,119,0,1648.6,
+"Things Every Developer Should Know: Concurrency is 𝐍𝐎𝐓 parallelism.
+.
+.
+In system design, it is important to understand the difference between concurrency and parallelism. 
+
+As Rob Pyke(one of the creators of GoLang) stated:“ Concurrency is about 𝐝𝐞𝐚𝐥𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 lots of things at once. Parallelism is about 𝐝𝐨𝐢𝐧𝐠 lots of things at once."" This distinction emphasizes that concurrency is more about the 𝐝𝐞𝐬𝐢𝐠𝐧 of a program, while parallelism is about the 𝐞𝐱𝐞𝐜𝐮𝐭𝐢𝐨𝐧. 
+
+Concurrency is about dealing with multiple things at once. It involves structuring a program to handle multiple tasks simultaneously, where the tasks can start, run, and complete in overlapping time periods, but not necessarily at the same instant. 
+
+Concurrency is about the composition of independently executing processes and describes a program's ability to manage multiple tasks by making progress on them without necessarily completing one before it starts another.
+
+Parallelism, on the other hand, refers to the simultaneous execution of multiple computations. It is the technique of running two or more tasks or computations at the same time, utilizing multiple processors or cores within a computer to perform several operations concurrently. Parallelism requires hardware with multiple processing units, and its primary goal is to increase the throughput and computational speed of a system.
+
+In practical terms, concurrency enables a program to remain responsive to input, perform background tasks, and handle multiple operations in a seemingly simultaneous manner, even on a single-core processor. It's particularly useful in I/O-bound and high-latency operations where programs need to wait for external events, such as file, network, or user interactions.
+
+Parallelism, with its ability to perform multiple operations at the same time, is crucial in CPU-bound tasks where computational speed and throughput are the bottlenecks. Applications that require heavy mathematical computations, data analysis, image processing, and real-time processing can significantly benefit from parallel execution.
+
+--
+We just launched the all-in-one tech interview prep platform, covering coding, system design, OOD, and machine learning.
+
+Launch sale: 50% off. Check it out: https://lnkd.in/euwKh6u8
+
+#systemdesign #coding #interviewtips 
+.",2578.0,64.0,299,2941.0,1.56,Teacher,System Design,Framework/How-To,List Post,Text-only,Things Every Developer Should Know: Concurrency is 𝐍𝐎𝐓 parallelism.,"Things Every Developer Should Know: Concurrency is 𝐍𝐎𝐓 parallelism.
+.
+.
+In system design, it is important to understand the difference between concurr","Things Every Developer Should Know: Concurrency is 𝐍𝐎𝐓 parallelism.
+.
+.
+In system design, it is important to understand the difference between concurr",https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7397664946857345024-UPNU?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFExDSABRCfDps2vz8BwL3pcxWzy6fiDV8g,2025-11-21T15:59:25.299Z,idea_legos_alexis,117,0,1648.6,
+"How to Debug a Slow API?
+
+Your API is slow. Users are complaining. And you have no idea where to start looking. Here is the systematic approach to track down what is killing your API.
+
+Start with the network: High latency? Throw a CDN in front of your static assets. Large payloads? Compress your responses. These are quick wins that don't require touching code.
+
+Check your backend code next: This is where most slowdowns hide. CPU-heavy operations should run in the background. Complicated business logic that needs simplification. Blocking synchronous calls that should be async. Profile it, find the hot paths, fix them.
+
+Check the database: Missing indexes are the classic culprit. Also watch for N+1 queries, where you are hammering the database hundreds of times when one batch query would do.
+
+Don't forget external APIs: That Stripe call, that Google Maps request, they are outside your control. Make parallel calls where you can. Set aggressive timeouts and retries so one slow third-party doesn't tank your whole response.
+
+Finally, check your infrastructure: Maxed-out servers need auto-scaling. Connection pool limits need tuning. Sometimes the problem isn't your code at all, it’s that you are trying to serve 10,000 requests with resources built for 100.
+
+The key is being methodical. Don't just throw solutions at the wall. Measure first, identify the actual bottleneck, then fix it.
+
+Over to you: What is the weirdest performance issue you have tracked down? 
+
+--
+We just launched the all-in-one tech interview prep platform, covering coding, system design, OOD, and machine learning.
+
+Launch sale: 50% off. Check it out: https://lnkd.in/euwKh6u8
+
+#systemdesign #coding #interviewtips 
+.",2335.0,43.0,355,2733.0,1.42,Teacher,AI/ML/Coding Tools,Personal Experience,List Post,Text-only,How to Debug a Slow API?,"How to Debug a Slow API?
+
+Your API is slow. Users are complaining. And you have no idea where to start looking. Here is the systematic approach to tra","How to Debug a Slow API?
+
+Your API is slow. Users are complaining. And you have no idea where to start looking. Here is the systematic approach to tra",https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7386429410461057026-GESe?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAABmkfQwBdcd2N4mdCYhNad7ezx_lBw3r6yI,2025-10-21T15:53:24.676Z,idea_legos_alexis,136,0,1648.6,
+"5 REST API Authentication Methods
+
+1. Basic Authentication: Clients include a Base64-encoded username and password in every request header, which is simple but insecure since credentials are transmitted in plaintext. Useful in quick prototypes or internal services over secure networks.
+2. Session Authentication: After login, the server creates a session record and issues a cookie. Subsequent requests send that cookie so the server can validate user state. Used in traditional web-apps.
+3. Token Authentication: Clients authenticate once to receive a signed token, then present the token on each request for stateless authentication. Used in single-page applications and modern APIs that require scalable, stateless authentication.
+4. OAuth-Based Authentication: Clients obtain an access token via an authorization grant from an OAuth provider, then use that token to call resource servers on the user’s behalf. Used in cases of third-party integrations or apps that need delegated access to user data.
+5. API Key Authentication: Clients present a predefined key (often in headers or query strings) with each request. The server verifies the key to authorize access. Used in service-to-service or machine-to-machine APIs where simple credential checks are sufficient.
+
+Over to you: Which other API Authentication method have you seen?
+
+--
+We just launched the all-in-one tech interview prep platform, covering coding, system design, OOD, and machine learning.
+
+Launch sale: 50% off. Check it out: https://lnkd.in/euwKh6u8
+
+#systemdesign #coding #interviewtips 
+.",2223.0,47.0,388,2658.0,1.35,Teacher,AI/ML/Coding Tools,Contrast/But,List Post,Text-only,5 REST API Authentication Methods,"5 REST API Authentication Methods
+
+1. Basic Authentication: Clients include a Base64-encoded username and password in every request header, which is s","5 REST API Authentication Methods
+
+1. Basic Authentication: Clients include a Base64-encoded username and password in every request header, which is s",https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7399488419904790528-VumA?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFExDSABRCfDps2vz8BwL3pcxWzy6fiDV8g,2025-11-26T16:45:15.152Z,idea_legos_alexis,151,0,1648.6,
+"How DNS Works
+
+You type a domain name and hit enter, but what actually happens before that webpage loads is more complex than most people realize. DNS is the phonebook of the internet, and every request you make triggers a chain of lookups across multiple servers. 
+
+Step 1: Someone types bytebytego. com into their browser and presses enter. 
+
+Step 2: Before doing anything, the browser looks for a cached IP address. Operating system cache gets checked too. 
+
+Step 3: Cache miss triggers a DNS query. The browser sends a query to the configured DNS resolver, usually provided by your ISP or a service like Google DNS or Cloudflare.
+
+Step 4: Resolver checks its own cache. 
+
+Step 5-6: If the resolver doesn't have the answer cached, it asks the root servers, “Where can I find .com?” For bytebytego. com, the root server responds with the address of the .com TLD name server. 
+
+Step 7-8: Resolver queries the .com TLD server. TLD server returns the authoritative server address. 
+
+Step 9-10: This server has the actual A/AAAA record mapping the domain to an IP address. The resolver finally gets the answer: 172. 67. 21. 11 for bytebytego. com.
+
+Step 11-12: The IP gets cached at the resolver level for future lookups, and returned to the browser.
+
+Step 13-14: The browser stores this for its own future use, and uses the IP to make the actual HTTP request. 
+
+Step 15: The web server returns the requested content.
+
+All this happens in milliseconds, before your first page even starts loading.
+
+Over to you: Which DNS tools or commands do you rely on most, dig, nslookup, or something else?
+
+--
+We just launched the all-in-one tech interview prep platform, covering coding, system design, OOD, and machine learning.
+
+Launch sale: 50% off. Check it out: https://lnkd.in/euwKh6u8
+
+#systemdesign #coding #interviewtips 
+.",2172.0,46.0,325,2543.0,1.32,Contrarian,AI/ML/Coding Tools,Contrast/But,List Post,Text-only,How DNS Works,"How DNS Works
+
+You type a domain name and hit enter, but what actually happens before that webpage loads is more complex than most people realize. DNS","How DNS Works
+
+You type a domain name and hit enter, but what actually happens before that webpage loads is more complex than most people realize. DNS",https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7405288702643437568-qgYK?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAEFs0N4BjmHKIMYKDQqtQLKHHg9KmFzH-ig,2025-12-12T16:53:30.321Z,idea_legos_alexis,158,0,1648.6,
+"How LLMs See the World
+
+When you type ""Hello world"" into ChatGPT or Claude, the model isn't processing those letters and spaces like you're reading this post right now. It's converting everything into numbers through a process most people never think about.
+
+Preprocessing comes first. Text gets normalized. Unicode characters, spacing quirks, and special symbols, they all get cleaned up and standardized. ""Hello world"" becomes a consistent format that the model can actually work with.
+
+Then comes tokenization. This is where things get interesting. The model splits text into tokens, and there are different approaches.
+
+1 - Character-based tokenization breaks everything down to individual characters. ""Hello world"" becomes [""H"", ""e"", ""l"", ""l"", ""o"", "" "", ""w"", ""o"", ""r"", ""l"", ""d""]. Simple but inefficient.
+
+2 - Word-based splits on whole words. [""Hello"", ""world""]. Cleaner but struggles with rare words and creates massive vocabularies.
+
+3 - Subword-based is what modern LLMs actually use. GPT, Gemini, Claude, they all rely on this. ""Hello world"" becomes something like [""Hell"", ""o"", ""world""]. It balances efficiency with flexibility, handling rare words by breaking them into known subword pieces.
+
+The final step is Token IDs. Those subwords get mapped to numbers like [15496, 345, 995]. Each token ID corresponds to an embedding vector inside the model. That's what the neural network actually processes.
+
+Over to you: Why do some models handle code better than natural language? Is it the tokenizer?
+
+--
+We just launched the all-in-one tech interview prep platform, covering coding, system design, OOD, and machine learning.
+
+Launch sale: 50% off. Check it out: https://bit.ly/bbg-yt
+
+#systemdesign #coding #interviewtips 
+.",2197.0,47.0,295,2539.0,1.33,Contrarian,AI/ML/Coding Tools,Against Common Wisdom,List Post,Text-only,How LLMs See the World,"How LLMs See the World
+
+When you type ""Hello world"" into ChatGPT or Claude, the model isn't processing those letters and spaces like you're reading th","How LLMs See the World
+
+When you type ""Hello world"" into ChatGPT or Claude, the model isn't processing those letters and spaces like you're reading th",https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7387154108807557120-koZj?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAABmkfQwBdcd2N4mdCYhNad7ezx_lBw3r6yI,2025-10-23T15:53:06.226Z,idea_legos_alexis,155,0,1648.6,
+"Top Developer Tools You Can Use in 2026
+
+1 - Code Editors & IDEs: These tools help developers write, edit, and debug code with greater efficiency. Examples are Visual Code, IntelliJ IDEA, PyCharm, Cursor, Eclipse, etc.
+2 - Version Control Systems: Track code changes over time and enable collaboration between team members. Examples are Git, GitHub, Gitlab, Bitbucket, AWS Code Commit, etc.
+3 - Testing Tools: Help ensure that code behaves as expected by identifying bugs before they reach production. Examples are JUnit, Selenium, Playwright, Cypress, etc.
+4 - CI/CD Tools: They help automate the process of building and deploying code to speed up delivery. Examples are Jenkins, GitHub Actions, Circle CI, Travis CI, and Code Pipeline.
+5 - Containerization and Orchestration: Helps package applications and their dependencies into containers to make sure they run across environments in a consistent manner. Examples are Docker, Kubernetes, Podman, Containerd, Rancher, etc.
+6 - Project Management Tools: Helps the development teams plan, organize, and track the development of tasks. Examples are JIRA, Asana, Trello, ClickUp, Notion, etc.
+7 - API Testing Tools: They help test and validate APIs to ensure stable communication between services and with external consumers. Examples are Postman, Swagger, Hopscotch, Insomnia, etc.
+8 - AI-Powered Developer Tools: They are mainly used to boost developer productivity with code suggestions, error detection, and automated code generation. Examples are ChatGPT, Claude Code, Cursor, Copilot, Qodo, etc.
+
+Over to you: Which other tools have you used?
+
+--
+Subscribe to our weekly newsletter to get a Free System Design PDF (158 pages): https://lnkd.in/g9wAgcke
+
+#systemdesign #coding #interviewtips 
+.",1978.0,42.0,261,2281.0,1.2,Teacher,Engineering Leadership,Framework/How-To,List Post,Text-only,Top Developer Tools You Can Use in 2026,"Top Developer Tools You Can Use in 2026
+
+1 - Code Editors & IDEs: These tools help developers write, edit, and debug code with greater efficiency. Exa","Top Developer Tools You Can Use in 2026
+
+1 - Code Editors & IDEs: These tools help developers write, edit, and debug code with greater efficiency. Exa",https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7414714231758962688-IMRX?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAEDCCCcBm142lrLnzXR5EA6jeVT4I0tEesA,2026-01-07T17:07:11.580Z,idea_legos_alexis,176,0,1648.6,
+"Top 5 common ways to improve API performance.
+
+Result Pagination: 
+This method is used to optimize large result sets by streaming them back to the client, enhancing service responsiveness and user experience.
+
+Asynchronous Logging: 
+This approach involves sending logs to a lock-free buffer and returning immediately, rather than dealing with the disk on every call. Logs are periodically flushed to the disk, significantly reducing I/O overhead.
+
+Data Caching: 
+Frequently accessed data can be stored in a cache to speed up retrieval. Clients check the cache before querying the database, with data storage solutions like Redis offering faster access due to in-memory storage.
+
+Payload Compression: 
+To reduce data transmission time, requests and responses can be compressed (e.g., using gzip), making the upload and download processes quicker.
+
+Connection Pooling: 
+This technique involves using a pool of open connections to manage database interaction, which reduces the overhead associated with opening and closing connections each time data needs to be loaded. The pool manages the lifecycle of connections for efficient resource use.
+
+Over to you: What other ways do you use to improve API performance?
+
+--
+We just launched Become an AI Engineer | Learn by Doing: Cohort 2. If you missed Cohort 1, now’s your chance to join us for Cohort 2.
+
+Check it out here: https://bit.ly/3LfXki3
+
+#AI #AIEngineer #MachineLearning 
+.",1924.0,46.0,286,2256.0,1.17,Teacher,System Design,Personal Experience,List Post,Text-only,Top 5 common ways to improve API performance.,"Top 5 common ways to improve API performance.
+
+Result Pagination: 
+This method is used to optimize large result sets by streaming them back to the cli","Top 5 common ways to improve API performance.
+
+Result Pagination: 
+This method is used to optimize large result sets by streaming them back to the cli",https://www.linkedin.com/posts/alexxubyte_ai-aiengineer-machinelearning-activity-7390794373992509440-Czkq?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADwrDL4BPgsl7e_bv0m37s91EFOD8vdaNQQ,2025-11-02T16:58:13.079Z,idea_legos_alexis,182,0,1648.6,
+"Best Resources to Learn AI in 2026
+
+The AI resources can be divided into different types such as:
+
+1 - Foundational and Modern AI Books
+Books like AI Engineering, Machine Learning System Design Interview, Generative AI System Design Interview, and Designing Machine Learning Systems cover both principles and practical system patterns.
+
+2 - Research and Engineering Blogs
+Follow OpenAI Research, Anthropic Engineering, DeepMind Blog, and AI2 to stay current with new architectures and applied research.
+
+3 - Courses and YouTube Channels
+Courses like Stanford CS229 and CS230 build solid ML foundations. YouTube channels such as Two Minute Papers and ByteByteAI offer concise, visual learning on cutting-edge topics.
+
+4 - AI Newsletters
+Subscribe to The Batch (Deeplearning. ai), ByteByteGo, Rundown AI, and Ahead of AI to learn about major AI updates, model releases, and research highlights.
+
+5 - Influential Research Papers
+Key papers include Attention Is All You Need, Scaling Laws for Neural Language Models, InstructGPT, BERT, and DDPM. Each represents a major shift in how modern AI systems are built and trained.
+
+Over to you: Which other AI resources will you add to the list?
+
+--
+Last Call: Enrollment for the AI Engineering Cohort Ends this Week
+
+Check it out here: https://bytebyteai.com
+
+#AI #AIEngineer #MachineLearning 
+.",1972.0,33.0,239,2244.0,1.2,Fortune Teller,Engineering Career,Personal Experience,List Post,Text-only,Best Resources to Learn AI in 2026,"Best Resources to Learn AI in 2026
+
+The AI resources can be divided into different types such as:
+
+1 - Foundational and Modern AI Books
+Books like AI ","Best Resources to Learn AI in 2026
+
+The AI resources can be divided into different types such as:
+
+1 - Foundational and Modern AI Books
+Books like AI ",https://www.linkedin.com/posts/alexxubyte_ai-aiengineer-machinelearning-activity-7417249628577923072-klm5?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADAEIjUB6-0Ki4Mn4tqi3dc1q7EgfDhzXsM,2026-01-14T17:01:57.287Z,idea_legos_alexis,177,0,1648.6,
+"Latency vs. Throughput
+
+Ever wondered why your app feels slow even when the bandwidth looks fine? Latency and throughput explain two very different stories of performance.
+
+Latency measures the delay per packet. It is what users feel when they click a button. It’s responsiveness. It is the time for one request to travel from the server to the end device. This includes server processing time, queuing delays, propagation through the network, transmission delays, and the last-mile connection to the user's device. 
+
+Throughput measures volume per second. It is how much data successfully gets delivered in a given timeframe. Not how fast each packet moves, but how many packets flow through the pipe. Throughput is capacity. High throughput means the system handles the load without choking.
+
+Over to you: How do you measure these metrics in a way that actually predicts when things will break?
+
+--
+We just launched the all-in-one tech interview prep platform, covering coding, system design, OOD, and machine learning.
+
+Launch sale: 50% off. Check it out: https://lnkd.in/euwKh6u8
+
+#systemdesign #coding #interviewtips 
+.",2023.0,34.0,186,2243.0,1.23,Teacher,AI/ML/Coding Tools,Framework/How-To,List Post,Text-only,Latency vs. Throughput,"Latency vs. Throughput
+
+Ever wondered why your app feels slow even when the bandwidth looks fine? Latency and throughput explain two very different st","Latency vs. Throughput
+
+Ever wondered why your app feels slow even when the bandwidth looks fine? Latency and throughput explain two very different st",https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7386061220291854336-k28G?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAABmkfQwBdcd2N4mdCYhNad7ezx_lBw3r6yI,2025-10-20T15:30:21.299Z,idea_legos_alexis,171,0,1648.6,
+"Visualizing a SQL query
+
+SQL statements are executed by the database system in several steps, including:
+- Parsing the SQL statement and checking its validity
+- Transforming the SQL into an internal representation, such as relational algebra
+- Optimizing the internal representation and creating an execution plan that utilizes index information
+- Executing the plan and returning the results
+
+--
+We just launched the all-in-one tech interview prep platform, covering coding, system design, OOD, and machine learning.
+
+Launch sale: 50% off. Check it out: https://lnkd.in/euwKh6u8
+
+#systemdesign #coding #interviewtips 
+.",1921.0,33.0,229,2183.0,1.17,Fortune Teller,Engineering Career,Industry Observation,List Post,Text-only,Visualizing a SQL query,"Visualizing a SQL query
+
+SQL statements are executed by the database system in several steps, including:
+- Parsing the SQL statement and checking its ","Visualizing a SQL query
+
+SQL statements are executed by the database system in several steps, including:
+- Parsing the SQL statement and checking its ",https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7377739625383116800-F5u-?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFsi1KEB0NjkEVQ4jL0A7FVh21zBRaPUg9s,2025-09-27T16:23:18.465Z,idea_legos_alexis,183,0,1648.6,
+"API Vs SDK! 
+ 
+API (Application Programming Interface) and SDK (Software Development Kit) are essential tools in the software development world, but they serve distinct purposes: 
+ 
+API: 
+An API is a set of rules and protocols that allows different software applications and services to communicate with each other. 
+ 
+1. It defines how software components should interact. 
+2. Facilitates data exchange and functionality access between software components. 
+3. Typically consists of endpoints, requests, and responses. 
+ 
+SDK: 
+An SDK is a comprehensive package of tools, libraries, sample code, and documentation that assists developers in building applications for a particular platform, framework, or hardware. 
+ 
+1. Offers higher-level abstractions, simplifying development for a specific platform. 
+2. Tailored to specific platforms or frameworks, ensuring compatibility and optimal performance on that platform. 
+3. Offer access to advanced features and capabilities specific to the platform, which might be otherwise challenging to implement from scratch. 
+ 
+The choice between APIs and SDKs depends on the development goals and requirements of the project. 
+ 
+Over to you: 
+Which do you find yourself gravitating towards – APIs or SDKs – Every implementation has a unique story to tell. What's yours? 
+
+--
+We just launched the all-in-one tech interview prep platform, covering coding, system design, OOD, and machine learning.
+
+Launch sale: 50% off. Check it out: https://lnkd.in/euwKh6u8
+
+#systemdesign #coding #interviewtips 
+.",1805.0,50.0,284,2139.0,1.09,Teacher,System Design,Contrast/But,List Post,Text-only,API Vs SDK!,"API Vs SDK! 
+ 
+API (Application Programming Interface) and SDK (Software Development Kit) are essential tools in the software development world, but t","API Vs SDK! 
+ 
+API (Application Programming Interface) and SDK (Software Development Kit) are essential tools in the software development world, but t",https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7380635560916254720-jQCS?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFsi1KEB0NjkEVQ4jL0A7FVh21zBRaPUg9s,2025-10-05T16:10:43.300Z,idea_legos_alexis,201,0,1648.6,
+"Top 4 Forms of Authentication Mechanisms 
+
+1. SSH Keys: 
+Cryptographic keys are used to access remote systems and servers securely 
+ 
+2. OAuth Tokens: 
+Tokens that provide limited access to user data on third-party applications 
+ 
+3. SSL Certificates: 
+Digital certificates ensure secure and encrypted communication between servers and clients 
+ 
+4. Credentials: 
+User authentication information is used to verify and grant access to various systems and services 
+ 
+Over to you: How do you manage those security keys? Is it a good idea to put them in a GitHub repository? 
+
+--
+Subscribe to our weekly newsletter to get a Free System Design PDF (158 pages): https://lnkd.in/g9wAgcke
+
+#systemdesign #coding #interviewtips 
+.",1720.0,28.0,266,2014.0,1.04,Teacher,Communication,Framework/How-To,List Post,Text-only,Top 4 Forms of Authentication Mechanisms,"Top 4 Forms of Authentication Mechanisms 
+
+1. SSH Keys: 
+Cryptographic keys are used to access remote systems and servers securely 
+ 
+2. OAuth Tokens:","Top 4 Forms of Authentication Mechanisms 
+
+1. SSH Keys: 
+Cryptographic keys are used to access remote systems and servers securely 
+ 
+2. OAuth Tokens:",https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7415803959824535552--RiX?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADAEIjUB6-0Ki4Mn4tqi3dc1q7EgfDhzXsM,2026-01-10T17:17:22.997Z,idea_legos_alexis,209,0,1648.6,
+"Algorithms you should know before taking System Design Interviews
+
+What are some of the algorithms you should know before taking system design interviews?
+
+I put together a list and explained why they are important. Those algorithms are not only useful for interviews but good to understand for any software engineer. 
+
+One thing to keep in mind is that understanding “how those algorithms are used in real-world systems” is generally more important than the implementation details in a system design interview.
+
+What do the stars mean in the diagram?
+It’s very difficult to rank algorithms by importance objectively. I’m open to suggestions and making adjustments. 
+
+Five-star: Very important. Try to understand how it works and why.
+
+Three-star: Important to some extent. You may not need to know the implementation details.
+
+One-star: Advanced. Good to know for senior candidates.
+
+Over to you: did I miss anything important on the list? Which ones do you know and which you don’t?
+
+--
+We just launched the all-in-one tech interview prep platform, covering coding, system design, OOD, and machine learning.
+
+Launch sale: 50% off. Check it out: https://lnkd.in/euwKh6u8
+
+#systemdesign #coding #interviewtips 
+.",1813.0,21.0,143,1977.0,1.1,Teacher,Engineering Career,Framework/How-To,List Post,Text-only,Algorithms you should know before taking System Design Interviews,"Algorithms you should know before taking System Design Interviews
+
+What are some of the algorithms you should know before taking system design intervi","Algorithms you should know before taking System Design Interviews
+
+What are some of the algorithms you should know before taking system design intervi",https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7384986442906771458-annT?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAEDHVaQB7hlMCdQ52qeZy8YZGE7bT29Ss8g,2025-10-17T16:19:34.402Z,idea_legos_alexis,198,0,1648.6,
+"Top 20 System Design Concepts You Should Know
+
+1. Load Balancing: Distributes traffic across multiple servers for reliability and availability.
+2. Caching: Stores frequently accessed data in memory for faster access.
+3. Database Sharding: Splits databases to handle large-scale data growth.
+4. Replication: Copies data across replicas for availability and fault tolerance.
+5. CAP Theorem: Trade-off between consistency, availability, and partition tolerance.
+6. Consistent Hashing: Distributes load evenly in dynamic server environments.
+7. Message Queues: Decouples services using asynchronous event-driven architecture.
+8. Rate Limiting: Controls request frequency to prevent system overload.
+9. API Gateway: Centralized entry point for routing API requests.
+10. Microservices: Breaks systems into independent, loosely coupled services.
+11. Service Discovery: Locates services dynamically in distributed systems.
+12. CDN: Delivers content from edge servers for speed.
+13. Database Indexing: Speeds up queries by indexing important fields.
+14. Data Partitioning: Divides data across nodes for scalability and performance.
+15. Eventual Consistency: Guarantees consistency over time in distributed databases
+16. WebSockets: Enables bi-directional communication for live updates.
+17. Scalability: Increases capacity by upgrading or adding machines.
+18. Fault Tolerance: Ensures system availability during hardware/software failures.
+19. Monitoring: Tracks metrics and logs to understand system health.
+20. Authentication & Authorization: Controls user access and verifies identity securely.
+
+Over to you: Which other System Design concept will you add to the list?
+
+--
+We just launched the all-in-one tech interview prep platform, covering coding, system design, OOD, and machine learning.
+
+Launch sale: 50% off. Check it out: https://lnkd.in/euwKh6u8
+
+#systemdesign #coding #interviewtips 
+.",1627.0,23.0,296,1946.0,0.99,Teacher,AI/ML/Coding Tools,Contrast/But,List Post,Text-only,Top 20 System Design Concepts You Should Know,"Top 20 System Design Concepts You Should Know
+
+1. Load Balancing: Distributes traffic across multiple servers for reliability and availability.
+2. Cac","Top 20 System Design Concepts You Should Know
+
+1. Load Balancing: Distributes traffic across multiple servers for reliability and availability.
+2. Cac",https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7403129123012898816-O_Mt?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFFHfikBhIO9fYltl6JsMMGlm8UMt2G85sM,2025-12-06T17:52:06.414Z,idea_legos_alexis,270,0,1648.6,
+"Git Merge vs. Rebase vs. Squash Commit! 
+. 
+. 
+What are the differences? 
+ 
+When we 𝐦𝐞𝐫𝐠𝐞 𝐜𝐡𝐚𝐧𝐠𝐞𝐬 from one Git branch to another, we can use ‘git merge’ or ‘git rebase’. The diagram below shows how the two commands work. 
+ 
+𝐆𝐢𝐭 𝐌𝐞𝐫𝐠𝐞 
+This creates a new commit G’ in the main branch. G’ ties the histories of both main and feature branches. 
+ 
+Git merge is 𝐧𝐨𝐧-𝐝𝐞𝐬𝐭𝐫𝐮𝐜𝐭𝐢𝐯𝐞. Neither the main nor the feature branch is changed. 
+ 
+𝐆𝐢𝐭 𝐑𝐞𝐛𝐚𝐬𝐞 
+Git rebase moves the feature branch histories to the head of the main branch. It creates new commits E’, F’, and G’ for each commit in the feature branch. 
+ 
+The benefit of rebase is that it has 𝐥𝐢𝐧𝐞𝐚𝐫 𝐜𝐨𝐦𝐦𝐢𝐭 𝐡𝐢𝐬𝐭𝐨𝐫𝐲. 
+ 
+Rebase can be dangerous if “the golden rule of git rebase” is not followed. 
+ 
+𝐓𝐡𝐞 𝐆𝐨𝐥𝐝𝐞𝐧 𝐑𝐮𝐥𝐞 𝐨𝐟 𝐆𝐢𝐭 𝐑𝐞𝐛𝐚𝐬𝐞 
+Never use it on public branches!
+
+--
+We just launched the all-in-one tech interview prep platform, covering coding, system design, OOD, and machine learning.
+
+Launch sale: 50% off. Check it out: https://lnkd.in/euwKh6u8
+
+#systemdesign #coding #interviewtips 
+.",1718.0,55.0,145,1918.0,1.04,Teacher,AI/ML/Coding Tools,Framework/How-To,List Post,Text-only,Git Merge vs. Rebase vs. Squash Commit!,"Git Merge vs. Rebase vs. Squash Commit! 
+. 
+. 
+What are the differences? 
+ 
+When we 𝐦𝐞𝐫𝐠𝐞 𝐜𝐡𝐚𝐧𝐠𝐞𝐬 from one Git branch to another, we can use ‘git merg","Git Merge vs. Rebase vs. Squash Commit! 
+. 
+. 
+What are the differences? 
+ 
+When we 𝐦𝐞𝐫𝐠𝐞 𝐜𝐡𝐚𝐧𝐠𝐞𝐬 from one Git branch to another, we can use ‘git merg",https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7398040667849064448-UdFd?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFExDSABRCfDps2vz8BwL3pcxWzy6fiDV8g,2025-11-22T16:52:24.164Z,idea_legos_alexis,210,0,1648.6,
+"Top Software Architectural Styles. 
+
+In software development, architecture plays a crucial role in shaping the structure and behavior of software systems. It provides a blueprint for system design, detailing how components interact with each other to deliver specific functionality. They also offer solutions to common problems, saving time and effort and leading to more robust and maintainable systems.
+
+However, with the vast array of architectural styles and patterns available, it can take time to discern which approach best suits a particular project or system. Aims to shed light on these concepts, helping you make informed decisions in your architectural endeavors.
+
+To help you navigate the vast landscape of architectural styles and patterns, there is a cheat sheet that encapsulates all. This cheat sheet is a handy reference guide that you can use to quickly recall the main characteristics of each architectural style and pattern.
+
+--
+Subscribe to our weekly newsletter to get a Free System Design PDF (368 pages): https://lnkd.in/grvckqjv
+
+#systemdesign #coding #interviewtips 
+.",1637.0,31.0,242,1910.0,0.99,Fortune Teller,Engineering Leadership,Industry Observation,List Post,Text-only,Top Software Architectural Styles.,"Top Software Architectural Styles. 
+
+In software development, architecture plays a crucial role in shaping the structure and behavior of software syst","Top Software Architectural Styles. 
+
+In software development, architecture plays a crucial role in shaping the structure and behavior of software syst",https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7416162419351187456-hdyy?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADAEIjUB6-0Ki4Mn4tqi3dc1q7EgfDhzXsM,2026-01-11T17:01:46.408Z,idea_legos_alexis,265,0,1648.6,
+"Virtualization vs. Containerization
+
+Before containers simplified deployment, virtualization changed how we used hardware. Both isolate workloads, but they do it differently.
+
+- Virtualization (Hardware-level isolation): Each virtual machine runs a complete operating system, Windows, Fedora, or Ubuntu, with its own kernel, drivers, and libraries. The hypervisor (VMware ESXi, Hyper-V, KVM) sits directly on hardware and emulates physical machines for each guest OS. 
+
+This makes VMs heavy but isolated. Need Windows and Linux on the same box? VMs handle it easily. Startup time for a typical VM is in minutes because you're booting an entire operating system from scratch.
+
+- Containerization (OS-level isolation): Containers share the host operating system's kernel. No separate OS per container. Just isolated processes with their own filesystem and dependencies.
+
+The container engine (Docker, containerd, CRI-O, Podman) manages lifecycle, networking, and isolation, but it all runs on top of a single shared kernel. Lightweight and fast. Containers start in milliseconds because you're not booting an OS, just launching a process.
+
+But here's the catch: all containers on a host must be compatible with that host's kernel. Can't run Windows containers on a Linux host (without nested virtualization tricks).
+
+Over to you: What's your go-to setup: containers in VMs, bare metal containers, or something else?
+
+--
+We just launched the all-in-one tech interview prep platform, covering coding, system design, OOD, and machine learning.
+
+Launch sale: 50% off. Check it out: https://lnkd.in/euwKh6u8
+
+#systemdesign #coding #interviewtips 
+.",1600.0,47.0,249,1896.0,0.97,Fortune Teller,AI/ML/Coding Tools,Contrast/But,List Post,Text-only,Virtualization vs. Containerization,"Virtualization vs. Containerization
+
+Before containers simplified deployment, virtualization changed how we used hardware. Both isolate workloads, but","Virtualization vs. Containerization
+
+Before containers simplified deployment, virtualization changed how we used hardware. Both isolate workloads, but",https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7399138138641825793-f93P?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFExDSABRCfDps2vz8BwL3pcxWzy6fiDV8g,2025-11-25T17:33:21.591Z,idea_legos_alexis,275,0,1648.6,
+"The HTTP Mindmap
+
+HTTP has evolved from HTTP/1.1 to HTTP/2, and now HTTP/3, which uses the QUIC protocol over UDP for improved performance. Today, it’s the backbone of almost everything on the internet, from browsers and APIs to streaming, cloud, and AI systems.
+
+At the foundation, we have underlying protocols. TCP/IP for IPv4 and IPv6 traffic. Unix domain sockets for local communication. HTTP/3 running over UDP instead of TCP. These handle the actual data transport before HTTP even comes into play.
+
+Security wraps around everything. HTTPS isn't optional anymore. WebSockets power real-time connections. Web servers manage workloads. CDNs distribute content globally. DNS resolves everything to IPs. Proxies (forward, reverse, and API gateways) route, filter, and secure traffic in between.
+
+Web services exchange data in different formats, REST with JSON, SOAP for enterprise systems, RPC for direct calls, and GraphQL for flexible queries. Crawlers and bots index the web, guided by robots.txt files that set the boundaries.
+
+The network world connects everything. LANs, WANs, and protocols like FTP for file transfers, IMAP/POP3 for email, and BitTorrent for peer-to-peer communication. For observability, packet capture tools like Wireshark, tcpdump, and OpenTelemetry let developers peek under the hood to understand performance, latency, and behavior across the stack.
+
+Over to you: HTTP has been evolving for 30+ years, what do you think the next big shift will be?
+
+--
+We just launched the all-in-one tech interview prep platform, covering coding, system design, OOD, and machine learning.
+
+Launch sale: 50% off. Check it out: https://lnkd.in/euwKh6u8
+
+#systemdesign #coding #interviewtips 
+.",1551.0,50.0,239,1840.0,0.94,Teacher,AI/ML/Coding Tools,Framework/How-To,List Post,Text-only,The HTTP Mindmap,"The HTTP Mindmap
+
+HTTP has evolved from HTTP/1.1 to HTTP/2, and now HTTP/3, which uses the QUIC protocol over UDP for improved performance. Today, it’","The HTTP Mindmap
+
+HTTP has evolved from HTTP/1.1 to HTTP/2, and now HTTP/3, which uses the QUIC protocol over UDP for improved performance. Today, it’",https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7404199479945572352-mSQJ?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFFHfikBhIO9fYltl6JsMMGlm8UMt2G85sM,2025-12-09T16:45:19.393Z,idea_legos_alexis,290,0,1648.6,
+"Why Is Nginx So Popular?
+
+Apache dominated web servers for 20 years, then Nginx showed up and changed everything. Now Nginx powers some of the largest sites on the internet, including Netflix, Airbnb, Dropbox, and WordPress. com. Not because it's newer or trendier, but because it solves problems that Apache couldn't handle efficiently. 
+
+Here’s what makes Nginx so popular:
+
+- High-Performance Web Server
+- Reverse Proxy & Load Balancer
+- Caching Layer
+- SSL Termination (Offloading)
+
+Over to you: What’s your primary use for Nginx today, web server, reverse proxy, or load balancer?
+
+--
+We just launched the all-in-one tech interview prep platform, covering coding, system design, OOD, and machine learning.
+
+Launch sale: 50% off. Check it out: https://lnkd.in/euwKh6u8
+
+#systemdesign #coding #interviewtips 
+.",1572.0,30.0,202,1804.0,0.95,Fortune Teller,AI/ML/Coding Tools,Data/Numbers,List Post,Text-only,Why Is Nginx So Popular?,"Why Is Nginx So Popular?
+
+Apache dominated web servers for 20 years, then Nginx showed up and changed everything. Now Nginx powers some of the largest","Why Is Nginx So Popular?
+
+Apache dominated web servers for 20 years, then Nginx showed up and changed everything. Now Nginx powers some of the largest",https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7407461392527740928-hfBZ?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAEFs0N4BjmHKIMYKDQqtQLKHHg9KmFzH-ig,2025-12-18T16:46:59.956Z,idea_legos_alexis,284,0,1648.6,

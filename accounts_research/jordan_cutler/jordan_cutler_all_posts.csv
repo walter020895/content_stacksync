@@ -1,0 +1,2461 @@
+full_text,likes,comments,shares,total_engagement,outlier_score,hook_type,topic,angle,structure,visual_format,first_line,hook_150,hook,url,date,_source,rank,followers,author_avg,source
+"I'm thrilled to share that I've been promoted to Staff Software Engineer at Pinterest!
+
+Working at Pinterest has been such a rewarding experience. I've grown so much since joining, and I'm grateful for my team (Web Platform) and org (Client Foundations) for creating an environment that makes it easy for that to happen.
+
+I've had the chance to lead initiatives like optimizing how fast pins load, revamping navigation, and now driving developer experience across 8 teams. Throughout all of this, my team has been an amazing support system, with incredibly talented people to learn from. 
+
+I also want to give a special shout-out to my manager Vasanth Krishnamoorthy, tech lead and mentor Yen-Wei L. , and Director Mark Cerqueira. You've made this year really special and I appreciate you 🙏
+
+I'm looking forward to taking on even bigger challenges and starting yet another growth journey (it never stops 🚀).",2025.0,214.0,0,2239.0,8.44,Teacher,Engineering Career,Framework/How-To,Observation/Opinion,Text-only,I'm thrilled to share that I've been promoted to Staff Software Engineer at Pinterest!,"I'm thrilled to share that I've been promoted to Staff Software Engineer at Pinterest!
+
+Working at Pinterest has been such a rewarding experience. I'v","I'm thrilled to share that I've been promoted to Staff Software Engineer at Pinterest!
+
+Working at Pinterest has been such a rewarding experience. I'v",https://www.linkedin.com/posts/jordancutler1_im-thrilled-to-share-that-ive-been-promoted-activity-7368301250997661697-_Bmp?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAD9zz4ABDFXGXOeA2HCeIOmpH5xgVN4Pd2E,2025-09-01T15:18:34.655Z,central_outliers_db,12.0,0.0,239.9,alexis_engineering_tech
+"Your manager asks you to delegate more work to other engineers so you can scale yourself. What do you do?
+
+Here's the simplest way to remember: think about each piece of work you delegate like a one-pager.
+
+One-pagers include:
+• Problem
+• Goal
+• Solution
+• Alternatives
+• Risks
+
+Start at the top. Always tell them the problem (or the ""why""). Then, continue down the list as far as you'd like, but stop when you're confident the other person can handle the rest.
+
+You can use engineering levels/titles as a rule of thumb, but it doesn't always need to map to that. For example,
+• Staff engineer -> stop at ""Problem""
+• Senior engineer -> stop at ""Goal""
+• Mid-level engineer -> stop at ""Solution""
+• Entry/Junior engineer -> cover most or all
+
+When you want to challenge them, stop earlier. Let them take on more and give them that growth opportunity.
+
+This framework covers what level of detail to provide, but of course, there's more to delegation than that. To get all the details, join 95k+ engineers and check my latest article: https://lnkd.in/ea-JjkKA",1071.0,39.0,37,1147.0,4.46,Teacher,Engineering Leadership,Framework/How-To,List Post,Text-only,Your manager asks you to delegate more work to other engineers so you can scale yourself. What do yo,"Your manager asks you to delegate more work to other engineers so you can scale yourself. What do you do?
+
+Here's the simplest way to remember: think ","Your manager asks you to delegate more work to other engineers so you can scale yourself. What do you do?
+
+Here's the simplest way to remember: think ",https://www.linkedin.com/posts/jordancutler1_your-manager-asks-you-to-delegate-more-work-activity-7390795556945551360-BkJs?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFvytF8BltAXQnPxVJzCCgX_DFSIoOU-g00,2025-11-02T17:02:55.117Z,central_outliers_db,23.0,0.0,239.9,alexis_engineering_tech
+"The 5 levels of communicating your impact as an engineer in tech:
+
+Level 1: What you did
+Migrated the user authentication system to OAuth 2.0
+
+Level 2: Had impact
+...which reduced login failures
+
+Level 3: Specific impact
+...by 40% (from 15% to 9%)
+
+Level 4: Tied to a goal
+...exceeded our Q2 reliability target by 2x
+
+Level 5: and dollars or top-level business metrics
+...and prevented $2.1M in annual revenue loss and saved 15 hours/week in support
+
+If you can include all of these in your self-reviews or resume, it's the strongest impact you can communicate. Still, reaching Level 5 is hard. You might not have all the data to get there, so Level 3-4 is ok too. The key is being as specific as possible with the data you have.
+
+If you found this helpful, you might also like the free custom GPT I created that provides instant tips to improve any impact statement using this framework.
+
+I share the link to it and many more details on communicating impact in the latest High Growth Engineer article. Check it out here! https://lnkd.in/eb27gRDr",774.0,30.0,52,856.0,3.23,Teacher,AI/ML/Coding Tools,Framework/How-To,Observation/Opinion,Text-only,The 5 levels of communicating your impact as an engineer in tech:,"The 5 levels of communicating your impact as an engineer in tech:
+
+Level 1: What you did
+Migrated the user authentication system to OAuth 2.0
+
+Level 2","The 5 levels of communicating your impact as an engineer in tech:
+
+Level 1: What you did
+Migrated the user authentication system to OAuth 2.0
+
+Level 2",https://www.linkedin.com/posts/jordancutler1_the-5-levels-of-communicating-your-impact-activity-7347661034813353986-p7XN?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAD9zz4ABDFXGXOeA2HCeIOmpH5xgVN4Pd2E,2025-07-06T16:21:43.640Z,central_outliers_db,32.0,0.0,239.9,alexis_engineering_tech
+"If you're a developer looking to level up, here are some of the newsletters I read that I think you'll get a ton of value from:
+
+Elevate by Addy Osmani: https://lnkd.in/errpqZCU (Senior Staff Eng & Head of Chrome Dev at Google now on Substack)
+
+System Design Newsletter by Neo Kim: https://lnkd.in/epCMRzyX (Learn system design in 5 minutes or less from real company stories.)
+
+Scarlet Ink by David Anderson: https://lnkd.in/etbTHEjy (Former Amazon Exec gives fantastic personal stories and examples on growth in tech)
+
+Eczachly Data Engineering Newsletter by Zach Wilson: https://lnkd.in/ejC7bgVK (Interview better, learn how to get promoted quickly, and become better at data engineering)
+
+Coding Challenges by John Crickett: https://lnkd.in/et9b6VDQ (Level up through real-world coding challenges)
+
+Hybrid Hacker by Nicola Ballotta: https://lnkd.in/exvzJUhj (Collection of advice on management & productivity, with really great visuals on how to think)
+
+Engineering Leadership by Gregor Ojstersek: https://lnkd.in/eaYUVCSc (Learn how to become a better engineering leader)
+
+The Caring Techie by Irina Stanescu: https://lnkd.in/e5qybckA (Build soft skills from an experienced IC, manager, and tech lead. She's done it all)
+
+The Developing Dev by Ryan Peterman: https://lnkd.in/e4JxSQg5 (Learn to become a better developer in 5 minutes or less each week -- from a Staff Software Engineer at Instagram)
+
+Techlead Mentor by Raviraj Achar: https://lnkd.in/dB7AgsZa (Become an effective Tech Lead from a Staff Engineer at Meta)
+
+There are too many good ones to list, so this definitely doesn't cover all.
+
+Feel free to share in the comments the ones I missed or post your own!",560.0,30.0,82,672.0,2.33,Teacher,System Design,Framework/How-To,Observation/Opinion,Text-only,"If you're a developer looking to level up, here are some of the newsletters I read that I think you'","If you're a developer looking to level up, here are some of the newsletters I read that I think you'll get a ton of value from:
+
+Elevate by Addy Osman","If you're a developer looking to level up, here are some of the newsletters I read that I think you'll get a ton of value from:
+
+Elevate by Addy Osman",https://www.linkedin.com/posts/jordancutler1_if-youre-a-developer-looking-to-level-up-activity-7153797776173068289-__V7?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFuSvOYB_jBbPAPzpya-N-HC_DUVe3hldzQ,2024-01-18T17:23:14.390Z,idea_legos_alexis,61.0,0.0,239.9,
+"After landing a $350k offer in big tech, my friend quoted this interview tip as what helped him the most in landing the job.
+
+Don't answer the question. Answer the question BEHIND the question.
+
+Here's an example:
+
+• Interviewer asks... ""Tell me about your biggest failure""
+• You respond by telling them about a big project that didn't ship on time and everyone moved on. That feels like a failure, right?
+
+The problem is, the question behind the question was, ""How well do you learn from your big failures?"" So you can still tell the story about your biggest failure, but you need to touch on what you learned from it! Every answer you give uncovers more to the interviewer about how you are to work with (the pie below).
+
+Here are some more examples:
+• Biggest disagreement -> Can you work with others? (not a chance to brag about swapping teams due to arguments)
+• A project you are proud of -> How large is your scope and do you approach projects methodically?
+• A time when you missed a deadline -> Do you let others know ahead of time when your estimate is off? How do you approach your relationship with stakeholders?
+
+Each question has something underlying the interviewer is trying to get at.
+
+Figure out what it is. Answer THAT question and you'll see the offers start coming in.
+
+--
+The thing is, this framework isn't just useful for interviews. You can use it when you're fielding questions during a presentation, or when you're dealing with hard questions from your manager on why something hasn't shipped.
+
+To see how AND learn 4 other top communication frameworks like this one, click the link next to my profile picture.
+
+Tomorrow's High Growth Engineer issue will feature some of Wes Kao's most valuable frameworks engineers can use every day.",552.0,44.0,30,626.0,2.3,Contrarian,Engineering Career,Data/Numbers,List Post,Text-only,"After landing a $350k offer in big tech, my friend quoted this interview tip as what helped him the ","After landing a $350k offer in big tech, my friend quoted this interview tip as what helped him the most in landing the job.
+
+Don't answer the questio","After landing a $350k offer in big tech, my friend quoted this interview tip as what helped him the most in landing the job.
+
+Don't answer the questio",https://www.linkedin.com/posts/jordancutler1_after-landing-a-350k-offer-in-big-tech-activity-7261052448742551552-B69O?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADQkiF0BbAdCN7z4ZmBLHcHn1RIeKFngJs0,2024-11-09T16:30:07.611Z,idea_legos_alexis,62.0,0.0,239.9,
+"6 Must Have Software Engineering Templates to grow as an engineer:
+
+This week I covered 6 of the templates I use the most as Senior Engineer in Big Tech. Here they are, with links to each one!
+
+1. Technical Design Doc Template: https://lnkd.in/enamp3FW
+
+Use this when your team already agreed you'll work on something, and now you need to sort out ""how"" you're going to build it and what milestones.
+
+2. Feedback Template: https://lnkd.in/ehsuJUkk
+
+Use this to give feedback in a non-judgmental, constructive way to help the other person improve.
+
+3. 1-Pager Proposal Template: https://lnkd.in/eCXRcg-W
+
+Use this when you need to focus more on the ""why"" than the ""how."" It lets you propose an idea to actually get it prioritized.
+
+4. Pull Request Template: https://lnkd.in/et6DTYfv
+
+Use this to clearly describe your changes and get faster reviews by making your reviewers' lives easier.
+
+5. 1-on-1 Template: https://lnkd.in/eg6NcHbe
+
+Use this for more productive for 1:1s and to avoid getting sidetracked.
+
+6. Brag Doc + Weekly Update Template: https://lnkd.in/eFbMgbb7
+
+Use this to track your accomplishments and update your manager on your plan + what you did for the week.
+
+What templates did I miss? I'm happy to cover and add them to our template library!
+
+To see the full post covering each of these templates in detail, join 85k engineers and check it out here: https://lnkd.in/e8tM6RGt",509.0,22.0,54,585.0,2.12,Teacher,Engineering Leadership,Framework/How-To,List Post,Text-only,6 Must Have Software Engineering Templates to grow as an engineer:,"6 Must Have Software Engineering Templates to grow as an engineer:
+
+This week I covered 6 of the templates I use the most as Senior Engineer in Big Te","6 Must Have Software Engineering Templates to grow as an engineer:
+
+This week I covered 6 of the templates I use the most as Senior Engineer in Big Te",https://www.linkedin.com/posts/jordancutler1_6-must-have-software-engineering-templates-activity-7291857410103607296-tXUt?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAB7Ns74BpCd1C_AC6bPw9Wj2Vw5j6POGz9A,2025-02-02T16:38:02.728Z,idea_legos_alexis,71.0,0.0,239.9,
+"Happy holidays 🎁 I just removed the paywall for the top 7 High Growth Engineer posts from 2024:
+
+Here they are, ordered by popularity:
+
+1. Why reading whitepapers takes your career to the next level (and how to do it): https://lnkd.in/eMQiXHrK
+
+2. 5 Lessons I learned the hard way from 6 years as a software engineer: https://lnkd.in/eeAnZ_-5
+
+3. Communicate like a Senior: Use clear deltas. https://lnkd.in/esEBniiZ
+
+4. The one framework every engineer should know: https://lnkd.in/e-MBdkjg
+
+5. Three career principles that got me to Director at Google: https://lnkd.in/erEyUHXC
+
+6. The three big mistakes that almost cost me my promotion (and how you can avoid them): https://lnkd.in/ee2g9Ude
+
+7. My Tech Promotion Algorithm: https://lnkd.in/eYHpbgeD
+
+Big shout-out to all the amazing guests who put a ton of work into these and made these posts possible 🙏
+
+They will be accessible for the next week, so you can read 1 each day leading up to the new year! Enjoy and share with a friend 😊
+
+Which one resonated with you the most?",480.0,33.0,38,551.0,2.0,Teacher,Engineering Career,Personal Experience,List Post,Text-only,Happy holidays 🎁 I just removed the paywall for the top 7 High Growth Engineer posts from 2024:,"Happy holidays 🎁 I just removed the paywall for the top 7 High Growth Engineer posts from 2024:
+
+Here they are, ordered by popularity:
+
+1. Why reading","Happy holidays 🎁 I just removed the paywall for the top 7 High Growth Engineer posts from 2024:
+
+Here they are, ordered by popularity:
+
+1. Why reading",https://www.linkedin.com/posts/jordancutler1_happy-holidays-i-just-removed-the-paywall-activity-7278084650848141312-xoBF?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAEZl0i8BIQO5SjruQUewaxvjhpJAGnSrvEQ,2024-12-26T16:30:01.036Z,idea_legos_alexis,83.0,0.0,239.9,
+"3 unspoken git tricks that save you TONS of time (no one else shares these):
+
+1. git checkout -
+
+What does it do? It switches you to your previous branch. Instead of typing it all out, you can just say ""-"".
+
+""git checkout jcutler-my-favorite-branch"" becomes ""git checkout -"". I even have an alias set up for git checkout so it becomes ""gco -""
+
+AND you can extend this with ""git merge -"" to merge the last branch you were on, or ""cd -"" to switch to your previous directory.
+
+2. git bisect
+
+It's the most underrated debugging tool. When something that WAS working starts breaking, run ""git bisect start."" It will use binary search to figure out the exact commit that broke it in lg(n) tries. 
+
+Because it uses binary search, it can find the bad commit across 1000+ commits in just 10 tries.
+
+3. git checkout HEAD@{1.week.ago}
+
+Or more generally, git checkout branchname@{timeframe}. You can use this to supercharge your git bisect skills. When you use ""git bisect"", you need to start by finding a ""good"" and ""bad"" commit. 
+
+You can easily find the good commit by trying different times of the codebase with this trick.
+
+Any other git tricks like this that don't get enough love?",432.0,44.0,16,492.0,1.8,Teacher,Productivity,Framework/How-To,List Post,Text-only,3 unspoken git tricks that save you TONS of time (no one else shares these):,"3 unspoken git tricks that save you TONS of time (no one else shares these):
+
+1. git checkout -
+
+What does it do? It switches you to your previous bra","3 unspoken git tricks that save you TONS of time (no one else shares these):
+
+1. git checkout -
+
+What does it do? It switches you to your previous bra",https://www.linkedin.com/posts/jordancutler1_3-unspoken-git-tricks-that-save-you-tons-activity-7276635400872361984-i4hB?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAEZl0i8BIQO5SjruQUewaxvjhpJAGnSrvEQ,2024-12-22T16:31:12.916Z,idea_legos_alexis,99.0,0.0,239.9,
+"If you're a software engineer looking to grow, here are 13 resources to get your weekly dose of wisdom:
+
+1) Data Engineering Newsletter by Zach Wilson: https://lnkd.in/ejC7bgVK. Personal stories from his experience at Meta, Netflix, and Airbnb all the way to data deep-dives. Zach does it all.
+
+2) Coding Challenges by John Crickett: https://lnkd.in/et9b6VDQ. Level up by building fully functional applications
+
+3) Leading Developers by Anton Zaides: https://lnkd.in/dNbn8y9W. Reflections, stories, and lessons on being a better engineering leader from a Director of Engineering
+
+4) Engineering Leadership by Gregor Ojstersek: https://lnkd.in/eaYUVCSc. Learn how to become a better engineering leader
+
+5) Wes Kao's Newsletter by Wes Kao: https://lnkd.in/ej48BXXZ. Actionable, insightful frameworks and advice on many soft skill topics--managing up, giving feedback, etc.
+
+6) Developing Dev by Ryan Peterman: https://lnkd.in/e4JxSQg5. Learn how to level up from a Staff Software Engineer at Instagram
+
+7) The Software Engineer Weekly by Kevin Naughton: https://lnkd.in/eqEVNG5W. Tips from a Google SWE on career growth, productivity, mental and physical health
+
+8) Leadership Letters by Akash Mukherjee: https://lnkd.in/eeEzxjzK. Akash is a Staff Engineer at Apple. He gets into his wealth of personal stories and always shared actionable takeaways
+
+9) The Caring Techie by Irina Stanescu: https://lnkd.in/e5qybckA. Build soft skills from an experienced IC, manager, and tech lead. She's done it all
+
+10) The Operator's Handbook by Torsten Walbaum: https://lnkd.in/etNH6juK. Some of the most in-depth how-to guides on being a better operator.
+
+11) The Hustling Engineer by Hemant Pandey: https://lnkd.in/e3kzc8B6. Concise, actionable takeaways on every article for leveling up as an engineer from a Senior Engineer at Meta
+
+12) Strategize your Career by Francisco Manuel Soto Ramírez: https://lnkd.in/eCnJv76m. His advice is actionable, concise, and clear. He shares everything he uses himself too
+
+13) The T-Shaped Dev - by Petar Ivanov: https://lnkd.in/eEaS_eMy. Petar shares approachable intros to technical topics and helps you be more productive
+
+Tell me which one is your favorite in the comments! Also, feel free to share any I missed since there are so many good ones.",369.0,52.0,41,462.0,1.54,Teacher,Engineering Leadership,Framework/How-To,Observation/Opinion,Text-only,"If you're a software engineer looking to grow, here are 13 resources to get your weekly dose of wisd","If you're a software engineer looking to grow, here are 13 resources to get your weekly dose of wisdom:
+
+1) Data Engineering Newsletter by Zach Wilson","If you're a software engineer looking to grow, here are 13 resources to get your weekly dose of wisdom:
+
+1) Data Engineering Newsletter by Zach Wilson",https://www.linkedin.com/posts/jordancutler1_if-youre-a-software-engineer-looking-to-activity-7261777216999407616-kb2r?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADQkiF0BbAdCN7z4ZmBLHcHn1RIeKFngJs0,2024-11-11T16:30:05.829Z,idea_legos_alexis,121.0,0.0,239.9,
+"This one communication shift took my friend from rejections to landing a senior 270k offer in big tech.
+
+❌ Before, he'd get a question like, ""Tell me about how you made an impact on your team.""
+
+And he'd answer like, ""Yeah, there was this one time... < speak for a minute on the story >... oh and there was this other time too... < another one >."" 
+
+But the interviewer would already be lost by the end of the first one. They want someone senior, someone who can take a step back first.
+
+I told him, you need to show your STRUCTURED thought process. Seniors speak in bullet points first, then details after.
+
+✅ So he switched it to, ""Sure. When I'm making impact on the team, I like to think about 3 things--opportunity, effort, and risk. Each quarter, we map projects on these axes and one of the projects I proposed had high opportunity and medium effort/risk. Let me tell you more about that one, why I worked on it, and how I drove it forward...""
+
+Once he switched to this, his interviewer's eyes started lighting up early on in his answer. He finally figured it out. Then, the offers followed.
+
+So why is the second one better?
+1. It shows you don't just jump into solutions.
+2. It shows your decision criteria for action. You won't work on unimpactful work.
+3. It gives your interviewer an overview first, almost like an ""agenda"" at the start of a presentation. They know what to expect.
+
+Before you answer, take a step back, share your thought process, and show your structured thinking. Don't just dive in and start going off on stories.
+
+--
+Recently when working with Torsten Walbaum (ex-Rippling/Uber/Meta Director), I learned there was a framework this relates to called MECE--mutually exclusive, collectively exhaustive. When it gets applied, it looks a lot like the example my friend used to get his senior offers.
+
+In today's High Growth Engineer post, Torsten shows you how to use it for 5 use cases as an engineer--interviews, investigations, debugging, explaining a system, and when proposing ideas.
+
+Join 80k+ engineers and check it out here: https://lnkd.in/e-MBdkjg",369.0,18.0,13,400.0,1.54,Fortune Teller,Engineering Career,Industry Observation,List Post,Text-only,This one communication shift took my friend from rejections to landing a senior 270k offer in big te,"This one communication shift took my friend from rejections to landing a senior 270k offer in big tech.
+
+❌ Before, he'd get a question like, ""Tell me ","This one communication shift took my friend from rejections to landing a senior 270k offer in big tech.
+
+❌ Before, he'd get a question like, ""Tell me ",https://www.linkedin.com/posts/jordancutler1_this-one-communication-shift-took-my-friend-activity-7266488304399794178-2zeg?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAD81P2gB8COKVZLp6EQQjDG5lu3X4UjKxEQ,2024-11-24T16:30:16.593Z,idea_legos_alexis,120.0,0.0,239.9,
+"This framework I never knew I needed got me compliments on my communication within a week.
+
+It's called MECE.
+
+Huh? mice? No. MECE 😂. It stands for ""Mutually Exclusive, Collectively Exhaustive."" It forces your communication to be structured.
+
+Let's take an incident investigation as an example. Many times, engineers are dropping messages in the channel like throwing darts.
+
+❌ Before: ""It could be the landing page. No, that's not it. Maybe seasonality? Nope, that's not it either... anyone have other ideas?""
+
+✅ After: ""If signups are down, it's either actually down or it's a false positive. If it's a false positive, we can check for seasonality or a data issue. If it's an actual drop, it could be that it's iOS only, android only, or both. Let's narrow it down.""
+
+MECE tells you to come up with all the mutually exclusive and many options as possible upfront, then narrow down and cross out. 
+
+This has a few benefits:
+1. You can literally SEE the structure via a tree this gives your communication and thinking
+2. Once you see it, you can delegate each of those to others working on the issue
+3. Finally, you can cross out each item on the tree as you go, and give accurate estimates to leaders of when it'll be resolved. No more, ""we're not sure when it'll be fixed. It's too ambiguous."" 
+
+To apply it yourself, before your next message, think about how you can communicate using a ""tree structure"" like the one on the right. Avoid windy roads and darts.
+
+Have you heard of MECE before and where else do you think you can use it?
+
+--
+Tomorrow, I'll share 4 more use cases you can use this to level up your communication, thinking, and problem-solving. We have a special guest post from Torsten Walbaum (ex-Rippling, Uber, Google) on High Growth Engineer.
+
+To not miss it, hit the link next to my profile picture above!",336.0,24.0,8,368.0,1.4,Teacher,Software Engineering,Personal Experience,List Post,Text-only,This framework I never knew I needed got me compliments on my communication within a week.,"This framework I never knew I needed got me compliments on my communication within a week.
+
+It's called MECE.
+
+Huh? mice? No. MECE 😂. It stands for ""M","This framework I never knew I needed got me compliments on my communication within a week.
+
+It's called MECE.
+
+Huh? mice? No. MECE 😂. It stands for ""M",https://www.linkedin.com/posts/jordancutler1_this-framework-i-never-knew-i-needed-got-activity-7266125931117785088-bpOS?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAD81P2gB8COKVZLp6EQQjDG5lu3X4UjKxEQ,2024-11-23T16:30:20.070Z,idea_legos_alexis,141.0,0.0,239.9,
+"If you're a developer looking to level up, here are some of my top newsletters of 2024 I look forward to each week:
+
+System Design Newsletter by Neo Kim: https://lnkd.in/epCMRzyX (Learn system design in 5 minutes or less from real company stories.)
+
+Scarlet Ink by David Anderson: https://lnkd.in/etbTHEjy (Former Amazon Exec gives fantastic personal stories and examples on growth in tech)
+
+Eczachly Data Engineering Newsletter by Zach Wilson: https://lnkd.in/ejC7bgVK (Interview better, learn how to get promoted quickly, and become better at data engineering)
+
+Coding Challenges by John Crickett: https://lnkd.in/et9b6VDQ (Level up through real-world coding challenges)
+
+Hybrid Hacker by Nicola Ballotta: https://lnkd.in/exvzJUhj (Collection of advice on management & productivity, with really great visuals on how to think)
+
+Engineering Leadership by Gregor Ojstersek: https://lnkd.in/eaYUVCSc (Learn how to become a better engineering leader)
+
+The Caring Techie by Irina Stanescu: https://lnkd.in/e5qybckA (Build soft skills from an experienced IC, manager, and tech lead. She's done it all)
+
+The Developing Dev by Ryan Peterman: https://lnkd.in/e4JxSQg5 (Learn to become a better developer in 5 minutes or less each week -- from a Staff Software Engineer at Instagram)
+
+Techlead Mentor by Raviraj Achar: https://lnkd.in/dB7AgsZa (Become an effective Tech Lead from a Staff Engineer at Meta)
+
+Leading Developers by Anton Zaides: https://lnkd.in/dNbn8y9W (Learn to grow as a tech lead and manager)
+
+There are too many good ones to list, so this definitely doesn't cover all.
+
+Feel free to share in the comments the ones I missed or post your own!",253.0,37.0,30,320.0,1.05,Teacher,Engineering Career,Framework/How-To,Observation/Opinion,Text-only,"If you're a developer looking to level up, here are some of my top newsletters of 2024 I look forwar","If you're a developer looking to level up, here are some of my top newsletters of 2024 I look forward to each week:
+
+System Design Newsletter by Neo K","If you're a developer looking to level up, here are some of my top newsletters of 2024 I look forward to each week:
+
+System Design Newsletter by Neo K",https://www.linkedin.com/posts/jordancutler1_if-youre-a-developer-looking-to-level-up-activity-7161754137611771905-PIVo?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADYTW2ABrkqUW6gvZEMoz2OzOvvdx6Gq6bg,2024-02-09T16:45:37.738Z,idea_legos_alexis,207.0,0.0,239.9,
+"Here's a simple trick to avoid your proposals getting rejected: Don't make it a ""yes"" or ""no"" decision. 
+
+Make it a ""which one"" decision. And make your recommendation the obvious choice.
+
+When you say ""Can I do <x>?"" it's a ""yes"" or ""no"" decision. Most of the time, especially when your request might be to another team, the easiest thing is for them to say no. That keeps the status quo which feels safe.
+
+When you provide options, it makes the best choice for the business clear and easy to pick.
+
+Here's a before and after example.
+
+❌ Before: Can you add rate limiting to the search endpoint? Our frontend is sending too many requests.
+
+✅ After:
+Hi team, we're seeing high request volumes on the search endpoint. We have a few options to address this:
+1. Backend rate limiting (recommended). All clients will be supported out of the box.
+2. Add client side throttling. However, all clients will need to be updated
+3. If we do nothing, we'll keep hitting our max load and failing requests
+
+What are your thoughts?
+
+This is a simplified example, but the ""after"" did a few things:
+• It reduces cognitive load by calling out ways we can solve it up front
+• It makes it really weird to choose option 3. It's clear that (1) or (2) will be better than doing nothing. 
+• It makes it really easy to pick option 1. It's already been laid out as recommended and shows why it's the best choice.
+
+Combined, it leads to you getting the outcome you want.
+
+--
+Tomorrow, I'll release an article with 5 tips like this on overcoming friction and getting past ""no."" To not miss it, join 77k+ engineers and check the link next to my picture above.",245.0,26.0,3,274.0,1.02,Contrarian,Engineering Leadership,Against Common Wisdom,List Post,Text-only,"Here's a simple trick to avoid your proposals getting rejected: Don't make it a ""yes"" or ""no"" decisi","Here's a simple trick to avoid your proposals getting rejected: Don't make it a ""yes"" or ""no"" decision. 
+
+Make it a ""which one"" decision. And make you","Here's a simple trick to avoid your proposals getting rejected: Don't make it a ""yes"" or ""no"" decision. 
+
+Make it a ""which one"" decision. And make you",https://www.linkedin.com/posts/jordancutler1_heres-a-simple-trick-to-avoid-your-proposals-activity-7255964295081914369-hnYI?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADYTW2ABrkqUW6gvZEMoz2OzOvvdx6Gq6bg,2024-10-26T15:31:37.245Z,idea_legos_alexis,216.0,0.0,239.9,
+"Big thanks to Jordan Cutler, author of the excellent, widely-read weekly newsletter High Growth Engineer. We teamed up on today's guest post in HGE about storytelling (https://lnkd.in/e-38Pd66).
+
+As you progress in your engineering career, the strong technical skills you've demonstrated won't be enough to get you promoted to the next level. They're necessary but not sufficient.
+
+""What got you here won't get you there.""
+
+Storytelling skills are incredibly important everywhere, but especially in tech as you move to higher levels. The job will increasingly be about convincing others of your ideas on a larger and larger scale. Storytelling does just that.
+
+You can check out the full storytelling post using the link above and subscribe to HGE here: https://lnkd.in/e3hrW-rc.",7.0,1.0,1,,,Teacher,Engineering/Technical,Insight/Observation,Statement → Commentary,Text-only,"Big thanks to Jordan Cutler, author of the excellent, widely-read weekly newsletter High Growth Engineer. We teamed up on today's guest post in HGE ab","Big thanks to Jordan Cutler, author of the excellent, widely-read weekly newsletter High Growth Engineer. We teamed up on today's guest post in HGE ab",,,,dataset_alexis_dataset,,,,
+"If you want to get promoted to Senior or Principal Engineer you have to stop focusing on only your own output.
+
+One of the most consistent patterns I see in successful candidates is their ability to grow and lead others. This can be just as important as technical excellence. 
+
+Leaders are responsible for creating high-performing teams, but they don’t always have the time to directly mentor every junior engineer. When you step into that gap, you trigger the Mentorship Flywheel:
+
+Grow others: Be a teacher who willingly shares knowledge and helps junior people.
+↓
+Build influence to set direction: As you help others, you earn the right to set the standards for how things get done.
+↓
+Seen as a leader: Your manager notices that you are the ""go-to"" person lifting the whole organization, which leads to your promotion.
+
+When I discuss this flywheel I like to talk about a real-world example from my time at Amazon. To help a Senior Engineer get promoted to Principal, I had him run the design reviews for my entire organization. He set the standards for documentation, shared designs, and trained every team we met with. This clear ability to lift the entire group led to an immediate approval of his promotion.
+
+Don’t wait for your manager to give you a big project or a mentorship assignment. Suggest a plan to them yourself. Ownership means creating your own promotion case rather than waiting with ""blind hope"".
+
+For more knowledge about developing your career and breaking through to your next promotion, I run a course on Maven all about breaking through to strategic executive. You’ll learn how to:
+
+--Be an influential communicator and leader on a company-level
+--Be seen as a leader who enhances the whole company
+--Overcome blocks to promotion
+
+Our next cohort starts January 10th. Join us with this LinkedIn-exclusive offer: https://bit.ly/4bdk3Gj",106.0,24.0,2,,,Contrarian,Leadership/Management,Contrarian/Challenge,Statement → Commentary,Text-only,If you want to get promoted to Senior or Principal Engineer you have to stop focusing on only your own output.,"If you want to get promoted to Senior or Principal Engineer you have to stop focusing on only your own output.
+
+One of the most consistent patterns I",,,,dataset_alexis_dataset,,,,
+"If you want to grow as a software engineer in 2026,
+try these newsletters (all free):
+
+1. System Design
+➟ https://lnkd.in/gDCD8gaq
+
+2. Engineering Leadership
+➟ https://lnkd.in/g3wQkZX9
+
+3. Insider Knowledge Big Tech
+➟ https://lnkd.in/gP753FRs
+
+4. Data Engineering
+➟ https://lnkd.in/grcczKZx
+
+5. Engineering Career Growth
+➟ https://lnkd.in/gnwCKaZF
+
+6. Test-Drive Development
+➟ https://lnkd.in/g8WE-W_g
+
+7. Frontend & Software Design
+➟ https://lnkd.in/g6EnUTwD
+
+8. Software Architecture
+➟ https://lnkd.in/gjQ8nDqm
+
+9. Engineering & Leadership Insights
+➟ https://lnkd.in/g-fxEzZV
+
+10. .NET & Architecutre
+➟ https://lnkd.in/gh9w4XsQ
+
+11. AWS & Cloud
+➟ https://lnkd.in/gJvcHS3g
+
+12. Weekly Curated Tech Articles
+➟ https://lnkd.in/gw3beud3
+
+What other newsletters should be on this list?
+
+📌 Save for later.
+♻️ Repost to help others grow.
+➕ Follow Nikki Siapno + turn on notifications.",447.0,44.0,60,,,Teacher,Engineering/Technical,Insight/Observation,Listicle/Breakdown,Text-only,"If you want to grow as a software engineer in 2026,","If you want to grow as a software engineer in 2026,
+try these newsletters (all free):
+
+1. System Design
+➟ https://lnkd.in/gDCD8gaq
+
+2. Engineering Lea",,,,dataset_alexis_dataset,,,,
+"I know an engineer who has been stuck in a mid-level role for 30+ years because he doesn’t care what his managers think. He cares about technical excellence. That is great, but it won’t get you promoted. 
+
+Technical excellence alone does not get engineers promoted because technical excellence alone does not create business value.  To get promoted, especially at higher levels, an engineer needs to make it clear that they have an impact in at least one of these three things: 
+
+1) Revenue Generation
+
+This could mean they launch new features/products, facilitate payments, build systems to handle more customers, or a number of other things. However, the connection between the engineer’s work and the revenue or opportunity for revenue should be clear. 
+
+2) Cost Reduction
+
+On the other side of revenue is cost reduction. A business’s profits increase when its costs decrease, so doing any work that improves the efficiency of the business will be seen as valuable. 
+
+3) Moat Construction
+
+If an engineer’s work doesn’t have direct impact on profit but does help create a competitive advantage for the company, this will also be seen as incredibly valuable. 
+
+The ways in which an engineer can influence each of these three things is practically unlimited, but the important thing for engineers to understand is that doing value-adding work will lead to promotion. Doing maintenance work (exclusively) leads to a maintenance position. 
+
+This may be a very stable job, which is great if that is what you want. But it won’t be a fast-growing or far-reaching career. If you want one of those, you have to create growth for the company. 
+
+I wrote an article for Jordan Cutler’s “High Growth Engineer” newsletter that goes through how you can become an engineer that drives impact and gets promoted to higher and higher roles. 
+
+The insights come from my 25+ years as an engineering leader throughout my career, based directly on what has led me to promote scores of engineers. 
+
+It includes the list of the 5 top traits in engineers that I promoted, as well as stories and examples of engineers creating outsized value. 
+
+Read the article here: https://lnkd.in/eh-CdNW9
+
+Engineers and leaders- How can engineers create business value and get rewarded for it?",377.0,75.0,12,,,Teacher,Leadership/Management,Personal Experience,Listicle/Breakdown,Text-only,I know an engineer who has been stuck in a mid-level role for 30+ years because he doesn’t care what his managers think. He cares about technical exce,I know an engineer who has been stuck in a mid-level role for 30+ years because he doesn’t care what his managers think. He cares about technical exce,,,,dataset_alexis_dataset,,,,
+"I'm a software engineer with 7+ years of experience, and I build distributed systems at AWS. Here are resources I'm using to become a better software engineer in 2026:
+
+➤ Books
+→ Designing Data-Intensive Applications: https://amzn.to/3Gwtd0V
+→ The Mythical Man-Month: https://amzn.eu/d/bdCiEse
+→ Philosophy of Software Design: https://amzn.eu/d/gM4jUCB
+→ 7 Habits of Highly Effective People: https://amzn.eu/d/eFqJZ48
+
+➤ Newsletters
+→ The Pragmatic Engineer (by Gergely Orosz): https://lnkd.in/dZJrQsBC
+→ System Design One (by Neo): https://systemdesign.one/
+→ Level Up Coding (by Nikki): https://lnkd.in/dcpMXsCB 
+→ High Growth Engineer (by Jordan): https://lnkd.in/dTKB9JHt
+→ Hungry Minds (by Alexandre): https://lnkd.in/d3Ffi536
+ 
+➤ Projects and hands on practice outside work
+→ Coding Challenges (by John)
+→ NeetCode (by Navdeep)
+→ Taro (YC S22) (by Alex and Rahul)
+
+No single book, newsletter or platform makes us better engineers. 
+
+But the right mix of reading, practice and real-world experience will help us improve over time. 
+
+New year,
+More growth.
+
+#softwareengineering
+
+---
+♻️ Repost to help someone else become a better engineer
+➕ Follow Abdirahman Jama for software engineering tips",343.0,52.0,34,,,Teacher,Engineering/Technical,Personal Experience,Listicle/Breakdown,Text-only,"I'm a software engineer with 7+ years of experience, and I build distributed systems at AWS. Here are resources I'm using to become a better software ","I'm a software engineer with 7+ years of experience, and I build distributed systems at AWS. Here are resources I'm using to become a better software",,,,dataset_alexis_dataset,,,,
+"The best engineers I know are T-shaped.
+
+10 creators I read to build that breadth:
+
+
+0. Neo Kim (Founder of the System Design Newsletter):
+↳ All-in system design content to help you grow in your career
+
+1. Abdirahman Jama (SDE @ AWS):
+↳ Software engineering content you'll want to remember
+
+2. Jordan Cutler (Staff Software Engineer @ Pinterest):
+↳ Practical and career growth before and during the job
+
+3. Demitri Swan (Sr. SWE @ Apple):
+↳ Super technical content around C++ and Cloud infra
+
+4. Steve Huynh (ex-Amazon principal engineer):
+↳ Helps you level up fast, very fast
+
+5. Daniel Moka (120k followers):
+↳ Clean code, TDD, and all in between
+
+6. Kevin Naughton (ex-Google SWE):
+↳ Needs no introduction
+
+7. Dawn Choo (ex-Meta AI):
+↳ So much helpful content for data science and engineering
+
+8. Zach Wilson (Founder at DataExpert):
+↳ Data Engineering and mental health 101
+
+9. Sebastian Raschka, PhD (Founder @ RAIR lab):
+↳ So much depth and breadth about AI, a must!
+
+
+Who did I miss?
+
+
+~~~
+
+👉🏻 Join 50,001+ software engineers getting curated system design deep dives, trends, and tools (it's free):
+➔ https://lnkd.in/dkJiiBnf
+
+~~~
+
+If you found this valuable:
+
+👨🏼‍💻 Follow Alexandre Zajac
+🔖 Bookmark this post for later
+♻️ Repost to help someone in your network",216.0,36.0,18,,,Teacher,Engineering/Technical,Insight/Observation,Listicle/Breakdown,Text-only,The best engineers I know are T-shaped.,"The best engineers I know are T-shaped.
+
+10 creators I read to build that breadth:
+
+
+0. Neo Kim (Founder of the System Design Newsletter):
+↳ All-in sy",,,,dataset_alexis_dataset,,,,
+"You are what you eat.
+
+10 brain foods to grow as an engineer:
+
+
+0. Netflix's 5M Records/Second Real-Time Graph Processing:
+► https://lnkd.in/dACyJ4Dm
+
+1. Inside NVIDIA GPUs:
+► https://lnkd.in/d8Yf9mK2
+
+2. Google's Engineering Culture:
+► https://lnkd.in/dfX2t_9s
+
+3. Mozilla Firefox CTO on Browser War Stories:
+► https://lnkd.in/dEh5-W4f
+
+4. What Is a Principal Engineer at Microsoft? (by Dr Milan Milanović):
+► https://lnkd.in/dqSZKDUu
+
+5. How to Become a Great Coach and Mentor (by Gregor):
+► https://lnkd.in/dvfjFdfw
+
+6. The CAP Theorem Lie Everyone Keeps Repeating:
+► https://lnkd.in/dmcm5kHt
+
+7. How Open Table Formats Optimize Query Performance:
+► https://lnkd.in/dzXimau2
+
+8. JIT: So You Want to Be Faster Than an Interpreter on Modern CPUs:
+► https://lnkd.in/dKVaEsVj
+
+9. A One-Pager Is All You Need (by Jordan):
+► https://lnkd.in/dJ8bDCQT
+
+
+I am packaging the other deep dives and trends in today's issue of Hungry Minds.
+
+Join 50,001+ software engineers from big tech to startups here: https://lnkd.in/dkJiiBnf
+
+
+What are you reading this week?
+
+
+#softwarengineering #systemdesign #programming",199.0,27.0,18,,,Teacher,Engineering/Technical,Insight/Observation,Listicle/Breakdown,Text-only,You are what you eat.,"You are what you eat.
+
+10 brain foods to grow as an engineer:
+
+
+0. Netflix's 5M Records/Second Real-Time Graph Processing:
+► https://lnkd.in/dACyJ4Dm",,,,dataset_alexis_dataset,,,,
+"I almost can’t believe it: My newsletter The Operator’s Handbook crossed 10,000 subscribers!
+
+I started this newsletter a year ago as a way to reflect on my experiences and observations at various high-growth companies, and to feel productive while I figure out what’s next. I honestly had no idea at the time whether it would turn into something “real”; I was just writing about concepts I found interesting.
+
+Now, a year later, it has grown into a community of over 10k operators, and the reception has been mind-blowing. I’m still amazed that I can write 5,000+ word deep dives without clickbaity titles that get read by thousands, given where the content ecosystem as a whole is heading.
+
+A huge, heartfelt 𝘁𝗵𝗮𝗻𝗸 𝘆𝗼𝘂 to everyone who’s been reading, commenting, sharing, or just following along. Your feedback and support means everything 🙏.
+
+And a massive thank you to a few fellow newsletter writers:
+
+• Jordan Cutler, Benjamin Rogojan, Kyle Poyar, Ben Lang and Rameel Sheikh for the opportunity to write guest posts. Jordan is the real MVP as he reached out to me when I was still finding my style and barely had any traction, and the collab got me a massive boost in reach and motivation
+
+• Hilary Gridley for referring a crazy amount of subscribers through recommendations; as well as Anastasiya Kuznetsova, Tessa Xie, Giacomo Falcone, Mandy Liu (Lead Data Scientist, Ex-Meta), Andres Vourakis, Polina Russell (Moskovaya) and everyone else recommending the newsletter
+
+• And Lenny Rachitsky, the OG, for being the main inspiration for kicking off this project in the first place
+
+Now, back to writing. I have half a dozen of in-progress drafts I need to finish 😅
+
+Oh, and if you want to see WTF this Operators’ Handbook is that I’m talking about, check it out here: https://lnkd.in/ej5wzUy7",74.0,27.0,2,,,Contrarian,Product/Growth,Contrarian/Challenge,Story → Twist → Lesson,Text-only,"I almost can’t believe it: My newsletter The Operator’s Handbook crossed 10,000 subscribers!","I almost can’t believe it: My newsletter The Operator’s Handbook crossed 10,000 subscribers!
+
+I started this newsletter a year ago as a way to reflect",,,,dataset_alexis_dataset,,,,
+"""Oh, I’m sorry. You are absolutely right!""
+
+if you’ve spent time coding or playing with ai, this phrase is probably familiar.
+
+the new ""high growth engineer"" newsletter from Jordan Cutler just landed in my inbox, and it covers exactly how to solve this problem along with many other tactics for spotting when ai is misleading you.
+
+same issue? worth reading. 👋",25.0,2.0,1,,,Teacher,Engineering/Technical,Insight/Observation,Statement → Commentary,Text-only,"""Oh, I’m sorry. You are absolutely right!""","""Oh, I’m sorry. You are absolutely right!""
+
+if you’ve spent time coding or playing with ai, this phrase is probably familiar.
+
+the new ""high growth en",,,,dataset_alexis_dataset,,,,
+"You are what you eat.
+
+10 brain foods to grow as an engineer:
+
+
+0. From Go To Rust: How Grab Saved 70% In Infrastructure Costs:
+► https://lnkd.in/dcpa2n5q
+
+1. Concurrency Is NOT Parallelism (by Nikki):
+► https://lnkd.in/dbC94Wxf
+
+2. How Great Software Engineers Do Code Reviews (by Neo):
+► https://lnkd.in/d6wuAg_h
+
+3. People Who Make You Grow:
+► https://lnkd.in/dFATWe3C
+
+4. The Senior Engineer's Guide To Adding Context (by Jordan):
+► https://lnkd.in/d2iUTi3a
+
+5. From Engineer To Leader (by Gregor):
+► https://lnkd.in/db9JRe5c
+
+6. Run Your Own Race as a Dev:
+► https://lnkd.in/dRkmm7g5
+
+7. Inside Netflix's Threat Detection Pipeline Architecture (by Zach):
+► https://lnkd.in/dUq8jvWm
+
+8. How We Tracked Down A Critical Go Memory Leak:
+► https://lnkd.in/dcVFu2S2
+
+9. Work Life Balance Slows Down Career (by Sidwyn):
+► https://lnkd.in/dG3gBWhv
+
+
+I am packaging the other deep dives and trends in today's issue of Hungry Minds.
+
+Join 50,001+ software engineers from big tech to startups here: https://lnkd.in/dkJiiBnf
+
+
+What are you reading this week?
+
+
+#softwarengineering #systemdesign #programming",182.0,35.0,20,,,Teacher,Engineering/Technical,Insight/Observation,Listicle/Breakdown,Text-only,You are what you eat.,"You are what you eat.
+
+10 brain foods to grow as an engineer:
+
+
+0. From Go To Rust: How Grab Saved 70% In Infrastructure Costs:
+► https://lnkd.in/dcpa",,,,dataset_alexis_dataset,,,,
+"(R)evolution is here, we like it or not.
+
+
+During the last Infoshare 2025 Conference Jordan Cutler showed this slide: The engineering team structure we've known for years is changing, as we speak. Because AI and other tools / tech is more and more equipped in doing things for us, the skillset vs engineering role is shifting. 
+
+👉 Junior is becoming a Mid
+👉 Mid is becoming a Senior
+👉 Senior transforming into Staff Engineer (with a part of completely different skills)
+
+I wanted to come back to it because we had a great conversation with Ari Block during our Leman Tech Leadership Podcast recording session. We've discussed how there are big predictions about engineering teams in overall. Interesting and necessary trend to follow, and build risk management around it. So we take care of our teams and businesses as well.
+
+Do you see this transformation as well? Let's see what's already visible! 
+
+Pawel Solowinski, Anastasia Zygmantovich, Marta Kramer, Anna Raubo, Wojciech Ziółkowski, Jeremiasz Kucharski, Marcin Przybyla, Łukasz Filut, Alicja Karalus, Alaina Percival, Jakub Jastrzebski, Monika B., Kenny Kelley, William V. Powers, Jim Mirochnik, MBA, PMP, ISO Auditor, Michael Schank, Anne Glaberson, Marcus Fontoura, Anant Agarwal, Jacob Anderson, MSML, CISSP, CCP, CMMC RP, MCP, GDPR F, Ewelina Śliwińska, Evgeny Garlukovich",35.0,12.0,3,,,Teacher,Engineering/Technical,Insight/Observation,Contrast Format,Text-only,"(R)evolution is here, we like it or not.","(R)evolution is here, we like it or not.
+
+
+During the last Infoshare 2025 Conference Jordan Cutler showed this slide: The engineering team structure w",,,,dataset_alexis_dataset,,,,
+"I am grateful for Jordan Cutler and how he'll hop on a call to answer my DUMB questions. 
+
+Jordan runs a very successful newsletter called High Growth Engineer (link here --> https://lnkd.in/gCaXyd6x). He gives lots of talks. He has lots of followers. He is successful. He's also a super nice guy.
+
+I'm going to be giving bi-annual ""How to become a Staff+ Engineer"" webinars with O'Reilly. I have no idea how to market myself. I'm an engineer. That comes first, duh. But Jordan is a great engineer AND knows how to market himself. 
+
+Here's to hoping I learned something from Jordan 🤞
+
+Thank you, Jordan!
+
+#gratitudeMondays
+
+https://lnkd.in/g47RRRSX",22.0,3.0,1,,,Teacher,Engineering/Technical,Personal Experience,Statement → Commentary,Text-only,I am grateful for Jordan Cutler and how he'll hop on a call to answer my DUMB questions.,"I am grateful for Jordan Cutler and how he'll hop on a call to answer my DUMB questions. 
+
+Jordan runs a very successful newsletter called High Growth",,,,dataset_alexis_dataset,,,,
+"🚫 Stop building agents. Here's what you should build instead.
+
+Using agents in production code relinquishes all control to the LLM. While LLMs are smart, they're not THAT smart and will get many things wrong, like...
+• What tools should be used
+• When work should get handed off to the next agent
+• What the output should look like
+
+Agents are also highly non-deterministic. So the results of a documentation generation agent can make all your docs look inconsistent.
+
+✅ Here are the five AI patterns you should know that aren't agents.
+1. Prompt chaining: Call an LLM with a function. Get structured data. Feed that into the next LLM
+2. Parallelization: Break up LLM calls across multiple, parallelizable functions. It speeds up the final result and results in higher quality since the LLM can just focus on one thing for each prompt
+3. Routing: LLM classifies the input to a predefined set of values, then you call regular code based on what it returned
+4. Orchestrator & worker: LLM takes input and generates a dynamic set of substeps from the options available. Those substeps are passed off to workers for processing
+5. Evaluation & optimization: LLM takes a result and acts as an evaluator. If it doesn't meet the criteria provided, it loops back and iterates on it, like a newspaper editor.
+
+These patterns and code snippets are all documented in the latest High Growth Engineer article if you'd like to learn more: https://lnkd.in/eRXw6dar. Shout-out to Hugo Bowne-Anderson , the guest author for this article.
+
+And credit to Anthropic and their original article that came up with these patterns 🙏
+
+Which patterns have you found most useful in building real-world apps?",189.0,34.0,14,,,Contrarian,Engineering/Technical,Contrarian/Challenge,Listicle/Breakdown,Text-only,🚫 Stop building agents. Here's what you should build instead.,"🚫 Stop building agents. Here's what you should build instead.
+
+Using agents in production code relinquishes all control to the LLM. While LLMs are sma",,,,dataset_alexis_dataset,,,,
+"GitHub has 420M repositories.
+
+25 repos you can't miss out on as a software engineer:
+
+
+___
+BONUS: I share repos and deep dives to 50,001+ engineers for FREE here: https://lnkd.in/dkJiiBnf
+___
+
+
+𝗦𝘆𝘀𝘁𝗲𝗺 𝗗𝗲𝘀𝗶𝗴𝗻:
+
+0. The System Design Case Studies and Fundamentals:
+► https://lnkd.in/dbfAK_6A (by Neo)
+
+1. Awesome System Design Resources:
+► https://lnkd.in/dU6wFXkn (by Ashish)
+
+2. System Design Primer:
+► https://lnkd.in/dkPScaCW
+
+3. System Design 101:
+► https://lnkd.in/d5itZHgQ
+
+4. Essential JS Design Patterns:
+► https://lnkd.in/dWmBwK-i
+
+5. Coding Challenges Solutions:
+► https://lnkd.in/dJV_8pgH (by John)
+
+6. Awesome System Design for Distributed Systems:
+► https://lnkd.in/dxUB8Jey
+
+7. Big Tech Engineering Tech Blogs:
+► https://lnkd.in/dJaGjeES
+
+
+𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲 𝗥𝗼𝗮𝗱𝗺𝗮𝗽𝘀:
+
+8. The Comprehensive DevOps Roadmap:
+► https://lnkd.in/ddE5DkDJ (by Dr Milan Milanović)
+
+9. Path to Senior Engineer Handbook:
+► https://lnkd.in/dC3dQvy6 (by Jordan)
+
+10. 100+ Resources to Become a Great Engineering Leader:
+► https://lnkd.in/dFwV2GMv (by Gregor)
+
+11. Free Programming Books:
+► https://lnkd.in/d5JCRakw
+
+12. The Book of Secret Knowledge:
+► https://lnkd.in/d69jrK4T
+
+13. The Ultimate Developer Roadmap:
+► https://lnkd.in/dsCJgDnS (by Kamran)
+
+
+𝗔𝗜/𝗠𝗟:
+
+14. LLM 101 course:
+► https://lnkd.in/dVKwvVUR (by Maxime)
+
+15. Hands on LLM:
+► https://lnkd.in/dww8GPdt (by Paul)
+
+16. ML Paper of the Week:
+► https://lnkd.in/d66HxP52
+
+17. Notes on AI for Software Engineers:
+► https://lnkd.in/dANSnC4f
+
+18. Papers We Love:
+► https://lnkd.in/dkjsCq8z
+
+
+𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱:
+
+19. Awesome Front End System Design:
+► https://lnkd.in/dmk3VGVt
+
+20. Javascript Questions:
+► https://lnkd.in/dt_96xJZ
+
+21. Typescript advanced patterns workshop:
+► https://lnkd.in/deTBDhCb
+
+
+𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗽𝗿𝗲𝗽𝗮𝗿𝗮𝘁𝗶𝗼𝗻:
+
+22. Tech Interview Handbook:
+► https://lnkd.in/d2F5z4Af (by Yangshun)
+
+23. Guide to Software Engineering Interviews:
+► https://lnkd.in/dm2MbsgD
+
+24. Coding Interview University: 
+► https://lnkd.in/dH9NSDNX
+
+
+What are your favorite repos?
+
+
+#systemdesign #softwareengineering #programming",2214.0,122.0,420,,,Magician,Engineering/Technical,Insight/Observation,Listicle/Breakdown,Text-only,GitHub has 420M repositories.,"GitHub has 420M repositories.
+
+25 repos you can't miss out on as a software engineer:
+
+
+___
+BONUS: I share repos and deep dives to 50,001+ engineers f",,,,dataset_alexis_dataset,,,,
+"Had a great time having a talk today at the Infoshare conference in Gdansk, PL.
+
+I had a talk called: Future Proof Your Career as an Engineer in Gen Al World.
+
+This is also going to be a topic of today's newsletter article, where I'll share all the details of what the talk was all about!
+
+Also great meeting with fellow newsletter writers! Jordan Cutler, Anton Zaides, Michał Poczwardowski
+
+Check out their newsletters:
+- High Growth Engineer - https://lnkd.in/eg27JDYU
+- Manager(.)dev - https://lnkd.in/e7p4NZ6z
+- Perspectiveship - https://lnkd.in/ef23Dnkd",69.0,23.0,6,,,Teacher,Leadership/Management,Insight/Observation,Statement → Commentary,Text-only,"Had a great time having a talk today at the Infoshare conference in Gdansk, PL.","Had a great time having a talk today at the Infoshare conference in Gdansk, PL.
+
+I had a talk called: Future Proof Your Career as an Engineer in Gen A",,,,dataset_alexis_dataset,,,,
+"I was about to draft a post on my go-to Cursor prompts—then Jordan Cutler released “2025 Guide to Prompt Engineering in Your Editor” in his High Growth Engineer newsletter and covered everything (plus some gems I hadn’t even thought of).
+
+If you’re coding with Agent Mode in VS Code, Cursor, or Windsurf, bookmark this piece. Jordan shows how to:
+- break complex asks into Plan → Execute steps
+- assign the LLM a precise role (“act like a principal engineer”)
+- have it quiz you one question at a time
+- auto-generate specs, migration lists, and other context-packing artifacts
+
+It’s the great prompt-crafting guide. Check it out here:",24.0,2.0,2,,,Teacher,Engineering/Technical,Insight/Observation,Listicle/Breakdown,Text-only,I was about to draft a post on my go-to Cursor prompts—then Jordan Cutler released “2025 Guide to Prompt Engineering in Your Editor” in his High Growt,I was about to draft a post on my go-to Cursor prompts—then Jordan Cutler released “2025 Guide to Prompt Engineering in Your Editor” in his High Growt,,,,dataset_alexis_dataset,,,,
+"One of my early career mistakes was believing that 'expertise' is difficult or impossible to attain.
+
+A Staff Engineer at Pinterest exposed my mistake: within 2 weeks, he knew more about the codebase than me, even though I had been working in that area for a year.
+
+Not only did he ramp up dramatically faster, he was able to understand the abstractions far better than me. 
+
+After a few more weeks, he understood several abstractions and libraries more deeply than anyone in the entire company.
+
+Expertise is not something you magically get when you become senior enough. It's a prerequisite for seniority, and you can start building expertise today.
+
+You can become more knowledgeable than anyone as long as you narrow the scope appropriately. e.g. ""In one afternoon, I can understand more about the flags to configure git log compared to anyone on my team of 10 people.""
+
+Jordan Cutler talks more about this in his guide about becoming the go-to expert as a software engineer: https://lnkd.in/gBvqibJ2",107.0,9.0,2,,,Contrarian,Engineering/Technical,Contrarian/Challenge,Statement → Commentary,Text-only,One of my early career mistakes was believing that 'expertise' is difficult or impossible to attain.,"One of my early career mistakes was believing that 'expertise' is difficult or impossible to attain.
+
+A Staff Engineer at Pinterest exposed my mistake",,,,dataset_alexis_dataset,,,,
+"Coffee Chats Newsletter x Jordan Cutler, Senior Software Engineer at Pinterest just hit inboxes 🙌 
+
+Read it here: https://lnkd.in/eXZwYHMC
+
+What is Coffee Chats? Coffee Chats is a weekly newsletter featuring people in tech doing cool ass shit. Learn from people who work in big tech, what they do, and how they got there.",47.0,10.0,1,,,Teacher,Engineering/Technical,Insight/Observation,Statement → Commentary,Text-only,"Coffee Chats Newsletter x Jordan Cutler, Senior Software Engineer at Pinterest just hit inboxes 🙌","Coffee Chats Newsletter x Jordan Cutler, Senior Software Engineer at Pinterest just hit inboxes 🙌 
+
+Read it here: https://lnkd.in/eXZwYHMC
+
+What is Co",,,,dataset_alexis_dataset,,,,
+"One common pattern I've seen among engineers who grow fast in their careers is their ability to learn from others' growth.
+
+Here are some of the best no-fluff newsletters from staff engineers, principal engineers, and engineering directors that I like reading:
+
+ChaiTime – Career growth, tech leadership, going from intern to Google director.
+https://read.chaitime.ai
+
+High Growth Engineer – Fast-tracking career tips from a Pinterest tech lead.
+ https://lnkd.in/gn5PiqvZ
+
+A Life Engineered – Life + tech reflections from Amazon principal engineer.
+ https://lnkd.in/g7S6KQHG
+
+The Pragmatic Engineer – Deep dives on engineering orgs and career moves.
+ https://lnkd.in/gQuB5_K5
+
+The Developing Dev – Staff engineer tips in tight, weekly bites.
+ https://lnkd.in/gZXMcf5E
+
+Techlead Mentor – People skills and mindset shifts for tech leads.
+ https://lnkd.in/g9gN_rfb
+
+Engineering Leadership – Tactical insights for new and growing managers.
+ https://lnkd.in/gG44sSbk
+
+
+Got any others you love? Or your favorite editions of these newsletters? Drop them below 👇",301.0,13.0,9,,,Teacher,Leadership/Management,Insight/Observation,Statement → Commentary,Text-only,One common pattern I've seen among engineers who grow fast in their careers is their ability to learn from others' growth.,"One common pattern I've seen among engineers who grow fast in their careers is their ability to learn from others' growth.
+
+Here are some of the best",,,,dataset_alexis_dataset,,,,
+"You are what you eat.
+
+10 brain foods to grow as an engineer:
+
+
+0. How Airbnb Processes 1M+ Events/Second In Real-Time:
+► https://lnkd.in/dQXCHBce
+
+1. 15 Battle-Tested Strategies To Reduce Latency (by Ashish):
+► https://lnkd.in/dxgZAZJZ
+
+2. The Complete Guide To Engineering Investigation Documents (by Jordan):
+► https://lnkd.in/dW58HFmA
+
+3. Engineering Leadership Roadmap 2025: (by Gregor):
+► https://lnkd.in/dCfyxNuu
+
+4. The Future Of Data Engineering With AI - 2025 Edition (by Zach):
+► https://lnkd.in/dbvz2VDG
+
+5. Zero To Software Engineer: 100+ Free Resources (by Francisco):
+► https://lnkd.in/dEtQbnBc
+
+6. Why Fastify + React Leaves Next.js In The Dust:
+► https://lnkd.in/dne6dtDA
+
+7. Python's New T-Strings Explained:
+► https://lnkd.in/d76kGthv
+
+8. Building 3D Graphics With DuckDB-WASM And SQL:
+► https://lnkd.in/dgCwjvjG
+
+9. All the Anthropic Free Courses for Coding with AI:
+► https://lnkd.in/dqZcE-eb
+
+
+I am packaging the other deep dives and trends in today's issue of Hungry Minds.
+
+Join 50,001+ software engineers from big tech to startups here: https://lnkd.in/dkJiiBnf
+
+
+What are you reading this week?
+
+#softwarengineering #systemdesign #programming",479.0,54.0,43,,,Teacher,Engineering/Technical,Insight/Observation,Listicle/Breakdown,Text-only,You are what you eat.,"You are what you eat.
+
+10 brain foods to grow as an engineer:
+
+
+0. How Airbnb Processes 1M+ Events/Second In Real-Time:
+► https://lnkd.in/dQXCHBce
+
+1.",,,,dataset_alexis_dataset,,,,
+"Great meeting with Jordan Cutler in Philadelphia last week.
+
+We've met more than 2 years ago on LinkedIn, did a LOT of collaborations, including 2 newsletter articles.
+
+Met in San Francisco last year at Plato Elevate conference where we both facilitated our roundtables.
+
+And now happy to catch up once again in Philly.
+
+It's really great how meeting people on LinkedIn can turn into such great friendships!
+
+P.S. We'll both be having a talk at the Infoshare conference in Gdansk, PL in May, so will be awesome to catch up again.
+
+2 newsletter collabs that we did:
+
+1. Perfectionism - one of the biggest productivity killers in the engineering industry - https://lnkd.in/ehYmiz3V
+
+2. How to use Cursor AI to build side projects - https://lnkd.in/d9gEwWPS",71.0,37.0,3,,,Teacher,Engineering/Technical,Insight/Observation,Story → Twist → Lesson,Text-only,Great meeting with Jordan Cutler in Philadelphia last week.,"Great meeting with Jordan Cutler in Philadelphia last week.
+
+We've met more than 2 years ago on LinkedIn, did a LOT of collaborations, including 2 new",,,,dataset_alexis_dataset,,,,
+"'Twas the night before Saturday, in Pinterest's Web app,
+Jack Hsu and Mark Molinaro, with keyboards aglow,
+Migrated from Flow to TypeScript, 3.7 MILLION LINES in one go.
+ZERO incidents and bugs reported, their mission in sight,
+""Merry TypeScript to all, and to all a good night!""",94.0,3.0,2,,,Teacher,General,Insight/Observation,Setup → Punchline,Text-only,"'Twas the night before Saturday, in Pinterest's Web app,","'Twas the night before Saturday, in Pinterest's Web app,
+Jack Hsu and Mark Molinaro, with keyboards aglow,
+Migrated from Flow to TypeScript, 3.7 MILLI",,,,dataset_alexis_dataset,,,,
+"Today my wife taught me how boolean logic works 🤷️️️️️️
+__________
+
+I post regularly about software engineering, front end, memes, and more. 
+Follow me Yangshun Tay and my company GreatFrontEnd",754.0,36.0,16,,,Teacher,Engineering/Technical,Humor/Satire,Setup → Punchline,Text-only,Today my wife taught me how boolean logic works 🤷️️️️️️,"Today my wife taught me how boolean logic works 🤷️️️️️️
+__________
+
+I post regularly about software engineering, front end, memes, and more. 
+Follow m",,,,dataset_alexis_dataset,,,,
+"You are what you eat.
+
+10 brain foods to grow as an engineer:
+
+
+0. How Airbnb Built Their Search System With One Embedding Model:
+► https://lnkd.in/dSQMgKqm
+
+1. The Ultimate Guide To Distributed System Failures (by Ashish):
+► https://lnkd.in/d7emdjcR
+
+2. 8 Strategies to Prevent System Overload (by Nikki):
+► https://lnkd.in/drqCq8vn
+
+3. Breaking Free From The Feature Factory Trap:
+► https://lnkd.in/dEtarABs
+
+4. A Technical Deep Dive Behind AI Chatbots (by Jordan):
+► https://lnkd.in/dmq_VXh2
+
+5. Google's Framework For Measuring Developer Success:
+► https://lnkd.in/dCi6faee
+
+6. Don't Give Up on Engineer-PM Collaboration Yet (by Gregor):
+► https://lnkd.in/dyqYkwuE
+
+7. Tech Interviews 2025: What's Changed And How To Prepare:
+► https://lnkd.in/dQikUSpA
+
+8. The Engineering Leader's Roadmap (by Francisco):
+► https://lnkd.in/dnu37aiM
+
+9. Awesome MCP Servers:
+► https://lnkd.in/ddDbUhn4
+
+
+I am packaging the other deep dives and trends in today's issue of Hungry Minds.
+
+Join 50,001+ software engineers from big tech to startups here: https://lnkd.in/dkJiiBnf
+
+
+What are you reading this week?
+
+#softwarengineering #systemdesign #programming",142.0,42.0,8,,,Teacher,Product/Growth,Tactical/Framework,Listicle/Breakdown,Text-only,You are what you eat.,"You are what you eat.
+
+10 brain foods to grow as an engineer:
+
+
+0. How Airbnb Built Their Search System With One Embedding Model:
+► https://lnkd.in/dS",,,,dataset_alexis_dataset,,,,
+"Cursor AI can significantly help with productivity.
+
+When I went through all the insights shared by the awesome engineering leaders in the article ""How to use AI to increase Software Development productivity,"" one thing was repeated in almost all cases.
+
+A lot of leaders shared that the use of Cursor has significantly increased the Software Development productivity of their teams.
+
+I used Cursor before, but haven’t made the switch from VS Code, but after going through the insights, I was convinced that it’s a good time to do a deeper dive.
+
+In the newsletter article tomorrow, we will go through how you can use Cursor to build side projects and lucky for us, we'll also have 2 guests with us:
+- Jordan Cutler, Senior Software Engineer at Pinterest and
+- Sidwyn Koh, Staff Software Engineer at Meta.
+
+They are building their side project called WriteEdge with Cursor and are sharing behind the scenes how they are doing that.
+
+Plus I'll be sharing how I built the Engineering Leadership Endless Runner Game with Cursor as well.
+
+Tomorrow, I'll send out the newsletter called: ""How to use Cursor AI to build side projects""
+
+To not miss this article, make sure to join 124.6k+ engineering leaders here: https://lnkd.in/eNSKBMUf
+
+P.S. This article is not sponsored by Cursor, we are just sharing our insights based on real-world experience in order to help you launch your side projects faster!",44.0,3.0,3,,,Teacher,Engineering/Technical,Personal Experience,Contrast Format,Text-only,Cursor AI can significantly help with productivity.,"Cursor AI can significantly help with productivity.
+
+When I went through all the insights shared by the awesome engineering leaders in the article ""Ho",,,,dataset_alexis_dataset,,,,
+"Today I'm launching my new book 🎉
+
+How do you grow beyond senior as a designer?
+
+I've taken over 6 months to answer this question in the most actionable way in my new book.
+
+Most senior designers do not want to become managers. So I focused on the IC-roles (whether it's called Staff, Lead, or Principal at your organization).
+
+I researched how 50+ companies evaluate designers and employees, including Etsy, Medium, Dropbox, Square, Figma, Zendesk, and Intercom.
+
+I also interviewed 19 product designers on their progression at Figma, Instacart, Dropbox, Etsy, Twitter, and smaller companies.
+
+The book includes actionable techniques that helped other designers get promoted beyond senior: understanding business, finding project opportunities, setting standards, selling ideas, mentoring, increasing visibility, and more.
+
+(If you’re mid/junior-level, check out my previous book The Path to Senior Designer).
+
+🔗 Link in my profile or next to my name above.",1392.0,93.0,32,,,Teacher,Leadership/Management,Data/Numbers,Statement → Commentary,Text-only,Today I'm launching my new book 🎉,"Today I'm launching my new book 🎉
+
+How do you grow beyond senior as a designer?
+
+I've taken over 6 months to answer this question in the most actionab",,,,dataset_alexis_dataset,,,,
+"The Client Foundations org had the pleasure of hosting Chaitali Narla, former Google Director, for a talk on sponsorship in career growth.
+
+A few key takeaways that resonated with the team:
+1. Sponsorship differs from mentorship and coaching. It's about actively advocating for someone when they're not in the room.
+2. It takes social capital, and your social capital changes across multiple dimensions - skill, domain, and people for example.
+3. The part people often struggle with the most is making the ask. Many times leaders will advocate for you but need you to tell them how they can help.
+
+I also appreciated that Chaitali gave a 3-step framework for people to find sponsorship (maybe she can share in the comments 😃).
+
+Looking forward to the upcoming sponsorship requests to me and the Client Foundations leads! Thanks again for the great talk, Chaitali. It's greatly appreciated!",46.0,2.0,3,,,Contrarian,Leadership/Management,Contrarian/Challenge,Listicle/Breakdown,Text-only,"The Client Foundations org had the pleasure of hosting Chaitali Narla, former Google Director, for a talk on sponsorship in career growth.","The Client Foundations org had the pleasure of hosting Chaitali Narla, former Google Director, for a talk on sponsorship in career growth.
+
+A few key",,,,dataset_alexis_dataset,,,,
+"New feature: Chat with your tech spec!
+
+Stuck figuring out how to improve your spec? You can now ask WriteEdge AI for feedback and suggestions!",17.0,2.0,2,,,Teacher,AI/ML,Insight/Observation,Setup → Punchline,Text-only,New feature: Chat with your tech spec!,"New feature: Chat with your tech spec!
+
+Stuck figuring out how to improve your spec? You can now ask WriteEdge AI for feedback and suggestions!",,,,dataset_alexis_dataset,,,,
+"Today is day one of the Web Foundations Summit at Pinterest HQ in San Francisco! 🕸️ 📌 We kicked things off this morning with a great fireside chat (air squats included!) with our CTO, Matt Madrigal.
+
+Over the next two days we've got a packed agenda that includes deep dives, cross-team syncs, round table discussions, and some ping pong too! 🏓 
+
+Major kudos to Manuel Lara, Vasanth Krishnamoorthy, Marykarla Hernandez, and Roger Wang for making this happen!",108.0,4.0,2,,,Teacher,Leadership/Management,Insight/Observation,Statement → Commentary,Text-only,Today is day one of the Web Foundations Summit at Pinterest HQ in San Francisco! 🕸️ 📌 We kicked things off this morning with a great fireside chat (ai,Today is day one of the Web Foundations Summit at Pinterest HQ in San Francisco! 🕸️ 📌 We kicked things off this morning with a great fireside chat (ai,,,,dataset_alexis_dataset,,,,
+"🔮 How much time should you invest in estimating a project?
+
+
+It depends on the level of confidence you want to achieve.
+
+- In some specific cases, it's critical to have a very clear picture before starting.
+- While in the majority of cases, you can adjust your estimates on the go.
+
+📊 Should you always estimate projects?
+
+- Yes, in 85% of cases.
+- Avoid estimating R&D projects.
+
+💡 How can you practically estimate a new feature or a new project?
+
+I can't tell you everything here, but you're in luck! 
+
+Jordan Cutler did a deep dive on this in my latest newsletter article that just went out.
+
+Check it out and find much more about estimating projects! 👇
+
+https://lnkd.in/ddmhXgGF
+
+Shoutout to Tom Hill and his ""slices of value"" which I really appreciated and mentioned in the newsletter 🙂
+
+♻️ PLEASE REPOST IF YOU FOUND IT USEFUL, IT MEANS A LOT TO ME.
+
+---
+#estimates #management #leadership #productivity #time",50.0,31.0,2,,,Teacher,Product/Growth,Insight/Observation,Listicle/Breakdown,Text-only,🔮 How much time should you invest in estimating a project?,"🔮 How much time should you invest in estimating a project?
+
+
+It depends on the level of confidence you want to achieve.
+
+- In some specific cases, it'",,,,dataset_alexis_dataset,,,,
+"There's one aspect of engineering that, in my experience, is more challenging than anything else.
+
+
+🔮 Estimates.
+
+Estimating a project often leads to friction and frustration among teams.
+
+Why?
+
+🤝 Lack of collaboration: teams frequently work in silos rather than uniting to achieve a common objective.
+
+🧠 Lack of knowledge: there is often no mutual understanding of each other’s fields.
+
+🌐 Multiple teams involved: more teams involved = more complexity
+
+🎯 Estimations are essentially guesses: even when some factors are known, they are still largely speculative.
+
+However, while the practice of estimating projects depends on company and team culture, in some cases, estimates are crucial, especially when:
+
+🎯 The product team needs to decide on priorities
+👥 Multiple parties are involved
+⏳ The project is time-sensitive
+
+If you want to learn more about how to estimate projects effectively, I'll be sharing an article on the subject with my ~17K subscribers tomorrow.
+
+But there's more.
+
+To provide you with a well-rounded perspective, I’ve teamed up with my friend Jordan Cutler who will share his extensive experience as a Senior Software Developer and teacher at Maven. 
+
+Specifically, he will guide you through a practical and actionable use case of how he approaches project estimation!
+
+Don't miss out on it! 
+
+Subscribe to The Hybrid Hacker newsletter today, and you'll receive the article  straight in your inbox tomorrow morning! 👇
+
+https://lnkd.in/dA8yCkqT
+
+♻️ PLEASE REPOST IF YOU FOUND IT USEFUL, IT MEANS A LOT TO ME.
+
+---
+#estimates #management #leadership #product #productivity",408.0,65.0,19,,,Teacher,Leadership/Management,Personal Experience,Statement → Commentary,Text-only,"There's one aspect of engineering that, in my experience, is more challenging than anything else.","There's one aspect of engineering that, in my experience, is more challenging than anything else.
+
+
+🔮 Estimates.
+
+Estimating a project often leads to",,,,dataset_alexis_dataset,,,,
+"This is what I would do if I would be looking for a new engineering/engineering leadership role.
+
+1. First, I would make sure that my CV is on point
+It's the first impression that a hiring manager gets of you, and you must leave a good one.
+
+2. Ensure that my LinkedIn profile is updated and optimized
+Personally, LinkedIn has been huge for my career, as almost all the roles I've gotten have come through it. Either people contacted me directly, referred me, or I applied to a specific role.
+
+3. Find 3-5 roles that fit with what I would be looking for
+The reason for this is that the strategy called “spray and pray”, where you just send infinite CVs to infinite companies, normally doesn’t work so well, as companies receive a LOT of submissions.
+
+4. Find the hiring manager or recruiter responsible for the role on LinkedIn
+I would contact that person through LinkedIn and ask them a few questions about the role. Something that would be interesting for me to know and that would give me a better overview of what I can expect.
+
+5. I would try to stand out in this step already
+I would record a video, it would be a Loom video or something else, where I would share improvements (suggestions) to the product or service related to the company I am applying to. I would submit my CV and send the hiring manager the video.
+
+Even though this takes more time, especially if you are doing this for 3-5 companies, it’s a LOT better approach than just sending CVs and hoping for the best.
+
+Doing this will make it impossible for a hiring manager to ignore you.
+
+To learn more, read my latest article titled ""My Advice For Engineers and Engineering Leaders to Get a New Role Faster"" here: https://lnkd.in/eFYsB5pk
+
+2 resources included in the article:
+🎁 Recommended CV example by Jordan Cutler
+🎁 List of questions I have been asking on the behavioral interviews",39.0,20.0,3,,,Teacher,Leadership/Management,Insight/Observation,Listicle/Breakdown,Text-only,This is what I would do if I would be looking for a new engineering/engineering leadership role.,"This is what I would do if I would be looking for a new engineering/engineering leadership role.
+
+1. First, I would make sure that my CV is on point
+I",,,,dataset_alexis_dataset,,,,
+"One of the biggest regrets in my career was not being aware of engineering career levels early enough.
+
+Learn from my mistake, I don't want the same to happen to you.
+
+Understanding what is expected of each engineering level would have helped me make better decisions earlier in my career.
+
+I put together this mega engineering levels cheatsheet from junior levels up to staff level. 
+
+If you are an engineer, go through it and see if you are due for a promotion, or identify gaps and work towards the next level.
+
+If you are a student, get a sense of what is expected of you as you progress in your career.
+
+Note: These are general guidelines for the standard tech company, using Meta and Google as reference. There can and will be deviations/exceptions depending on company culture and priorities (e.g. some high level engineers still write a lot of code).
+
+#softwareengineering #career #faang #meta #google
+__________
+
+I post regularly about software engineering, front end, memes, and more. 
+Follow me Yangshun Tay and my company GreatFrontEnd",3139.0,72.0,299,,,Teacher,Engineering/Technical,Humor/Satire,Statement → Commentary,Text-only,One of the biggest regrets in my career was not being aware of engineering career levels early enough.,"One of the biggest regrets in my career was not being aware of engineering career levels early enough.
+
+Learn from my mistake, I don't want the same t",,,,dataset_alexis_dataset,,,,
+"Apprentice Engineer applications are opening soon. 📣The Pinterest Apprenticeship Program is an opportunity for candidates from non-traditional career backgrounds and those who face barriers of entry into the tech industry to experience engineering at Pinterest. 
+
+🤔 What’s it like to be an Apprentice Engineer at Pinterest? Here’s what Leonardo Arellano da Silva shared about his experience: 
+
+“As an Apprentice, I have had the opportunity to work on real-world projects at a large scale. This experience, along with guidance from mentors and teammates, has been invaluable in enhancing my knowledge and skills as an engineer.”
+
+🔔 Join our Apprenticeship Talent Community to be the first to know when applications are open. https://lnkd.in/ewfX9QbN",345.0,19.0,41,,,Teacher,Engineering/Technical,Insight/Observation,Statement → Commentary,Text-only,Apprentice Engineer applications are opening soon. 📣The Pinterest Apprenticeship Program is an opportunity for candidates from non-traditional career ,Apprentice Engineer applications are opening soon. 📣The Pinterest Apprenticeship Program is an opportunity for candidates from non-traditional career,,,,dataset_alexis_dataset,,,,
+"Now is the time to upskill. Stop thinking about how AI will eliminate your role and start thinking about how it will elevate it. Jordan Cutler’s advice? Diversify your skillset:
+
+“Develop your people and AI skills, use AI to solve problems and ensure you have the people skills to work with *anyone*”.
+
+He advises entry-level engineers to follow the 3 E’s framework:
+
+- Education: Evolve your understanding of the foundations, for example, embeddings and AI's probabilistic nature and randomness. There are AI courses on Udemy that can help.
+
+- Exposure: Curate your “information diet” and read content from credible experts (e.g., Ruben Hassid), whether in newsletters or following them on LinkedIn.
+
+- Experience: Start building products. AI can guide you to an output, and you’ll quickly understand whether your code has worked.
+
+For more tenured engineers, he recommends using AI to improve communication and design better systems:
+- Use tools like v0 to get to a higher fidelity prototype with minimal effort
+- Use tools like WriteEdge and @chatPRD to discuss/debate ideas
+
+In summary: use AI to reduce the “time to value” for a product
+
+We discuss this and more in this week’s edition of Hiring Humans (We also share some great resources to feed your information diet too 👀)",24.0,7.0,3,,,Contrarian,Engineering/Technical,Contrarian/Challenge,Listicle/Breakdown,Text-only,Now is the time to upskill. Stop thinking about how AI will eliminate your role and start thinking about how it will elevate it. Jordan Cutler’s advic,Now is the time to upskill. Stop thinking about how AI will eliminate your role and start thinking about how it will elevate it. Jordan Cutler’s advic,,,,dataset_alexis_dataset,,,,
+"You are what you eat.
+
+10 brain foods to grow as an engineer:
+
+
+0. System Design 101: YouTube with 2.5 Billion Users (by Ashish)
+► https://lnkd.in/dXBBF7-4
+
+1. Chaos Engineering: The Key To Bulletproof Systems (by Nikki):
+► https://lnkd.in/ddUdW3H5
+
+2. The Complete Guide To CDNs (by Dr Milan Milanović):
+► https://lnkd.in/d2Hg3RzJ
+
+3. Change Data Capture is The Future Of Data Engineering:
+► https://lnkd.in/dua84GmS
+
+4. How the Best Engineers 10X Their Productivity (by Francisco):
+► https://lnkd.in/dTss8vvm
+
+5. Essential Templates Every Software Engineer Needs (by Jordan):
+► https://lnkd.in/dD_TnhXH
+
+6. The Software Engineer's Guide to Emotional Intelligence (by Gregor):
+► https://lnkd.in/d7rf39hK
+
+7. Zero-Downtime Postgres Upgrades Made Simple:
+► https://lnkd.in/dWuzBsaU
+
+8. The Hidden Complexities Of WebSocket Scaling:
+► https://lnkd.in/dXAswPhk
+
+9. CSS Container Queries 101:
+► https://lnkd.in/dTeaAV45
+
+
+I am packaging the other deep dives and trends in today's issue of Hungry Minds.
+
+Join 45,001+ software engineers from big tech to startups here: https://lnkd.in/dkJiiBnf
+
+Credit on IG: fabianzelayahn
+
+
+What are you reading this week?
+
+#softwarengineering #systemdesign #programming",1242.0,77.0,111,,,Teacher,Engineering/Technical,Tactical/Framework,Listicle/Breakdown,Text-only,You are what you eat.,"You are what you eat.
+
+10 brain foods to grow as an engineer:
+
+
+0. System Design 101: YouTube with 2.5 Billion Users (by Ashish)
+► https://lnkd.in/dXB",,,,dataset_alexis_dataset,,,,
+"Software engineering is not dead. Far from it. Jordan Cutler, senior software engineer at Pinterest and author of the High Growth Engineer newsletter (>80k subscribers), says:
+
+Our expectations for each level of software engineer have changed.
+
+If you were previously a junior engineer who needed handholding to start writing code, you could use AI to write code like a mid-level engineer.
+
+Mid-level engineers can use AI to produce the output of a senior engineer. A senior engineer + AI = a Staff engineer, and so on and so forth.
+
+⏭︎ In next week’s edition of Hiring Humans, Charchris Sloan, Jordan, and I discuss:
+
+- The advice Jordan gives to entry-level software engineers
+- The importance of the “information diet” for keeping up with AI developments
+- How to use AI to improve communication and design better systems
+- The engineering skills that companies will interview for in the future
+
+🗓️ Post dropping on 06/02",95.0,22.0,3,,,Magician,Engineering/Technical,Insight/Observation,Listicle/Breakdown,Text-only,"Software engineering is not dead. Far from it. Jordan Cutler, senior software engineer at Pinterest and author of the High Growth Engineer newsletter ","Software engineering is not dead. Far from it. Jordan Cutler, senior software engineer at Pinterest and author of the High Growth Engineer newsletter",,,,dataset_alexis_dataset,,,,
+"As engineers, our greatest tool isn’t our code.
+
+It’s our writing.
+
+Writing helps us share ideas, align teams, and explain decisions. 
+
+Writing well makes everything clearer and more impactful.
+
+Here’s how I write better at work:
+
+1/ Know your audience: Who will read this? What do they already know? Tailor your writing to their needs.
+
+2/ Clarify your core message: What am I trying to convey? Use short sentences. Avoid jargon when possible.
+
+3/ Continuously edit your work: Your first draft is never perfect. I always read and tweak my writing multiple times.
+
+4/ Seek feedback from senior folks: Reach out to senior engineers to review and give feedback. Their perspectives are valuable.
+
+P.S. Want to write like a senior engineer? Jordan Cutler and I are launching WriteEdge – a platform to help you write tech specs & project updates like a senior engineer. Get simulated feedback from tech leads, product managers, and CTOs. Check it out:",136.0,15.0,5,,,Teacher,Engineering/Technical,Insight/Observation,Statement → Commentary,Text-only,"As engineers, our greatest tool isn’t our code.","As engineers, our greatest tool isn’t our code.
+
+It’s our writing.
+
+Writing helps us share ideas, align teams, and explain decisions. 
+
+Writing well m",,,,dataset_alexis_dataset,,,,
+"Welcome to Tech Advent Calendar - Day 14! 📆🎄🎅🏼
+
+Today, I'm delighted to spotlight an outstanding member of the software engineering community, Jordan Cutler! 🎁✨
+
+Jordan is the author of the High Growth Engineer newsletter, where he shares valuable insights and advice on various topics beyond mere coding 💎 
+
+His focus includes:
+
+🎙️ Communication skills: Essential for effective collaboration and career advancement.
+
+🏀 Teamwork and collaboration: Strategies to enhance team dynamics and productivity.
+
+💰 Understanding business aspects: Bridging the gap between tech and business for better decision-making.
+
+🚀 Career planning: Guidance on navigating your career path effectively.
+
+So, grab your favorite drink ☕🫖, get comfy 🕯️🛋️🕯️, and dive into this career booster!
+
+Links to the resources in the comments below👇👇👇🔗
+
+Happy learning, happy coding! 🚀
+
+#TechAdventCalendar #ContinuousLearning #DeveloperCommunity #SoftSkills #SoftwareEngineering #WebDevelopment",13.0,4.0,1,,,Teacher,Product/Growth,Insight/Observation,Statement → Commentary,Text-only,Welcome to Tech Advent Calendar - Day 14! 📆🎄🎅🏼,"Welcome to Tech Advent Calendar - Day 14! 📆🎄🎅🏼
+
+Today, I'm delighted to spotlight an outstanding member of the software engineering community, Jordan",,,,dataset_alexis_dataset,,,,
+"Business school teaches you about Porter's 5 Forces, SWOT etc., but you don't need that on the job. Here are frameworks you'll actually use:
+
+Throughout December, I'll share 𝗼𝗻𝗲 𝗵𝗲𝗹𝗽𝗳𝘂𝗹 𝗿𝗲𝘀𝗼𝘂𝗿𝗰𝗲 𝗼𝗿 𝗴𝘂𝗶𝗱𝗲 𝗲𝘃𝗲𝗿𝘆 𝗱𝗮𝘆 that will help you grow your career.
+
+𝙏𝙤𝙙𝙖𝙮: Frameworks that are actually useful.
+
+1️⃣ 𝗠𝗘𝗖𝗘
+
+MECE is the GOAT 🐐 of frameworks. It's less of a standalone framework in itself, but rather a principle that will help you make other frameworks more impactful.
+
+It stands for 𝗠utually 𝗘xclusive and 𝗖ollectively 𝗘xhaustive. This means when you're breaking down a problem, the segments you choose don't overlap and also cover every possibility.
+
+For example, breaking users into groups like ""new users"" and ""daily active users"" is not helpful for most analyses because a user can be both (new and active daily).
+
+For a deep dive on MECE and how to apply it in interviews, problem solving and on-the-job communication, check out my recent guest post on Jordan Cutler's newsletter: https://lnkd.in/emRSMFM6
+
+2️⃣ 𝗜𝘀𝘀𝘂𝗲 𝘁𝗿𝗲𝗲𝘀
+
+Issue trees help you bring structure into complicated problems or investigations.
+
+Instead of listing out random options, you are creating a structured hierarchy in the shape of a tree (see image).
+
+• 𝗦𝘁𝗲𝗽 𝟭: ARR is down? Could be fewer deals, lower win rates, or smaller deal sizes
+• 𝗦𝘁𝗲𝗽 𝟮: Win rates are lower? Could be driven by a conversion drop at any stage of the funnel
+
+etc.
+
+This ensures you can rule out options one-by-one and eventually find the issue or solution. And of course, this works best if your issue tree is 𝗠𝗘𝗖𝗘 😉
+
+𝙒𝙖𝙣𝙩 𝙩𝙤 𝙡𝙚𝙖𝙧𝙣 𝙝𝙤𝙬 𝙩𝙤 𝙙𝙤 𝙩𝙝𝙞𝙨 𝙞𝙣 𝙥𝙧𝙖𝙘𝙩𝙞𝙘𝙚? Here's the best guide I've read on the topic recently (by Tessa Xie): https://lnkd.in/epKauXXz
+
+3️⃣ 𝟮𝘅𝟮 𝗠𝗮𝘁𝗿𝗶𝘅
+
+It's easy to make fun of 2x2 matrices as a simple consultant tool to impress gullible CEOs. But the simplicity is what makes them so useful.
+
+Anyone can make a problem more complicated, but that doesn't help solve it. Our job is to 𝘀𝗶𝗺𝗽𝗹𝗶𝗳𝘆 complex issues.
+
+So next time you're faced with a difficult trade-off or decision, try to boil it down to the two dimensions that really matter and put your options into the four boxes. Chances are, it will be much easier to align on the path forward with others.",48.0,8.0,1,,,Contrarian,Leadership/Management,Contrarian/Challenge,Statement → Commentary,Text-only,"Business school teaches you about Porter's 5 Forces, SWOT etc., but you don't need that on the job. Here are frameworks you'll actually use:","Business school teaches you about Porter's 5 Forces, SWOT etc., but you don't need that on the job. Here are frameworks you'll actually use:
+
+Througho",,,,dataset_alexis_dataset,,,,
+"You are missing a lot of growth by not following these newsletters: 👇
+ 
+ 
+• The Hustling Engineer (https://bit.ly/3Yyf6BH) by Hemant Pandey 
+
+• AlgoMaster (https://bit.ly/46DhuJA) by Ashish Pratap Singh  
+
+• The T-Shaped Dev (https://bit.ly/4dtKm97) by Petar Ivanov 
+
+• System Design Newsletter (https://bit.ly/4ciyaXN) by Neo Kim 
+
+• Leadership Letters (https://bit.ly/3SFDa1Y) by Akash Mukherjee 
+
+• The Hybrid Hacker (https://bit.ly/3SCrJYW) by Nicola Ballotta 
+ 
+• Engineering Leadership (https://bit.ly/46w7nWZ) by Gregor Ojstersek 
+
+• Techlead Mentor (https://bit.ly/4fwuKnk) by Raviraj Achar 
+
+• Leading Developers (https://bit.ly/3yuMvmi) by Anton Zaides 
+ 
+• High Growth Engineer (https://bit.ly/3YsekX0) by Jordan Cutler 
+ 
+• Strategize Your Career (https://bit.ly/3WSUBP9) by Francisco Manuel Soto Ramírez 
+
+• The Curious Soul’s Corner (https://bit.ly/4friynX) by Gourav Khanijoe  
+
+• Product For Engineers (https://bit.ly/3Mcz11B) by Ian Vanagas
+
+• Byte Sized Design (https://bit.ly/3WZ8Dxx) by Alexandre Zajac 
+
+• The ML Engineer Insights (https://bit.ly/3AxB3He) by Kartik Singhal  
+
+• The Curious Mak (https://lnkd.in/guqVHuYx) by Mayank A. 
+
+ 
+ 
+Feel free to add more in the comments below ⤵️
+
+#growth",73.0,9.0,8,,,Teacher,Leadership/Management,Insight/Observation,Listicle/Breakdown,Text-only,You are missing a lot of growth by not following these newsletters: 👇,"You are missing a lot of growth by not following these newsletters: 👇
+ 
+ 
+• The Hustling Engineer (https://bit.ly/3Yyf6BH) by Hemant Pandey 
+
+• AlgoMa",,,,dataset_alexis_dataset,,,,
+"The Operator's Advent Calendar Day 4: How to communicate effectively in job interviews, with coworkers and when presenting to executives 👇
+
+Communication might seem like one of those ""everyday"" things that you don't need to learn. In reality, though, it's one of the most important skills to master if you want to be effective, regardless of whether you're an Engineer, a Data Scientist or in BizOps.
+
+📊 𝗬𝗼𝘂 𝗱𝗶𝗱 𝗮 𝗴𝗿𝗲𝗮𝘁 𝗮𝗻𝗮𝗹𝘆𝘀𝗶𝘀 𝗯𝘂𝘁 𝗻𝗼𝗯𝗼𝗱𝘆 𝗶𝘀 𝗮𝗰𝘁𝗶𝗻𝗴 𝗼𝗻 𝘆𝗼𝘂𝗿 𝗳𝗶𝗻𝗱𝗶𝗻𝗴𝘀? You probably didn't communicate well why people should care
+
+❌ 𝗬𝗼𝘂 𝗯𝘂𝗶𝗹𝘁 𝘁𝗵𝗲 𝘄𝗿𝗼𝗻𝗴 𝘁𝗵𝗶𝗻𝗴 𝗮𝗻𝗱 𝗵𝗮𝘃𝗲 𝘁𝗼 𝘀𝘁𝗮𝗿𝘁 𝗼𝘃𝗲𝗿? There was a disconnect between what your stakeholder told you they wanted and what you understood
+
+💥 𝗔𝗻𝗼𝘁𝗵𝗲𝗿 𝘁𝗲𝗮𝗺 𝗯𝗹𝗼𝘄𝘀 𝘂𝗽 𝘆𝗼𝘂𝗿 𝗹𝗮𝘂𝗻𝗰𝗵 𝗮𝘁 𝘁𝗵𝗲 𝗹𝗮𝘀𝘁 𝗺𝗶𝗻𝘂𝘁𝗲? You might not have been proactive and explicit enough in your communication
+
+Here are some of my favorite resources with practical tips to level up your communication today:
+
+𝘚𝘵𝘢𝘳𝘵 𝘳𝘪𝘨𝘩𝘵 𝘣𝘦𝘧𝘰𝘳𝘦 𝘺𝘰𝘶 𝘨𝘦𝘵 𝘦𝘢𝘵𝘦𝘯 𝘣𝘺 𝘵𝘩𝘦 𝘣𝘦𝘢𝘳 by Wes Kao (https://lnkd.in/eFNnFNcU)
+
+𝘚𝘪𝘨𝘯𝘱𝘰𝘴𝘵𝘪𝘯𝘨: 𝘏𝘰𝘸 𝘵𝘰 𝘳𝘦𝘥𝘶𝘤𝘦 𝘤𝘰𝘨𝘯𝘪𝘵𝘪𝘷𝘦 𝘭𝘰𝘢𝘥 𝘧𝘰𝘳 𝘺𝘰𝘶𝘳 𝘳𝘦𝘢𝘥𝘦𝘳 by Wes Kao (https://lnkd.in/eqMznG76)
+
+𝘏𝘰𝘸 𝘵𝘰 𝘊𝘰𝘮𝘮𝘶𝘯𝘪𝘤𝘢𝘵𝘦 𝘉𝘦𝘵𝘵𝘦𝘳 𝘢𝘴 𝘢 𝘋𝘢𝘵𝘢 𝘚𝘤𝘪𝘦𝘯𝘵𝘪𝘴𝘵 by Tessa Xie (https://lnkd.in/eAEkN69X)
+
+𝘊𝘰𝘮𝘮𝘶𝘯𝘪𝘤𝘢𝘵𝘦 𝘭𝘪𝘬𝘦 𝘢 𝘚𝘦𝘯𝘪𝘰𝘳: 𝘜𝘴𝘦 𝘤𝘭𝘦𝘢𝘳 𝘥𝘦𝘭𝘵𝘢𝘴 by Jordan Cutler (https://lnkd.in/eau87p8p)
+
+𝘜𝘴𝘦 𝘵𝘩𝘦𝘴𝘦 𝘸𝘰𝘳𝘥𝘴 𝘵𝘰 𝘣𝘦𝘤𝘰𝘮𝘦 𝘮𝘰𝘳𝘦 𝘱𝘦𝘳𝘴𝘶𝘢𝘴𝘪𝘷𝘦 by Giacomo Falcone (https://lnkd.in/e89nTtaU)
+
+𝘞𝘳𝘪𝘵𝘦 𝘚𝘪𝘮𝘱𝘭𝘺 by Paul Graham (https://lnkd.in/eQKGiggx)
+
+3 𝘴𝘵𝘦𝘱𝘴 𝘵𝘰 𝘸𝘳𝘪𝘵𝘦 𝘮𝘦𝘴𝘴𝘢𝘨𝘦𝘴 𝘵𝘩𝘢𝘵 𝘱𝘦𝘰𝘱𝘭𝘦 𝘸𝘪𝘭𝘭 𝘦𝘯𝘫𝘰𝘺 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 by Anton Zaides and Michał Poczwardowski (https://lnkd.in/eZM9xGb3)
+
+𝘉𝘦𝘺𝘰𝘯𝘥 𝘵𝘩𝘦 𝘳𝘦𝘴𝘶𝘮𝘦: 𝘮𝘢𝘴𝘵𝘦𝘳 𝘵𝘩𝘦 𝘢𝘳𝘵 𝘰𝘧 𝘵𝘦𝘭𝘭𝘪𝘯𝘨 𝘺𝘰𝘶𝘳 𝘤𝘢𝘳𝘦𝘦𝘳 𝘴𝘵𝘰𝘳𝘺 by Nikhyl Singhal (https://lnkd.in/e5T5VCeg)
+
+𝘍𝘰𝘶𝘳 𝘊𝘰𝘮𝘮𝘶𝘯𝘪𝘤𝘢𝘵𝘪𝘰𝘯 𝘗𝘳𝘰𝘣𝘭𝘦𝘮𝘴 𝘠𝘰𝘶 𝘕𝘦𝘦𝘥 𝘵𝘰 𝘈𝘥𝘥𝘳𝘦𝘴𝘴 by Deborah Liu (https://lnkd.in/eQzd73Ej)
+
+𝘏𝘰𝘸 𝘵𝘰 𝘤𝘰𝘮𝘮𝘶𝘯𝘪𝘤𝘢𝘵𝘦 𝘦𝘧𝘧𝘦𝘤𝘵𝘪𝘷𝘦𝘭𝘺 by Torsten Walbaum (https://lnkd.in/e2zyD2D6)
+
+𝘏𝘰𝘸 𝘵𝘰 𝘴𝘪𝘮𝘱𝘭𝘪𝘧𝘺 𝘤𝘰𝘮𝘱𝘭𝘦𝘹 𝘪𝘴𝘴𝘶𝘦𝘴 by Torsten Walbaum (https://lnkd.in/ecJ5jje2)
+
+Any other great resources I missed?",17.0,7.0,2,,,Teacher,Engineering/Technical,Insight/Observation,Statement → Commentary,Text-only,"The Operator's Advent Calendar Day 4: How to communicate effectively in job interviews, with coworkers and when presenting to executives 👇","The Operator's Advent Calendar Day 4: How to communicate effectively in job interviews, with coworkers and when presenting to executives 👇
+
+Communicat",,,,dataset_alexis_dataset,,,,
+"If you want to learn and grow, here are 10 great tech articles to read over the upcoming days:
+ 
+ 
+10) From Concept to Clarity: 2 Easy Steps to Kickstart Your Product Idea:
+https://bit.ly/3ZtOthk 
+ 
+Author: Petar Ivanov
+ 
+ 
+9) How Netflix Uses Chaos Engineering to Create Resilience Systems:
+https://bit.ly/3WMG3zh 
+ 
+Author: Neo Kim
+ 
+ 
+8) Don’t share schemas. Share APIs:
+https://bit.ly/4gjrCLe 
+ 
+Author: Raul Junco
+ 
+ 
+7) How Consistent Hashing Works?:
+https://bit.ly/3ZG8Rej 
+ 
+Author: Saurabh Dashora
+ 
+ 
+6) The one framework every engineer should know:
+https://bit.ly/4eZ3Vqh 
+ 
+Author: Jordan Cutler and Torsten Walbaum
+ 
+ 
+5) From laid off to hired: A Software Engineer’s guide:
+https://bit.ly/3CXb6lA 
+ 
+Author: Gregor Ojstersek and David Weiss
+ 
+ 
+4) How To Create Your Own Luck:
+https://bit.ly/4fjs4Z6 
+ 
+Author: John Crickett
+ 
+ 
+3) Problem Details for ASP.NET Core APIs:
+https://bit.ly/3ZN45gl 
+ 
+Author: Milan Jovanović
+ 
+ 
+2) Work-Life Balance:
+https://bit.ly/3ZA9PtE 
+ 
+Author: Fernando Franco
+ 
+ 
+1) Concurrency vs Parallelism:
+https://bit.ly/3ZENMSF 
+ 
+Author: Ashish Pratap Singh
+ 
+ 
+0) You can also check Alexandre Zajac who writes a weekly curating important articles:
+https://buff.ly/3KsEL6N 
+ 
+ 
+What else would you add to this list?
+ 
+
+---
+
+ 
+👋 Join 14,444+ people learning JavaScript, Software Design, and Architecture:
+https://buff.ly/3wVIypx 
+ 
+♻ Repost to help others find it 🤝
+ 
+Let's learn and grow together! 🚀 
+ 
+#softwareengineering #programming #thetshapeddev",66.0,19.0,3,,,Teacher,Engineering/Technical,Tactical/Framework,Listicle/Breakdown,Text-only,"If you want to learn and grow, here are 10 great tech articles to read over the upcoming days:","If you want to learn and grow, here are 10 great tech articles to read over the upcoming days:
+ 
+ 
+10) From Concept to Clarity: 2 Easy Steps to Kickst",,,,dataset_alexis_dataset,,,,
+"""Grow as an Operator"" Advent Calendar Day 2: My favorite newsletters with actionable advice that help you level up at work (Part 1) 👇
+
+Any one of these will give you more value (for free) than an on-the-job training or an MBA:
+
+💬 𝗠𝗮𝗻𝗮𝗴𝗶𝗻𝗴 𝘂𝗽, 𝗺𝗮𝘅𝗶𝗺𝗶𝘇𝗶𝗻𝗴 𝘆𝗼𝘂𝗿 𝗶𝗺𝗽𝗮𝗰𝘁 𝗲𝘁𝗰.
+
+𝘞𝘦𝘴 𝘒𝘢𝘰'𝘴 𝘕𝘦𝘸𝘴𝘭𝘦𝘵𝘵𝘦𝘳 by Wes Kao (https://lnkd.in/eq39Mqvs): Super tactical guides on how to manage up, how to communicate more succinctly etc.
+
+𝘏𝘪𝘨𝘩 𝘎𝘳𝘰𝘸𝘵𝘩 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳 by Jordan Cutler (https://lnkd.in/egV5gvD9): I'm not an engineer, but 90% of his posts still deeply resonate with me. Every single article is packed with actionable tips and concrete examples of how to apply things
+
+𝘛𝘩𝘦 𝘖𝘱𝘦𝘳𝘢𝘵𝘰𝘳'𝘴 𝘏𝘢𝘯𝘥𝘣𝘰𝘰𝘬 by Torsten Walbaum (https://lnkd.in/ej5wzUy7): I heard it's good, and the author is, like, super nice
+
+📊 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗱𝗮𝘁𝗮
+
+𝘋𝘪𝘷𝘪𝘯𝘨 𝘪𝘯𝘵𝘰 𝘋𝘢𝘵𝘢 by Tessa Xie (https://lnkd.in/evemk4x6): Actionable guides (with a heavy emphasis on frameworks) for anyone working in an analytical role. If I wrote an analytics-focused newsletter, I'd want it to be like this
+
+𝘉𝘐 𝘉𝘪𝘵𝘦𝘴 by Anastasiya Kuznetsova (https://lnkd.in/e7Q9ZtdB): The best resources to level up your data visualization and dashboarding skills 
+
+𝘚𝘦𝘢𝘵𝘵𝘭𝘦𝘋𝘢𝘵𝘢𝘎𝘶𝘺 by Benjamin Rogojan (https://lnkd.in/eyaKVhh9): From in-depth technical guides to advice on building and managing data teams, this newsletter is relevant for anyone working with data
+
+𝘛𝘰 𝘉𝘦 𝘢 𝘋𝘢𝘵𝘢 𝘚𝘤𝘪𝘦𝘯𝘵𝘪𝘴𝘵 by Andres Vourakis (https://lnkd.in/ez9RWvsZ): Actionable guides on anything from leveling up your DS IC work to acing interviews and landing data jobs
+
+⚙️ 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗻𝗴 𝗮 𝗰𝗼𝗺𝗽𝗮𝗻𝘆
+
+𝘛𝘩𝘦 𝘉𝘰𝘵𝘵𝘭𝘦𝘯𝘦𝘤𝘬 by Rameel Sheikh (https://lnkd.in/eJmvR6Zx): Hands-on, no-BS advice on just about any topic operators need to deal with when scaling companies
+
+𝘔𝘰𝘴𝘵𝘭𝘺 𝘔𝘦𝘵𝘳𝘪𝘤𝘴 by CJ Gustafson (https://lnkd.in/eE-gkEP4): Metrics, forecasting, budgeting, incentive-setting; you name it. Not just useful for CFOs.
+
+🚀 𝗚𝗿𝗼𝘄𝗶𝗻𝗴 𝗰𝗼𝗺𝗽𝗮𝗻𝗶𝗲𝘀 𝗮𝗻𝗱 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝘀
+
+𝘓𝘦𝘯𝘯𝘺'𝘴 𝘕𝘦𝘸𝘴𝘭𝘦𝘵𝘵𝘦𝘳 by Lenny Rachitsky (https://lnkd.in/eraZtD5Q): Well-researched guides on building and growing products & companies (+ amazing guest authors)
+
+𝘋𝘢𝘯 𝘏𝘰𝘤𝘬'𝘴 𝘌𝘴𝘴𝘢𝘺𝘴 by Dan Hockenmaier (https://www.danhock.co/): Some of the most thoughtful essays on building marketplaces and growing businesses (+ your career)
+
+𝘎𝘳𝘰𝘸𝘵𝘩 𝘜𝘯𝘩𝘪𝘯𝘨𝘦𝘥 by Kyle Poyar (https://lnkd.in/ez_NpuNJ): In-depth guides and playbooks for SaaS, often backed up by data you won't find anywhere else
+
+𝘗𝘳𝘰𝘥𝘶𝘤𝘵 𝘎𝘳𝘰𝘸𝘵𝘩 by Aakash Gupta (https://lnkd.in/eZFT3CDN): Extremely comprehensive company case studies and growth playbooks
+
+I reached the LinkedIn character limit, so stay tuned for a Part 2 in the future :)",33.0,18.0,3,,,Teacher,Engineering/Technical,Data/Numbers,Statement → Commentary,Text-only,"""Grow as an Operator"" Advent Calendar Day 2: My favorite newsletters with actionable advice that help you level up at work (Part 1) 👇","""Grow as an Operator"" Advent Calendar Day 2: My favorite newsletters with actionable advice that help you level up at work (Part 1) 👇
+
+Any one of thes",,,,dataset_alexis_dataset,,,,
+"You are what you eat.
+
+10 brain foods to grow as an engineer:
+
+
+0. How LinkedIn Scaled Their System to 5 Million Queries Per Second (by Arpan G.): https://lnkd.in/d6CSetfx
+
+1. Concurrency vs Parallelism (by Ashish Pratap Singh): https://lnkd.in/dRK_qQQ9
+
+2. How We Built a Self-Healing System to Survive a Terrifying Concurrency Bug At Netflix: https://lnkd.in/dA3VuHFH
+
+3. The One Framework Every Engineer Should Know (by Jordan Cutler): https://lnkd.in/dt67WaYa
+
+4. How I Prepared for a Staff Data Engineer Interview at Airbnb (by Zach Morris Wilson): https://lnkd.in/dRVjYGCB
+
+5. 5 Non-LLM Software Trends To Be Excited About: https://lnkd.in/dp46kVM7
+
+6. How Canva Improves Search Results Without Lookup: https://lnkd.in/d5pm2Xqr
+
+7. 7 practical tips on performance optimizations in React applications (by Petar Ivanov): https://lnkd.in/dpRBSgKy
+
+8. Binary Vector Embeddings are Performance Beasts: https://lnkd.in/d-Adnpr7
+
+9. How Slack Reduced 50% of Cache Nodes in Their Clusters: https://lnkd.in/dYXdu-bN
+
+
+I am packaging the other deep dives and trends in today's issue of Hungry Minds.
+
+Join 40,001+ software engineers from big tech to startups here: newsletter.hungryminds.dev
+
+
+What are you reading this week?
+
+#softwarengineering #systemdesign #programming",1108.0,92.0,84,,,Teacher,Engineering/Technical,Tactical/Framework,Listicle/Breakdown,Text-only,You are what you eat.,"You are what you eat.
+
+10 brain foods to grow as an engineer:
+
+
+0. How LinkedIn Scaled Their System to 5 Million Queries Per Second (by Arpan G.): htt",,,,dataset_alexis_dataset,,,,
+"🌟 Shoutout to an incredible coach, mentor, and friend, Jordan Cutler 🌟
+If you're in the tech industry and striving to grow personally and professionally, you must know about Jordan and his High Growth Engineer community.
+For the past 87 weeks, Jordan has poured his heart, expertise, and passion into this newsletter, sharing invaluable insights for engineers looking to accelerate their growth. Whether it’s navigating career challenges, mastering new skills, or simply staying inspired, his content has been a game-changer for many—including me.
+What sets Jordan apart isn’t just his knowledge and genuine care for helping others succeed. As a coach, he’s been a guiding light in my journey. As a mentor, he’s challenged me to think bigger. And as a friend, he’s always been there with encouragement and wisdom.
+Jordan recently announced that he’s taking a well-earned break to recharge and focus on quality over quantity, and I couldn’t support this more. It’s a testament to his commitment to delivering the best value to his community.
+For those who haven’t subscribed to High Growth Engineer (https://lnkd.in/gt2Qe-Fn), now’s the time to join this incredible network of like-minded professionals. And if you’re already a subscriber, consider taking advantage of his new Lifetime plan—it’s an investment in your growth that will pay dividends.
+Jordan, thank you for your dedication, insights, and unwavering support. I’m proud to be part of this journey with you, and I can’t wait to see what’s next. 🙌
+#HighGrowthEngineer #Coaching #Mentorship #CareerGrowth #EngineeringLeadership",16.0,5.0,1,,,Teacher,Leadership/Management,Insight/Observation,Statement → Commentary,Text-only,"🌟 Shoutout to an incredible coach, mentor, and friend, Jordan Cutler 🌟","🌟 Shoutout to an incredible coach, mentor, and friend, Jordan Cutler 🌟
+If you're in the tech industry and striving to grow personally and professional",,,,dataset_alexis_dataset,,,,
+"Imagine you are checking some dashboards and notice new signups dropped by 50%. What do you do?
+
+Most people will start with:
+❌ “I think I know what’s happening. The signup page might be down again; didn’t that happen last quarter? Or it could be related to that iOS update we shipped. But it’s also December, and it could just be a weak time for signups. Maybe it will go away on its own…”
+
+What’s the problem with this? 
+
+𝗧𝗵𝗶𝘀 𝘀𝗲𝘁 𝗼𝗳 𝗿𝗮𝗻𝗱𝗼𝗺 𝗵𝘆𝗽𝗼𝘁𝗵𝗲𝘀𝗲𝘀 𝗱𝗼𝗲𝘀𝗻’𝘁 𝗵𝗮𝘃𝗲 𝗮 𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 𝗮𝗻𝗱 𝗶𝘀 𝗻𝗼𝘁 𝗰𝗼𝗹𝗹𝗲𝗰𝘁𝗶𝘃𝗲𝗹𝘆 𝗲𝘅𝗵𝗮𝘂𝘀𝘁𝗶𝘃𝗲. 
+
+If you get lucky, you find the problem; but if you’re not lucky, you might spend the entire day chasing down dead ends.
+
+And if you don’t finish the investigation quickly, you’ll likely 𝘀𝘁𝗮𝗿𝘁 𝗴𝗼𝗶𝗻𝗴 𝗶𝗻 𝗰𝗶𝗿𝗰𝗹𝗲𝘀 since you lose track of what you already looked into.
+
+🎯 The solution: Break the problem into an issue tree that follows the MECE principle.
+
+------------------------------------
+
+Yeah, I also have framework fatigue. Too many acronyms to remember, and most of them are useless in the day-to-day. 
+
+Last week, Jordan's and Torsten's article made me reconsider. 
+
+I promise you, it's quite genius:
+https://lnkd.in/dRgTyAJp
+
+𝘐𝘯 𝘵𝘩𝘦 𝘱𝘰𝘴𝘵, 𝘐'𝘮 𝘥𝘪𝘳𝘦𝘤𝘵𝘭𝘺 𝘲𝘶𝘰𝘵𝘪𝘯𝘨 1 𝘰𝘶𝘵 𝘰𝘧 5 𝘦𝘹𝘢𝘮𝘱𝘭𝘦𝘴 𝘧𝘳𝘰𝘮 𝘵𝘩𝘦 𝘢𝘳𝘵𝘪𝘤𝘭𝘦. 𝘈𝘭𝘭 𝘤𝘳𝘦𝘥𝘪𝘵 𝘵𝘰 𝘑𝘰𝘳𝘥𝘢𝘯 𝘢𝘯𝘥 𝘛𝘰𝘳𝘴𝘵𝘦𝘯!
+
+------------------------------------
+
+𝗠𝗘𝗖𝗘 = 𝗠utually 𝗘xclusive and 𝗖ollectively 𝗘xhaustive.
+
+You break down the problem into non-overlapping segments, that cover 𝗔𝗟𝗟 𝗽𝗼𝘀𝘀𝗶𝗯𝗹𝗲 𝗼𝗽𝘁𝗶𝗼𝗻𝘀. 
+
+You start by dividing the possible root causes into high-level groups. Then, you break these groups down further, ensuring every possibility is captured and none of the buckets overlap.
+
+✅ After: “There are 𝘁𝘄𝗼 𝗼𝗽𝘁𝗶𝗼𝗻𝘀 for what could be happening: Either something is broken, or the data only makes it look like there’s a problem. If something’s broken, it could be isolated to a specific OS, or affect all devices. And the issue could be at any of the three steps of the signup process, so we’ll check them one by one.”
+
+Don’t rely on luck to find the root cause. The MECE framework gives you a structure that ensures you will find it, and makes it easy to:
+
+1. get everyone on the same page on what’s being investigated.
+2. divide the work between different people or teams.
+
+Another benefit of using this structure is that since you have an overview of all possible things you need to check, you can prioritize what to investigate first.
+
+For example, you can see that checking for a data issue or seasonality first can potentially save you a lengthy investigation.
+
+------------------------------------
+
+In the article, Jordan and Torsten also covered:
+1. Acing interviews 
+2. Giving investigation updates
+3. Explaining something to your colleagues
+4. Deciding what to work on",25.0,11.0,2,,,Magician,Culture/Career,Tactical/Framework,Listicle/Breakdown,Text-only,Imagine you are checking some dashboards and notice new signups dropped by 50%. What do you do?,"Imagine you are checking some dashboards and notice new signups dropped by 50%. What do you do?
+
+Most people will start with:
+❌ “I think I know what’s",,,,dataset_alexis_dataset,,,,
+"I've interviewed hundreds of people as a hiring manager at Uber, Meta and Rippling. The candidates who crushed it all had one thing in common:
+
+𝗧𝗵𝗲𝘆 𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲𝗱 𝘁𝗵𝗲𝗶𝗿 𝗰𝗼𝗺𝗺𝘂𝗻𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗶𝗻 𝗮 𝗠𝗘𝗖𝗘 𝘄𝗮𝘆.
+
+In case you're not familiar with the concept: MECE stands for 𝗠utually 𝗘xclusive and 𝗖ollectively 𝗘xhaustive. This means when you're breaking down a problem, the segments you choose don't overlap and cover every possibility.
+
+𝗦𝗼 𝘄𝗵𝗮𝘁 𝗱𝗼𝗲𝘀 𝘁𝗵𝗮𝘁 𝗹𝗼𝗼𝗸 𝗹𝗶𝗸𝗲 𝗶𝗻 𝗮𝗻 𝗶𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄? When I asked candidates to solve a problem, many immediately jumped deep into the details.
+
+The strongest candidates, on the other hand, first gave a structured overview of the problem and the different ways it could be solved. It usually sounded somewhat like this:
+
+✅ “There are generally 𝘁𝗵𝗿𝗲𝗲 𝘄𝗮𝘆𝘀 we can grow ads monetization: We can 𝗲𝗶𝘁𝗵𝗲𝗿 𝟭) grow engagement, 𝟮) show more ads, or 𝟯) increase CPMs. Based on the information you provided, CPMs seem harder to move, so I'll focus on  #1 and #2. Starting with engagement, we have 𝘁𝘄𝗼 𝗼𝗽𝘁𝗶𝗼𝗻𝘀: [...]”
+
+🤔 As the interviewer, I have no way of knowing what the candidate is thinking. But if they show their reasoning like this, I can easily follow along.
+
+𝗜 𝗸𝗻𝗼𝘄 𝘁𝗵𝗲𝘆 𝗮𝗻𝗮𝗹𝘆𝘇𝗲𝗱 𝘁𝗵𝗲 𝗽𝗿𝗼𝗯𝗹𝗲𝗺, 𝗲𝘃𝗮𝗹𝘂𝗮𝘁𝗲𝗱 𝘁𝗿𝗮𝗱𝗲𝗼𝗳𝗳𝘀, 𝗮𝗻𝗱 𝗶𝗻𝘁𝗲𝗻𝘁𝗶𝗼𝗻𝗮𝗹𝗹𝘆 𝗰𝗵𝗼𝘀𝗲 𝘁𝗵𝗲𝗶𝗿 𝗮𝗽𝗽𝗿𝗼𝗮𝗰𝗵.
+
+But interviews aren't the only use case; you can apply this to any problem you're solving, or any time you're communicating with other people.
+
+For an in-depth guide with 𝟱 𝘂𝘀𝗲 𝗰𝗮𝘀𝗲𝘀 𝗮𝗻𝗱 𝘁𝗼𝗻𝘀 𝗼𝗳 𝗮𝗰𝘁𝗶𝗼𝗻𝗮𝗯𝗹𝗲, 𝗿𝗲𝗮𝗹-𝗹𝗶𝗳𝗲 𝗲𝘅𝗮𝗺𝗽𝗹𝗲𝘀, check out the post below.
+
+Super excited for this collaboration with Jordan Cutler to go live!",232.0,14.0,13,,,Teacher,Leadership/Management,Personal Experience,Statement → Commentary,Text-only,"I've interviewed hundreds of people as a hiring manager at Uber, Meta and Rippling. The candidates who crushed it all had one thing in common:","I've interviewed hundreds of people as a hiring manager at Uber, Meta and Rippling. The candidates who crushed it all had one thing in common:
+
+𝗧𝗵𝗲𝘆 𝘀",,,,dataset_alexis_dataset,,,,
+"40 famous GitHub repos to help you pass software engineering job interviews:
+
+𝗖𝗼𝗱𝗶𝗻𝗴 𝗮𝗻𝗱 𝗦𝘆𝘀𝘁𝗲𝗺 𝗗𝗲𝘀𝗶𝗴𝗻 
+
+1. Tech Interview Handbook: 
+ https://lnkd.in/d2F5z4Af (by Yangshun Tay)
+
+2. Guide to software engineering interviews: 
+ https://lnkd.in/dm2MbsgD (by Kevin Naughton)
+
+3. Coding Interview University:
+ https://lnkd.in/gydeNvaV
+
+4. What Happens when you type google.com in browser:
+ https://lnkd.in/gbWkADQ6
+
+5. 30 seconds of Code:
+ https://lnkd.in/g2MeSvmT
+
+6. System Design Chapter Wise Explained: 
+ https://lnkd.in/gtYDU8UD
+
+7. Computer Science Papers for System Design by Arpit Adlakha (𝐀𝐮𝐭𝐡𝐨𝐫):
+ https://lnkd.in/gkxJ8QAM
+
+8. Top System Design Resources by Gaurav Sen:
+ https://lnkd.in/dbjymD_2
+
+9. All Resources for Coding, LLD and HLD interviews by Arpit Adlakha
+ https://lnkd.in/g8W4NrP5
+
+10. Big Tech engineering tech blogs: 
+ https://lnkd.in/dJaGjeES
+
+11. System design primer: 
+ https://lnkd.in/dkPScaCW (by Donne Martin)
+
+12. Essential JS design patterns: 
+ https://lnkd.in/dWmBwK-i (by Addy Osmani)
+
+13. Awesome scalability: 
+ https://lnkd.in/de4UZbiA
+
+14. Awesome System Design Resources: 
+ https://lnkd.in/dU6wFXkn (by Ashish Pratap Singh)
+
+15. Coding Challenges solutions: 
+ https://lnkd.in/dJV_8pgH (by John Crickett)
+
+
+𝗟𝗟𝗠/𝗔𝗜:
+
+16. Hands on LLM: 
+ https://lnkd.in/dww8GPdt (by Paul Iusztin)
+
+17. Papers we love: 
+ https://lnkd.in/dkjsCq8z
+
+18. Notes on AI for software engineers: 
+ https://lnkd.in/dANSnC4f
+
+19. LLM 101 course: '
+ https://lnkd.in/dVKwvVUR (by Maxime Labonne)
+
+20. ML paper of the week: 
+ https://lnkd.in/d66HxP52 (by Elvis S.)
+
+
+𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲 𝗿𝗼𝗮𝗱𝗺𝗮𝗽𝘀:
+
+21. Path to senior engineer handbook: 
+ https://lnkd.in/dC3dQvy6 (by Jordan Cutler)
+
+22. 100+ Resources to become a great Engineering leader: https://lnkd.in/dFwV2GMv (by Gregor Ojstersek)
+
+23. DevOps roadmap in 2024: 
+ https://lnkd.in/ddE5DkDJ (by Dr Milan Milanović)
+
+24. The Book of Secret Knowledge: 
+ https://lnkd.in/d69jrK4T
+
+25. Free programming books: 
+ https://lnkd.in/d5JCRakw
+
+26. The ultimate developer roadmap: 
+ https://lnkd.in/dsCJgDnS (by Kamran Ahmed)
+
+
+𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱:
+
+27. CSS for JS dev notes: 
+ https://lnkd.in/dCNavrNv (by Tiger Abrodi)
+
+28. Javascript Questions: 
+ https://lnkd.in/dt_96xJZ (by Lydia Hallie)
+
+29. Typescript advanced patterns workshop: 
+https://lnkd.in/deTBDhCb (by Matt Pocock)
+
+30. You Don't know JS by Kyle Simpson: 
+ https://lnkd.in/gXthz97k
+
+𝗠𝗶𝘀𝗰𝗲𝗹𝗹𝗮𝗻𝗲𝗼𝘂𝘀
+
+31) https://lnkd.in/e7SUQ3ei
+32) https://lnkd.in/e7EjsJNF
+33) https://lnkd.in/e9MuB_Yg
+34) https://lnkd.in/exkJCxVi
+35) https://lnkd.in/eXAzAJ3M
+36) https://lnkd.in/eMzPM_rd
+37) https://lnkd.in/e5Cv-hqb
+38) https://lnkd.in/e_4pA8xV
+39) https://lnkd.in/ePCzV3zF
+40) https://lnkd.in/gxwTMhHh
+
+
+
+Covers system design, javascript, interview questions (SDE), and more. 
+
+𝐀𝐧𝐲 𝐨𝐭𝐡𝐞𝐫 𝐭𝐨𝐩 𝐫𝐞𝐬𝐨𝐮𝐫𝐜𝐞𝐬 𝐈'𝐦 𝐦𝐢𝐬𝐬𝐢𝐧𝐠
+
+𝗝𝗼𝗶𝗻 𝗺𝘆 𝘁𝗲𝗹𝗲𝗴𝗿𝗮𝗺 𝗰𝗵𝗮𝗻𝗻𝗲𝗹 - https://lnkd.in/d_PjD86B
+
+Happy learning !",856.0,45.0,185,,,Teacher,Engineering/Technical,Insight/Observation,Listicle/Breakdown,Text-only,40 famous GitHub repos to help you pass software engineering job interviews:,"40 famous GitHub repos to help you pass software engineering job interviews:
+
+𝗖𝗼𝗱𝗶𝗻𝗴 𝗮𝗻𝗱 𝗦𝘆𝘀𝘁𝗲𝗺 𝗗𝗲𝘀𝗶𝗴𝗻 
+
+1. Tech Interview Handbook: 
+ https://lnkd.in",,,,dataset_alexis_dataset,,,,
+"If you want to learn and grow, here are 10 great tech articles to read over the upcoming days:
+ 
+ 
+10) Seven practical tips on performance optimizations in React applications :
+https://bit.ly/4eywavY
+ 
+Author: Petar Ivanov
+ 
+ 
+9) Why Is Redis a Distributed Swiss Army Knife:
+https://bit.ly/3CxK3gm
+ 
+Author: Neo Kim
+ 
+ 
+8) Five Frameworks To Master Communication And Influence As An Engineer :
+https://bit.ly/40V1DoX 
+ 
+Author: Jordan Cutler and Wes Kao
+ 
+ 
+7) Should you do on-call rotations in your engineering org:
+https://bit.ly/4eFGMcv 
+ 
+Author: Gregor Ojstersek
+ 
+ 
+6) Top 5 Caching Strategies Explained:
+https://bit.ly/3YsNcFK 
+ 
+Author: Ashish Pratap Singh
+ 
+ 
+5) Intro to GraphQL:
+https://bit.ly/49fqxBT 
+ 
+Author: Saurabh Dashora
+ 
+ 
+4) Horizontal Scaling Starts with Load Balancers – But Doesn’t Stop There: 
+https://bit.ly/3YWoRZ5 
+ 
+Author: Raul Junco
+ 
+ 
+3) The Complete Guide to Starting TDD:
+https://bit.ly/490wKBj 
+ 
+Author: Daniel Moka
+ 
+ 
+2) Two Simple Rules to Write Cleaner JavaScript Functions:
+https://bit.ly/4fVWeC5
+ 
+Author: Edi Rodriguez
+ 
+ 
+1) Why and How to Build Your Personal Brand on LinkedIn:
+https://bit.ly/4fRQjOs 
+ 
+Author: Hemant Pandey
+ 
+ 
+0) You can also check Alexandre Zajac who writes a weekly curating important articles:
+https://buff.ly/3KsEL6N 
+ 
+ 
+What else would you add to this list?
+ 
+ 
+👋 Join 13,777+ people learning JavaScript, Software Design, and Architecture:
+https://buff.ly/3wVIypx 
+ 
+---
+ 
+♻ Repost to help others find it 🤝
+ 
+Let's learn and grow together! 🚀 
+ 
+#softwareengineering #programming #thetshapeddev",65.0,19.0,3,,,Teacher,Engineering/Technical,Tactical/Framework,Listicle/Breakdown,Text-only,"If you want to learn and grow, here are 10 great tech articles to read over the upcoming days:","If you want to learn and grow, here are 10 great tech articles to read over the upcoming days:
+ 
+ 
+10) Seven practical tips on performance optimizatio",,,,dataset_alexis_dataset,,,,
+"You are missing a lot of growth by not following these newsletters: 👇
+ 
+ 
+• The Hustling Engineer (https://bit.ly/3Yyf6BH) by Hemant Pandey  
+
+• AlgoMaster (https://bit.ly/46DhuJA) by Ashish Pratap Singh  
+
+• The T-Shaped Dev (https://bit.ly/4dtKm97) by Petar Ivanov  
+
+• System Design Newsletter (https://bit.ly/4ciyaXN) by Neo Kim  
+
+• Path to Staff Engineer (https://lnkd.in/gpzsAXNH) by Sidwyn Koh 
+ 
+• Engineering Leadership (https://bit.ly/46w7nWZ) by Gregor Ojstersek  
+
+• Techlead Mentor (https://bit.ly/4fwuKnk) by Raviraj Achar  
+
+• Leading Developers (https://bit.ly/3yuMvmi) by Anton Zaides  
+ 
+• High Growth Engineer (https://bit.ly/3YsekX0) by Jordan Cutler  
+ 
+• Strategize Your Career (https://bit.ly/3WSUBP9) by Francisco Manuel Soto Ramírez  
+
+• The Curious Soul’s Corner (https://bit.ly/4friynX) by Gourav Khanijoe  
+
+• Product For Engineers (https://bit.ly/3Mcz11B) by Ian Vanagas  
+
+• Byte Sized Design (https://bit.ly/3WZ8Dxx) by Alex Nguyen 
+
+• The ML Engineer Insights (https://bit.ly/3AxB3He) by Kartik Singhal  
+
+• The Curious Mak (https://lnkd.in/guqVHuYx) by Mayank A. 
+
+ • Smarter Techies (https://lnkd.in/gQs3QC9q) by Mandy Liu (Lead Data Scientist, Ex-Meta) 
+
+ 
+ 
+Feel free to add more in the comments below ⤵️
+
+#growth",60.0,16.0,4,,,Teacher,Leadership/Management,Insight/Observation,Listicle/Breakdown,Text-only,You are missing a lot of growth by not following these newsletters: 👇,"You are missing a lot of growth by not following these newsletters: 👇
+ 
+ 
+• The Hustling Engineer (https://bit.ly/3Yyf6BH) by Hemant Pandey  
+
+• AlgoM",,,,dataset_alexis_dataset,,,,
+"Here is a good list of tech newsletters that give you incredible knowledge mostly for free:
+ 
+ 
+15) The T-Shaped Dev (https://buff.ly/3wVIypx)
+↳ all things related to javascript, software design, and architecture
+ 
+14) System Design One (https://bit.ly/47WUzI1)
+↳ real-world architectures and system design
+ 
+13) High Growth Engineer (https://buff.ly/3TDC7jG)
+↳ actionable advice for software engineers and career growth
+ 
+12) Craft Better Software (https://bit.ly/3OuSNap)
+↳ test-driven development (TDD) and extreme programming (XP)
+ 
+11) Engineering Leadership (https://buff.ly/4a9hDou)
+↳ all things related to engineering leadership
+ 
+10) System Design Codex (https://bit.ly/3AUgZ28)
+↳ practical system design lessons
+ 
+9) System Design Classroom (https://bit.ly/3YWndXz)
+↳ system design and software architecture
+ 
+8) Strategize your Career (https://buff.ly/43ixnTT)
+↳ concise career growth tips
+ 
+7) Algo Master (https://buff.ly/4awGt2o)
+↳ coding, dsa, and system design
+ 
+6) .NET & Software Architecture (https://bit.ly/3Ovawyq)
+↳ all things related to .NET and software architecture
+ 
+5) The Hustling Engineer (https://buff.ly/3PKs36v)
+↳ actionable career growth tips
+ 
+4) Coding Challenges (https://bit.ly/491ZGZ4)
+↳ weekly coding challenges
+ 
+3) Level Up Coding (https://buff.ly/3xi7PdV)
+↳ visual articles on software engineering and system design
+ 
+2) Tech World (https://bit.ly/4eAwI48)
+↳ all things tech, from productivity to software architecture
+ 
+1) Leading Developers (https://buff.ly/3PoXAul)
+↳ lessons and insights on being a better engineering leader
+ 
+0) Hungry Minds (https://buff.ly/43YEMrO)
+↳ weekly curated articles on AI and software engineering
+ 
+ 
+Authors: 
+• Petar Ivanov
+• Neo Kim
+• Jordan Cutler
+• Daniel Moka
+• Gregor Ojstersek
+• Saurabh Dashora
+• Raul Junco
+• Francisco Manuel Soto Ramírez
+• Ashish Pratap Singh
+• Milan Jovanović
+• Hemant Pandey
+• John Crickett
+• Nikki Siapno
+• Dr Milan Milanović
+• Anton Zaides
+• Alexandre Zajac
+ 
+ 
+---
+
+♻ Repost to help others find it 🙏 
+
+#softwareengineering #programming #thetshapeddev",152.0,29.0,27,,,Teacher,Engineering/Technical,Insight/Observation,Listicle/Breakdown,Text-only,Here is a good list of tech newsletters that give you incredible knowledge mostly for free:,"Here is a good list of tech newsletters that give you incredible knowledge mostly for free:
+ 
+ 
+15) The T-Shaped Dev (https://buff.ly/3wVIypx)
+↳ all t",,,,dataset_alexis_dataset,,,,
+"Through the network effect on LinkedIn, I was invited to speak at Pinterest.
+
+My friend Thiago Ghisi connected me with 🌀 Luca Rossi for a podcast interview. 
+
+Luca and I recorded an episode on effective communication for engineers. 
+Jordan Cutler appreciated the content on Luca's podcast episode and contacted me on LinkedIn for a guest talk at Pinterest. Thanks Jordan for the invitation!
+
+If you run learning sessions for engineers or managers’ learning circles, DM me for speaking engagements. I have a ton of practical and useful content on leadership, effective communication, storytelling, and pursuing intrinsic goals in life.",30.0,21.0,2,,,Teacher,Marketing/Content,Insight/Observation,Statement → Commentary,Text-only,"Through the network effect on LinkedIn, I was invited to speak at Pinterest.","Through the network effect on LinkedIn, I was invited to speak at Pinterest.
+
+My friend Thiago Ghisi connected me with 🌀 Luca Rossi for a podcast inte",,,,dataset_alexis_dataset,,,,
+"You are missing a lot of growth by not following these newsletters: 👇
+ 
+ 
+• The Hustling Engineer (https://bit.ly/3Yyf6BH) by Hemant Pandey
+
+• AlgoMaster (https://bit.ly/46DhuJA) by Ashish Pratap Singh 
+
+• The T-Shaped Dev (https://bit.ly/4dtKm97) by Petar Ivanov
+
+• System Design Newsletter (https://bit.ly/4ciyaXN) by Neo Kim
+
+• Leadership Letters (https://bit.ly/3SFDa1Y) by Akash Mukherjee
+
+• The Hybrid Hacker (https://bit.ly/3SCrJYW) by Nicola Ballotta
+ 
+• Engineering Leadership (https://bit.ly/46w7nWZ) by Gregor Ojstersek
+
+• Techlead Mentor (https://bit.ly/4fwuKnk) by Raviraj Achar
+
+• Leading Developers (https://bit.ly/3yuMvmi) by Anton Zaides
+ 
+• High Growth Engineer (https://bit.ly/3YsekX0) by Jordan Cutler
+ 
+• Strategize Your Career (https://bit.ly/3WSUBP9) by Francisco
+
+• The Curious Soul’s Corner (https://bit.ly/4friynX) by Gourav Khanijoe 
+
+• Product For Engineers (https://bit.ly/3Mcz11B) by Ian Vanagas
+
+• Byte Sized Design (https://bit.ly/3WZ8Dxx) by Alexandre Zajac
+
+• The ML Engineer Insights (https://bit.ly/3AxB3He) by Kartik Singhal 
+
+• The Curious Mak (https://lnkd.in/guqVHuYx) by Mayank A.
+
+ 
+ 
+Feel free to add more in the comments below ⤵️
+
+#growth",31.0,12.0,4,,,Teacher,Leadership/Management,Insight/Observation,Listicle/Breakdown,Text-only,You are missing a lot of growth by not following these newsletters: 👇,"You are missing a lot of growth by not following these newsletters: 👇
+ 
+ 
+• The Hustling Engineer (https://bit.ly/3Yyf6BH) by Hemant Pandey
+
+• AlgoMas",,,,dataset_alexis_dataset,,,,
+"There are 27 million software engineers.
+
+But many of them don't know the most useful tech newsletters.
+
+Here are some must-subscribe newsletters that will give you incredible value for free:
+
+
+1/ system design:
+↳ https://lnkd.in/ed4URjuY
+
+2/ mentorship from a staff engineer:
+↳ https://lnkd.in/eNneVivf
+
+3/ engineering leadership:
+↳ https://lnkd.in/eMPajCPZ
+
+4/ actionable advice for fast career growth:
+↳ https://lnkd.in/ejnxq8tc
+
+5/ test-driven development:
+↳ https://lnkd.in/eKK-gf_X
+
+6/ software architecture:
+↳ https://lnkd.in/es3xiTSy
+
+7/ people skills and leadership:
+↳ https://lnkd.in/efnQFuDC
+
+8/ software design:
+↳ https://thetshaped.dev/
+
+9/ career growth:
+↳ https://lnkd.in/e2-fJ-eD
+
+10/ coding challenges:
+↳ https://lnkd.in/eNspX-pB
+
+11/ data engineering:
+↳ https://lnkd.in/ee5VUxvT
+
+12/ career advice from a staff engineer:
+↳ https://lnkd.in/ePjzsuFj
+
+13/ fast career growth tips:
+↳ https://lnkd.in/e-eSbsp3
+
+Each newsletter on this list taught me something new.
+And helped with growing my newsletter to 100K+ readers in a year.
+
+What else would you add?
+
+⬳
+
+Also tagging the writers so you can follow:
+
+• Gregor Ojstersek
+• Ryan Peterman
+• Francisco Manuel Soto Ramírez
+• Raul Junco
+• Daniel Moka
+• Irina Stanescu
+• John Crickett
+• Zach Morris Wilson
+• Petar Ivanov
+• Raviraj Achar
+• Hemant Pandey
+• Jordan Cutler
+
+⬳
+
+If you liked this post:
+
+🔔 Follow Neo Kim
+
+♻ Repost to help others find it
+
+💾 Save this post for future reference",1030.0,77.0,143,,,Teacher,Engineering/Technical,Insight/Observation,Listicle/Breakdown,Text-only,There are 27 million software engineers.,"There are 27 million software engineers.
+
+But many of them don't know the most useful tech newsletters.
+
+Here are some must-subscribe newsletters that",,,,dataset_alexis_dataset,,,,
+"If you want to learn and grow, here are 10 great tech articles to read over the upcoming days:
+ 
+ 
+10) How to use Reducer in React for better State Management: 2 effective ways for simpler design and architecture:
+https://bit.ly/3AranYS 
+ 
+Author: Petar Ivanov
+ 
+ 
+9) How Google Search Works:
+https://bit.ly/4eohsqZ
+ 
+Author: Neo Kim
+ 
+ 
+8) Out With the Old: 3 Steps for a Successful Software Migration Plan:
+https://bit.ly/3CgHRd6
+ 
+Author: Jordan Cutler and Maxi Ferreira
+ 
+ 
+7) Not All Features Are Equal:
+https://bit.ly/3CcYTc5 
+ 
+Author: Raul Junco
+ 
+ 
+6) Clean Architecture: The Missing Chapter:
+https://bit.ly/3CqYa75 
+ 
+Author: Milan Jovanović
+
+ 
+5) Why Engineers Should Be at the Product Strategy Table:
+https://bit.ly/3YRjr2O 
+ 
+Author: Hemant Pandey and Wayne Chen
+ 
+ 
+4) Simple code is the best code: 
+https://bit.ly/3Auxt0M
+ 
+Author: Gregor Ojstersek
+ 
+ 
+3) How to have 27 hours in your day:
+https://bit.ly/48A4G7T
+ 
+Author: Anton Zaides
+ 
+ 
+2) Some important learnings from my 20 years of engineering life:
+https://bit.ly/4fDa6kJ 
+ 
+Author: Dr Milan Milanović
+ 
+ 
+1) Intro to OAuth 2:
+https://bit.ly/3CqYra7
+ 
+Author: Saurabh Dashora
+ 
+ 
+0) You can also check Alexandre Zajac who writes a weekly curating important articles:
+https://buff.ly/3KsEL6N 
+ 
+ 
+What else would you add to this list?
+ 
+ 
+👋 Join 13,310+ people learning JavaScript, Software Design, and Architecture:
+https://buff.ly/3wVIypx 
+ 
+---
+ 
+♻ Repost if you found the post helpful and help others find it. 🙏 
+ 
+Let's learn and grow together! 🚀 
+ 
+#softwareengineering #programming #thetshapeddev",83.0,36.0,8,,,Teacher,Engineering/Technical,Personal Experience,Listicle/Breakdown,Text-only,"If you want to learn and grow, here are 10 great tech articles to read over the upcoming days:","If you want to learn and grow, here are 10 great tech articles to read over the upcoming days:
+ 
+ 
+10) How to use Reducer in React for better State Ma",,,,dataset_alexis_dataset,,,,
+"Jedi trick to get past ""no"" and beat friction: Keep asking ""why"" to expand the pool of options.
+
+Let's say you need to add a new field to another team's API endpoint. You go to their channel and ask if it's ok with them. 
+
+They say, ""We already have so many fields on this endpoint and don't want to add anymore.""
+
+🫠 with that response, they don't give you much to work with.
+
+But, asking ""WHY?"" reveals new opportunities.
+• You: ""Why is having more a problem?"" 
+• Them: ""We want to be wary of performance.""
+
+Ahh, no new fields was the surface reason. Performance is the root reason.
+
+• You: ""Would it be ok then if I ran benchmarks on the new field to make sure they're within your threshold?""
+• Them: ""Sure! We'd be ok with trying that.""
+
+Like magic, you went from no -> yes by asking ""why.""
+
+As a Jedi would say, ""These are not the real reasons you are blocking me for"" 😉 
+
+--
+In the newest High Growth Engineer article, I expand on this example even further, showing you what to do if the performance benchmarks come out poorly and still get past ""no."" 
+
+Plus, I share 4 other tricks like this with examples. 
+
+Check it out here: https://lnkd.in/eyE2cY6k",94.0,14.0,1,,,Magician,Engineering/Technical,Insight/Observation,Listicle/Breakdown,Text-only,"Jedi trick to get past ""no"" and beat friction: Keep asking ""why"" to expand the pool of options.","Jedi trick to get past ""no"" and beat friction: Keep asking ""why"" to expand the pool of options.
+
+Let's say you need to add a new field to another team",,,,dataset_alexis_dataset,,,,
+"📬 Frontend at Scale #34 is out today!
+
+This week, we have a short essay on the controversial topic of separation of concerns, a longer article about software migrations, and a bunch of cool resources on every topic from performance to AI-generated code to spooky UIs 👻
+
+Check it out here 👇
+
+https://lnkd.in/gVJ_pyKN
+
+And don't forget to subscribe to get the next issue INFUSED directly into your inbox.",115.0,0.0,5,,,Teacher,Engineering/Technical,Insight/Observation,Statement → Commentary,Text-only,📬 Frontend at Scale #34 is out today!,"📬 Frontend at Scale #34 is out today!
+
+This week, we have a short essay on the controversial topic of separation of concerns, a longer article about s",,,,dataset_alexis_dataset,,,,
+"𝐈𝐟 𝐲𝐨𝐮 𝐚𝐫𝐞 𝐚 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐞𝐧𝐠𝐢𝐧𝐞𝐞𝐫 𝐰𝐡𝐨 𝐚𝐧𝐬𝐰𝐞𝐫𝐬 𝐢𝐧 𝐚 𝐟𝐞𝐰 𝐦𝐢𝐧𝐮𝐭𝐞𝐬 𝐚𝐥𝐥 𝐦𝐞𝐬𝐬𝐚𝐠𝐞𝐬, 𝐲𝐨𝐮 𝐚𝐫𝐞 𝐝𝐢𝐬𝐭𝐫𝐚𝐜𝐭𝐞𝐝.
+
+Software engineering requires longer periods of focused work.
+
+You can choose to be available or you can choose to be impactful.
+
+I wrote an article with the techniques I follow to remove distractions working in big tech in an open-floor office. 
+
+Read it here: https://lnkd.in/dTnMh3HR
+
+♻️ REPOST to help someone today
+#softwareengineering #productivity #coding #programming",2933.0,179.0,114,,,Teacher,Engineering/Technical,Insight/Observation,Statement → Commentary,Text-only,"𝐈𝐟 𝐲𝐨𝐮 𝐚𝐫𝐞 𝐚 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐞𝐧𝐠𝐢𝐧𝐞𝐞𝐫 𝐰𝐡𝐨 𝐚𝐧𝐬𝐰𝐞𝐫𝐬 𝐢𝐧 𝐚 𝐟𝐞𝐰 𝐦𝐢𝐧𝐮𝐭𝐞𝐬 𝐚𝐥𝐥 𝐦𝐞𝐬𝐬𝐚𝐠𝐞𝐬, 𝐲𝐨𝐮 𝐚𝐫𝐞 𝐝𝐢𝐬𝐭𝐫𝐚𝐜𝐭𝐞𝐝.","𝐈𝐟 𝐲𝐨𝐮 𝐚𝐫𝐞 𝐚 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐞𝐧𝐠𝐢𝐧𝐞𝐞𝐫 𝐰𝐡𝐨 𝐚𝐧𝐬𝐰𝐞𝐫𝐬 𝐢𝐧 𝐚 𝐟𝐞𝐰 𝐦𝐢𝐧𝐮𝐭𝐞𝐬 𝐚𝐥𝐥 𝐦𝐞𝐬𝐬𝐚𝐠𝐞𝐬, 𝐲𝐨𝐮 𝐚𝐫𝐞 𝐝𝐢𝐬𝐭𝐫𝐚𝐜𝐭𝐞𝐝.
+
+Software engineering requires longer periods of focused",,,,dataset_alexis_dataset,,,,
+"Contributing to or organizing an engineering guild is a great way to grow in your career!
+
+A great example of doing this the right way is Jordan Cutler.
+
+This is what he did:
+- He started to share tips and overall knowledge and awareness on Frontend topics by creating a Slack channel.
+- He shared daily tips which led to more and more people joining it every day.
+- New people started to also share knowledge and tips there.
+- This has then become a place for people to share and exchange knowledge on Frontend topics.
+
+Jordan has similarly contributed to other guilds for example GraphQL guild and this has been one of the key things that played a part in his promotion to the Senior SWE position.
+
+To read more details, make sure to not miss the newsletter I have just sent out.
+
+I have just sent out a newsletter to 81.3k+ engineering leaders called ""Grow in your career by organizing an engineering guild"".
+
+🎁 Notion Template: Engineering Guild Space included!
+
+This newsletter article is for paid subscribers and here is what you can expect to read:
+
+- What is an engineering guild?
+🔒 Why are engineering guilds so useful?
+🔒 How to contribute to an existing engineering guild
+🔒 How to start an engineering guild
+🔒 Do a Proof of Concept
+🔒 Once you check both, it’s now time for action
+🔒 Create your engineering guild space
+🔒 Notion Template: Engineering Guild Space
+🔒 Schedule meetings
+🔒 How to lead meetings
+🔒 Fill in all the details of the meeting in the space
+
+Join 715+ paid subscribers and read the article here: https://lnkd.in/dMHEvDvR",44.0,10.0,3,,,Teacher,Engineering/Technical,Tactical/Framework,Listicle/Breakdown,Text-only,Contributing to or organizing an engineering guild is a great way to grow in your career!,"Contributing to or organizing an engineering guild is a great way to grow in your career!
+
+A great example of doing this the right way is Jordan Cutle",,,,dataset_alexis_dataset,,,,
