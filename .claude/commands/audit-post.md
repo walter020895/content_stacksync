@@ -45,8 +45,14 @@ Score the post on each dimension:
 - "See More" test: Do the first ~150 chars earn the tap?
 - Single Subject / Single Question test
 - Hook-to-body connection: Does the body confirm and exceed the hook's promise?
-- Word count within 270-330?
+- Word count within 270-330? (But never penalize a shorter post that's tight. 160 compressed words > 300 bloated ones.)
 - Flow and rhythm
+- **Time-to-Value test (MANDATORY):** Read each sentence and ask: "Does this advance the argument or add NEW information?" Flag any sentence that fails. Specifically check for:
+  - Redundant sentences that restate the same point in different words
+  - A paragraph AND a scorecard/list covering the same comparison (pick one format)
+  - Transitional filler ("I kept coming back to...", "I spent this week...") when the next sentence already establishes context
+  - Storytelling that decorates instead of retains attention
+  - Padding added to hit word count
 - Score 1-10
 
 ### D4: AI Slop (10%)

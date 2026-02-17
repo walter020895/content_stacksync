@@ -3,9 +3,9 @@ name: junior_senior_broken
 description: Contrarian take on how Junior/Senior job titles are age words masquerading as competence labels, broken in the AI era
 domain: business
 node_type: linkedin-post
-status: draft
+status: published
 last_updated: 2026-02-16
-published_date:
+published_date: 2026-02-16
 tags:
   - hiring
   - AI era
@@ -18,8 +18,8 @@ topics:
 related_concepts:
   - "[[hiring]]"
   - "[[AI disruption]]"
-link:
-image:
+link: https://www.linkedin.com/posts/ruben-burdin_junior-means-younger-senior-means-older-share-7429304579370037248-B8Y_
+image: images/2026-02-16_junior_senior_broken_ruben.png
 ---
 
 # RUBEN — The "Senior" Label Is Broken
@@ -79,20 +79,33 @@ We built an entire hiring system on a synonym for age.
 
 Somewhere along the way, we turned age labels into competence labels.
 
-The tech industry built its hiring playbook around years of experience. 10 years in enterprise software. 15 years in data engineering. Time as a proxy for competence.
+The tech industry built its hiring playbook around years of experience: 
 
-That proxy broke.
 
-50% of the latest YC founders are 25 or younger. The average AI unicorn founder is 29, down from 33 in 2018. Three 22-year-olds just became the youngest self-made billionaires building Mercor, an AI recruiting platform.
+- 10 years in enterprise software. 
+
+- 15 years in data engineering. 
+
+
+Time as a proxy for competence.
+
+But in the AI world, that proxy broke.
+
+50% of the latest YC founders are 25 or younger. 
+
+The average AI unicorn founder is 29, down from 33 in 2018. 
+
+Three 22-year-olds just became the youngest self-made billionaires building Mercor (an AI recruiting platform)
 
 Speed of learning now compounds faster than years of repetition.
 
-Engineers who spent a decade mastering legacy tools built real expertise. But in a paradigm that's shifting faster than experience accumulates. A 24-year-old building with AI-native tools has no old patterns to unlearn.
+Engineers who spent a decade mastering legacy tools built real expertise. 
 
-I'd rather hire someone who learned to build in 6 months than someone who repeated the same year 15 times.
+But in a paradigm that's shifting faster than experience accumulates. 
 
-If we're going to keep using the word "Senior," it should describe that.
+A 24-year-old building with AI-native tools has no old patterns to unlearn.
 
+The engineers worth calling "Senior" never stopped learning like they were "Junior."
 ---
 
 ## NOTES

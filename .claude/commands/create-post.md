@@ -81,12 +81,20 @@ Follow the assembly order from the master process doc exactly:
 7. Cross-check every line against `01_ai_slops.md`.
 
 **Hard rules:**
-- 270-330 words MAX
+- 270-330 words MAX (but never pad to hit word count — 160 tight words beat 300 bloated ones)
 - No em dashes
 - No "Here's" constructions
 - Pick 1-2 psychological triggers from the triggers library in the master process
 - Apply celebrity/company name-drop rules if referencing real entities
 - Run egobait checklist if post mentions a company/team
+
+**Time-to-Value Compression (enforce on EVERY post):**
+- Every sentence must earn its spot. If removing it loses nothing, cut it.
+- No redundancy. If two sentences make the same point, keep the stronger one.
+- Don't say in a paragraph what a scorecard or single line can say. Don't scorecard what a paragraph already covered. Pick one format.
+- Maintain natural storytelling flow — not everything is a one-liner fragment. But no bloat either.
+- Storytelling serves retention, not decoration. Just enough to keep the reader moving forward, never so much it tires them.
+- The audience's time is the scarcest resource. Respect it.
 
 Use the post file format from the master process doc (IDEA LEGOS table + 3 hooks + visual hooks + full post + NOTES).
 
