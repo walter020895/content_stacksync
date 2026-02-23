@@ -88,25 +88,32 @@ Split format: dark left panel with hook text, right panel with Brittany's photo.
 
 ---
 
-I didn't know what SaaS meant the day I got the job offer.
+I didn't exactly know what SaaS meant the day I got the job offer.
 
 I said yes anyway.
 
 That night, I set an alarm for 3am.
 
-I'd spent ten years in hospitality before this. I knew how to run a floor, calm a difficult situation, and keep twenty moving pieces from colliding. But I did not know what an integration cloud was, or what people meant when they talked about "the product."
+I'd spent ten years in hospitality before this. I knew how to run a floor, calm a difficult situation, and keep twenty moving pieces from colliding.
 
-And so I started. Before my first day, I was up before sunrise, reading documentation, writing down words I'd never seen so I could look them up again. iPaaS. SaaS. NetSuite. ERP. I googled every single one.
+But I did not know what an integration cloud was, or what people meant when they talked about "the product."
 
-And you know what? Nobody questioned whether I belonged. Because by the time I walked in, I did.
+And so I started. Before my first day, I was up before sunrise, reading documentation, writing down words I'd never seen so I could look them up again (iPaaS. SaaS. NetSuite. ERP. I googled every single one).
 
-That was a few years ago. Today I run operations, finance, legal, and compliance for a tech startup, without a single line of code in my body.
+And you know what?
 
-Last month I organized an event for NetSuite practitioners. About fifty people in the room. Fellow coffee on the tables. The same software I was writing down words from at 3am.
+Nobody questioned whether I belonged. Because by the time I walked in, I did.
+
+I run operations, finance, legal, and compliance for Stacksync, without a single line of code in my body.
+
+Last month I organized an event for NetSuite practitioners (the same software I was googling at 3am).
+About fifty people in the room.
 
 I don't say this to impress anyone. I say it because I know what it feels like to look at an industry and wonder if there's a seat at the table for someone like you.
 
-There is. You just have to be willing to set the alarm.
+There is. 
+  
+You just have to be willing to set the alarm.
 
 ---
 
