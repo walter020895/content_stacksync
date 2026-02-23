@@ -1,8 +1,7 @@
 name: Deploy to Vercel
 
 on:
-  push:
-    branches: [main]
+  workflow_dispatch:  # Manual trigger only — run from GitHub Actions tab when needed
 
 jobs:
   deploy:
