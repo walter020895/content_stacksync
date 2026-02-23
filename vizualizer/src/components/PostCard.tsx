@@ -3,7 +3,7 @@
 import { useState } from 'react'
 import Link from 'next/link'
 import type { Post } from '@/lib/posts'
-import { getInitials, getAvatarColor, formatDate } from '@/lib/utils'
+import { getInitials, getAvatarColor } from '@/lib/utils'
 
 // LinkedIn shows ~3 lines before "see more" (≈220 chars at card width)
 const TRUNCATE_AT = 220
@@ -53,6 +53,26 @@ function IconClose() {
   return (
     <svg viewBox="0 0 24 24" className="w-5 h-5" fill="none" stroke="currentColor" strokeWidth={2}>
       <path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" />
+    </svg>
+  )
+}
+
+// LinkedIn creator mode badge (orange "in" square)
+function BadgeLinkedIn() {
+  return (
+    <svg viewBox="0 0 16 16" className="w-4 h-4 inline-block shrink-0" aria-hidden="true">
+      <rect width="16" height="16" rx="3" fill="#0a66c2"/>
+      <path d="M4 5.5a1 1 0 100-2 1 1 0 000 2zM3.25 6.5h1.5V12h-1.5V6.5zM6.5 6.5h1.44v.75h.02c.2-.38.7-.77 1.44-.77 1.54 0 1.82.96 1.82 2.2V12H9.74V9c0-.57-.01-1.3-.84-1.3-.85 0-.97.63-.97 1.26V12H6.5V6.5z" fill="white"/>
+    </svg>
+  )
+}
+
+// LinkedIn verified identity badge (shield with checkmark)
+function BadgeVerified() {
+  return (
+    <svg viewBox="0 0 16 16" className="w-4 h-4 inline-block shrink-0" aria-hidden="true">
+      <path d="M8 1L2 3.5v4C2 11 4.8 13.9 8 15c3.2-1.1 6-4 6-7.5v-4L8 1z" fill="#6c757d"/>
+      <path d="M5.5 8l1.8 1.8L10.5 6.5" stroke="white" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" fill="none"/>
     </svg>
   )
 }
@@ -207,12 +227,16 @@ export default function PostCard({ post, expanded = false }: PostCardProps) {
           <div className="flex-1 min-w-0 pt-0.5">
             <div className="flex items-start justify-between gap-1">
               <div className="min-w-0">
-                <p className="font-semibold text-sm text-[#1d2226] leading-tight hover:text-[#0a66c2] hover:underline cursor-pointer truncate">
-                  {post.person}
+                {/* Name + badge + 1st */}
+                <p className="font-semibold text-sm text-[#1d2226] leading-tight hover:text-[#0a66c2] hover:underline cursor-pointer flex items-center gap-1 flex-wrap">
+                  <span className="truncate">{post.person}</span>
+                  {post.personBadge === 'linkedin' && <BadgeLinkedIn />}
+                  {post.personBadge === 'verified' && <BadgeVerified />}
+                  <span className="text-[rgba(0,0,0,0.6)] font-normal text-xs shrink-0">· 1st</span>
                 </p>
                 <p className="text-xs text-[rgba(0,0,0,0.6)] leading-snug truncate">{post.role}</p>
                 <p className="text-xs text-[rgba(0,0,0,0.6)]">
-                  {formatDate(post.date)} · <span>🌐</span>
+                  4h · <span>🌐</span>
                 </p>
               </div>
 

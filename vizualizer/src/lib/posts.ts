@@ -12,15 +12,16 @@ export interface Post {
   hook: string
   content: string
   personPhoto?: string
+  personBadge?: 'linkedin' | 'verified'
 }
 
 // ── Persona config ────────────────────────────────────────────
-const PERSONAS: Record<string, { name: string; role: string; photo: string }> = {
-  ruben:    { name: 'Ruben',    role: 'Founder & CEO, Stacksync',        photo: '/images/photo_ruben.jpeg'    },
-  alexis:   { name: 'Alexis',   role: 'Co-Founder & CTO, Stacksync',     photo: '/images/photo_alexis.jpeg'   },
-  nacho:    { name: 'Nacho',    role: 'GTM Engineer, Stacksync',          photo: '/images/photo_nacho.jpeg'    },
-  carter:   { name: 'Carter',   role: 'Account Executive, Stacksync',    photo: '/images/photo_carter.jpeg'   },
-  brittany: { name: 'Brittany', role: 'Stacksync',                        photo: ''                            },
+const PERSONAS: Record<string, { name: string; role: string; photo: string; badge?: 'linkedin' | 'verified' }> = {
+  ruben:    { name: 'Ruben Burdin',                     role: 'Founder at Stacksync - The Integration Cloud',                  photo: '/images/photo_ruben.jpeg',  badge: 'linkedin' },
+  alexis:   { name: 'Alexis Favre',                     role: 'Cofounder & CTO @ Stacksync - Building the Integration Cloud', photo: '/images/photo_alexis.jpeg', badge: 'verified' },
+  nacho:    { name: 'Fabian Ignacio Malpartida Negron', role: 'Head of GTM @Stacksync',                                       photo: '/images/photo_nacho.jpeg'                    },
+  carter:   { name: 'Carter Supple',                    role: 'Founder and Engineer. Technical Sales @ Stacksync (YC W24)',   photo: '/images/photo_carter.jpeg', badge: 'verified' },
+  brittany: { name: 'Brittany',                         role: 'Stacksync',                                                    photo: ''                                            },
 }
 
 const CONTENT_DIR  = path.join(process.cwd(), 'content')
@@ -48,6 +49,7 @@ function parseSimpleFile(filepath: string): Post | null {
       hook:        data.hook   as string,
       content:     content.trim(),
       personPhoto: persona?.photo || undefined,
+      personBadge: persona?.badge,
     }
   } catch {
     return null
@@ -114,6 +116,7 @@ function parseDraftFile(filepath: string, personKey: string): Post | null {
       content,
       image:       imageUrl,
       personPhoto: persona.photo || undefined,
+      personBadge: persona.badge,
     }
   } catch {
     return null
