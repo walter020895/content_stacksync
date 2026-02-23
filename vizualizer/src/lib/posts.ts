@@ -23,8 +23,10 @@ const PERSONAS: Record<string, { name: string; role: string; photo: string }> = 
 }
 
 const CONTENT_DIR  = path.join(process.cwd(), 'content')
-// Persona folders live one level up (repo root), works both locally and on Vercel
-const PERSONAS_DIR = path.join(process.cwd(), '..')
+// Local dev: reads from ../[Persona]/  |  Vercel: reads from content/[Persona]/
+const PERSONAS_DIR_LOCAL  = path.join(process.cwd(), '..')
+const PERSONAS_DIR_VERCEL = path.join(process.cwd(), 'content')
+const PERSONAS_DIR = fs.existsSync(path.join(PERSONAS_DIR_LOCAL, 'Ruben')) ? PERSONAS_DIR_LOCAL : PERSONAS_DIR_VERCEL
 
 // ── Simple frontmatter format (legacy content/ files) ─────────
 function parseSimpleFile(filepath: string): Post | null {
