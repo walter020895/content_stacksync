@@ -57,8 +57,7 @@ That phrase has started to mean something very specific to me.
 
 ---
 
-I've had this conversation with engineering leaders at 40+ companies.
-
+I've had this conversation with engineering leaders
 I can tell how it ends by minute five.
 
 It always ends the same way.
