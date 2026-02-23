@@ -1,6 +1,7 @@
 import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
+// build: 2026-02-23
 
 export interface Post {
   id: string
