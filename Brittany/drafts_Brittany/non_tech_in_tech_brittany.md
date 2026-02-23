@@ -98,7 +98,9 @@ I'd spent ten years in hospitality before this. I knew how to run a floor, calm 
 
 But I did not know what an integration cloud was, or what people meant when they talked about "the product."
 
-And so I started. Before my first day, I was up before sunrise, reading documentation, writing down words I'd never seen so I could look them up again (iPaaS. SaaS. NetSuite. ERP. I googled every single one).
+And so I started. Before my first day, I was up before sunrise, reading documentation, writing down words I'd never seen so I could look them up again.
+
+iPaaS. SaaS. NetSuite. ERP. I googled every single one.
 
 And you know what?
 
@@ -106,14 +108,13 @@ Nobody questioned whether I belonged. Because by the time I walked in, I did.
 
 I run operations, finance, legal, and compliance for Stacksync, without a single line of code in my body.
 
-Last month I organized an event for NetSuite practitioners (the same software I was googling at 3am).
-About fifty people in the room.
+Last month I organized an event for NetSuite practitioners (the same software I was googling at 3am). About fifty people in the room.
 
-I don't say this to impress anyone. I say it because I know what it feels like to look at an industry and wonder if there's a seat at the table for someone like you.
+I don't say this to impress anyone.
 
-There is. 
-  
-You just have to be willing to set the alarm.
+I say it because I know what it feels like to look at an industry and wonder if there's a seat at the table for someone like you.
+
+There is. You just have to be willing to set the alarm.
 
 ---
 
