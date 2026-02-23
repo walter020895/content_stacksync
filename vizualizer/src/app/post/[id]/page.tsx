@@ -1,6 +1,6 @@
 import { getAllPosts, getPostById } from '@/lib/posts'
 import PostCard from '@/components/PostCard'
-import GiscusComments from '@/components/GiscusComments'
+import Comments from '@/components/Comments'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
 
@@ -42,8 +42,8 @@ export default function PostPage({ params }: PageProps) {
       {/* Post card (expanded view) */}
       <PostCard post={post} expanded />
 
-      {/* Giscus comments */}
-      <GiscusComments postId={post.id} />
+      {/* Comments */}
+      <Comments postId={post.id} />
     </div>
   )
 
