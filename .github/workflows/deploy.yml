@@ -28,9 +28,19 @@ jobs:
         run: npx vercel pull --yes --environment=production --token=${{ secrets.VERCEL_TOKEN }}
         working-directory: vizualizer
 
-      # vercel build runs from vizualizer/ — process.cwd()/../Ruben = repo_root/Ruben ✓
-      # It runs npm run build internally, finds persona drafts, generates all static pages
-      - name: Build and package with vercel build
+      # Run Next.js build explicitly first — prevents Vercel remote cache from skipping it
+      - name: Build Next.js
+        run: npm run build
+        working-directory: vizualizer
+        env:
+          NEXT_TELEMETRY_DISABLED: 1
+          NEXT_PUBLIC_GISCUS_REPO: ${{ secrets.NEXT_PUBLIC_GISCUS_REPO }}
+          NEXT_PUBLIC_GISCUS_REPO_ID: ${{ secrets.NEXT_PUBLIC_GISCUS_REPO_ID }}
+          NEXT_PUBLIC_GISCUS_CATEGORY: ${{ secrets.NEXT_PUBLIC_GISCUS_CATEGORY }}
+          NEXT_PUBLIC_GISCUS_CATEGORY_ID: ${{ secrets.NEXT_PUBLIC_GISCUS_CATEGORY_ID }}
+
+      # Package the pre-built output for Vercel
+      - name: Package with vercel build
         run: npx vercel build --prod --token=${{ secrets.VERCEL_TOKEN }}
         working-directory: vizualizer
         env:
