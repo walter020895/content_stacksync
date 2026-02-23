@@ -23,21 +23,22 @@ jobs:
         run: npm ci
         working-directory: vizualizer
 
-      # Pull settings so vercel build knows the project (rootDirectory, framework, etc.)
+      # Pull project settings + env vars from Vercel into .vercel/.env.production.local
       - name: Pull Vercel project settings
         run: npx vercel pull --yes --environment=production --token=${{ secrets.VERCEL_TOKEN }}
         working-directory: vizualizer
 
-      # Run Next.js build explicitly first — prevents Vercel remote cache from skipping it
+      # Expose Vercel env vars to Next.js build (Next.js reads .env.local, not .vercel/)
+      - name: Expose env vars to Next.js
+        run: cp .vercel/.env.production.local .env.local
+        working-directory: vizualizer
+
+      # Run Next.js build explicitly — prevents Vercel remote cache from skipping it
       - name: Build Next.js
         run: npm run build
         working-directory: vizualizer
         env:
           NEXT_TELEMETRY_DISABLED: 1
-          NEXT_PUBLIC_GISCUS_REPO: ${{ secrets.NEXT_PUBLIC_GISCUS_REPO }}
-          NEXT_PUBLIC_GISCUS_REPO_ID: ${{ secrets.NEXT_PUBLIC_GISCUS_REPO_ID }}
-          NEXT_PUBLIC_GISCUS_CATEGORY: ${{ secrets.NEXT_PUBLIC_GISCUS_CATEGORY }}
-          NEXT_PUBLIC_GISCUS_CATEGORY_ID: ${{ secrets.NEXT_PUBLIC_GISCUS_CATEGORY_ID }}
 
       # Package the pre-built output for Vercel
       - name: Package with vercel build
