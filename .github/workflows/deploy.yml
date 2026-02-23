@@ -7,6 +7,9 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    env:
+      VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+      VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
     steps:
       - uses: actions/checkout@v4
 
@@ -20,26 +23,17 @@ jobs:
         run: npm ci
         working-directory: vizualizer
 
-      # .vercel/project.json is gitignored; create it from secrets so vercel build works
-      - name: Create Vercel project settings
-        run: |
-          mkdir -p .vercel
-          printf '{"projectId":"%s","orgId":"%s","projectName":"content-stacksync"}' \
-            "${{ secrets.VERCEL_PROJECT_ID }}" "${{ secrets.VERCEL_ORG_ID }}" > .vercel/project.json
-        working-directory: vizualizer
+      # Pull project settings from Vercel (gets Root Directory=vizualizer + framework config)
+      # Running from repo root so the rootDirectory setting maps correctly to ./vizualizer/
+      - name: Pull Vercel project settings
+        run: npx vercel pull --yes --environment=production --token=${{ secrets.VERCEL_TOKEN }}
 
-      # Build runs from vizualizer/ so process.cwd()/../Ruben = repo root/Ruben (persona drafts)
+      # vercel build uses Root Directory=vizualizer, so process.cwd() during next build
+      # = repo_root/vizualizer/, meaning ../Ruben = repo_root/Ruben (persona drafts) ✓
       - name: Build with vercel build
         run: npx vercel build --prod --token=${{ secrets.VERCEL_TOKEN }}
-        working-directory: vizualizer
         env:
-          VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
-          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
           NEXT_TELEMETRY_DISABLED: 1
 
       - name: Deploy prebuilt output to production
         run: npx vercel deploy --prebuilt --prod --token=${{ secrets.VERCEL_TOKEN }}
-        working-directory: vizualizer
-        env:
-          VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
-          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
