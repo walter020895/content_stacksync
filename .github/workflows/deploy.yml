@@ -23,14 +23,19 @@ jobs:
         run: npm ci
         working-directory: vizualizer
 
-      # Pull project settings from Vercel (gets Root Directory=vizualizer + framework config)
-      # Running from repo root so the rootDirectory setting maps correctly to ./vizualizer/
+      # Run next build from vizualizer/ so process.cwd()/../Ruben = repo_root/Ruben (persona drafts)
+      - name: Build Next.js with persona folders in scope
+        run: npx next build
+        working-directory: vizualizer
+        env:
+          NEXT_TELEMETRY_DISABLED: 1
+
+      # Pull project settings so vercel build knows the framework/rootDirectory
       - name: Pull Vercel project settings
         run: npx vercel pull --yes --environment=production --token=${{ secrets.VERCEL_TOKEN }}
 
-      # vercel build uses Root Directory=vizualizer, so process.cwd() during next build
-      # = repo_root/vizualizer/, meaning ../Ruben = repo_root/Ruben (persona drafts) ✓
-      - name: Build with vercel build
+      # vercel build detects existing .next/ output and packages it into .vercel/output/
+      - name: Package build into Vercel output format
         run: npx vercel build --prod --token=${{ secrets.VERCEL_TOKEN }}
         env:
           NEXT_TELEMETRY_DISABLED: 1
