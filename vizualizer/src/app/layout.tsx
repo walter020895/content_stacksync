@@ -3,7 +3,7 @@ import './globals.css'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'Staxi Draft Review',
+  title: 'Stacksync Universe',
   description: 'Internal LinkedIn post review tool — Stacksync',
 }
 
