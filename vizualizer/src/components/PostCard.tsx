@@ -88,8 +88,8 @@ function PostBody({
 
   return (
     <div className="mt-2 text-sm text-[rgba(0,0,0,0.9)] leading-[1.42857]">
-      {/* Hook — bold, preserves line breaks for multi-line Kallaway hooks */}
-      <p className="font-semibold mb-1 whitespace-pre-line">{hook}</p>
+      {/* Hook — preserves line breaks for multi-line Kallaway hooks */}
+      <p className="mb-1 whitespace-pre-line">{hook}</p>
 
       {/* Body */}
       {needsTruncation && !isExpanded ? (

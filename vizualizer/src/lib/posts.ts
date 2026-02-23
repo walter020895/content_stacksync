@@ -15,11 +15,11 @@ export interface Post {
 
 // ── Persona config ────────────────────────────────────────────
 const PERSONAS: Record<string, { name: string; role: string; photo: string }> = {
-  ruben:  { name: 'Ruben',  role: 'CEO, Stacksync',               photo: '/images/photo_ruben.jpeg'  },
-  alexis: { name: 'Alexis', role: 'CTO, Stacksync',               photo: '/images/photo_alexis.jpeg' },
-  nacho:  { name: 'Nacho',  role: 'GTM Lead, Stacksync',          photo: '/images/photo_nacho.jpeg'  },
-  carter: { name: 'Carter', role: 'Commercial, Stacksync',        photo: '/images/photo_carter.jpeg' },
-  tony:   { name: 'Tony',   role: 'Industry Veteran, Stacksync',  photo: ''                          },
+  ruben:    { name: 'Ruben',    role: 'CEO, Stacksync',        photo: '/images/photo_ruben.jpeg'    },
+  alexis:   { name: 'Alexis',   role: 'CTO, Stacksync',        photo: '/images/photo_alexis.jpeg'   },
+  nacho:    { name: 'Nacho',    role: 'GTM Lead, Stacksync',   photo: '/images/photo_nacho.jpeg'    },
+  carter:   { name: 'Carter',   role: 'Commercial, Stacksync', photo: '/images/photo_carter.jpeg'   },
+  brittany: { name: 'Brittany', role: 'Stacksync',             photo: ''                            },
 }
 
 const CONTENT_DIR  = path.join(process.cwd(), 'content')
