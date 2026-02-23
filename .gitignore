@@ -1,3 +1,16 @@
-.DS_Store
+# Node
+vizualizer/node_modules/
+vizualizer/.next/
+vizualizer/.env.local
+
+# Large media files
 *.mp4
 *.mp3
+*.mov
+*.webm
+*.mkv
+*.avi
+
+# OS files
+.DS_Store
+Thumbs.db
