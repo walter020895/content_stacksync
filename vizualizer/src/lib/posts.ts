@@ -9,6 +9,7 @@ export interface Post {
   role: string
   date: string | Date
   image?: string
+  video?: string
   hook: string
   content: string
   personPhoto?: string
@@ -99,8 +100,12 @@ function parseDraftFile(filepath: string, personKey: string): Post | null {
     // Copy to public/draft-images/ so it gets bundled into the Vercel deployment
     // (the /api/asset route only works locally, not on Vercel's prebuilt deploys).
     const IMAGE_EXTS = ['.jpg', '.jpeg', '.png', '.gif', '.webp', '.avif']
+    const VIDEO_EXTS = ['.mp4', '.webm', '.mov']
     const dir = path.dirname(filepath)
     let imageUrl: string | undefined
+    let videoUrl: string | undefined
+
+    // Check for image
     for (const ext of IMAGE_EXTS) {
       const candidate = path.join(dir, filename + ext)
       if (fs.existsSync(candidate)) {
@@ -117,6 +122,21 @@ function parseDraftFile(filepath: string, personKey: string): Post | null {
       }
     }
 
+    // Check for video
+    for (const ext of VIDEO_EXTS) {
+      const candidate = path.join(dir, filename + ext)
+      if (fs.existsSync(candidate)) {
+        const destDir  = path.join(process.cwd(), 'public', 'draft-images')
+        const destFile = path.join(destDir, filename + ext)
+        try {
+          fs.mkdirSync(destDir, { recursive: true })
+          fs.copyFileSync(candidate, destFile)
+          videoUrl = `/draft-images/${filename + ext}`
+        } catch {}
+        break
+      }
+    }
+
     return {
       id:          `draft-${personKey}-${filename}`,
       person:      persona.name,
@@ -125,6 +145,7 @@ function parseDraftFile(filepath: string, personKey: string): Post | null {
       hook,
       content,
       image:       imageUrl,
+      video:       videoUrl,
       personPhoto: persona.photo || undefined,
       personBadge: persona.badge,
     }
@@ -164,9 +185,11 @@ export function getAllPosts(): Post[] {
   }
 
   return posts.sort((a, b) => {
-    // Posts with images first
-    if (a.image && !b.image) return -1
-    if (!a.image && b.image) return 1
+    // Posts with media (image or video) first
+    const aMedia = a.image || a.video
+    const bMedia = b.image || b.video
+    if (aMedia && !bMedia) return -1
+    if (!aMedia && bMedia) return 1
     // Then by date (newest first)
     return new Date(b.date).getTime() - new Date(a.date).getTime()
   })

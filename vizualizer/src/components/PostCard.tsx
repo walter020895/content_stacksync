@@ -320,7 +320,7 @@ export default function PostCard({ post, expanded = false }: PostCardProps) {
 
         {/* Post text */}
         <div className="mt-3 pb-3">
-          <PostBody hook={post.hook} content={post.content} alwaysExpanded={expanded} hasImage={!!post.image} />
+          <PostBody hook={post.hook} content={post.content} alwaysExpanded={expanded} hasImage={!!post.image || !!post.video} />
         </div>
       </div>
 
@@ -334,6 +334,20 @@ export default function PostCard({ post, expanded = false }: PostCardProps) {
             src={post.image}
             alt=""
             className="w-full h-auto block object-contain"
+            style={{ maxHeight: '510px' }}
+          />
+        </div>
+      )}
+
+      {/* ── Video ── */}
+      {post.video && (
+        <div className="bg-black flex justify-center items-center overflow-hidden" style={{ maxHeight: '510px' }}>
+          <video
+            src={post.video}
+            controls
+            playsInline
+            preload="metadata"
+            className="w-full h-auto block"
             style={{ maxHeight: '510px' }}
           />
         </div>
