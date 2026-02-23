@@ -1,0 +1,22 @@
+# Large media
+*.mp4
+*.mp3
+*.mov
+*.webm
+*.mkv
+*.avi
+*.gif
+
+# Heavy folders
+02_content_creation_resources/
+00_ai_markdowns/
+01_Content Pilars/
+accounts_research/
+
+# Node
+vizualizer/node_modules/
+vizualizer/.next/
+vizualizer/.env.local
+
+# OS
+.DS_Store
