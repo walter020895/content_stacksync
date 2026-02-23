@@ -53,6 +53,22 @@ That phrase has started to mean something very specific to me.
 
 ---
 
+### VISUAL FORMAT SUGGESTIONS
+
+**Option A (Recommended): Typographic Quote card — the four CTO phrases**
+PORTRAIT 4:5 (1080×1350). Dark bg (#08080E). Four quoted bullet lines stacked vertically in IBM Plex Mono, each in dim gray with a right-arrow glyph — the exact things CTOs say. Bottom line in #4589FF: "Just not now." The vertical canvas suits a list of sequential quotes. The image plants the recognition loop before the reader reaches the post body.
+Asset tags: [TYPE]
+
+**Option B: Data Viz — Last Node**
+SQUARE 1:1 (1080×1080). Dark bg, dot grid. 99 dim nodes (each = a quarter of "not now") and one bright glowing node = the incident that finally forces action. Caption: "'Just not now' — until it is." The visual converts the compounding-cost argument into a spatial metaphor: all those deferred decisions, then the one that breaks.
+Asset tags: [DATA] [SVG]
+
+**Option C: Number Hero — "$75K/year" invisible overhead**
+SQUARE 1:1 (1080×1080). Large stat centered on dark bg, #4589FF accent. Subline: "No line item. No ticket. Just 'engineering bandwidth.'" Connects the CTO pattern post directly to the cost math — works as a companion piece to `cost_good_enough_integration_ruben`.
+Asset tags: [TYPE] [DATA]
+
+---
+
 ### FULL POST (using Hook A)
 
 ---

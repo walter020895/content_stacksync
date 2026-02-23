@@ -51,6 +51,22 @@ Then I ask four questions. The math always surprises them.
 
 ---
 
+### VISUAL FORMAT SUGGESTIONS
+
+**Option A (Recommended): Number Hero — "$75K" stat card**
+A single dominant stat — "$75K/year" — in IBM Plex Sans 600, large, centered on a dark bg (#08080E) with accent in #4589FF. SQUARE 1:1 (1080×1080). Subline reads: "The invisible cost of 'works fine' integration." The image creates the question (why $75K?) and the hook answers it (the math of "good enough"). Reader sees the number, reads the post, then the number lands with full weight.
+Asset tags: [TYPE] [DATA]
+
+**Option B: Split card — "What you see vs. what it costs"**
+LANDSCAPE 16:9 (1920×1080). Left dark panel: "Works fine." Right dark panel with #4589FF accent elements listing the four hidden symptoms (reconciliation calls, known issues, watched syncs, engineer rotation). The binary is the concept — left vs. right IS the message. No logos needed.
+Asset tags: [TYPE] [SVG]
+
+**Option C: Data Viz — Ratio Bar showing engineering time allocation**
+SQUARE 1:1 (1080×1080). Dark bg. A horizontal bar segmented: 25% highlighted in #4589FF labeled "Sync maintenance" versus 75% in dim gray labeled "Everything else." Caption: "Two engineers. One quarter of their time. Just on plumbing." Converts the abstract math into a visual ratio the reader immediately maps onto their own team.
+Asset tags: [DATA] [SVG]
+
+---
+
 ### FULL POST (using Hook A)
 
 ---

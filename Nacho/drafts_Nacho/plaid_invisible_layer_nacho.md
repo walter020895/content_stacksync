@@ -49,6 +49,22 @@ The DOJ blocked the deal. Not because it was too expensive. Because it was too i
 
 ---
 
+### VISUAL FORMAT SUGGESTIONS
+
+**Option A (Recommended): Brand Callout — Plaid logo as dominant element**
+SQUARE 1:1 (1080×1080). Dark bg (#08080E). Plaid logo centered and large. Below in IBM Plex Sans: "Venmo. Robinhood. Coinbase. Acorns." in dim gray. Bottom accent line in #4589FF: "All run on Plaid. Most people have never heard of it." Logo recognition is the hook — the reader has used Plaid dozens of times without knowing it. Strong image-hook loop: the unfamiliar logo creates the mystery the hook resolves.
+Asset tags: [LOGO] [SVG]
+
+**Option B: Market Map — fintech app layer vs. infrastructure layer**
+PORTRAIT 4:5 (1080×1350). Dark bg. Top section: Venmo, Robinhood, Coinbase, Acorns logos clustered, labeled "The apps everyone knows." Bottom section separated by a line: Plaid logo, labeled "The pipe underneath all of them." The vertical canvas suits the top-vs-underneath concept — depth is the idea. Makes the invisible layer visible before the reader opens the post.
+Asset tags: [LOGO] [SVG]
+
+**Option C: Typographic Headline card — "$5.3B"**
+SQUARE 1:1 (1080×1080). Dark bg. IBM Plex Sans 600. Large centered stat: "$5.3B" in #4589FF. Subline: "What Visa paid for a company you've never heard of." The number creates curiosity; the post delivers the story. Version B hook works best with this option.
+Asset tags: [TYPE] [DATA]
+
+---
+
 ### FULL POST — VERSION A (using Hook A)
 
 ---

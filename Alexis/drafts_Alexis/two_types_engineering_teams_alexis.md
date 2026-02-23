@@ -44,6 +44,22 @@ There are two types of engineering teams when data sync breaks at 2am.
 
 ---
 
+### VISUAL FORMAT SUGGESTIONS
+
+**Option A (Recommended): Split card — Team 1 vs. Team 2**
+LANDSCAPE 16:9 (1920×1080). Left dark panel labeled "Built their own sync" with red-tinted accent; right dark panel labeled "Runs sync as infrastructure" with #4589FF accent. Each side lists the first two steps from each column in the post (page → open old codebase vs. page → open dashboard). The image makes the binary tangible before the post narrates it — the left-vs-right orientation IS the concept.
+Asset tags: [SVG] [TYPE]
+
+**Option B: Typographic Verdict card — "2am" as the dominant element**
+SQUARE 1:1 (1080×1080). Dark bg (#08080E). IBM Plex Mono, the time "2:00 AM" as the single large element in #4589FF. Below in smaller weight: "Which team are you?" The image creates dread and curiosity. The hook answers which experience each team faces. Strong image-hook loop: the time is ominous, the post explains why it matters.
+Asset tags: [TYPE]
+
+**Option C: Comparison Table infographic**
+PORTRAIT 4:5 (1080×1350). Dark bg. Two-column table: "Team 1" vs. "Team 2" with 5 rows (paged, first action, who gets woken up, time to resolution, outcome). IBM Plex Sans, tight grid. Dim gray for Team 1 rows, #4589FF for Team 2 rows. Makes the contrast scannable at a glance — readers immediately place themselves in one column.
+Asset tags: [DATA] [SVG]
+
+---
+
 ### FULL POST
 
 ---

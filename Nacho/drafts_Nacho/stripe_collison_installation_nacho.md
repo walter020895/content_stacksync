@@ -58,6 +58,22 @@ One approach builds pipeline. The other built a $100B+ company.
 
 ---
 
+### VISUAL FORMAT SUGGESTIONS
+
+**Option A (Recommended): Brand Callout — Stripe logo as dominant element**
+SQUARE 1:1 (1080×1080). Dark bg (#08080E). Stripe logo centered, large. Below in IBM Plex Sans: "The GTM that didn't scale." Subline in #4589FF: "That built a $100B+ company." The logo is the hook — ICP knows Stripe as the payment infrastructure standard. The contrast (unscalable → $100B outcome) is the curiosity gap. Strong image-hook loop: the logo signals credibility; the subline creates dissonance the post resolves.
+Asset tags: [LOGO] [TYPE]
+
+**Option B: Split card — "Trial link vs. Collison installation"**
+LANDSCAPE 16:9 (1920×1080). Left dark panel: "Send the trial link." Right dark panel in #4589FF: "Fly there. Install it. In the room." IBM Plex Sans labels. The binary is the lesson — left vs. right is the choice every B2B team makes. No logos needed; the contrast stands alone and invites every sales person to self-identify.
+Asset tags: [TYPE] [SVG]
+
+**Option C: Typographic Manifesto card — "Friction kills deals"**
+PORTRAIT 4:5 (1080×1350). Dark bg. IBM Plex Sans 600. Large stacked text: "FRICTION KILLS MORE DEALS THAN PRICE." Below in smaller weight: "Every step between 'I'm interested' and 'I'm using this' is where you lose them." Stripe logo small at bottom-right as attribution. The post's core GTM lesson stated as a manifesto — highly shareable for B2B sales audiences.
+Asset tags: [LOGO] [TYPE]
+
+---
+
 ### FULL POST (using Hook A)
 
 ---

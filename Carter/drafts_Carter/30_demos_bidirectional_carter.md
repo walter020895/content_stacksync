@@ -50,6 +50,22 @@ So I started asking what that looked like. The answers were interesting.
 
 ---
 
+### VISUAL FORMAT SUGGESTIONS
+
+**Option A (Recommended): Comparison Table — "What teams have vs. what bi-directional actually requires"**
+PORTRAIT 4:5 (1080×1350). Dark bg (#08080E). Two columns: "What teams usually have" vs. "Bi-directional sync." Three rows with the three fake versions (two Fivetran jobs / Zapier automation / custom script) on the left in dim gray, and the two actual requirements (real-time both directions + conflict resolution) on the right in #4589FF. Makes the recognition gap visual — readers scan the left column and find their own stack.
+Asset tags: [LOGO] [DATA]
+
+**Option B: Split card — "Two Fivetran jobs ≠ Bi-directional"**
+LANDSCAPE 16:9 (1920×1080). Left dark panel: two Fivetran logos with arrows both pointing right, labeled "Two one-way pipes with lag." Right dark panel: single bi-directional arrow with a node in the center labeled "Conflict resolution," in #4589FF. The Fivetran logo makes the ICP recognition instant. The visual directly shows the difference Carter explains in the post.
+Asset tags: [LOGO] [SVG]
+
+**Option C: Typographic Verdict card**
+SQUARE 1:1 (1080×1080). Dark bg. IBM Plex Sans 600. Large centered text: "Two one-way pipes ≠ Bi-directional." Subline in smaller weight: "The missing piece: conflict resolution." Simple, declarative, shareable. The image states the lesson; the hook and post deliver the explanation.
+Asset tags: [TYPE] [SVG]
+
+---
+
 ### FULL POST (using Hook A)
 
 ---

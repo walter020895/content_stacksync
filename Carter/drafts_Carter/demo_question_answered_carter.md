@@ -54,6 +54,22 @@ I have three answers. The third one ends the conversation.
 
 ---
 
+### VISUAL FORMAT SUGGESTIONS
+
+**Option A (Recommended): Comparison Table — Stacksync vs. Fivetran vs. MuleSoft vs. Workato**
+PORTRAIT 4:5 (1080×1350). Dark bg (#08080E). Four-column table with three rows (Direction / Latency / Conflict Resolution). Fivetran, MuleSoft, Workato logos across the top columns; Stacksync logo in the rightmost column highlighted with #4589FF. The logos make the ICP recognize their current tooling stack instantly. The table is literally the answer Carter gives in every demo — the image IS the post argument at a glance.
+Asset tags: [LOGO] [DATA]
+
+**Option B: Brand vs. Brand card — "The third difference"**
+LANDSCAPE 16:9 (1920×1080). Fivetran and Workato logos on the left side with label "Last write wins." Stacksync logo on the right with label "Detects. Logs. Resolves." Focus on conflict resolution — the differentiator that "ends the conversation." Strong image-hook loop: the image shows the gap, the hook explains why the third one matters most.
+Asset tags: [LOGO] [SVG]
+
+**Option C: Step-by-Step infographic — "What happens when both systems update the same record"**
+PORTRAIT 4:5 (1080×1350). Dark bg. Three-step visual: Step 1 — Sales updates Salesforce. Step 2 — Finance updates NetSuite. Same record, same moment. Step 3 (two paths): "Zapier/ETL: one update disappears" vs. "Stacksync: conflict detected, logged, resolved." The scenario from the post made visual — makes the abstract technical risk concrete and memorable.
+Asset tags: [SVG] [DATA]
+
+---
+
 ### FULL POST (using Hook B)
 
 ---

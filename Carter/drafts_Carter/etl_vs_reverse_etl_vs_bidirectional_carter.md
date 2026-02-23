@@ -48,6 +48,22 @@ If you've never heard of Reverse ETL, this is what you need to know — and why 
 
 ---
 
+### VISUAL FORMAT SUGGESTIONS
+
+**Option A (Recommended): Comparison Table — ETL vs. Reverse ETL vs. Bi-Directional**
+PORTRAIT 4:5 (1080×1350). Dark bg (#08080E). Three columns (ETL / Reverse ETL / Bi-Directional) with four rows (Direction / Latency / Conflict Resolution / Tools). Fivetran and Airbyte logos under ETL; Hightouch logo under Reverse ETL; Stacksync logo under Bi-Directional highlighted with #4589FF. The table is the entire educational payload of the post at a glance — reader scans the card, reads the post for narrative, then scans the card again with full context. Strongly recommended (Carter's own NOTES flag this post as underperforming without a visual).
+Asset tags: [LOGO] [DATA]
+
+**Option B: Brand Callout — logos clustered by type**
+SQUARE 1:1 (1080×1080). Dark bg. Three groups: top group (Fivetran, Airbyte, Stitch) labeled "ETL — one direction, batch." Middle group (Hightouch, Census/Fivetran) labeled "Reverse ETL — still one direction." Bottom group (Stacksync) in #4589FF labeled "Bi-Directional — both directions, real time, conflict resolution." Logo recognition is the hook — ICP immediately locates their current tool.
+Asset tags: [LOGO] [SVG]
+
+**Option C: Step-by-Step infographic — "How data actually moves"**
+PORTRAIT 4:5 (1080×1350). Dark bg. Three horizontal flow diagrams stacked vertically. Row 1 (ETL): App → one-way arrow → Warehouse. Row 2 (Reverse ETL): Warehouse → one-way arrow → CRM. Row 3 (Bi-Directional): CRM ↔ two-headed arrow ↔ Database, with a small "conflict resolution" node on the connection. Simple SVG arrows, IBM Plex Sans labels. Makes the data movement direction visually unmissable.
+Asset tags: [SVG] [DATA]
+
+---
+
 ### FULL POST (using Hook A)
 
 ---

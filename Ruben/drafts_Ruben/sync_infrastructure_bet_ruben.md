@@ -51,6 +51,22 @@ It was the wrong problem.
 
 ---
 
+### VISUAL FORMAT SUGGESTIONS
+
+**Option A (Recommended): Split card — "Feature vs. Infrastructure"**
+LANDSCAPE 16:9 (1920×1080). Left dark panel: "Feature" with a roadmap icon and a lifespan timeline that ends. Right dark panel: "Infrastructure" with a continuous horizontal line extending off the edge of the canvas. The visual makes the durability argument without a word — the left side stops, the right side doesn't. IBM Plex Sans labels only.
+Asset tags: [SVG] [TYPE]
+
+**Option B: Typographic Manifesto card**
+PORTRAIT 4:5 (1080×1350). Dark bg (#08080E). Large centered text in IBM Plex Sans 600: "INTEGRATIONS THAT DISAPPEAR." Below in smaller weight: "That was the bet." Clean, declarative, shareable. The image states the conviction; the post explains the reasoning. Strong image-hook loop: the manifesto creates curiosity, the post delivers the backstory.
+Asset tags: [TYPE]
+
+**Option C: Timeline card — "Project vs. Forever"**
+LANDSCAPE 16:9 (1920×1080). Two horizontal timelines side by side. Top line: "Project" — starts, has a clear end point with a flag icon. Bottom line: "Infrastructure" — starts, runs continuously off the right edge with no endpoint. Minimal, high-contrast. IBM Plex Mono for labels. The structural difference is the concept — horizontal space IS the argument.
+Asset tags: [DATA] [SVG]
+
+---
+
 ### FULL POST (using Hook A)
 
 ---

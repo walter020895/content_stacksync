@@ -46,6 +46,22 @@ Not because you can't. Because you know what maintaining them costs.
 
 ---
 
+### VISUAL FORMAT SUGGESTIONS
+
+**Option A (Recommended): Infographic — "What 'ownership' actually looks like"**
+PORTRAIT 4:5 (1080×1350). Dark bg (#08080E). Five stacked items in IBM Plex Mono, each with a right-arrow glyph — the five real costs listed in the post (rotation engineer, schema drift, 4am rate limits, deprecated endpoints, Slack thread as docs). Bottom line in #4589FF: "This is what 'we have a sync' means." Vertical layout suits a list that builds downward. The image plants recognition before the reader hits the post.
+Asset tags: [TYPE]
+
+**Option B: Split card — "Ownership vs. Time"**
+LANDSCAPE 16:9 (1920×1080). Left dark panel: "More ownership." Right dark panel: "Less time." IBM Plex Sans 600. The binary is the entire argument — the image makes the trade-off tangible before the post explains it. Works as a companion to `two_types_engineering_teams_alexis`.
+Asset tags: [TYPE] [SVG]
+
+**Option C: Data Viz — Ratio Bar showing engineering time drain**
+SQUARE 1:1 (1080×1080). Dark bg. A horizontal bar: portion highlighted in #4589FF labeled "Sync maintenance" versus remainder in dim gray labeled "Roadmap work." No exact percentage needed — the visual imbalance makes the point. Subline: "What your best engineers built last quarter?"
+Asset tags: [DATA] [SVG]
+
+---
+
 ### FULL POST
 
 ---

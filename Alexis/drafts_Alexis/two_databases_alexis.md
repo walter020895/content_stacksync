@@ -46,6 +46,22 @@ One they control. One they don't.
 
 ---
 
+### VISUAL FORMAT SUGGESTIONS
+
+**Option A (Recommended): Split card — "Database you own vs. Database you don't"**
+LANDSCAPE 16:9 (1920×1080). Left dark panel: "The one you control" — Postgres/MySQL logo or SQL glyph, label "You own the schema." Right dark panel in slightly different tone: "The one that runs your business" — Salesforce or HubSpot logo, label "You can't query it with SQL." The logos make the ICP recognize their daily tools instantly. Left-vs-right IS the concept.
+Asset tags: [LOGO] [SVG]
+
+**Option B: Comparison Table — "Database you control vs. CRM"**
+PORTRAIT 4:5 (1080×1350). Dark bg (#08080E). Two-column table, 4 rows: Query method / Schema control / Uptime SLA / Who runs it. Left column (your DB) all checkmarks in #4589FF. Right column (CRM) all "API rate limits / Vendor controlled / Webhooks / Half the company." Makes the asymmetry structurally visible.
+Asset tags: [DATA] [SVG]
+
+**Option C: Brand Callout — CRM logos as the dominant element**
+SQUARE 1:1 (1080×1080). Dark bg. Salesforce, HubSpot, NetSuite logos arranged in a cluster. Subline in IBM Plex Sans: "Half the company depends on it. None of your engineers can query it with SQL." Logos are the ICP's daily tools — instant recognition and friction.
+Asset tags: [LOGO] [SVG]
+
+---
+
 ### FULL POST
 
 ---

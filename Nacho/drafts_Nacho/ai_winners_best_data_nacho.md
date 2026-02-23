@@ -51,6 +51,22 @@ They're spending billions on AI anyway. Gartner says 60% of those projects will 
 
 ---
 
+### VISUAL FORMAT SUGGESTIONS
+
+**Option A (Recommended): Acquisition card — three deals, one thesis**
+PORTRAIT 4:5 (1080×1350). Dark bg (#08080E). Three rows, each showing an acquisition with logos: Salesforce + Informatica, Fivetran + dbt Labs, IBM + Confluent ($11B). IBM Plex Sans labels. Bottom line in #4589FF: "Three data infrastructure deals. Same thesis." The logos make the deals concrete and recognizable — ICP knows all six companies. The vertical format builds the pattern row by row, then delivers the thesis line.
+Asset tags: [LOGO] [DATA]
+
+**Option B: Market Map — data layer vs. AI layer**
+LANDSCAPE 16:9 (1920×1080). Two zones. Top zone labeled "AI features" (Salesforce Agentforce, HubSpot Breeze, Microsoft Copilot logos) in dim gray. Bottom zone labeled "What they actually bought" with Informatica, dbt, Confluent logos in #4589FF. The structure shows the consolidation thesis visually: the acquirers own the feature layer, but they're buying the data infrastructure underneath.
+Asset tags: [LOGO] [SVG]
+
+**Option C: Number Hero — "$11B" as dominant element**
+SQUARE 1:1 (1080×1080). Dark bg. IBM Plex Sans 600. Large: "$11B" in #4589FF. Below: "IBM paid this for a data infrastructure company." Subline: "Not a chatbot. Not a model. A pipe." Creates the curiosity gap the hook resolves. IBM and Confluent logos in small at the bottom-right as a signature.
+Asset tags: [LOGO] [DATA] [TYPE]
+
+---
+
 ### FULL POST (using Hook A)
 
 ---

@@ -54,6 +54,22 @@ Their competitor signed 10 customers in the same window.
 
 ---
 
+### VISUAL FORMAT SUGGESTIONS
+
+**Option A (Recommended): Split card — "Optimizing for perfect vs. Faster loops"**
+LANDSCAPE 16:9 (1920×1080). Left dark panel: "90-day roadmap. Notion boards. Bi-weekly alignment." Right dark panel in #4589FF: "What did you ship last week?" The binary is the argument. Left side = the artifact of slow teams; right side = the two-part diagnostic. No logos needed — this is pure operator conviction.
+Asset tags: [TYPE] [SVG]
+
+**Option B: Typographic Manifesto card**
+PORTRAIT 4:5 (1080×1350). Dark bg (#08080E). IBM Plex Sans 600. Large centered text: "SHIP UGLY. TALK TO CUSTOMERS. FIX IN PUBLIC." Each line stacked, increasing in weight. Subline in smaller IBM Plex Sans: "That's the whole loop." Vertical format suits a list of imperatives that build downward. Highly shareable — founders will tag their teams.
+Asset tags: [TYPE]
+
+**Option C: Cultural Reference — This Is Fine**
+SQUARE 1:1 (1080×1080). The "This is fine" dog sitting in a burning room. The dog is labeled "Team planning sprint 4 of alignment." The flames are labeled: "Runway at 3 months," "Competitor signed 10 customers," "Zero shipped output this week." Strong image-hook loop: the meme creates the feeling, the hook names the problem. Dark humor Nacho would lean into.
+Asset tags: [SVG]
+
+---
+
 ### FULL POST (using Hook A)
 
 ---

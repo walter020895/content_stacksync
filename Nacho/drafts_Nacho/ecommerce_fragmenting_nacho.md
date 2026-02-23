@@ -52,6 +52,22 @@ The brands that win won't be on the most channels. They'll be the ones whose dat
 
 ---
 
+### VISUAL FORMAT SUGGESTIONS
+
+**Option A (Recommended): Number Hero — "$650B" as dominant element**
+SQUARE 1:1 (1080×1080). Dark bg (#08080E). IBM Plex Sans 600. Large centered: "$650B" in #4589FF. Below in dim gray: "Amazon. TikTok Shop. Shopify." Subline in smaller weight: "Three platforms that don't talk to each other." The scale creates the cognitive dissonance the hook relies on — the number is incomprehensible, the fragmentation is the punchline. Amazon, TikTok Shop, and Shopify logos small at the bottom.
+Asset tags: [LOGO] [DATA] [TYPE]
+
+**Option B: Market Map — three platforms, three silos**
+PORTRAIT 4:5 (1080×1350). Dark bg. Three platform logos (Amazon, TikTok Shop, Shopify) in three separate isolated boxes, each with its own data: "$325B," "$33B," "$292B." No connecting lines between the boxes. A broken link icon between each. Bottom line: "$650B. Zero connections." The visual absence of arrows IS the point — the platforms are isolated by design.
+Asset tags: [LOGO] [SVG] [DATA]
+
+**Option C: Bar Race / Data Viz — platform GMV comparison**
+LANDSCAPE 16:9 (1920×1080). Dark bg, horizontal bar chart. Three bars: Amazon ($325B), Shopify ($292B), TikTok Shop ($33B). Each bar ends with the platform logo. A red overlay or broken line segment on all three: "None of these systems sync." The data viz makes the scale real, the overlay makes the problem visceral.
+Asset tags: [LOGO] [DATA] [SVG]
+
+---
+
 ### FULL POST (using Hook A)
 
 ---

@@ -54,6 +54,22 @@ The brands winning there are running a completely different data playbook than A
 
 ---
 
+### VISUAL FORMAT SUGGESTIONS
+
+**Option A (Recommended): Brand vs. Brand — Amazon vs. TikTok Shop**
+LANDSCAPE 16:9 (1920×1080). Left dark panel: Amazon logo, label "Customer searches for product. Keywords. Review scores. Intent-based." Right dark panel: TikTok Shop logo, label "Algorithm finds the customer. Watch time. Saves. Discovery-based." Both logos centered large in their respective panels. The left-vs-right IS the concept — two fundamentally different data models. ICP recognizes both platforms instantly.
+Asset tags: [LOGO] [SVG]
+
+**Option B: Comparison Table — Amazon vs. TikTok Shop data stack**
+PORTRAIT 4:5 (1080×1350). Dark bg (#08080E). Two-column table, 4 rows: Data model / Success metric / Catalog structure / Infrastructure result. Amazon column in dim gray; TikTok Shop column in #4589FF. Shopify logo added as a third column with "Your own data layer" — makes the three-platform fragmentation obvious.
+Asset tags: [LOGO] [DATA]
+
+**Option C: Iceberg card — visible commerce vs. hidden data problem**
+PORTRAIT 4:5 (1080×1350). Dark bg. Above waterline: Amazon logo + TikTok Shop logo, labeled "What everyone talks about." Below waterline (70% of canvas): "Three data models. Three schemas. Zero unified view. Orders in one system. Inventory in another." The iceberg metaphor maps to the post's core insight — the hard problem is the data underneath, not the channel selection.
+Asset tags: [LOGO] [SVG]
+
+---
+
 ### FULL POST (using Hook A)
 
 ---

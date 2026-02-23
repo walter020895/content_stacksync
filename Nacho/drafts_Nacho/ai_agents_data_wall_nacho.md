@@ -58,6 +58,22 @@ Enterprises bought all of it.
 
 ---
 
+### VISUAL FORMAT SUGGESTIONS
+
+**Option A (Recommended): Brand Callout — AI agent products vs. data reality**
+SQUARE 1:1 (1080×1080). Dark bg (#08080E). Top half: Salesforce Agentforce, HubSpot Breeze, Microsoft Copilot logos clustered, labeled "Enterprises bought all of it." Bottom half separated by a horizontal line: a simple "batch sync: 6-hour windows" timeline bar in dim gray, labeled "The data underneath." Bottom line in #4589FF: "Not a model problem. A data problem." ICP recognition is instant — they know these products. The image-hook loop: impressive logos above / bleak data reality below.
+Asset tags: [LOGO] [SVG] [DATA]
+
+**Option B: Split card — "Companies with real-time pipelines vs. Companies on batch sync"**
+LANDSCAPE 16:9 (1920×1080). Left dark panel: "Real-time pipelines" — green accent, label "Can use AI agents today." Right dark panel: "Batch sync: 6-hour windows" — dim gray, label "Bought a product they can't use yet." The binary is the entire argument. Left-vs-right IS the concept.
+Asset tags: [TYPE] [SVG]
+
+**Option C: Number Hero — "60%" abandonment stat**
+SQUARE 1:1 (1080×1080). Dark bg. IBM Plex Sans 600. Large centered: "60%" in #4589FF. Below: "of enterprise AI projects will be abandoned by 2026." Subline in smaller weight: "Not a model problem. The data wasn't ready." — Gartner. Creates the fear the Fortune Teller hook channels. Gartner wordmark in small at the bottom as source attribution.
+Asset tags: [DATA] [TYPE]
+
+---
+
 ### FULL POST (using Hook A)
 
 ---
