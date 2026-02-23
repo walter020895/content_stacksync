@@ -1,15 +1,17 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import Link from 'next/link'
 import type { Post } from '@/lib/posts'
 import { getInitials, getAvatarColor } from '@/lib/utils'
 
-// LinkedIn truncation (desktop card width ~552px):
-// - Text-only post: ~5 lines ≈ 210 chars
-// - Post with image: ~3 lines ≈ 140 chars (image takes visual weight)
-const TRUNCATE_TEXT_ONLY = 210
-const TRUNCATE_WITH_IMAGE = 140
+// LinkedIn truncation thresholds (chars before "see more")
+// Desktop (card ~552px): text-only ~5 lines ≈ 210, with image ~3 lines ≈ 140
+// Mobile  (card ~390px): text-only ~5 lines ≈ 150, with image ~3 lines ≈ 110
+const TRUNCATE = {
+  desktop: { text: 210, image: 140 },
+  mobile:  { text: 150, image: 110 },
+}
 
 interface PostCardProps {
   post: Post
@@ -107,8 +109,18 @@ function PostBody({
   hasImage: boolean
 }) {
   const [expanded, setExpanded] = useState(false)
+  const [isMobile, setIsMobile] = useState(false)
+
+  useEffect(() => {
+    const check = () => setIsMobile(window.innerWidth < 640)
+    check()
+    window.addEventListener('resize', check)
+    return () => window.removeEventListener('resize', check)
+  }, [])
+
   const full = content.trim()
-  const truncateAt = hasImage ? TRUNCATE_WITH_IMAGE : TRUNCATE_TEXT_ONLY
+  const thresholds = isMobile ? TRUNCATE.mobile : TRUNCATE.desktop
+  const truncateAt = hasImage ? thresholds.image : thresholds.text
   const needsTruncation = !alwaysExpanded && full.length > truncateAt
   const isExpanded = expanded || alwaysExpanded
 
