@@ -45,7 +45,7 @@ Good luck finding a replacement that does all three.
 ---
 
 Heroku Connect is going away.
-If your Salesforce data runs through it, the clock is ticking.
+If your Salesforce data runs through it, the clock is ticking. 
 
 Your options:
 
