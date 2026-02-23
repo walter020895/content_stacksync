@@ -82,7 +82,9 @@ If you also sell on Amazon and Shopify, your orders now live in three separate p
 - Amazon Seller Central: detailed reporting but completely siloed
 - Shopify Admin: separate universe
 
-TikTok's own analytics can't even measure your performance on other platforms. Their offsite tracking only works with Shopify. Amazon, Walmart, offline channels? Invisible.
+TikTok's own analytics can't even measure your performance on other platforms. Their offsite tracking only works with Shopify.
+
+Amazon, Walmart, offline channels? Invisible.
 
 Sellers managing three or more channels spend 10 to 15 hours a week manually copying data between systems (Webgility). That's a part-time job nobody budgeted for.
 

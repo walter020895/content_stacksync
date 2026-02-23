@@ -59,7 +59,11 @@ The first team built their own sync:
 → Repeat.
 
 The second team runs sync as infrastructure:
-Gets paged. Opens the dashboard. Sees the vendor already caught it. Files a ticket. Goes back to sleep.
+Gets paged.
+Opens the dashboard.
+Sees the vendor already caught it.
+Files a ticket.
+Goes back to sleep.
 
 The first team has more "ownership." The second team has more time.
 

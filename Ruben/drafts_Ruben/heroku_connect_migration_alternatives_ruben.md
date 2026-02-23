@@ -45,14 +45,17 @@ Good luck finding a replacement that does all three.
 ---
 
 Heroku Connect is going away.
-If your Salesforce data runs through it, the clock is ticking. 
+If your Salesforce data runs through it, the clock is ticking.
 
 Your options:
 
-▪️MuleSoft: Six-figure contract. Months of implementation. Specialized consultants.
-▪️Fivetran: Built for one direction. Reverse ETL is a paid add-on with limited connectors.
-▪️Build it yourself: Engineers said three months. They meant nine. Plus maintenance forever.
-▪️Workato: Recipe-based. Not built for sync. Different invoice.
+MuleSoft: Six-figure contract. Months of implementation. Specialized consultants.
+
+Fivetran: Built for one direction. Reverse ETL is a paid add-on with limited connectors.
+
+Build it yourself: Engineers said three months. They meant nine. Plus maintenance forever.
+
+Workato: Recipe-based. Not built for sync. Different invoice.
 
 Heroku Connect did one thing well.
 Salesforce to Postgres. Bi-directional. Relatively real-time. Low complexity.

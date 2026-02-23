@@ -87,13 +87,19 @@ And lately, I've been thinking about the electricity bill.
 
 Not because I'm against the technology. But I also believe we're allowed to hold two thoughts at once, and somewhere in the rush of that conversation, this one keeps getting skipped:
 
-AI data centers now consume more electricity than some entire countries — a figure the IEA reports is growing rapidly alongside AI adoption. The water used to cool that infrastructure comes from communities managing drought at the same time. The carbon footprint is real, even when the product is good.
+AI data centers now consume more electricity than some entire countries, a figure the IEA reports is growing rapidly alongside AI adoption.
+
+The water used to cool that infrastructure comes from communities managing drought at the same time.
+
+The carbon footprint is real, even when the product is good.
 
 As someone who handles compliance and cares about the organizations we work with, I keep coming back to a question:
 
 At some point, does this become part of the due diligence conversation?
 
-Not as an indictment of the technology. As an expectation we put on ourselves. What are our vendors doing about this? What are we doing about this? Are we even measuring it?
+Not as an indictment of the technology. As an expectation we put on ourselves.
+
+What are our vendors doing about this? What are we doing about this? Are we even measuring it?
 
 I don't have all the answers. And I'm not here to tell anyone what their company should do.
 

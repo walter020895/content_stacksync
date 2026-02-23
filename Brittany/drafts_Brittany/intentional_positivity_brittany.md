@@ -101,7 +101,7 @@ This isn't naivety, and it's not the kind of positivity that pretends problems d
 
 And what I've noticed, after years of this: when you practice something consistently enough, it stops feeling like practice. It just becomes the way you move through a day.
 
-What that does to a team, especially one operating under pressure — it raises the floor. When people know that no matter what happened, the conversation they're about to have won't be charged with panic or blame, they come to you earlier. They bring you the small problem before it grows into one that can't be fixed quietly.
+What that does to a team, especially one operating under pressure: it raises the floor. When people know that no matter what happened, the conversation they're about to have won't be charged with panic or blame, they come to you earlier. They bring you the small problem before it grows into one that can't be fixed quietly.
 
 Positive energy is a leadership tool.
 

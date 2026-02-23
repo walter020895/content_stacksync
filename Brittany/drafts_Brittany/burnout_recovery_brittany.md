@@ -95,7 +95,9 @@ And honestly? I think it's hurting the work.
 
 Ten years in hospitality taught me something that tech culture is still catching up to.
 
-You can't run a floor on empty. When you're exhausted, you miss things. You make the wrong call. You become the bottleneck — not because you lack capability, but because you refused to stop long enough to refill.
+You can't run a floor on empty.
+
+When you're exhausted, you miss things. You make the wrong call. You become the bottleneck, not because you lack capability, but because you refused to stop long enough to refill.
 
 There was a stretch during our SOC 2 compliance work when I hit a real wall. Not metaphorical. The kind where you're staring at the screen and nothing is moving, and every hour you push through costs you two hours of rework the next morning.
 
@@ -103,7 +105,9 @@ So I closed the laptop. Went outside. Made a cup of tea.
 
 And you know what? I came back with fresh eyes and solved in thirty minutes what I'd been staring at for two days.
 
-I'm not saying don't work hard. Lord knows I've set a 3am alarm and I'd do it again. But there is a difference between working hard and grinding past the point where the work is any good.
+I'm not saying don't work hard. Lord knows I've set a 3am alarm and I'd do it again.
+
+But there is a difference between working hard and grinding past the point where the work is any good.
 
 Stepping away is not a failure of discipline.
 

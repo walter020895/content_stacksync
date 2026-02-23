@@ -58,19 +58,25 @@ Then they try to connect it to their actual data.
 
 That's when the calls start.
 
-Salesforce says one thing. The database says another. NetSuite has a third version. Three systems, three truths, zero agreement on something as basic as "how many active customers do we have."
+Salesforce says one thing. The database says another. NetSuite has a third version.
+
+Three systems, three truths, zero agreement on something as basic as "how many active customers do we have."
 
 This was always a problem. But before AI, humans papered over the gaps. Someone ran a report, noticed the mismatch, fixed it manually, moved on.
 
 AI doesn't do that. AI takes whatever data you give it and runs. Confidently. At scale. With no instinct to double-check.
 
-Duplicate records become duplicate recommendations. Stale pipeline data becomes wrong forecasts. A customer marked "active" in HubSpot and "churned" in Postgres becomes a renewal email sent to someone who left six months ago.
+Duplicate records become duplicate recommendations. Stale pipeline data becomes wrong forecasts.
+
+A customer marked "active" in HubSpot and "churned" in Postgres becomes a renewal email sent to someone who left six months ago.
 
 The model isn't the problem. The model is doing exactly what you asked.
 
 The data underneath is the problem. And AI just made it visible.
 
-RAND found that 80% of AI projects fail. Twice the rate of non-AI IT projects. Gartner predicts 60% will be abandoned by 2026 because the data wasn't ready.
+RAND found that 80% of AI projects fail. Twice the rate of non-AI IT projects.
+
+Gartner predicts 60% will be abandoned by 2026 because the data wasn't ready.
 
 I've talked to CTOs who spent six months building AI features, only to realize month seven was about fixing the data layer they should have fixed first.
 

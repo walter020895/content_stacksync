@@ -91,7 +91,7 @@ I want to know how you've failed.
 
 Not because I'm looking for someone who makes mistakes. I'm looking for someone who knows what to do when they inevitably do.
 
-A few years back, I worked alongside someone named Kevin. Didn't matter what went sideways on a shift — his response was always the same. Calm. Practical. Let's figure it out and keep moving.
+A few years back, I worked alongside someone named Kevin. Didn't matter what went sideways on a shift, his response was always the same. Calm. Practical. Let's figure it out and keep moving.
 
 That's the person I want next to me when it's late and something's broken. Not the person who hasn't failed yet. The person who has, came back, and still showed up with their kindness intact.
 
@@ -103,7 +103,7 @@ You know what that creates? A culture where people bring you the small problem e
 
 Grace doesn't cost anything. And it compounds over time.
 
-If you manage people — what's your instinct when someone gets it wrong?
+If you manage people: what's your instinct when someone gets it wrong?
 
 ---
 

@@ -54,9 +54,13 @@ Most CTOs I know have two databases.
 
 One they control. One they don't.
 
-The one they control: Postgres, MySQL, whatever. Engineers query it directly. Tests run against it. It lives in their infra. They own the schema, the backups, the uptime SLA.
+The one they control: Postgres, MySQL, whatever. Engineers query it directly. It lives in their infra.
 
-The one they don't: the CRM. HubSpot. Salesforce. NetSuite. It runs sales, support, finance, customer success. Half the company depends on it. None of your engineers can query it with SQL.
+They own the schema, the backups, the uptime SLA.
+
+The one they don't: the CRM. HubSpot. Salesforce. NetSuite.
+
+It runs sales, support, finance, customer success. Half the company depends on it. None of your engineers can query it with SQL.
 
 That second database runs the business. You just can't treat it like a database.
 

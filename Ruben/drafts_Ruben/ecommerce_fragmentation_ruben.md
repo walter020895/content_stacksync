@@ -70,7 +70,9 @@ Inventory distortion costs retailers $1.77 trillion a year globally. $1.2 trilli
 
 The brands scaling across channels right now are hitting this wall. They didn't pick the wrong platforms. The data between platforms just doesn't move fast enough.
 
-Amazon doesn't share real-time data with Shopify. TikTok Shop doesn't sync with your ERP. Each platform protects its own ecosystem.
+Amazon doesn't share real-time data with Shopify.
+TikTok Shop doesn't sync with your ERP.
+Each platform protects its own ecosystem.
 
 Unifying that data is your problem to solve.
 

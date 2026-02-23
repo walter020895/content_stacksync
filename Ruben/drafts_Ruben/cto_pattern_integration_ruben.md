@@ -58,6 +58,7 @@ That phrase has started to mean something very specific to me.
 ---
 
 I've had this conversation with engineering leaders
+
 I can tell how it ends by minute five.
 
 It always ends the same way.
@@ -71,7 +72,7 @@ It usually goes something like this:
 
 "Just not now" is the part that costs them.
 
-There's no line item for it. No ticket that says "integration drift — $75K/year."
+There's no line item for it. No ticket that says "integration drift, $75K/year."
 
 It shows up as an engineer who can't get to the roadmap because they're babysitting a pipeline.
 
@@ -81,7 +82,7 @@ The best engineer on the team spending Tuesday mornings on pipeline health check
 
 That's integration debt. Nobody calls it that.
 
-It fails just often enough to need a babysitter. And that babysitter is usually your best infrastructure engineer — the one you need on something harder.
+It fails just often enough to need a babysitter. And that babysitter is usually your best infrastructure engineer, the one you need on something harder.
 
 The companies I've talked to that fixed this didn't do it because they had a strategy. They did it because one incident crossed the line from "annoying" to "customer-facing."
 

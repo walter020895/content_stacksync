@@ -68,7 +68,9 @@ They have better data plumbing.
 E-commerce grew nearly 5x in the last decade.
 The data infrastructure behind it barely changed.
 
-Think about what a modern e-commerce operation actually looks like. You're running Shopify for DTC. Amazon for marketplace. Maybe TikTok Shop for social commerce.
+Think about what a modern e-commerce operation actually looks like.
+
+Shopify for DTC. Amazon for marketplace. Maybe TikTok Shop for social commerce.
 
 Each platform generates order data, inventory data, customer data, fulfillment data. All in different formats. At different cadences. With different APIs.
 
@@ -80,7 +82,10 @@ Global e-commerce hit $6.3 trillion in 2024 according to eMarketer. Most growing
 
 The data layer underneath your e-commerce operation determines everything downstream.
 
-Can you promise accurate inventory? Can you fulfill from the right warehouse? Do your finance numbers match reality? Can your customer support team see a complete order history regardless of which platform it came from?
+Can you promise accurate inventory?
+Can you fulfill from the right warehouse?
+Do your finance numbers match reality?
+Can your customer support team see a complete order history regardless of which platform it came from?
 
 Every one of those questions is a data synchronization problem. That's an engineering problem. And it doesn't get solved by adding more storefronts.
 

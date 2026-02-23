@@ -74,9 +74,13 @@ I talk to e-commerce CTOs regularly and the pattern is always the same. They sta
 
 That's when it gets expensive.
 
-Each platform structures order data differently. Shopify uses line items with variant IDs. Amazon uses ASIN-based fulfillment objects. TikTok Shop has its own order schema that changes frequently.
+Each platform structures order data differently.
 
-The fields don't map 1:1. The update frequencies don't match. The API rate limits are wildly different.
+Shopify uses line items with variant IDs. Amazon uses ASIN-based fulfillment objects. TikTok Shop has its own order schema that changes frequently.
+
+The fields don't map 1:1.
+The update frequencies don't match.
+The API rate limits are wildly different.
 
 A trigger-based tool like Zapier works when you're connecting two apps with simple events. New order in Shopify, create row in Google Sheets. But when you need real-time inventory consistency across three platforms with different schemas, rate limits, and fulfillment workflows? That's not an integration. That's infrastructure.
 

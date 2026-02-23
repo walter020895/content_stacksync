@@ -90,9 +90,13 @@ Error logs. Conflict history. Field mapping rules. The answers were already insi
 
 So we built it.
 
-Not an AI wrapper. Not a chatbot bolted onto a dashboard. An AI layer that reads your sync configuration, your error patterns, and your field mappings, then explains what happened and what to do next.
+Not an AI wrapper. Not a chatbot bolted onto a dashboard.
 
-No prompt engineering required from the user. No "ask me anything" interface. Just direct answers to the questions customers were already asking support.
+An AI layer that reads your sync configuration, your error patterns, and your field mappings, then explains what happened and what to do next.
+
+No prompt engineering required from the user.
+No "ask me anything" interface.
+Just direct answers to the questions customers were already asking support.
 
 The entire AI roadmap came from one spreadsheet: the top 10 questions our support team answered every week.
 

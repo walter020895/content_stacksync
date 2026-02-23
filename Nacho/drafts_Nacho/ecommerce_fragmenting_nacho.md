@@ -66,7 +66,9 @@ Nobody has a single view of their own business.
 
 And the gap is accelerating. TikTok Shop US sales grew 407% in 2024. More channels, more volume, more fragmentation. The infrastructure behind it hasn't changed.
 
-One day out of stock on Amazon drops rank by 28% for top-selling products. Three days? 83%. And 37% of shoppers switch brands after a single stockout.
+One day out of stock on Amazon drops rank by 28% for top-selling products. Three days? 83%.
+
+And 37% of shoppers switch brands after a single stockout.
 
 That's what happens when your inventory data lives in three systems that don't sync.
 

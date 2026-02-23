@@ -74,11 +74,17 @@ That setup is costing you more than you think.
 
 I talk to e-commerce brands every week. Most of them run this exact configuration. Three platforms, three logins, three versions of their own data. And most don't realize what it actually costs them until someone runs the numbers.
 
-Start with time. Sellers on three or more channels spend 10 to 15 hours a week copying orders, matching marketplace settlements to bundled payouts, and chasing fee discrepancies between platforms (Webgility). At $50 an hour, that's $26,000 a year in manual data entry. For a task that adds zero value to your business.
+Start with time.
 
-Then there's revenue. Stale inventory data creates a specific kind of loss: overselling items you can't fulfill, underselling items sitting in a warehouse you forgot to update. At $500K a month, even a 5% inventory accuracy problem is $25K in avoidable losses per month — before you count the refund costs and the customers who don't come back.
+Sellers on three or more channels spend 10 to 15 hours a week copying orders, matching marketplace settlements to bundled payouts, and chasing fee discrepancies between platforms (Webgility). At $50 an hour, that's $26,000 a year in manual data entry. For a task that adds zero value to your business.
 
-The one nobody measures? Visibility. 80% of brands can't identify their most profitable channel because each platform reports different metrics in different formats (Rithum). You're spending on TikTok ads, Amazon PPC, and Shopify campaigns. You can't tell which one actually makes you money.
+Then there's revenue.
+
+Stale inventory data creates a specific kind of loss: overselling items you can't fulfill, underselling items sitting in a warehouse you forgot to update. At $500K a month, even a 5% inventory accuracy problem is $25K in avoidable losses per month. Before you count the refund costs and the customers who don't come back.
+
+The one nobody measures? Visibility.
+
+80% of brands can't identify their most profitable channel because each platform reports different metrics in different formats (Rithum). You're spending on TikTok ads, Amazon PPC, and Shopify campaigns. You can't tell which one actually makes you money.
 
 Three costs. None on a balance sheet. All compounding every month you stay on three tabs.
 

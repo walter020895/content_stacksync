@@ -68,7 +68,11 @@ Patrick and John Collison flew to customers' offices and installed their product
 
 That built a $100B+ company.
 
-To be honest, most B2B teams get this backwards. They optimize for scalable. They send the trial link. They write the follow-up sequence. They wonder why conversion drops.
+To be honest, most B2B teams get this backwards.
+They optimize for scalable.
+They send the trial link.
+They write the follow-up sequence.
+They wonder why conversion drops.
 
 What the Collisons understood: the moment you hand someone a link, you lose 80% of them. When you sit across from them and make it work in 20 minutes, you have a customer.
 

@@ -92,19 +92,21 @@ Operations makes sure neither of those things gets the company sued.
 
 Nobody writes LinkedIn posts about operations.
 
-I've spent most of my career doing the work that keeps everything else running. HR. Finance. Legal. Compliance. Contracts. Visas. The SOC 2 audit nobody wants to own. The vendor agreement that's been sitting in someone's inbox for three weeks.
+I've spent most of my career doing the work that keeps everything else running.
+
+HR. Finance. Legal. Compliance. Contracts. Visas. The SOC 2 audit nobody wants to own. The vendor agreement that's been sitting in someone's inbox for three weeks.
 
 These departments don't get the spotlight. They're not on stage at the company all-hands. They're not in the revenue meeting getting high-fived.
 
 But y'all? They are why the company is still standing.
 
-I'm not bitter about it. I chose this work because I genuinely love it — the numbers, the structure, the quiet satisfaction of a contract that's airtight. But there's something worth naming here.
+I'm not bitter about it. I chose this work because I genuinely love it: the numbers, the structure, the quiet satisfaction of a contract that's airtight. But there's something worth naming here.
 
 The people doing the invisible work deserve to be seen.
 
 Not just recognized in a year-end message. Seen. For the complexity of what they navigate every single day. For the problems they solve before anyone else even knew there was a problem.
 
-If you're in operations, finance, legal, or compliance right now — this one's for you.
+If you're in operations, finance, legal, or compliance right now, this one's for you.
 
 You're not behind the scenes.
 

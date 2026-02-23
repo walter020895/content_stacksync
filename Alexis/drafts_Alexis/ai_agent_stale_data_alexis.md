@@ -81,7 +81,9 @@ This conversation is happening at every company deploying AI agents right now.
 
 Makes sense, you know? A chatbot with bad data gives a wrong answer. You catch it. An autonomous agent with bad data executes wrong decisions. Dozens of them. Before anyone notices.
 
-Your Salesforce data is 6 hours stale. HubSpot contacts haven't synced since this morning. The agent reads both with full confidence and acts on yesterday's reality.
+Your Salesforce data is 6 hours stale. HubSpot contacts haven't synced since this morning.
+
+The agent reads both with full confidence and acts on yesterday's reality.
 
 The AI team blames the model.
 The data team blames the budget.

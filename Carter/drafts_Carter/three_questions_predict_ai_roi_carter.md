@@ -72,7 +72,9 @@ The buyers who answer yes to all three? They get ROI from AI.
 
 The rest are still in pilot purgatory.
 
-74% of companies can't show tangible value from AI (BCG, 2024). 42% abandoned most of their initiatives this year (S&P Global). The failure rate isn't about the models. It's about what the models sit on top of.
+74% of companies can't show tangible value from AI (BCG, 2024). 42% abandoned most of their initiatives this year (S&P Global).
+
+The failure rate isn't about the models. It's about what the models sit on top of.
 
 I talk to buyers on both sides of that stat. The difference is always the same.
 

@@ -59,7 +59,9 @@ Salesforce bought Informatica. Fivetran and dbt announced a merger. IBM acquired
 
 Three data infrastructure deals in a single year. Same thesis.
 
-The data market is compressing. Too many vendors doing the same thing. Too many point solutions pretending to be platforms. The consolidation just started and it's already brutal.
+The data market is compressing. Too many vendors doing the same thing. Too many point solutions pretending to be platforms.
+
+The consolidation just started. And it's already brutal.
 
 Look at what they bought. Not AI models. Not chatbot frameworks.
 

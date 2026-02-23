@@ -68,7 +68,9 @@ None of those are bi-directional sync. That part surprised me too.
 
 What bi-directional actually requires: both systems updating each other in real time, plus a conflict resolution layer for when both sides touch the same record at the same minute. Without that second piece, one update silently disappears.
 
-The result: business decisions made on data that's 15-60 minutes stale. A renewal quote goes out with pricing from 45 minutes ago. The rep doesn't know. No one told them.
+The result: business decisions made on data that's 15-60 minutes stale.
+
+A renewal quote goes out with pricing from 45 minutes ago. The rep doesn't know. No one told them.
 
 Worth checking which category your stack actually falls into.
 

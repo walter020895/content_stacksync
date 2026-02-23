@@ -68,11 +68,17 @@ Most of them can't actually deploy one yet.
 
 Not a model problem. A data problem.
 
-To be honest, the AI is ready. The data operations underneath aren't. Most enterprise CRM data runs on batch sync — 6-hour windows, sometimes daily. An AI agent reading that data is making decisions on records that are hours behind reality.
+To be honest, the AI is ready. The data operations underneath aren't.
+
+Most enterprise CRM data runs on batch sync. 6-hour windows, sometimes daily.
+
+An AI agent reading that data is making decisions on records that are hours behind reality.
 
 I've seen it play out: an agent tries to personalize an outreach email, reads a deal stage from 3 hours ago, and references a conversation that already happened. Not a hallucination. A freshness problem.
 
-The companies actually winning with AI agents, Klarna replacing 700 support agents, Intercom resolving 51% of queries without a human, all had one thing in common: real-time data access. Not better models. Fresher data.
+The companies actually winning with AI agents all had one thing in common: real-time data access. Not better models. Fresher data.
+
+Klarna replaced 700 support agents. Intercom resolves 51% of queries without a human.
 
 The binary is simple. Companies with real-time pipelines can use AI agents today. Companies on batch sync bought a product they can't use yet.
 

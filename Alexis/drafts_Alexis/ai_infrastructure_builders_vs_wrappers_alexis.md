@@ -69,13 +69,21 @@ Every company I talk to is building AI features.
 
 Almost none of them are building the data layer those features need to work.
 
-I keep seeing the same pattern. A team ships an AI copilot or internal agent. The demo is incredible. Production is a disaster. The model hallucinates, recommendations are stale, outputs contradict each other depending on which system you ask.
+I keep seeing the same pattern. A team ships an AI copilot or internal agent.
+
+The demo is incredible. Production is a disaster.
+
+The model hallucinates, recommendations are stale, outputs contradict each other depending on which system you ask.
 
 Leadership blames the model.
 
-The model was fine. It was sitting on top of a data layer where Salesforce syncs every 6 hours, the warehouse has 3 versions of the same customer, and half the fields haven't been updated since Q3.
+The model was fine.
 
-Last year, enterprise AI spending split almost evenly: $19 billion on the application layer, $18 billion on infrastructure. But most of that infrastructure spend went to compute and model APIs. Almost none went to the data layer connecting LLMs to what's actually in enterprise systems. The pipes that feed the models.
+It was sitting on top of a data layer where Salesforce syncs every 6 hours, the warehouse has 3 versions of the same customer, and half the fields haven't been updated since Q3.
+
+Last year, enterprise AI spending split almost evenly: $19 billion on the application layer, $18 billion on infrastructure.
+
+But most of that infrastructure spend went to compute and model APIs. Almost none went to the data layer connecting LLMs to what's actually in enterprise systems. The pipes that feed the models.
 
 Teams are spending on compute and model APIs while the actual data pipes stay broken.
 
