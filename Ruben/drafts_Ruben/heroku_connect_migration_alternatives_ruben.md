@@ -44,10 +44,8 @@ Good luck finding a replacement that does all three.
 
 ---
 
-Every company on Heroku Connect just got the same email.
-Now they're all evaluating the same four alternatives.
-
-Three of them are worse.
+Heroku Connect is going away.
+If your Salesforce data runs through it, the clock is ticking.
 
 Your options:
 
