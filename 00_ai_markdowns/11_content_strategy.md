@@ -135,7 +135,7 @@ Each exec posts from a different angle, hitting the same weekly theme:
 | **Alexis** | CTO | Technical architecture, builder lens | SQL vs API, code comparisons, engineering tradeoffs, system design |
 | **Nacho** | GTM Philosopher | Pragmatic business reality, revenue math | Pricing, operational constraints, unit economics, "That's it." |
 | **Carter** | Young Commercial | Educational, eager learner | Accessible explanations, DMs open, "let me break this down" |
-| **Tony** | Industry Veteran | iPaaS/integration landscape | Vendor comparisons, Celigo background, market categories, "Just math." |
+| **Brittany** | Head of Operations & Finance | Human layer, invisible work | Culture, ops backbone, grace for failure, warmth behind the numbers |
 
 ### Post Formats That Convert
 

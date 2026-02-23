@@ -24,11 +24,11 @@ If nothing was provided, ask the user which post to audit.
 
 Also load the persona's voice guide: `04_linkedin_content/[Persona]/[name]_personality_v01.md`
 
-## STEP 2: AUDIT (6 Dimensions)
+## STEP 2: AUDIT (7 Dimensions)
 
 Score the post on each dimension:
 
-### D1: ICP Relevance (25%)
+### D1: ICP Relevance (20%)
 - Check against `00_icp_stacksync.md`
 - Would the target buyer (CTO, VP Engineering, Director RevOps, Head of Business Systems) stop scrolling?
 - Which Lane does this post serve? (Reach / Relevance / Revenue)
@@ -63,28 +63,47 @@ Score the post on each dimension:
 - List any patterns found
 - Score 1-10
 
-### D5: Reading Pleasure (15%)
+### D5: Reading Pleasure (10%)
 - Does it sound like the persona? Check against personality doc
 - Voice authenticity: Would the reader believe this person wrote it?
 - Emotional impact: Does it make the reader feel something?
 - Signature close matches persona style?
 - Score 1-10
 
-### D6: Visual-Hook Alignment (10%)
+### D6: Reader Value (15%)
+Does the reader walk away with something they can understand, practice, or apply? See `04_linkedin_content/00_ai_markdowns/16_Post-Auditor-Agent.md` for full rubric.
+
+- Can you name the one thing the reader learned in one sentence?
+- Is it specific to their role (CTO, RevOps, VP Eng) or generic for any job?
+- Does the value exist independent of buying Stacksync?
+- Score 1-10
+
+### D7: Visual-Hook Alignment (5%)
 - If visual suggested: does it match the hook's message?
 - Would the visual alone tell the same story as the hook?
-- If text-only: is that the right choice for this hook type?
+- If text-only: is that the right choice for this hook type? (Score N/A → redistribute 5% to D6)
 - Score 1-10
 
 ## STEP 3: CALCULATE & VERDICT
 
-Weighted Score = (D1 × 0.25) + (D2 × 0.20) + (D3 × 0.20) + (D4 × 0.10) + (D5 × 0.15) + (D6 × 0.10)
+Weighted Score = (D1 × 0.20) + (D2 × 0.20) + (D3 × 0.20) + (D4 × 0.10) + (D5 × 0.10) + (D6 × 0.15) + (D7 × 0.05)
+Text-only posts (D7 = N/A): (D1 × 0.20) + (D2 × 0.20) + (D3 × 0.20) + (D4 × 0.10) + (D5 × 0.10) + (D6 × 0.20)
 
 | Verdict | Score | Action |
 |---------|-------|--------|
 | **GO** | 8.0+ | Ready for human review |
 | **REVISE** | 6.0-7.9 | Fix flagged issues, re-audit |
 | **KILL** | <6.0 | Rewrite from scratch |
+
+**Override Rules (automatic, regardless of composite):**
+- D2 (Factual Accuracy) score 3 or below → automatic **KILL**
+- D4 (AI Slop) score 3 or below → automatic **REVISE** minimum
+- D1 (ICP Relevance) score 3 or below → automatic **REVISE** minimum
+- D6 (Reader Value) score 4 or below → automatic **REVISE** minimum
+
+**AI Slop score caps:**
+- 3-4 blacklisted patterns in a single post → D4 capped at 5
+- 5+ blacklisted patterns → D4 capped at 3
 
 ## STEP 4: REPORT
 
@@ -95,12 +114,13 @@ Present a clear audit report:
 
 | Dimension | Weight | Score | Key Findings |
 |-----------|--------|-------|--------------|
-| ICP Relevance | 25% | X/10 | [notes] |
-| Factual Accuracy | 20% | X/10 | [notes] |
-| Readability | 20% | X/10 | [notes] |
-| AI Slop | 10% | X/10 | [notes] |
-| Reading Pleasure | 15% | X/10 | [notes] |
-| Visual-Hook Alignment | 10% | X/10 | [notes] |
+| D1: ICP Relevance | 20% | X/10 | [notes] |
+| D2: Factual Accuracy | 20% | X/10 | [notes] |
+| D3: Readability | 20% | X/10 | [notes] |
+| D4: AI Slop | 10% | X/10 | [notes] |
+| D5: Reading Pleasure | 10% | X/10 | [notes] |
+| D6: Reader Value | 15% | X/10 | [notes] |
+| D7: Visual-Hook Alignment | 5% | X/10 | [notes] |
 
 **Weighted Score: X.XX / 10**
 **Verdict: [GO / REVISE / KILL]**

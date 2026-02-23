@@ -384,9 +384,7 @@ Structure:
 | Day | Exec | Lane | Post Topic |
 |-----|------|------|------------|
 | Mon | Ruben | 1 | "Your engineers shouldn't be building CRM integrations" |
-| Tue | Tony | 2 | "The 3 API patterns that guarantee maintenance hell" |
 | Wed | Ruben | 2 | "We calculated the true cost of custom integrations" |
-| Thu | Tony | 3 | CTA: "Comment AUDIT for integration health check" |
 | Fri | Ruben | 1 | "What I learned from 50 failed integration projects" |
 
 ### Week 2: "The Sync Lie"
@@ -394,11 +392,8 @@ Structure:
 
 | Day | Exec | Lane | Post Topic |
 |-----|------|------|------------|
-| Mon | Tony | 1 | "Most bi-directional sync is a lie" |
 | Tue | Ruben | 2 | "3 questions to ask your integration vendor" |
-| Wed | Tony | 2 | "What happens when both systems update the same record?" |
 | Thu | Ruben | 3 | CTA: "Comment CONFLICT for our resolution playbook" |
-| Fri | Tony | 1 | "The architecture of true bi-directional sync" |
 
 ### Week 3: "The NetSuite Problem"
 **Focus:** ERP integration pain
@@ -406,9 +401,7 @@ Structure:
 | Day | Exec | Lane | Post Topic |
 |-----|------|------|------------|
 | Mon | Ruben | 1 | "Why NetSuite integrations break more than others" |
-| Tue | Tony | 2 | "Field mapping nightmares: a NetSuite story" |
 | Wed | Ruben | 2 | "Your quote-to-cash is 3x slower than it should be" |
-| Thu | Tony | 3 | CTA: "Comment MAP for NS-SF field mapping template" |
 | Fri | Ruben | 1 | "The companies getting NetSuite right" |
 
 ### Week 4: "Build in Public"
@@ -417,9 +410,7 @@ Structure:
 | Day | Exec | Lane | Post Topic |
 |-----|------|------|------------|
 | Mon | Ruben | 1 | "We lost a $40K deal this week. Here's why." |
-| Tue | Tony | 2 | "A bug that took us 3 days to find" |
 | Wed | Ruben | 2 | "Customer asked for X. We said no. Here's why." |
-| Thu | Tony | 3 | CTA: Case study + demo offer |
 | Fri | Ruben | 1 | "What we shipped this month" |
 
 ---

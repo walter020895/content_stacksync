@@ -59,12 +59,7 @@ For each persona assigned, fill this table BEFORE writing anything:
 **Hook Architecture reminder (Kallaway 3-Step Formula):**
 Every hook must follow: **Context Lean** (establish topic, reader self-selects) → **Scroll Stop** (contrast word that stuns: "but," "however," "yet") → **Contra Snap Back** (opposite direction, creates curiosity loop). The hook TYPE (Teacher, Contrarian, etc.) determines the KIND of contrast. See master process doc for full table.
 
-**Persona lens check:** Would this person ACTUALLY say this? Refer to the Persona Roles table in the master process doc:
-- **Ruben** = business, founder conviction, market bets
-- **Alexis** = technical architecture, code comparisons, builder lens
-- **Nacho** = revenue math, operational constraints, pragmatic philosopher
-- **Carter** = educational, accessible, eager learner, DMs open
-- **Tony** = iPaaS/integration landscape, vendor comparisons, industry veteran
+**Persona lens check:** Would this person ACTUALLY say this? → See `00_ai_markdowns/00_personas.md` for all persona lenses, connector pairings, and voice doc paths.
 
 ---
 
@@ -292,16 +287,16 @@ image:
 
 Run the Post-Auditor-Agent (`00_ai_markdowns/16_Post-Auditor-Agent.md`).
 
-**6 Dimensions (aligned with Post-Auditor-Agent):**
+**7 Dimensions:**
 1. ICP Relevance (20%) — check against `00_icp_stacksync.md` + `07_stacksync_icp_terms_an_tags.md`
 2. Factual Accuracy (20%) — check against `05_list_of_connectors.md` for product claims + web search every claim
-3. Readability & Attention (15%) — hook strength, narrative momentum, word economy, coherence, closing
+3. Readability & Attention (20%) — hook strength, narrative momentum, word economy, coherence, closing
 4. AI Slop Detection (10%) — cross-ref every line against `01_ai_slops.md`
-5. Reading Pleasure (15%) — rhythm, white space, tone, vocabulary, emotional texture
-6. Reader Value (20%) — does the ICP walk away knowing or able to do something specific? Check: can you name the takeaway in one sentence?
+5. Reading Pleasure (10%) — rhythm, white space, tone, vocabulary, emotional texture
+6. Reader Value (15%) — does the ICP walk away knowing or able to do something specific? Can you name the takeaway in one sentence?
+7. Visual-Hook Alignment (5%) — does the visual match the hook message? N/A for text-only posts (redistributes to D6)
 
-**Additional check (outside the 5-dimension score):**
-- **Visual-Hook Alignment:** Does the suggested visual match the hook message? Would the visual alone tell the same story? Flag any misalignment.
+Formula: `(D1×0.20) + (D2×0.20) + (D3×0.20) + (D4×0.10) + (D5×0.10) + (D6×0.15) + (D7×0.05)`
 
 **Override Rules (automatic, regardless of composite):**
 - D2 (Factual Accuracy) score 3 or below → automatic **KILL**

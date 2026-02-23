@@ -9,7 +9,7 @@ You are executing the Stacksync post-publish workflow. This runs AFTER the post 
 The user provided: $ARGUMENTS
 
 Extract:
-- **Persona:** Which persona? (Ruben/Alexis/Nacho/Carter/Tony)
+- **Persona:** Which persona? (Ruben/Alexis/Nacho/Carter/Brittany)
 - **LinkedIn URL:** The published post URL
 
 If either is missing, ask.

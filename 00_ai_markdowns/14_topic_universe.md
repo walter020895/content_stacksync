@@ -122,7 +122,7 @@ The mid-market ERP. $9.3B Oracle acquisition. 40,000+ customers. The most common
 - NetSuite saved searches timing out on bulk operations
 - The NetSuite upgrade cycle: twice-yearly forced upgrades that break custom integrations
 - *Key angle: NetSuite is powerful but unqueryable. Every company that uses it has an integration team.*
-- *Persona fit: Alexis (technical breakdown), Carter (educational), Tony (veteran who's seen it all)*
+- *Persona fit: Alexis (technical breakdown), Carter (educational)*
 
 ### C2. SAP
 50 years old. Every Fortune 500. The operating system of enterprise. $40B+ revenue.
@@ -374,20 +374,21 @@ Use for Fortune Teller hook type. Always verify current before publishing.
 
 Quick reference for which persona owns which territory:
 
-| Topic | Ruben | Alexis | Nacho | Carter | Tony |
-|-------|-------|--------|-------|--------|------|
+| Topic | Ruben | Alexis | Nacho | Carter | Brittany |
+|-------|-------|--------|-------|--------|---------|
 | AI in enterprise | ✓ | ✓ | ✓✓ | ✓ | |
-| CRM universe (market patterns) | ✓ | | ✓✓ | | ✓✓ |
-| CRM universe (technical) | | ✓✓ | | ✓ | ✓ |
-| ERP universe | ✓ | ✓ | ✓ | ✓ | ✓✓ |
+| CRM universe (market patterns) | ✓ | | ✓✓ | | |
+| CRM universe (technical) | | ✓✓ | | ✓ | |
+| ERP universe | ✓ | ✓ | ✓ | ✓ | |
 | E-commerce | ✓ | ✓ | ✓ | ✓✓ | |
-| EDI | ✓ | ✓ | | ✓ | ✓✓ |
-| Data infrastructure landscape | ✓✓ | ✓✓ | | ✓ | ✓ |
-| Integration problems (product) | ✓ | ✓✓ | | ✓✓ | ✓ |
+| EDI | ✓ | ✓ | | ✓ | |
+| Data infrastructure landscape | ✓✓ | ✓✓ | | ✓ | |
+| Integration problems (product) | ✓ | ✓✓ | | ✓✓ | |
 | Company origin stories | ✓ | | ✓✓ | ✓ | |
-| GTM & market philosophy | | | ✓✓ | | ✓ |
+| GTM & market philosophy | | | ✓✓ | | |
 | Founder conviction | ✓✓ | | | | |
-| News & timely angles | ✓ | ✓ | ✓✓ | ✓ | ✓ |
+| Ops, culture & people | | | | | ✓✓ |
+| News & timely angles | ✓ | ✓ | ✓✓ | ✓ | |
 
 ---
 

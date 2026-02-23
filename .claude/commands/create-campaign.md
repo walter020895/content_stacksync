@@ -4,7 +4,17 @@ description: Create a multi-persona campaign on the same topic. Usage: /create-c
 
 You are executing a multi-persona Stacksync LinkedIn campaign. This means 2+ personas write about the SAME topic through different lenses.
 
-**CRITICAL RULE:** Every campaign starts from the USER'S insight. The user provides the core idea or angle. Your job is to PACKAGE that insight through each persona's lens using the Stacksync process. You do NOT generate the topic yourself. Only in extreme cases where the user explicitly asks you to ideate should you propose topics.
+## CONTENT SOURCE MODE
+
+Every campaign operates in one of two modes. Both produce great content.
+
+**Mode 1 — Insight-Led:** The user provides a real observation, experience, or story. Capture it verbatim as Lego 0 for each persona. Package it through each persona's lens.
+
+**Mode 2 — World-Knowledge-Led (default when no insight provided):** The personas are busy. The world already has the story. Mine world knowledge for the story that maps to all personas' angles and the ICP's pain. Each persona filters the same story through their own lens.
+
+**Rule: never wait for a persona insight. If the user doesn't provide one, activate Mode 2 immediately.**
+
+See the full Content Source Model in `04_linkedin_content/00_ai_markdowns/00_content_creation_process.md`.
 
 ## STEP 0: LOAD CONTEXT
 
@@ -20,7 +30,7 @@ The user provided: $ARGUMENTS
 
 Extract:
 - **User's Insight:** The core idea all personas will write about (preserve the essence)
-- **Personas:** Which 2-5 personas? (Ruben/Alexis/Nacho/Carter/Tony)
+- **Personas:** Which 2-5 personas? (Ruben/Alexis/Nacho/Carter/Brittany) — see `00_ai_markdowns/00_personas.md`
 
 If the insight is unclear, ask. If personas are missing, ask. Do NOT proceed without both.
 
@@ -37,11 +47,7 @@ Take the user's insight and package it into an Idea Legos table for EACH persona
 
 **Insight fidelity check:** Does every persona's angle trace back to the user's original insight? The packaging changes, the core idea does NOT.
 
-- **Ruben** = business, founder conviction, market bets
-- **Alexis** = technical architecture, code comparisons, builder lens
-- **Nacho** = revenue math, operational constraints, pragmatic philosopher
-- **Carter** = educational, accessible, eager learner, DMs open
-- **Tony** = iPaaS/integration landscape, vendor comparisons, industry veteran
+→ See `00_ai_markdowns/00_personas.md` for all persona lenses, connector pairings, and voice doc paths.
 
 ## STEP 3: DECONFLICTION TABLE
 
@@ -88,7 +94,7 @@ If any issues found, fix them before auditing.
 
 ## STEP 6: AUDIT ALL POSTS
 
-Run the full 6-dimension audit on each post. All posts need GO (8.0+).
+Run the full 7-dimension audit on each post. All posts need GO (8.0+).
 
 ## STEP 7: SAVE ALL POSTS
 

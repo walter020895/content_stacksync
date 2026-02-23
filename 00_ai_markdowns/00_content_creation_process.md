@@ -42,7 +42,7 @@ Example: "Plaid built a consumer app. The painful backend became the product."
 04_linkedin_content/
 ├── 00_ai_markdowns/              ← Central knowledge base (process, ICP, slops, auditor, etc.)
 ├── 02_content_creation_resources/ ← Kallaway transcripts, playbooks, interviews
-├── 07_Content Pilars/            ← Company biographies & GTM studies
+├── 01_Content Pilars/            ← Company biographies & GTM studies
 ├── accounts_research/            ← Creator intelligence (15 accounts, CSVs, outliers)
 │
 ├── Ruben/                        ← Each persona is a self-contained folder
@@ -59,7 +59,7 @@ Example: "Plaid built a consumer app. The painful backend became the product."
 ├── Alexis/                       ← Same subfolder pattern as Ruben
 ├── Nacho/
 ├── Carter/
-└── Tony/
+└── Tony/ (archived — retired persona)
 ```
 
 ### File Naming Convention
@@ -82,15 +82,11 @@ Example: "Plaid built a consumer app. The painful backend became the product."
 
 The persona IS the first guard against overlap. Each person frames the SAME topic through a completely different lens. If the personas are strong enough, the content differentiates naturally.
 
-| Persona | Role | Lens | Frames everything as... |
-|---------|------|------|------------------------|
-| **Ruben** | CEO/Founder | Business & vision | Founder story, market bets, why we built this, conviction |
-| **Alexis** | CTO | Technical architecture | How it works, code vs code, engineering tradeoffs, builder lens |
-| **Nacho** | GTM Philosopher | Pragmatic business reality | Revenue math, operational constraints, pricing as weapon, "That's it." |
-| **Carter** | Young Commercial | Eager learner, sales energy | Educational, accessible, "let me explain this to you," DMs open |
-| **Tony** | Industry Veteran | iPaaS/integration experience | Market comparisons, vendor landscape, Celigo background, "Just math." |
+**Canonical reference:** `00_ai_markdowns/00_personas.md` — single source of truth for all personas, lenses, connector pairings, and voice docs. Update that file when adding or retiring personas; do not maintain persona lists here.
 
-**Rule:** Before writing, ask: "Would this person ACTUALLY say this, given their role and experience?" If Ruben is writing about code comparisons, stop. If Alexis is writing a founder story, stop. The persona defines the angle.
+→ Active personas, lenses, connector pairings, and voice doc paths: **`00_ai_markdowns/00_personas.md`**
+
+**Rule:** Before writing, ask: "Would this person ACTUALLY say this, given their role and experience?" The persona defines the angle.
 
 ---
 
@@ -100,7 +96,7 @@ The persona IS the first guard against overlap. Each person frames the SAME topi
 
 **Source framework:** Kallaway's 7 Idea Legos
 **Reference docs:**
-- `/Users/TERABYTE10/Downloads/Moi/references/kallaway_clone.md` — Master framework (7 Legos, hook mastery, story structures)
+- `kallaway_clone.md` (external file — see your local copy) — Master framework (7 Legos, hook mastery, story structures)
 - `02_content_creation_resources/Content_Creation_Process_Stacksync.md` — [REFERENCE] Early Stacksync adaptation (5 Legos + image specs). Valuable for image specifications and post formulas by persona type. Uses Jack/James as external models, not team personas.
 - `00_ai_markdowns/13_idea_legos_patterns_guide.md` — Proven patterns from top 50 posts
 
@@ -182,8 +178,8 @@ If 2+ personas write on the same topic, fill this table AFTER completing each pe
 ```markdown
 ## Campaign Deconfliction: [Topic Name]
 
-| Element | Ruben | Alexis | Nacho | Carter | Tony |
-|---------|-------|--------|-------|--------|------|
+| Element | Ruben | Alexis | Nacho | Carter | Brittany |
+|---------|-------|--------|-------|--------|---------|
 | Angle (from Lego #2) | | | | | |
 | Hook type (from Lego #3) | | | | | |
 | Story structure (from Lego #4) | | | | | |
@@ -376,12 +372,7 @@ Approved connectors by tone:
 
 BANNED transitions: "Furthermore," "Additionally," "In conclusion," "Moreover," "It's worth noting" (essay-speak), plus any from the AI slops list.
 
-Persona-connector pairings (lean into these):
-- **Nacho**: "To be honest," / "Look." / "That's it."
-- **Alexis**: "you know?" / "What nobody tells you:"
-- **Ruben**: "But the real story is..." / "That was the bet."
-- **Carter**: "Wait, it gets better." / "So I asked."
-- **Tony**: "I've seen this before." / "Just math."
+Persona-connector pairings (lean into these): → see `00_ai_markdowns/00_personas.md`
 
 **E. The "Phone Scroll Test"**
 - Read the post imagining it on a phone screen
@@ -524,16 +515,14 @@ Read the post imagining it on a phone screen (see Section E of LinkedIn Formatti
 
 Run the Post-Auditor-Agent (`00_ai_markdowns/16_Post-Auditor-Agent.md`) on every post.
 
-**6 Dimensions scored:**
+**7 Dimensions scored:**
 1. ICP Relevance (20%) — Does the right buyer care? Check against `00_icp_stacksync.md` + `07_stacksync_icp_terms_an_tags.md`
 2. Factual Accuracy (20%) — Can every claim be sourced? Check against `05_list_of_connectors.md` for product claims + web search every claim
-3. Readability & Attention (15%) — Hook strength, narrative momentum, word economy, coherence, closing
+3. Readability & Attention (20%) — Hook strength, narrative momentum, word economy, coherence, closing
 4. AI Slop Detection (10%) — Cross-ref every line against `01_ai_slops.md`
-5. Reading Pleasure (15%) — Rhythm, white space, tone, vocabulary, emotional texture
-6. Reader Value (20%) — Does the ICP walk away knowing or able to do something specific? Is this genuinely useful to a CTO, VP Eng, or RevOps Director, independent of whether they buy?
-
-**Additional check (outside the 6-dimension score):**
-- **Visual-Hook Alignment:** Does the suggested visual from Step 1c match the written hook's message? Would the visual alone tell the same story? Flag any misalignment.
+5. Reading Pleasure (10%) — Rhythm, white space, tone, vocabulary, emotional texture
+6. Reader Value (15%) — Does the ICP walk away knowing or able to do something specific? Is this genuinely useful to a CTO, VP Eng, or RevOps Director, independent of whether they buy?
+7. Visual-Hook Alignment (5%) — Does the suggested visual from Step 1c match the written hook's message? Would the visual alone tell the same story? (N/A for text-only posts — redistributes to D6)
 
 **Override Rules (automatic, regardless of composite):**
 - D2 (Factual Accuracy) score 3 or below → automatic **KILL**
@@ -599,7 +588,7 @@ The human reviews and:
 
 | Doc | Path | Used In |
 |-----|------|---------|
-| **Kallaway Clone (Master)** | `/Users/TERABYTE10/Downloads/Moi/references/kallaway_clone.md` | Step 1 (7 Idea Legos, hook mastery, story structures) |
+| **Kallaway Clone (Master)** | `kallaway_clone.md` (external file — see your local copy) | Step 1 (7 Idea Legos, hook mastery, story structures) |
 | **Content Creation System** | `02_content_creation_resources/Content_Creation_Process_Stacksync.md` | Step 1 [REFERENCE] (image specs, post formulas by persona type. 5 Legos → use 7 from Kallaway master. Jack/James = external models, not team personas.) |
 | **Idea Legos Patterns** | `00_ai_markdowns/13_idea_legos_patterns_guide.md` | Step 1 (hook types, story structures, Stacksync examples) |
 | **Outlier Research (per persona)** | `[Persona]/research_[Persona]/outliers_raw.csv` + `idea_legos_analysis.csv` | Step 1 (per-persona outlier posts with Idea Lego breakdowns: hook types, structures, angles) |

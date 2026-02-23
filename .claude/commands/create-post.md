@@ -4,7 +4,17 @@ description: Create a LinkedIn post following the Stacksync content creation pro
 
 You are executing the Stacksync LinkedIn content creation process. Follow every step precisely. Do not skip steps. Do not reorder steps.
 
-**CRITICAL RULE:** Every post starts from the USER'S insight. The user provides the core idea, angle, or observation. Your job is to PACKAGE that insight into the best possible LinkedIn post using the Stacksync process. You do NOT generate the topic or angle yourself. Only in extreme cases where the user explicitly asks you to ideate should you propose topics.
+## CONTENT SOURCE MODE
+
+Every post operates in one of two modes. Both produce great content.
+
+**Mode 1 — Insight-Led:** The user provides a real observation, experience, or story from the persona's world. Capture it verbatim as Lego 0. Package it using the process.
+
+**Mode 2 — World-Knowledge-Led (default when no insight provided):** The persona is busy. The world already has the story — company pivots, acquisitions, market shifts, industry patterns. Mine world knowledge for the story that maps to the persona's angle and the ICP's pain. The persona is the CHARACTER LAYER (voice, conviction, lens), not the content source.
+
+**Rule: never wait for a persona insight. If the user doesn't provide one, activate Mode 2 immediately.**
+
+See the full Content Source Model in `04_linkedin_content/00_ai_markdowns/00_content_creation_process.md`.
 
 ---
 
@@ -26,12 +36,12 @@ Read these files BEFORE doing anything else:
 The user provided: $ARGUMENTS
 
 Extract from the user input:
-- **Persona:** Which persona? (Ruben/Alexis/Nacho/Carter/Tony)
+- **Persona:** Which persona? (Ruben/Alexis/Nacho/Carter/Brittany) — see `00_ai_markdowns/00_personas.md`
 - **User's Insight:** The core idea, angle, or observation the user wants to write about
 
 The user's insight is the SEED of the post. Preserve its essence. Your job is to find the best hook type, story structure, and packaging to make that insight land with the ICP.
 
-If the persona is unclear, ask. If the insight is unclear, ask. Do NOT proceed without both.
+If the persona is unclear, ask. If no insight is provided, activate Mode 2 (World-Knowledge-Led) immediately — see CONTENT SOURCE MODE above. Never wait for an insight.
 
 Once you know the persona, also read:
 - `04_linkedin_content/[Persona]/[name]_personality_v01.md` — persona voice guide
@@ -64,18 +74,13 @@ Take the user's insight and package it into the Idea Legos table BEFORE writing 
 
 **Resources to consult:**
 - `04_linkedin_content/00_ai_markdowns/13_idea_legos_patterns_guide.md` — hook types with %, structures (already loaded in Step 0)
-- `/Users/TERABYTE10/Downloads/Moi/references/kallaway_clone.md` — Kallaway master framework (7 Legos, hook mastery, story structures)
+- `kallaway_clone.md` (external file — see your local copy) — Kallaway master framework (7 Legos, hook mastery, story structures)
 - `04_linkedin_content/[Persona]/research_[Persona]/` — outlier analysis for inspiration (already loaded in Step 1)
 - `04_linkedin_content/accounts_research/` — 15 creators with Kallaway metrics (browse relevant creators for the hook type you're considering)
 
 **Insight fidelity check:** Does the Angle preserve the user's original insight? The packaging changes, the core idea does NOT.
 
-**Persona lens check:** Would this person ACTUALLY say this? Apply the persona roles from the master process:
-- **Ruben** = business, founder conviction, market bets
-- **Alexis** = technical architecture, code comparisons, builder lens
-- **Nacho** = revenue math, operational constraints, pragmatic philosopher
-- **Carter** = educational, accessible, eager learner, DMs open
-- **Tony** = iPaaS/integration landscape, vendor comparisons, industry veteran
+**Persona lens check:** Would this person ACTUALLY say this? → See `00_ai_markdowns/00_personas.md` for all persona lenses, connector pairings, and voice doc paths.
 
 **Hook Architecture (Kallaway 3-Step Formula):**
 Every hook must follow: Context Lean (establish topic, reader self-selects in) → Scroll Stop (contrast word: "but," "however," "yet" — stun gun) → Contra Snap Back (opposite direction, creates curiosity loop). The hook TYPE determines the KIND of contrast (see master process hook type table).
@@ -187,12 +192,7 @@ After stripping, re-read the post and identify every **section jump** (where the
 
 **Good connectors are contextual** — they reference the specific topic, not a generic formula. Test: could you paste this connector into any other post and it still works? If yes, it's too generic. Rewrite it.
 
-**Reference the master process Section D (Conversational Connectors)** for approved connectors by tone and persona-connector pairings:
-- **Nacho**: "To be honest," / "Look." / "That's it."
-- **Alexis**: "you know?" / "What nobody tells you:"
-- **Ruben**: "But the real story is..." / "That was the bet."
-- **Carter**: "Wait, it gets better." / "So I asked."
-- **Tony**: "I've seen this before." / "Just math."
+**Reference the master process Section D (Conversational Connectors)** for approved connectors by tone. Persona-connector pairings: → see `00_ai_markdowns/00_personas.md`
 
 Examples of GOOD connectors (specific, contextual):
 - "This is the thing nobody tells you about building in a legacy category." (bridges evidence → insight, references the specific context)
@@ -221,20 +221,25 @@ Read the post imagining it on a phone screen:
 
 Read and follow `04_linkedin_content/00_ai_markdowns/16_Post-Auditor-Agent.md` — this is the actual auditor agent specification with full rubrics, sub-criteria, and output format.
 
-**The 5 Audit Dimensions (from the Post-Auditor-Agent):**
+**The 7 Audit Dimensions (from the Post-Auditor-Agent):**
 
 | Dimension | Weight | Reference Docs to Load |
 |-----------|--------|----------------------|
-| D1: ICP Relevance | 25% | `00_icp_stacksync.md` + `07_stacksync_icp_terms_an_tags.md` |
-| D2: Factual Accuracy | 25% | `05_list_of_connectors.md` + web search every claim |
+| D1: ICP Relevance | 20% | `00_icp_stacksync.md` + `07_stacksync_icp_terms_an_tags.md` |
+| D2: Factual Accuracy | 20% | `05_list_of_connectors.md` + web search every claim |
 | D3: Readability & Attention | 20% | Hook quality, narrative momentum, word economy, coherence, closing |
-| D4: AI Slop Detection | 15% | `01_ai_slops.md` — cross-ref every line |
-| D5: Reading Pleasure | 15% | Rhythm, white space, tone, vocabulary, emotional texture |
+| D4: AI Slop Detection | 10% | `01_ai_slops.md` — cross-ref every line |
+| D5: Reading Pleasure | 10% | Rhythm, white space, tone, vocabulary, emotional texture |
+| D6: Reader Value | 15% | Does the ICP walk away knowing or able to do something specific? |
+| D7: Visual-Hook Alignment | 5% | Does the visual match the hook message? N/A for text-only (redistributes to D6) |
+
+Formula: `(D1×0.20) + (D2×0.20) + (D3×0.20) + (D4×0.10) + (D5×0.10) + (D6×0.15) + (D7×0.05)`
 
 **Override Rules (automatic, regardless of composite):**
 - D2 (Factual Accuracy) score 3 or below → automatic **KILL**
 - D4 (AI Slop) score 3 or below → automatic **REVISE** minimum
 - D1 (ICP Relevance) score 3 or below → automatic **REVISE** minimum
+- D6 (Reader Value) score 4 or below → automatic **REVISE** minimum
 
 **AI Slop score caps:**
 - 3-4 blacklisted patterns in a single post → D4 capped at 5
@@ -244,9 +249,6 @@ Read and follow `04_linkedin_content/00_ai_markdowns/16_Post-Auditor-Agent.md` �
 - **GO (8.0+):** Ready for human review
 - **REVISE (6.0-7.9):** Fix flagged issues, re-audit
 - **KILL (<6.0):** Rewrite from scratch
-
-**Additional check (outside the 5-dimension score):**
-- **Visual-Hook Alignment:** Does the suggested visual from Step 4 match the written hook's message? Would the visual alone tell the same story? Flag any misalignment.
 
 If REVISE: fix the flagged issues and re-audit. Provide Top 3 Fixes.
 If KILL: rewrite from scratch starting at Step 5.
@@ -353,7 +355,7 @@ image:
 
 Show the user:
 1. The finished post (ready to copy-paste to LinkedIn)
-2. The full audit report (all 5 dimensions scored + Visual-Hook Alignment check)
+2. The full audit report (all 7 dimensions scored)
 3. Top 3 Fixes applied (if any)
 4. Any remaining flags or trade-offs
 5. The 3 visual hook suggestions with recommended option
