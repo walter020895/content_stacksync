@@ -18,8 +18,8 @@ topics:
 related_concepts:
   - "[[AI coding tools]]"
   - "[[developer productivity]]"
-link: https://www.linkedin.com/posts/favre-alexis_i-ran-claude-code-and-codex-on-the-same-codebase-activity-7429310112101474304-i5cx
-image: images/2026-02-16_i_ran_claude_code_and_codex_on_the_same_codebase.png
+link: https://www.linkedin.com/posts/favre-alexis_i-ran-claude-code-vs-codex-this-week-the-activity-7429310112101474304-ivViI
+image: images/2026-02-16_i_ran_claude_code_and_codex_on_the_same_codebase.jpeg
 ---
 
 # ALEXIS — Claude Code vs Codex: The Tool Was Never the Bottleneck

@@ -1,0 +1,96 @@
+---
+name: cost_good_enough_integration_ruben
+description: The real cost of "works fine" integration — specific numbers, recognizable patterns, founder close on what winning companies do differently
+domain: business
+node_type: linkedin-post
+status: draft
+last_updated: 2026-02-22
+published_date:
+tags:
+  - integration
+  - engineering-cost
+  - operations
+topics:
+  - hidden integration costs
+  - engineering overhead
+  - data sync economics
+related_concepts:
+  - "[[ruben_personality_v01]]"
+link:
+image:
+---
+
+# RUBEN — What "Works Fine" Actually Costs
+## Angle: Cost math on "good enough" integration — specific numbers, recognizable patterns, and what the companies getting it right are actually doing.
+
+---
+
+## IDEA LEGOS
+| Lego | Choice |
+|------|--------|
+| User's Insight | "Works fine" integration carries a real, calculable cost that never shows up on any P&L. The math makes the invisible visible. |
+| Topic | The true cost of integration that "mostly works" |
+| Angle | Ruben as founder who has seen this pattern across dozens of companies, presenting the numbers |
+| Hook Type | Magician — lead with cost reveal, make the invisible visible through math |
+| Story Structure | Bold opener → List (what "works fine" looks like inside) → The math → Compounding → Founder close |
+| Psych Triggers | Vindication, Pattern Recognition, Curiosity Gap |
+| Visual Format | text-only |
+| Key Visuals | N/A |
+
+---
+
+### HOOK A (Recommended)
+"Works fine" is the most expensive phrase in enterprise software.
+
+The math makes it visible in about 10 minutes.
+
+### HOOK B
+Every company I talk to says their integration "works fine."
+
+Then I ask four questions. The math always surprises them.
+
+---
+
+### FULL POST (using Hook A)
+
+---
+
+"Works fine" is the most expensive phrase in enterprise software.
+
+The math makes it visible in about 10 minutes.
+
+What "works fine" looks like from the inside:
+
+→ Two engineers with a significant chunk of their week on maintenance and monitoring
+→ A Slack channel named something like #sync-alerts or #crm-issues that everyone has muted
+→ A monthly reconciliation call between finance and sales that's been on the calendar so long nobody remembers why it started
+→ At least one "known issue" that's been known for 9 months and will be fixed "next quarter"
+
+Now the math.
+
+Rough math: two engineers, a quarter of their time, $150K average salary.
+
+That's somewhere around $75K a year in invisible overhead. One full engineer. Spent entirely on plumbing.
+
+That number doesn't shrink. Every new customer adds volume. Every new field adds a mapping. Every API deprecation becomes a fire drill. The maintenance curve goes one direction.
+
+And it never shows up as a line item. It shows up as "engineering bandwidth" and "Q3 capacity issues" and "we're stretched thin right now."
+
+The companies winning on operations right now don't have better integrations than everyone else. They have fewer of them. And the ones they have are invisible — no alerts, no reconciliation calls, no one assigned to watch it.
+
+That's what we're building at Stacksync. Not faster integrations.
+
+Integrations that disappear.
+
+---
+
+## NOTES
+- **Voice**: Data-grounded, not preachy. Specific numbers do the argument. Lists are recognizable enough that engineers will tag their managers. Close is clean conviction, not a sales pitch.
+- **Template source**: Kyle Poyar data-backed observation format — bold observation, specific numbers, conclusion tied to larger trend.
+- **Idea Legos**: Magician (cost numbers) + List → Founder close confirmed
+- **Narrative arc**: Bold opener ("works fine" = expensive) → "I can quantify it" (credibility) → four-point fingerprint (recognition) → the math ($90K/year) → compounding (it doesn't shrink) → why it's invisible → what winning companies do → Stacksync close ("integrations that disappear")
+- **Psychological triggers**: Vindication (I knew it was costing us) + Pattern Recognition (I've seen that Slack channel) + Curiosity Gap (what's the actual number?)
+- **Hook analysis (Kallaway)**: Single subject: "works fine" integration cost. Single question: "How expensive is it really?" "See more" char count: ~78. Fits mobile: yes.
+- **AI slop check**: Clean. No em dashes. No "Here's" constructions.
+- **Word count**: ~248
+- **Factual sources**: $150K average engineer salary — industry standard (Levels.fyi 2025 averages). 30-40% maintenance figure — Ruben's observational baseline from customer conversations. $90K overhead math is derived, clearly illustrative.

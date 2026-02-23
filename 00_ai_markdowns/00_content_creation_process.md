@@ -78,15 +78,18 @@ The persona IS the first guard against overlap. Each person frames the SAME topi
 
 | # | Lego | What to define | Example (Heroku Connect) |
 |---|------|---------------|--------------------------|
+| 0 | **User's Insight** | The user's original idea, preserved verbatim | "Heroku Connect is shutting down and nobody's talking about it" |
 | 1 | **Topic** | One-sentence summary | "Heroku Connect's End of Sale and what it means" |
 | 2 | **Angle** | The unique spin per persona | Ruben: post-mortem story. Alexis: SQL vs API architecture. |
 | 3 | **Hook** | 1-3 sentences. Single subject, single question. | "In 2014, Heroku Connect bet your CRM should be a Postgres table." |
 | 4 | **Story Structure** | How the narrative unfolds | Problem → Wrong approach → Lesson → Solution |
-| 5 | **Visual Format** | Image, text-only, video, document? | Text-only (story post) |
-| 6 | **Key Visuals** | If image: what exactly? (pie chart, architecture diagram, screenshot, etc.) | N/A for text-only |
-| 7 | **Audio** | N/A for LinkedIn text posts | N/A |
+| 5 | **Psych Triggers** | 1-2 triggers from the Psychological Triggers Library (below) | Vindication + Curiosity Gap |
+| 6 | **Visual Format** | Image, text-only, video, document? | Text-only (story post) |
+| 7 | **Key Visuals** | If image: what exactly? (pie chart, architecture diagram, screenshot, etc.) | N/A for text-only |
 
-**For LinkedIn text posts, the critical Legos are 1-4. Legos 5-7 apply when using images/video.**
+**Lego 0 (User's Insight)** preserves the original idea verbatim. The packaging changes through Legos 1-7; the core idea does NOT. Always verify the Angle still serves the original insight.
+
+**For LinkedIn text posts, the critical Legos are 0-5. Legos 6-7 apply when using images/video.**
 
 #### Hook Architecture: The 3-Step Formula (Kallaway)
 
@@ -136,7 +139,9 @@ Pick the story structure BEFORE writing:
 | Announcement → Social Proof → Why Us → Vision | Milestones/launches |
 | Pain Point → Promise → Contents → CTA | Lead magnets, resource posts |
 
-**Output of Step 1:** A filled Idea Legos table for each post, with Topic, Angle, Hook Type, and Story Structure chosen BEFORE any writing starts.
+**Reader Value checkpoint (mandatory before moving to Step 2):** After filling the Idea Legos table, answer this question in one sentence: *"What does the ICP walk away knowing, able to do, or better equipped to decide after reading this?"* If you can't answer it specifically — not "they'll understand integration better" but something like "they'll be able to tell if their stack has real bi-directional sync or two one-way pipes" — the idea needs sharpening before writing starts. This becomes D6 in the audit. Fix it now, not after the draft.
+
+**Output of Step 1:** A filled Idea Legos table for each post, with User's Insight, Topic, Angle, Hook Type, Story Structure, Psych Triggers, and Reader Value answer chosen BEFORE any writing starts.
 
 ---
 
@@ -159,6 +164,37 @@ If 2+ personas write on the same topic, fill this table AFTER completing each pe
 ```
 
 **Rule:** If two personas have the same hook type AND the same story structure, one of them needs to change. The angles should already be different because of the persona lens.
+
+---
+
+### Step 1c: VISUAL HOOK SUGGESTIONS
+
+For every post, create 3 visual hook options that MATCH the written hook. The visual and the text must say the same thing. Misalignment = confusion = scroll-past.
+
+**Match the visual to the hook type:**
+
+| Hook Type | Visual Direction |
+|-----------|-----------------|
+| Teacher | Chart, diagram, process visual, timeline |
+| Contrarian | Comparison table, "vs" layout, product teardown |
+| Magician | Numbers graphic, stacked bar chart, dramatic stat card |
+| Fortune Teller | Announcement visual, calendar, timeline with deadline |
+| Experimenter | Before/after split, screenshot comparison |
+| Investigator | Architecture diagram, code screenshot, data table |
+
+**Proven LinkedIn visual specs:** Pie chart meme, architecture diagram, before/after split, Slack/alert screenshot mockup, stacked bar chart, side-by-side comparison, quote card with anchor stat, code screenshot comparison, vendor comparison table.
+
+**For each post, provide:**
+```
+### VISUAL HOOKS
+**Option A (Recommended):** [Description + why it matches the hook]
+**Option B:** [Description + why it matches the hook]
+**Option C:** [Description + why it matches the hook]
+```
+
+**Alignment test:** Can you look at ONLY the visual and understand the same message as the hook? If not, revise.
+
+**Text-only override:** If the persona/topic works best as text-only, state that explicitly and explain why.
 
 ---
 
@@ -261,7 +297,77 @@ When the post mentions a real company, team, or community, it should make those 
 - Short sentences work. Fragments too.
 - Show conflict, don't just state it happened
 
+#### LinkedIn Formatting Rules
+
+LinkedIn is a mobile-first, scroll-reading platform. Dense paragraphs kill posts regardless of how good the ideas are. These rules ensure every post is visually packaged for the feed.
+
+**A. One-Thought-Per-Line Rule**
+- Each sentence gets its own visual line
+- Max 2 short, closely related sentences per paragraph block
+- 3+ sentences in one block = break it up
+- Single-word/phrase punch lines are weapons ("Speed.", "Deleted.", "That's it.")
+
+**B. Breathing Room Rule**
+- Blank line between every paragraph
+- After every 2-3 content lines, create a beat of air
+- No paragraph should exceed 3 lines on mobile (~40 words)
+- Mobile screen = ~6-8 visible lines. If one screen looks dense, reformat.
+
+**C. Bullet Points (→) for Parallel Items**
+- 3+ parallel items = use → bullets, not prose
+- One idea per bullet, one line per bullet
+- Setup line → blank line → bullets → blank line → continue prose
+
+**D. Conversational Connectors (the "friend at dinner" test)**
+Use natural bridges between sections, not formal transitions.
+
+Approved connectors by tone:
+- **Pivot**: "But that's not the interesting part." / "That was problem one."
+- **Confession**: "To be honest," / "Look." / "And honestly?"
+- **Curiosity pull**: "You know what happened next?" / "Guess what they found."
+- **Grounding**: "The thing is," / "That part I get. What I don't get is..."
+- **Momentum**: "That's when it changed." / "Then it got worse."
+
+BANNED transitions: "Furthermore," "Additionally," "In conclusion," "Moreover," "It's worth noting" (essay-speak), plus any from the AI slops list.
+
+Persona-connector pairings (lean into these):
+- **Nacho**: "To be honest," / "Look." / "That's it."
+- **Alexis**: "you know?" / "What nobody tells you:"
+- **Ruben**: "But the real story is..." / "That was the bet."
+- **Carter**: "Wait, it gets better." / "So I asked."
+- **Tony**: "I've seen this before." / "Just math."
+
+**E. The "Phone Scroll Test"**
+- Read the post imagining it on a phone screen
+- Each screen should feel light, never hit a text wall
+- If you wouldn't read it on your phone in a cafe, reformat
+
+**F. Rhythm Variation Rule**
+- Alternate: short punches (1-5 words) → medium narrative (15-25 words) → occasional longer context (25-35 words)
+- Never 3+ sentences of the same length back-to-back
+- After a dense line, follow with a short punch
+
 **Post file format:**
+```yaml
+---
+name: [TOPIC_SLUG]
+description: [One-line description of the post]
+domain: business
+node_type: linkedin-post
+status: draft
+last_updated: [TODAY'S DATE YYYY-MM-DD]
+published_date:
+tags:
+  - [relevant tags]
+topics:
+  - [relevant topics]
+related_concepts:
+  - "[[concept1]]"
+link:
+image:
+---
+```
+
 ```markdown
 # [PERSONA] — [Post Title]
 ## Angle: [One-line description]
@@ -271,10 +377,12 @@ When the post mentions a real company, team, or community, it should make those 
 ## IDEA LEGOS
 | Lego | Choice |
 |------|--------|
+| User's Insight | [the user's original idea, preserved verbatim] |
 | Topic | |
 | Angle | |
 | Hook Type | [Teacher/Contrarian/Magician/Fortune Teller/Experimenter/Investigator] |
 | Story Structure | [e.g., News → What It Was → What Happens Now] |
+| Psych Triggers | [1-2 triggers from the Psychological Triggers Library] |
 | Visual Format | [text-only / image / video] |
 | Key Visuals | [if image: description] |
 
@@ -291,6 +399,13 @@ When the post mentions a real company, team, or community, it should make those 
 
 ---
 
+### VISUAL HOOKS
+**Option A (Recommended):** [Description + why it matches the hook]
+**Option B:** [Description + why it matches the hook]
+**Option C:** [Description + why it matches the hook]
+
+---
+
 ### FULL POST (using Hook [X])
 
 ---
@@ -302,24 +417,58 @@ When the post mentions a real company, team, or community, it should make those 
 ## NOTES
 - **Voice**: [Persona voice markers used]
 - **Idea Legos**: [Hook type] + [Story structure] confirmed
+- **Reader value**: [One sentence — what the ICP walks away knowing or able to do]
 - **Narrative arc**: [Beat-by-beat story flow]
 - **Psychological triggers**: [Trigger 1] + [Trigger 2] from triggers library
 - **Ego bait**: [Who feels seen and why — run egobait checklist if post mentions a company/team]
 - **Hook analysis (Kallaway)**: Single subject: [X]. Single question: [Y]. 3-step: Context Lean [text] → Scroll Stop [text] → Snap Back [text]. "See more" char count: [N]. Fits mobile preview: [yes/no].
 - **Traffic driver**: [ICP keywords in hook]
 - **AI slop check**: [Confirm clean — list any patterns caught and removed]
+- **Formatting check**: Phone scroll test [pass/fail]. Longest paragraph: [X sentences]. Connectors used: [list]. Single-sentence air lines: [count].
+- **Redundancy sweep**: [Pass/fail — any duplicates found and removed]
+- **Connector pass**: [Connectors added at section jumps — list them]
 - **Word count**: [~XXX]
 - **Factual sources**: [Every claim with source]
 ```
 
 **Hard rules during writing:**
-- 270-330 words MAX for post body
+- 270-330 words MAX for post body (but never pad to hit word count — 160 tight words beat 300 bloated ones)
 - Hook: 1-3 sentences, front-load the angle
 - The persona's LENS determines the framing (see Persona Roles table)
 - Check every line against `01_ai_slops.md` blacklist
 - No em dashes
 - No "Here's" constructions
 - End with the persona's signature style, not a generic close
+
+#### Post-Writing Quality Passes
+
+Run these four passes IN ORDER after the draft is written, before sending to audit.
+
+**Pass 1: Time-to-Value Compression**
+- Every sentence must earn its spot. If removing it loses nothing, cut it.
+- No redundancy. If two sentences make the same point, keep the stronger one.
+- Don't say in a paragraph what a scorecard or single line can say. Don't scorecard what a paragraph already covered. Pick one format.
+- The audience's time is the scarcest resource. Respect it.
+
+**Pass 2: Redundancy Sweep**
+Read the post backwards, section by section. For each claim or contrast, ask: "Did I already establish this earlier?" If yes, one must go. Establish a fact ONCE, then build on it. Never restate it in different words for emphasis. Common trap: stating a contrast in a data section (e.g., "$0 ad budget") then restating it as prose later ("We're spending zero"). The data point does the work. The prose should advance, not repeat.
+
+**Pass 3: Connector Pass**
+Stripping for compression kills connective tissue first because transitions look like "filler." They're not. Without them, the post reads like a list of facts — robotic, AI-generated.
+
+After stripping, re-read the post and identify every **section jump** (where the post shifts from one idea to the next). At each jump, ask: "Would a human just slam these two ideas together, or would they bridge them?" If the answer is bridge, add a connector.
+
+Good connectors are contextual — they reference the specific topic, not a generic formula. Test: could you paste this connector into any other post and it still works? If yes, it's too generic. Rewrite it. Reference the approved connectors by tone and persona-connector pairings in Section D of LinkedIn Formatting Rules above.
+
+**Rule:** Every post with 3+ sections needs at least ONE human connector. A post without connectors is a post that sounds like AI wrote it.
+
+**Pass 4: Phone Scroll Test**
+Read the post imagining it on a phone screen (see Section E of LinkedIn Formatting Rules above):
+- Every paragraph ≤ 2 sentences?
+- Connectors between sections sound like a friend talking?
+- At least 3 single-sentence "air" lines in the post?
+- Bullet points (→) used for any list of 3+ items?
+- No text wall longer than 3 lines on mobile?
 
 ---
 
@@ -329,16 +478,30 @@ When the post mentions a real company, team, or community, it should make those 
 
 Run the Post-Auditor-Agent (`00_ai_markdowns/16_Post-Auditor-Agent.md`) on every post.
 
-**5 Dimensions scored:**
-1. ICP Relevance (25%) — Does the right buyer care?
-2. Factual Accuracy (25%) — Can every claim be sourced?
-3. Readability (20%) — Hook strength, flow, word count
-4. AI Slop (15%) — Cross-reference against `01_ai_slops.md`
-5. Reading Pleasure (15%) — Voice authenticity, emotional impact
+**6 Dimensions scored:**
+1. ICP Relevance (20%) — Does the right buyer care? Check against `00_icp_stacksync.md` + `07_stacksync_icp_terms_an_tags.md`
+2. Factual Accuracy (20%) — Can every claim be sourced? Check against `05_list_of_connectors.md` for product claims + web search every claim
+3. Readability & Attention (15%) — Hook strength, narrative momentum, word economy, coherence, closing
+4. AI Slop Detection (10%) — Cross-ref every line against `01_ai_slops.md`
+5. Reading Pleasure (15%) — Rhythm, white space, tone, vocabulary, emotional texture
+6. Reader Value (20%) — Does the ICP walk away knowing or able to do something specific? Is this genuinely useful to a CTO, VP Eng, or RevOps Director, independent of whether they buy?
+
+**Additional check (outside the 6-dimension score):**
+- **Visual-Hook Alignment:** Does the suggested visual from Step 1c match the written hook's message? Would the visual alone tell the same story? Flag any misalignment.
+
+**Override Rules (automatic, regardless of composite):**
+- D2 (Factual Accuracy) score 3 or below → automatic **KILL**
+- D4 (AI Slop) score 3 or below → automatic **REVISE** minimum
+- D1 (ICP Relevance) score 3 or below → automatic **REVISE** minimum
+- D6 (Reader Value) score 4 or below → automatic **REVISE** minimum
+
+**AI Slop score caps:**
+- 3-4 blacklisted patterns in a single post → D4 capped at 5
+- 5+ blacklisted patterns → D4 capped at 3
 
 **Verdicts:**
 - **GO (8.0+):** Ready to publish
-- **REVISE (6.0-7.9):** Fix flagged issues, re-audit
+- **REVISE (6.0-7.9):** Fix flagged issues, re-audit. Provide Top 3 Fixes.
 - **KILL (<6.0):** Rewrite from scratch
 
 **Rule:** No post publishes without a GO verdict (8.0+).
@@ -412,12 +575,18 @@ The human reviews and:
 ## QUICK PROCESS CHECKLIST
 
 ```
-[ ] Step 1:  Idea Legos filled (Topic, Angle, Hook Type, Story Structure, Visual Format)
-[ ] Step 1b: Deconfliction table created (if multi-voice campaign)
-[ ] Step 2:  Facts researched, every claim has a source
-[ ] Step 3:  Draft written with persona lens + AI slops loaded BEFORE writing
-[ ] Step 4:  Post-Auditor-Agent returns GO (8.0+)
-[ ] Step 5:  Cross-post check passed (if multi-voice)
-[ ] Step 6:  Human review and approval
-[ ] Step 7:  Published, YAML updated, file moved from drafts_[Persona]/ to published_[Persona]/
+[ ] Step 1:   Idea Legos filled (User's Insight, Topic, Angle, Hook Type, Story Structure, Psych Triggers, Visual Format)
+[ ] Step 1:   Reader Value answered — "What does the ICP walk away knowing or able to do?" (specific, not abstract)
+[ ] Step 1b:  Deconfliction table created (if multi-voice campaign)
+[ ] Step 1c:  Visual hook suggestions created (3 options, aligned with hook type)
+[ ] Step 2:   Facts researched, every claim has a source
+[ ] Step 3:   Draft written with persona lens + AI slops loaded BEFORE writing
+[ ] Step 3a:  Time-to-Value Compression pass (every sentence earns its spot)
+[ ] Step 3b:  Redundancy Sweep pass (no fact stated twice in different words)
+[ ] Step 3c:  Connector Pass (at least 1 human connector at section jumps)
+[ ] Step 3d:  Phone Scroll Test pass (no text walls, air lines, ≤2 sentences per paragraph)
+[ ] Step 4:   Post-Auditor-Agent returns GO (8.0+)
+[ ] Step 5:   Cross-post check passed (if multi-voice)
+[ ] Step 6:   Human review and approval
+[ ] Step 7:   Published, YAML updated, file moved from drafts_[Persona]/ to published_[Persona]/
 ```

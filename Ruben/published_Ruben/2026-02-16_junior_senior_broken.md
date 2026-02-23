@@ -19,7 +19,7 @@ related_concepts:
   - "[[hiring]]"
   - "[[AI disruption]]"
 link: https://www.linkedin.com/posts/ruben-burdin_junior-means-younger-senior-means-older-share-7429304579370037248-B8Y_
-image: images/2026-02-16_junior_senior_broken_ruben.png
+image: images/2026-02-16_junior_senior_broken.png
 ---
 
 # RUBEN — The "Senior" Label Is Broken

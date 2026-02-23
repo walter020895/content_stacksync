@@ -19,7 +19,7 @@ related_concepts:
   - "[[salesforce_gtm_study]]"
   - "[[nacho_personality_v01]]"
 link: https://www.linkedin.com/posts/fabianignaciomalpartidanegron_siebel-told-the-market-they-were-scared-of-activity-7429357127086960640-Q3JG
-image: images/2026-02-16_siebel_called_police_nacho.png
+image: images/2026-02-16_siebel_called_police.png
 ---
 
 # NACHO — Siebel Told the Market They Were Scared
