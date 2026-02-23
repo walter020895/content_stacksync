@@ -64,28 +64,29 @@ ETL — Extract, Transform, Load
 → A change in your warehouse stays there. Nothing flows back to the source.
 
 Reverse ETL
-→ Flips it: warehouse data pushed INTO your CRM or ops tools (Hightouch, Census)
+→ Flips it: warehouse data pushed INTO your CRM or ops tools (Hightouch, Census — now part of Fivetran)
 → Still one direction. Still batch. 15-60 minute delays.
-→ A rep updates Salesforce? The warehouse doesn't see it.
+→ A rep updates Salesforce? The warehouse doesn't see it. Stack this on top of ETL and you've got two one-way pipes with lag in each direction. Not the same as bi-directional.
 
 Bi-Directional Sync
 → Both directions. Real time. Milliseconds, not minutes.
 → The thing that makes it real: conflict resolution. Both systems touch the same record at the same moment — you need a rule for which one wins and why.
 
-What most teams miss: running ETL plus Reverse ETL together looks like bi-directional sync. It isn't. You still have two one-way pipes with 15-60 minutes of lag in each direction.
+That second part — conflict resolution — is what most "bi-directional" tools skip. Without it, one update disappears.
 
 Over to you — which one does your stack actually use?
 
 ---
 
 ## NOTES
-- **Voice**: "The quick breakdown:" bridge, 3 bullets per section (down from 5), tool names folded into the first bullet of each section, "Over to you" closer. Carter-casual throughout.
-- **Template source**: Alex Xu "X vs Y vs Z" format — section name → what it does → what it can't do. Parallel structure across 3 sections.
+- **Voice**: "The quick breakdown:" bridge, arrow bullets per section, tool names folded into the first bullet of each section, "Over to you" closer. Carter-casual throughout.
+- **Template source**: Alex Xu "X vs Y vs Z" format — section name → what it does → what it can't do. Parallel structure across 3 sections, deliberately broken on the third.
 - **Idea Legos**: Teacher hook + Three-section breakdown → Engagement confirmed
-- **Narrative arc**: Hook (most teams have the wrong one) → ETL breakdown → Reverse ETL breakdown → Bi-Directional breakdown → "What most teams miss" bridge clarifying the stitched-together confusion → engagement question
+- **Narrative arc**: Hook (most teams have the wrong one) → ETL breakdown → Reverse ETL breakdown (with "not the same as bi-directional" folded in) → Bi-Directional breakdown (2 bullets + Carter voice sentence) → engagement question
 - **Psychological triggers**: Clarity (finally understand what these mean) + Curiosity Gap (you might have the wrong one and not know it)
 - **Hook analysis (Kallaway)**: Single subject: 3 data integration terms. Single question: "Which one do you actually have?" "See more" char count: ~115. Mobile: yes.
-- **AI slop check**: Clean. No em dashes. No "Here's" constructions. No bold markdown (section names are plain text labels). 9 total arrow bullets (3 per section, down from 15).
-- **Word count**: ~180
+- **AI slop check**: Clean. No em dashes. No "Here's" constructions. No bold markdown (section names are plain text labels).
+- **Changes from v1**: (1) Census updated — "Census — now part of Fivetran" parenthetical added, reflecting May 2025 acquisition. Used as persuasion asset: even the biggest ETL player acquired a Reverse ETL tool. (2) "What most teams miss:" removed — named blacklist pattern. Insight folded directly into the Reverse ETL section as the closing bullet. Hits harder inside the comparison than as a standalone header. (3) Bi-Directional section reduced from 3 bullets to 2, with Carter-voice sentence added after: "That second part — conflict resolution — is what most 'bi-directional' tools skip. Without it, one update disappears." Breaking the parallel structure and adding Carter's voice makes the third section feel written, not assembled from a template.
+- **Word count**: ~205
 - **Visual note**: STRONGLY RECOMMENDED — create a 3-column comparison card (Canva): ETL / Reverse ETL / Bi-Directional, with Direction / Latency / Use Case as rows. This post will underperform without a visual. Use as the post image.
-- **Factual sources**: Fivetran/Airbyte/Stitch as ETL — industry standard. Hightouch/Census as Reverse ETL — confirmed product positioning. Batch timing (1-24h ETL, 15-60min Reverse ETL) — Fivetran and Hightouch documentation. Conflict resolution — Stacksync product.
+- **Factual sources**: Fivetran/Airbyte/Stitch as ETL — industry standard. Hightouch as Reverse ETL — confirmed product positioning. Census — acquired by Fivetran, May 2025. Batch timing (1-24h ETL, 15-60min Reverse ETL) — Fivetran and Hightouch documentation. Conflict resolution — Stacksync product.

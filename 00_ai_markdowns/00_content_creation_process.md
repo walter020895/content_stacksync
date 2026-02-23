@@ -6,6 +6,36 @@ The single source of truth for how posts go from idea to published.
 
 ---
 
+## CONTENT SOURCE MODEL
+
+Every post is built from one of two modes. Both produce bangers. Neither is better than the other.
+
+**Mode 1 — Insight-Led** *(use when a persona has something real to share)*
+The persona provides an observation, experience, or story from their world.
+→ That insight becomes Lego 0, preserved verbatim.
+→ World knowledge supports and validates it.
+→ The persona's voice frames it for the ICP.
+
+**Mode 2 — World-Knowledge-Led** *(default when no persona input exists)*
+No insight from the persona. The world already has the story.
+→ Mine public events, market patterns, company histories, industry data.
+→ The persona's lens determines WHICH story to tell and HOW to frame it.
+→ The persona provides the CHARACTER LAYER — not the content source.
+
+**The rule: never wait for a persona insight to write a great post.**
+
+The bangers prove this. Plaid's story is public. Oracle's exit is public. Heroku Connect's shutdown is public. Visa's $5.3B acquisition attempt is public. What makes them Stacksync posts is Nacho's operator conviction, Ruben's founder lens, Alexis's architectural read. The persona is the filter, not the factory.
+
+**Why this matters operationally:** Personas are busy. Waiting for insights creates bottlenecks. The world generates new stories every day — company pivots, acquisitions, market shifts, industry patterns. The job is to find the story that maps to the persona's angle and the ICP's pain, then tell it in that persona's voice.
+
+**Lego 0 in Mode 2:** When no user insight exists, Lego 0 becomes the world story:
+*"[Company / Event / Pattern] + [what it reveals through this persona's lens]"*
+Example: "Plaid built a consumer app. The painful backend became the product."
+→ Nacho's lens turns it into: "The invisible layer always wins."
+→ The story is public. The conviction is Nacho's.
+
+---
+
 ## FOLDER STRUCTURE
 
 ```
@@ -169,32 +199,48 @@ If 2+ personas write on the same topic, fill this table AFTER completing each pe
 
 ### Step 1c: VISUAL HOOK SUGGESTIONS
 
-For every post, create 3 visual hook options that MATCH the written hook. The visual and the text must say the same thing. Misalignment = confusion = scroll-past.
+**The Image-Hook-Image Loop (core principle):**
+The image and the post hook are ONE MESSAGE delivered twice. Person sees image → reads hook → looks at image again. The second look must land differently — deeper, confirmed, reinforced. Design every card for the second look, not just the first. If the image and hook say different things, it's a scroll-past.
 
-**Match the visual to the hook type:**
+**Alignment test:** Can you look at ONLY the visual and understand the same message as the hook? If not, revise.
 
+**Text-only override:** If the persona/topic works best as text-only, state that explicitly and explain why. (Nacho's personal conviction posts often work better text-only.)
+
+---
+
+**How to pick 3 visual concepts — answer these 5 questions in order:**
+
+1. **Company mentioned?** → Consider Logo-Featured (Brand Callout, Brand vs Brand, Market Map)
+2. **Person/founder mentioned?** → Consider Person/Founder (Portrait, Quote Portrait, Stat Behind Person)
+3. **Cultural reference fits naturally?** → Consider Cultural Reference (Distracted Boyfriend, Iceberg, This Is Fine)
+4. **What's the data shape?** One big stat → Typographic (Number Hero, Verdict). Proportion/ratio → Data Viz (Ratio Bar). List/ranking → Infographic (Ranked List). Timeline → Data Viz (Timeline).
+5. **What's the emotional arc?** Binary war → Split layout (1920×1080). Authority → Document/Authority (Classified, Brief). Complexity exposed → Infographic.
+
+Always pick 3 concepts from DIFFERENT categories. Never all typographic. Never all dark.
+
+**Full format library (33 formats, 7 categories):** See `05_card_generator/` — Typographic, Logo-Featured, Person/Founder, Data Visualization, Infographic, Document/Authority, Cultural Reference.
+
+**Match hook type to visual direction:**
 | Hook Type | Visual Direction |
 |-----------|-----------------|
 | Teacher | Chart, diagram, process visual, timeline |
-| Contrarian | Comparison table, "vs" layout, product teardown |
-| Magician | Numbers graphic, stacked bar chart, dramatic stat card |
+| Contrarian | Comparison table, "vs" layout, Split (1920×1080) |
+| Magician | Number Hero, stacked bar chart, dramatic stat card |
 | Fortune Teller | Announcement visual, calendar, timeline with deadline |
 | Experimenter | Before/after split, screenshot comparison |
 | Investigator | Architecture diagram, code screenshot, data table |
 
-**Proven LinkedIn visual specs:** Pie chart meme, architecture diagram, before/after split, Slack/alert screenshot mockup, stacked bar chart, side-by-side comparison, quote card with anchor stat, code screenshot comparison, vendor comparison table.
-
 **For each post, provide:**
 ```
 ### VISUAL HOOKS
-**Option A (Recommended):** [Description + why it matches the hook]
-**Option B:** [Description + why it matches the hook]
-**Option C:** [Description + why it matches the hook]
+**Option A (Recommended):** [Format name + description + why it matches the hook + image-hook-image loop]
+**Option B:** [Format name + description + why it matches the hook]
+**Option C:** [Format name + description + why it matches the hook]
+
+Resources needed: [Logo / photo / none — WHY each matters emotionally, not just visually]
 ```
 
-**Alignment test:** Can you look at ONLY the visual and understand the same message as the hook? If not, revise.
-
-**Text-only override:** If the persona/topic works best as text-only, state that explicitly and explain why.
+**Card generation:** Take the chosen visual concept to `05_card_generator/` to build the card once the post is approved (Step 7).
 
 ---
 
@@ -539,12 +585,13 @@ The human reviews and:
 **Input:** Approved posts
 **Output:** Published posts moved to archive
 
-1. Publish on LinkedIn
-2. Add to YAML frontmatter:
+1. **If the post uses an image:** Run the card generator (`05_card_generator/`) using the approved visual concept from Step 1c. Save the generated PNG to `published_[Persona]/images/YYYY-MM-DD_title_slug.png` and update the YAML `image:` field.
+2. Publish on LinkedIn
+3. Add to YAML frontmatter:
    - `status: published`
    - `published_date: YYYY-MM-DD`
    - `link: [LinkedIn URL]`
-3. Move file from `drafts_[Persona]/` → `published_[Persona]/` (rename to `YYYY-MM-DD_title_slug.md`)
+4. Move file from `drafts_[Persona]/` → `published_[Persona]/` (rename to `YYYY-MM-DD_title_slug.md`)
 
 ---
 

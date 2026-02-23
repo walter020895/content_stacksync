@@ -25,6 +25,12 @@ Ask the user:
 - **Lane:** Reach (category), Relevance (ICP pain), or Revenue (product proof)?
 - **Any constraints?** News peg, specific angle, stat to include?
 
+**IMPORTANT — Insights are optional, not required.**
+If the user has a personal insight or story from the persona, capture it verbatim as Lego 0 and build around it.
+If they don't — which is the common case — switch to Mode 2 (World-Knowledge-Led): find the world story that maps to the persona's angle and the ICP's pain. Do not ask for an insight that doesn't exist. Do not wait for one. The persona provides the voice and conviction; the world provides the story.
+
+See the **CONTENT SOURCE MODEL** section in `00_content_creation_process.md` for the full explanation of Mode 1 vs. Mode 2.
+
 ---
 
 ## STEP 2: IDEA LEGOS (per persona)
@@ -84,40 +90,48 @@ If 2+ personas write on the same topic, fill the deconfliction table:
 
 ## STEP 2c: VISUAL HOOK SUGGESTIONS
 
-For every post, suggest 3 visual hook options that MATCH the written hook. The visual and the text must say the same thing. Misalignment = confusion = scroll-past.
+**The Image-Hook-Image Loop (core principle):**
+The image and the post hook are ONE MESSAGE delivered twice. Person sees image → reads hook → looks at image again. The second look must land differently — deeper, confirmed, reinforced. Design every card for the second look, not just the first. If the image and hook say different things, it's a scroll-past.
 
-**Match the visual to the hook type:**
+**Alignment test:** Can you look at ONLY the visual and understand the same message as the hook? If not, revise.
+
+**Text-only override:** If the persona/topic works best as text-only, state that explicitly and explain why. (Nacho's personal conviction posts often work better text-only.)
+
+---
+
+**How to pick 3 visual concepts — answer these 5 questions in order:**
+
+1. **Company mentioned?** → Consider Logo-Featured (Brand Callout, Brand vs Brand, Market Map)
+2. **Person/founder mentioned?** → Consider Person/Founder (Portrait, Quote Portrait, Stat Behind Person)
+3. **Cultural reference fits naturally?** → Consider Cultural Reference (Distracted Boyfriend, Iceberg, This Is Fine)
+4. **What's the data shape?** One big stat → Typographic (Number Hero, Verdict). Proportion/ratio → Data Viz (Ratio Bar). List/ranking → Infographic (Ranked List). Timeline → Data Viz (Timeline).
+5. **What's the emotional arc?** Binary war → Split layout (1920×1080). Authority → Document/Authority (Classified, Brief). Complexity exposed → Infographic.
+
+Always pick 3 concepts from DIFFERENT categories. Never all typographic. Never all dark.
+
+**Full format library (33 formats, 7 categories):** See `05_card_generator/` — Typographic, Logo-Featured, Person/Founder, Data Visualization, Infographic, Document/Authority, Cultural Reference.
+
+**Match hook type to visual direction:**
 | Hook Type | Visual Direction |
 |-----------|-----------------|
 | Teacher | Chart, diagram, process visual, timeline |
-| Contrarian | Comparison table, "vs" layout, product teardown |
-| Magician | Numbers graphic, stacked bar chart, dramatic stat card |
+| Contrarian | Comparison table, "vs" layout, Split (1920×1080) |
+| Magician | Number Hero, stacked bar chart, dramatic stat card |
 | Fortune Teller | Announcement visual, calendar, timeline with deadline |
 | Experimenter | Before/after split, screenshot comparison |
 | Investigator | Architecture diagram, code screenshot, data table |
 
-**Proven LinkedIn visual specs:**
-- Pie chart meme (absurd resource allocation)
-- Architecture diagram (system complexity with annotations)
-- Before/after split (expectation vs reality)
-- Slack/alert screenshot mockup (day-in-the-life chaos)
-- Stacked bar chart (cost breakdown)
-- Side-by-side comparison (two reports, two systems)
-- Quote card with anchor stat
-- Code screenshot comparison
-- Vendor comparison table
-
 **For each post, provide:**
 ```
 ### VISUAL HOOKS
-**Option A (Recommended):** [Description + why it matches the hook]
-**Option B:** [Description + why it matches the hook]
-**Option C:** [Description + why it matches the hook]
+**Option A (Recommended):** [Format name + description + why it matches the hook + image-hook-image loop]
+**Option B:** [Format name + description + why it matches the hook]
+**Option C:** [Format name + description + why it matches the hook]
+
+Resources needed: [Logo / photo / none — WHY each matters emotionally, not just visually]
 ```
 
-**Alignment test:** Can you look at ONLY the visual and understand the same message as the hook? If not, revise.
-
-**Text-only override:** If the persona/topic works best as text-only, state that explicitly and explain why.
+**Card generation:** Take the chosen visual concept to `05_card_generator/` to build the card once the post is approved.
 
 ---
 
@@ -278,12 +292,13 @@ image:
 
 Run the Post-Auditor-Agent (`00_ai_markdowns/16_Post-Auditor-Agent.md`).
 
-**5 Dimensions (aligned with Post-Auditor-Agent):**
-1. ICP Relevance (25%) — check against `00_icp_stacksync.md` + `07_stacksync_icp_terms_an_tags.md`
-2. Factual Accuracy (25%) — check against `05_list_of_connectors.md` for product claims + web search every claim
-3. Readability & Attention (20%) — hook strength, narrative momentum, word economy, coherence, closing
-4. AI Slop Detection (15%) — cross-ref every line against `01_ai_slops.md`
+**6 Dimensions (aligned with Post-Auditor-Agent):**
+1. ICP Relevance (20%) — check against `00_icp_stacksync.md` + `07_stacksync_icp_terms_an_tags.md`
+2. Factual Accuracy (20%) — check against `05_list_of_connectors.md` for product claims + web search every claim
+3. Readability & Attention (15%) — hook strength, narrative momentum, word economy, coherence, closing
+4. AI Slop Detection (10%) — cross-ref every line against `01_ai_slops.md`
 5. Reading Pleasure (15%) — rhythm, white space, tone, vocabulary, emotional texture
+6. Reader Value (20%) — does the ICP walk away knowing or able to do something specific? Check: can you name the takeaway in one sentence?
 
 **Additional check (outside the 5-dimension score):**
 - **Visual-Hook Alignment:** Does the suggested visual match the hook message? Would the visual alone tell the same story? Flag any misalignment.
@@ -292,6 +307,7 @@ Run the Post-Auditor-Agent (`00_ai_markdowns/16_Post-Auditor-Agent.md`).
 - D2 (Factual Accuracy) score 3 or below → automatic **KILL**
 - D4 (AI Slop) score 3 or below → automatic **REVISE** minimum
 - D1 (ICP Relevance) score 3 or below → automatic **REVISE** minimum
+- D6 (Reader Value) score 4 or below → automatic **REVISE** minimum
 
 **AI Slop score caps:**
 - 3-4 blacklisted patterns → D4 capped at 5
@@ -333,3 +349,4 @@ After user confirms publication:
 1. Add to YAML: `status: published`, `published_date: YYYY-MM-DD`, `link: [URL]`
 2. Move from `drafts_[Persona]/` to `published_[Persona]/`, renaming to `YYYY-MM-DD_title_slug.md`
 3. If banger (high engagement), copy to `bangers_[Persona]/` with `BANGER_` prefix
+4. **If the post uses an image:** Run the card generator (`05_card_generator/`) using the approved visual concept from Step 2c. Save the generated PNG to `published_[Persona]/images/YYYY-MM-DD_title_slug.png` and update the YAML `image:` field.

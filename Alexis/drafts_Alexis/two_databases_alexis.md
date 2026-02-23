@@ -66,11 +66,11 @@ So instead you get:
 → Custom sync scripts nobody wants to own
 → A reconciliation spreadsheet that lives in someone's Google Drive
 
-This isn't a CRM problem. It's an infrastructure ownership problem.
-
-The fix isn't complicated. Mirror the CRM data into a database you actually control. Your engineers write SQL. Your pipelines don't break on API changes. Your data is yours.
+The engineers didn't fail. The architecture did. You built your stack around a system you don't own.
 
 The CRM stays the CRM. You just stop letting it be the only copy.
+
+The pattern that works: CRM as the write surface, your database as the read layer. SQL in. CRM writes back. One sync layer you own.
 
 That's the bet worth making, you know?
 
@@ -78,11 +78,12 @@ That's the bet worth making, you know?
 
 ## NOTES
 - **Voice**: Alexis's mission-driven CTO mode. Short punches. "You know?" verbal tic. Frustration-to-insight arc. No rah-rah motivation. Clean engineer-to-engineer close.
-- **Template source**: Louie Bacaj ultra-short punch format — binary frame, two concrete examples, personal conviction close. Under 200 words.
+- **Template source**: Louie Bacaj ultra-short punch format — binary frame, two concrete examples, personal conviction close. Under 210 words.
 - **Idea Legos**: Contrarian + Binary Framing → Problem Definition → Fix → Close confirmed
-- **Narrative arc**: Binary open (two databases) → define each (controlled vs. not) → the one that matters (runs the business) → what it looks like broken (API limits, drift, scripts) → reframe (infrastructure ownership problem) → fix (mirror it) → conviction close
+- **Narrative arc**: Binary open (two databases) → define each (controlled vs. not) → the one that matters (runs the business) → what it looks like broken (API limits, drift, scripts) → reframe (architecture failed, not engineers) → fix (stop letting CRM be the only copy) → concrete architectural pattern (write surface / read layer) → conviction close
 - **Psychological triggers**: Recognition (CTOs know exactly what this is) + Frustration Validation (finally someone said it) + Tribal Identity (engineers who've lived this)
 - **Hook analysis (Kallaway)**: Single subject: database ownership. Single question: "Which one?" "See more" char count: ~60. Fits mobile: yes.
-- **AI slop check**: Clean. No em dashes. No "Here's" constructions. "You know?" is Alexis's authentic verbal tic, not slop.
-- **Word count**: ~195
+- **AI slop check**: Clean. No em dashes. No "Here's" constructions. "You know?" is Alexis's authentic verbal tic, not slop. Removed "This isn't a CRM problem. It's an infrastructure ownership problem." (AI slop pattern #6: "This isn't X. It's Y.") — replaced with "The engineers didn't fail. The architecture did." (human delivery, same reframe).
+- **Changes (2026-02-22)**: Replaced AI slop line ("This isn't a CRM problem. It's an infrastructure ownership problem.") with Alexis-voice reframe. Collapsed two-paragraph fix section into single strong line. Added concrete architectural pattern (CRM as write surface, database as read layer) to lift reader value from observation to actionable architecture.
+- **Word count**: ~200
 - **Factual sources**: Observational — common engineering pattern across SaaS companies

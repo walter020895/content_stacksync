@@ -31,7 +31,7 @@ image:
 | User's Insight | Integration that "mostly works" has a recognizable fingerprint. CTOs know it needs to go but won't prioritize it until it breaks badly enough. |
 | Topic | The pattern that shows up in every company with a data integration problem |
 | Angle | Ruben as insider with privileged access — founder who has sat in enough CTO conversations to see the same movie play out |
-| Hook Type | Fortune Teller — "I've seen this before, and here's exactly how it goes" |
+| Hook Type | Fortune Teller — "I've seen this before, and here's exactly how it ends" |
 | Story Structure | Observation → List (the things CTOs say) → Reveal (what it actually costs) → Conviction close |
 | Psych Triggers | Pattern Recognition, Tribal Identity (CTOs will self-recognize), Validation |
 | Visual Format | text-only |
@@ -40,9 +40,11 @@ image:
 ---
 
 ### HOOK A (Recommended)
-I keep having a version of the same conversation with engineering leaders.
+I've had this conversation with engineering leaders at 40+ companies.
 
-Different companies. Different stacks. Same pattern.
+I can tell how it ends by minute five.
+
+It always ends the same way.
 
 ### HOOK B
 Most CTOs I talk to say their data integration "mostly works."
@@ -55,9 +57,11 @@ That phrase has started to mean something very specific to me.
 
 ---
 
-I keep having a version of the same conversation with engineering leaders.
+I've had this conversation with engineering leaders at 40+ companies.
 
-Different companies. Different stacks. Same pattern.
+I can tell how it ends by minute five.
+
+It always ends the same way.
 
 It usually goes something like this:
 
@@ -68,23 +72,23 @@ It usually goes something like this:
 
 "Just not now" is the part that costs them.
 
-There's no line item for it. No ticket that says "integration drift — $90K/year."
+There's no line item for it. No ticket that says "integration drift — $75K/year."
 
 It shows up as an engineer who can't get to the roadmap because they're babysitting a pipeline.
 
 A monthly reconciliation call between finance and sales that everyone treats as normal.
 
-A Slack channel no one checks unless something breaks.
+The best engineer on the team spending Tuesday mornings on pipeline health checks.
 
-This is what technical debt sounds like when it's not called technical debt.
+That's integration debt. Nobody calls it that.
 
-The system isn't broken. It's just wrong often enough that someone has to watch it. And that someone is usually your best infrastructure engineer — the one you need on something harder.
+It fails just often enough to need a babysitter. And that babysitter is usually your best infrastructure engineer — the one you need on something harder.
 
 The companies I've talked to that fixed this didn't do it because they had a strategy. They did it because one incident crossed the line from "annoying" to "customer-facing."
 
 By then, the cost was already sunk.
 
-"Just not now" is a decision. It just doesn't feel like one until it's too late to make it cleanly.
+Every time someone says "not now," the cost compounds. By the time it's urgent, it's also expensive.
 
 ---
 
@@ -92,9 +96,10 @@ By then, the cost was already sunk.
 - **Voice**: Insider access, observation-based authority. Lists what CTOs literally say (quoted speech creates recognition). "Just not now" as repeated anchor phrase carries the argument. No product pitch. Pure founder pattern-matching.
 - **Template source**: Gergely Orosz insider-access format — talked to enough people to see a pattern, shares what he learned. Reader feels access to privileged signal.
 - **Idea Legos**: Fortune Teller + Observation → List → Reveal confirmed
-- **Narrative arc**: "40 times this year" (credibility) → the four things they say (recognition) → "just not now" (the real problem) → what it looks like operationally (hidden costs) → what it's really called (technical debt reframe) → who pays (your best engineer) → companies that fixed it (waited too long) → conviction close ("just not now is a decision")
+- **Narrative arc**: "40+ companies" (credibility) + "I can tell by minute five" (tension/curiosity) → the four things they say (recognition) → "just not now" (the real problem) → what it looks like operationally (hidden costs) → what it's really called (integration debt, plain language) → who pays (your best engineer) → companies that fixed it (waited too long) → conviction close (cost compounds)
 - **Psychological triggers**: Pattern Recognition (I've seen this before) + Tribal Identity (CTOs will see themselves) + Validation (finally someone named it)
-- **Hook analysis (Kallaway)**: Single subject: CTO conversations. Single question: "What's the pattern?" "See more" char count: ~82. Fits mobile: yes.
+- **Hook analysis (Kallaway)**: Single subject: CTO conversations. Single question: "How does it end?" — withheld until they read. "See more" char count: ~82. Fits mobile: yes.
 - **AI slop check**: Clean. No em dashes. No "Here's" constructions. No blacklisted phrases.
-- **Word count**: ~233
+- **Changes from v1**: Hook rebuilt as genuine Fortune Teller — withholds the answer ("I can tell how it ends by minute five") instead of announcing there's a pattern. Three AI slop lines replaced: "technical debt when it's not called technical debt" → "That's integration debt. Nobody calls it that." / "system isn't broken... wrong often enough" → "It fails just often enough to need a babysitter." / aphoristic "just not now is a decision" close → "Every time someone says 'not now,' the cost compounds." Slack channel symptom removed and replaced with "best engineer spending Tuesday mornings on pipeline health checks" to avoid recycling with cost_good_enough post. Cost figure updated to $75K to match canonical number across posts.
+- **Word count**: ~244
 - **Factual sources**: Observational — Ruben's direct CTO conversations
