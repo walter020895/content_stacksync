@@ -76,7 +76,7 @@ I talk to e-commerce brands every week. Most of them run this exact configuratio
 
 Start with time. Sellers on three or more channels spend 10 to 15 hours a week copying orders, matching marketplace settlements to bundled payouts, and chasing fee discrepancies between platforms (Webgility). At $50 an hour, that's $26,000 a year in manual data entry. For a task that adds zero value to your business.
 
-Then there's revenue. E-commerce companies with fragmented systems lose 20 to 30% of potential revenue from stockouts, overselling, and slow fulfillment caused by stale inventory data (Envive AI). For a brand doing $500K a month, that's up to $150K a month you can't recover.
+Then there's revenue. Stale inventory data creates a specific kind of loss: overselling items you can't fulfill, underselling items sitting in a warehouse you forgot to update. At $500K a month, even a 5% inventory accuracy problem is $25K in avoidable losses per month — before you count the refund costs and the customers who don't come back.
 
 The one nobody measures? Visibility. 80% of brands can't identify their most profitable channel because each platform reports different metrics in different formats (Rithum). You're spending on TikTok ads, Amazon PPC, and Shopify campaigns. You can't tell which one actually makes you money.
 
@@ -108,7 +108,7 @@ If you're running three tabs right now, DMs are open. Happy to show you what one
 - **Factual sources**:
   - 10-15 hours/week manual copying: Webgility (https://www.webgility.com/blog/multi-channel-accounting-ecommerce)
   - $26,000/year calculation: derived from $50/hr x 10hrs/wk x 52 weeks
-  - 20-30% potential revenue lost: Envive AI (https://www.envive.ai/post/siloed-ai-tools-cost-ecommerce-governance)
+  - Revenue loss framing: illustrative math (5% inventory error rate × $500K/month = $25K/month). Envive AI 20-30% figure removed — sourced from a small vendor blog, not a research study. IHL Group $1.77T global inventory distortion stat (same source as Ruben's e-commerce fragmentation post) provides the macro context if needed.
   - 80% can't identify most profitable channel: Rithum (https://www.rithum.com/blog/hidden-cost-fragmented-ecommerce/)
   - Platform-specific analytics limitations: Saras Analytics (https://www.sarasanalytics.com/blog/tiktok-shop-analytics), TikTok Seller University
 

@@ -56,21 +56,16 @@ ETL, Reverse ETL, and Bi-Directional Sync.
 
 Three different things. The distinction took me a while to nail down. Most stacks have the first two stitched together — and call it the third.
 
-The quick breakdown:
-
 ETL — Extract, Transform, Load
-→ Moves data FROM your apps or CRM INTO a data warehouse (Fivetran, Airbyte, Stitch)
-→ One direction. Batch jobs. Every 1-24 hours.
-→ A change in your warehouse stays there. Nothing flows back to the source.
+Moves data FROM your apps or CRM INTO a data warehouse (Fivetran, Airbyte, Stitch). One direction. Batch jobs. Every 1-24 hours. A change in your warehouse stays there. Nothing flows back.
 
 Reverse ETL
-→ Flips it: warehouse data pushed INTO your CRM or ops tools (Hightouch, Census — now part of Fivetran)
-→ Still one direction. Still batch. 15-60 minute delays.
-→ A rep updates Salesforce? The warehouse doesn't see it. Stack this on top of ETL and you've got two one-way pipes with lag in each direction. Not the same as bi-directional.
+Flips it — warehouse data pushed INTO your CRM or ops tools (Hightouch, Census — now part of Fivetran). Still one direction. Still batch. 15-60 minute delays.
+
+A rep updates Salesforce? The warehouse doesn't see it. Stack this on top of ETL and you've got two one-way pipes with lag in each direction. Not the same as bi-directional.
 
 Bi-Directional Sync
-→ Both directions. Real time. Milliseconds, not minutes.
-→ The thing that makes it real: conflict resolution. Both systems touch the same record at the same moment — you need a rule for which one wins and why.
+Both directions. Real time. Milliseconds, not minutes. The thing that makes it real: conflict resolution. Both systems touch the same record at the same moment — you need a rule for which one wins and why.
 
 That second part — conflict resolution — is what most "bi-directional" tools skip. Without it, one update disappears.
 

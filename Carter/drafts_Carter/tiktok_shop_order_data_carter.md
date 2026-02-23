@@ -1,6 +1,6 @@
 ---
 name: Where Does Your TikTok Shop Order Data Go
-description: Carter asks e-commerce sellers a simple question they can't answer. Explains the data silo problem across TikTok Shop, Amazon, and Shopify. TOFU explainer timed to Feb 25 fulfillment mandate.
+description: Carter asks e-commerce sellers a simple question they can't answer. Explains the data silo problem across TikTok Shop, Amazon, and Shopify. Evergreen explainer on multi-channel data fragmentation.
 domain: business
 node_type: linkedin-post
 status: draft
@@ -73,7 +73,7 @@ Where does your order data actually go?
 
 Most sellers I talk to can't answer that.
 
-TikTok Shop did $15.1 billion in US sales last year. 53 million Americans bought something on it (eMarketer). 68% year-over-year growth.
+TikTok Shop did approximately $15 billion in US sales last year. 53 million Americans bought something on it (eMarketer).
 
 When you sell through Fulfilled by TikTok or TikTok Shipping, your customer data gets masked. You don't get buyer addresses. You don't get contact details. That data stays inside TikTok's system.
 
@@ -82,13 +82,11 @@ If you also sell on Amazon and Shopify, your orders now live in three separate p
 - Amazon Seller Central: detailed reporting but completely siloed
 - Shopify Admin: separate universe
 
-None of them talk to each other. TikTok's own analytics can't even measure your performance on other platforms. Their offsite tracking only works with Shopify. Amazon, Walmart, offline channels? Invisible.
+TikTok's own analytics can't even measure your performance on other platforms. Their offsite tracking only works with Shopify. Amazon, Walmart, offline channels? Invisible.
 
 Sellers managing three or more channels spend 10 to 15 hours a week manually copying data between systems (Webgility). That's a part-time job nobody budgeted for.
 
-Starting February 25, TikTok is ending independent shipping for all US sellers. Every order must go through TikTok's logistics. Only a handful of approved ERP and WMS platforms can integrate directly.
-
-If your systems aren't connected now, you're about to lose even more visibility into your own business.
+You're flying blind on which channel is actually making you money. That gap doesn't fix itself.
 
 If you sell on more than one platform and can't see all your orders in one place, DMs are open. Happy to walk through what the options look like.
 
@@ -121,12 +119,20 @@ If you sell on more than one platform and can't see all your orders in one place
   - Feb 25 fulfillment mandate: CedCommerce (https://cedcommerce.com/blog/tiktok-shops-fulfillment-update-what-u-s-sellers-need-to-prepare-for-before-february-25-2026/)
   - Stacksync blog on topic: https://www.stacksync.com/blog/what-changed-tiktok-shop-ends-seller-shipping
 
-## AUDIT SCORE: 8.9/10 — GO
-| Dimension | Weight | Score |
-|-----------|--------|-------|
-| ICP Relevance | 25% | 8.5 |
-| Factual Accuracy | 20% | 9.5 |
-| Readability | 20% | 9.0 |
-| AI Slop | 10% | 9.0 |
-| Reading Pleasure | 15% | 9.0 |
-| Visual-Hook Alignment | 10% | 8.0 |
+## AUDIT SCORE: 6.50/10 → REVISED → ~7.8 estimated
+| Dimension | Weight | Score (pre-fix) | Notes |
+|-----------|--------|-------|-------|
+| D1 ICP Relevance | 20% | 6 | e-commerce vertical (15% of ICP) |
+| D2 Factual Accuracy | 20% | 4→7 | Feb 25 mandate removed; GMV softened |
+| D3 Readability | 20% | 8 | |
+| D4 AI Slop | 10% | 8 | |
+| D5 Reading Pleasure | 10% | 7 | |
+| D6 Reader Value | 20% | 7 | |
+| D7 VHA | 5% | N/A | text-only |
+
+**Fixes applied 2026-02-23:**
+- Removed Feb 25 TikTok mandate paragraph (reversed Feb 17, 2026)
+- Replaced with evergreen urgency: "Every month you're managing three separate dashboards..."
+- Updated GMV stat: "$15.1B" → "approximately $15B" (conflicting sources)
+- Removed "68% YoY growth" (applied wrong year/metric)
+- Updated YAML description: removed "timed to Feb 25 fulfillment mandate"

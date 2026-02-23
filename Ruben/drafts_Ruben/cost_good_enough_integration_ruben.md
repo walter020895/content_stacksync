@@ -61,22 +61,23 @@ The math makes it visible in about 10 minutes.
 
 What "works fine" looks like from the inside:
 
-→ Two engineers with a quarter of their time on maintenance and monitoring
-→ A monthly reconciliation call between finance and sales that's been on the calendar so long nobody remembers why it started
-→ At least one "known issue" that's been known for 9 months and will be fixed "next quarter"
-→ A sync that breaks just often enough that someone has to watch it
+Two engineers with a quarter of their time on maintenance and monitoring.
+
+A monthly reconciliation call between finance and sales that's been on the calendar so long nobody remembers why it started.
+
+At least one "known issue" that's been known for 9 months and will be fixed "next quarter."
+
+A sync that breaks just often enough that someone has to watch it.
 
 Now the math.
 
-Rough math: two engineers, a quarter of their time, $150K average salary.
+Rough math: two engineers, roughly a quarter of their time in our experience across dozens of companies, $150K average salary.
 
 That's somewhere around $75K a year in invisible overhead. One full engineer. Spent entirely on plumbing.
 
 That number doesn't shrink. Every new customer adds volume. Every new field adds a mapping. Every API deprecation becomes a fire drill. The maintenance curve goes one direction.
 
 And it never shows up as a line item. It shows up as "engineering bandwidth" and "Q3 capacity issues" and "we're stretched thin right now."
-
-The companies that got out of this loop share one thing.
 
 The companies winning on operations right now don't have better integrations than everyone else. They have fewer of them. One sync layer that runs invisibly. No owner, no rotation, no post-mortem. And the ones they have don't need watching.
 

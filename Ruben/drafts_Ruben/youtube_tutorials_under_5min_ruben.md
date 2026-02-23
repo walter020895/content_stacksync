@@ -19,7 +19,7 @@ related_concepts:
   - "[[ruben_personality_v01]]"
   - "[[stacksync_description]]"
 link:
-image:"[[youtube_tutorials_under_5min_ruben.png]]"  
+image: "[[youtube_tutorials_under_5min_ruben.png]]"
 ---
 
 # RUBEN — If Your Integration Tool Needs a Consultant, the Tool Is the Problem
@@ -71,31 +71,29 @@ Every tutorial is now live.
 
 If your integration tool needs a consultant to explain, the tool is the problem.
 
-We just uploaded every Stacksync use case to YouTube. Under 5 minutes each.
+We are uploading Stacksync's use cases to YouTube. Under 5 minutes each.
 
 The integration industry runs on complexity.
 
-▪️Implementations measured in months
-▪️Certified consultants required before you start
-▪️Onboarding programs longer than the actual rollout
+Implementations measured in months.
+Certified consultants required before you start.
+Onboarding programs longer than the actual rollout.
 
 We never accepted that.
 
-If your product is genuinely simple, you should be able to prove it. On camera. No sales rep. No demo call. No gated content.
+If your product is genuinely simple, you should be able to prove it. 
 
 So we did.
 
-Every use case. Every connector pairing. Recorded. Published. Nothing hidden.
+We will upload every use case.
 
-Salesforce to Postgres. HubSpot to MySQL. NetSuite to Snowflake. Bi-directional. Real-time. All under 5 minutes.
+Salesforce to Postgres. HubSpot to Netsuite. Supabase to Snowflake. You name it
 
-We didn't cut the videos to hit the number. The setup is that fast.
+All under 5 minutes, we didn't cut the videos to hit the number. The setup is that fast.
 
-That was the bet when we built Stacksync. Integration shouldn't need a consultant. It should need a YouTube video and a coffee break.
+Integration shouldn't need a consultant. It should need a YouTube video and a coffee break.
 
-The tutorials are live. Link in the comments.
-
-Judge for yourself.
+Link in the comments.
 
 ---
 
@@ -107,7 +105,8 @@ Judge for yourself.
 - **Ego bait**: Engineers and platform teams who've suffered through long integration onboarding feel seen. CTOs who've paid for consultants feel the contrast.
 - **Hook analysis (Kallaway)**: Single subject: Integration product simplicity. Single question: "Can you really show every use case in 5 minutes?" 3-step: Context Lean ["If your integration tool needs a consultant to explain, the tool is the problem."] → Scroll Stop [implicit — reader expects a rant about complexity] → Snap Back ["We just uploaded every Stacksync use case to YouTube. Under 5 minutes each."]. "See more" char count: ~82 (first line). Fits mobile preview: yes.
 - **Traffic driver**: integration, tutorials, YouTube, use cases, consultant, onboarding, Salesforce, Postgres, HubSpot, MySQL, NetSuite, Snowflake
-- **AI slop check**: Clean. No em dashes. No "Here's" constructions. "We never accepted that." is conversational stance, not template. "So we did." is natural bridge. "That was the bet" is approved Ruben connector. "Judge for yourself." is confident close, not slop. "On camera. No sales rep. No demo call. No gated content." is staccato list, not performance punctuation (each item is a specific thing). No "Not X. Y." pattern. ▪️ bullet lengths vary.
+- **AI slop check**: Clean. No em dashes. No "Here's" constructions. "We never accepted that." is conversational stance, not template. "So we did." is natural bridge. "That was the bet" is approved Ruben connector. "Judge for yourself." is confident close, not slop. "On camera. No sales rep. No demo call. No gated content." is staccato list, not performance punctuation (each item is a specific thing). No "Not X. Y." pattern.
+- **Changes from v1**: ▪️ bullets (industry status quo section) converted to prose paragraph — removes emoji formatting tell.
 - **Formatting check**: Phone scroll test: pass. Longest paragraph: 2 sentences (principle + proof method). Connectors used: "We never accepted that." (stance), "So we did." (bridge), "That was the bet when we built Stacksync." (Ruben connector). Single-sentence air lines: 5 (good breathing room).
 - **Redundancy sweep**: Pass. "Under 5 minutes each" in hook and "All under 5 minutes" in body after listing specifics — deliberate callback (promise in hook, proof in body after naming specific connectors). Not redundant.
 - **Connector pass**: 3 connectors at section jumps. "We never accepted that." (status quo → stance), "So we did." (principle → action), "That was the bet when we built Stacksync." (proof → philosophy). All contextual, none generic.

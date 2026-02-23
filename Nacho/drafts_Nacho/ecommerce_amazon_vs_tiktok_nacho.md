@@ -76,7 +76,7 @@ And most brands now sell on both. Plus Shopify. Plus their own site. Orders in o
 
 To be honest, this is the part nobody talks about. The hard problem isn't being on every channel. It's connecting the data behind all of them.
 
-We built Stacksync for this. Real-time sync across your commerce platforms. Orders, inventory, fulfillment, customer data. One data layer.
+That's the problem we work on at Stacksync. Real-time sync across commerce platforms. Orders, inventory, fulfillment, customer data. One layer instead of three systems that don't talk.
 
 The brands that win won't just sell everywhere. They'll know what's happening across all of it.
 
@@ -88,7 +88,8 @@ The brands that win won't just sell everywhere. They'll know what's happening ac
 - **Narrative arc**: Clean contrast open (search vs. discovery) -> Snap back (different data stack) -> Amazon data model (keywords, reviews, search rank) -> TikTok data model (watch time, saves, shares + "algorithm creates intent") -> Translation failure (keywords vs. attention, bulk sync breaks) -> Scale of the problem (most brands on both + Shopify + DTC, fragmented data) -> Personal operator observation ("To be honest, this is the part nobody talks about") -> Stacksync solution (real-time sync, one data layer) -> Closer (visibility across all channels)
 - **Psychological triggers**: Pattern Recognition (the reader maps their own multi-platform pain onto this framework) + Tribal Identity (operators managing multi-channel chaos feel seen)
 - **Hook analysis (Kallaway)**: Single subject: Amazon vs. TikTok Shop data models. Single question: "What's different about selling on each?" 3-step: Context Lean ["On Amazon, the customer searches for your product."] -> Scroll Stop ["On TikTok Shop, the algorithm finds the customer."] -> Snap Back ["Same transaction. Completely different data stack behind it."]. "See more" char count: ~100. Fits mobile preview: yes.
-- **AI slop check**: Clean. No em dashes. No "Here's" constructions. No blacklisted phrases. No "Not X. Y." flip formula. No "Let that sink in." No "This is where it gets interesting." "Two platforms. Two data models. They don't translate." is Nacho's operator rhythm, not AI template. Stacksync mention is concrete (names connectors, platforms, data types), not salesy.
+- **AI slop check**: Clean. No em dashes. No "Here's" constructions. No blacklisted phrases. No "Not X. Y." flip formula. No "Let that sink in." No "This is where it gets interesting." "Two platforms. Two data models. They don't translate." is Nacho's operator rhythm, not AI template.
+- **Changes from v1**: "We built Stacksync for this." opener → "That's the problem we work on at Stacksync." — removes pitch-drop feel, keeps Nacho's analytical operator voice through the transition.
 - **Word count**: ~195
 - **Factual sources**:
   - "TikTok Shop added 11.9 million US buyers in 2024, more than Facebook, Instagram, and Pinterest combined" (used in Hook C) -- Dataslayer, 2025

@@ -26,7 +26,7 @@ From zero. In two years.
 Two years ago, TikTok Shop didn't exist.
 Last year, it did $15.1 billion in the US alone.
 
-Amazon still did $491 billion.
+Amazon cleared over $490 billion.
 
 ### HOOK C
 Amazon controls 40% of US e-commerce.
@@ -50,17 +50,21 @@ The brands caught in the middle are about to break.
 Two years ago, TikTok Shop didn't exist.
 Last year, it did $15.1 billion in the US alone.
 
-Amazon still did $491 billion.
+Amazon cleared over $490 billion.
 
 Both are growing. Both matter. And every brand selling online is now stuck between them.
 
-Amazon controls 40% of US e-commerce. It's not going anywhere. TikTok Shop grew 68% last year. It's already the fifth-largest e-commerce platform in the world.
+Amazon controls 40% of US e-commerce. It's not going anywhere.
+
+TikTok Shop grew 68% last year. It's already the fifth-largest e-commerce platform in the world.
 
 Add Shopify. Add your own website. That's 4, 5 channels minimum. Each with its own order system, its own inventory count, its own customer data.
 
 None of them talking to each other.
 
 An order comes in on TikTok Shop. Inventory updates on TikTok. But not on Amazon. Not on Shopify. A customer buys the same product on Amazon 30 minutes later. Now you've oversold. The fulfillment team scrambles. The customer gets a cancellation email.
+
+That's not an edge case.
 
 Inventory distortion costs retailers $1.77 trillion a year globally. $1.2 trillion of that is out-of-stocks alone.
 
@@ -69,6 +73,8 @@ The brands scaling across channels right now are hitting this wall. They didn't 
 Amazon doesn't share real-time data with Shopify. TikTok Shop doesn't sync with your ERP. Each platform protects its own ecosystem.
 
 Unifying that data is your problem to solve.
+
+For the engineering and data teams running these stacks, it's not a channel strategy problem. It's a data synchronization problem.
 
 The brands that win this shift won't be the ones on the most channels. They'll be the ones whose inventory, orders, and customer data are in sync across all of them. In real time.
 
@@ -86,13 +92,14 @@ The channel changes. The infrastructure problem doesn't.
 - **Narrative arc**: Hook ($15.1B vs $491B) → Both growing, brands stuck → Market context (40%, 68%, #5 globally) → Channel fragmentation → Overselling scenario → $1.77T cost → Structural wall → Walled gardens → Your problem → Vision (sync wins) → Stacksync connectors → Pattern recognition close
 - **Psychological triggers**: Pattern Recognition (every new channel = same data problem) + Curiosity Gap (who wins the shift?)
 - **Ego bait**: E-commerce operators who deal with multi-channel inventory daily will feel seen by the overselling scenario
-- **Hook analysis (Kallaway)**: Single subject: TikTok Shop's rise. Single question: "What does this mean for brands?" 3-step: Context Lean ["Two years ago, TikTok Shop didn't exist."] → Scroll Stop ["Last year, it did $15.1 billion in the US alone."] → Snap Back ["Amazon still did $491 billion."]. "See more" char count: ~89. Fits mobile preview: yes.
+- **Hook analysis (Kallaway)**: Single subject: TikTok Shop's rise. Single question: "What does this mean for brands?" 3-step: Context Lean ["Two years ago, TikTok Shop didn't exist."] → Scroll Stop ["Last year, it did $15.1 billion in the US alone."] → Snap Back ["Amazon cleared over $490 billion."]. "See more" char count: ~89. Fits mobile preview: yes.
 - **Traffic driver**: TikTok Shop, Amazon, Shopify, e-commerce, inventory, data sync, NetSuite, ERP
 - **AI slop check**: Clean. No em dashes. No "Here's" constructions. No slop patterns detected.
 - **Word count**: ~288
 - **Factual sources**:
   - TikTok Shop US GMV $15.1B in 2025, 68% YoY growth — Momentum Works, 2026 (https://thelowdown.momentum.asia/new-report-tiktok-shop-u-s-gmv-grew-68-to-reach-us15-1b-in-2025/)
-  - Amazon $491.65B, 40.4% of US e-commerce — eMarketer, Feb 2024 (https://www.emarketer.com/content/amazon-will-surpass-40-of-us-ecommerce-sales-this-year)
+  - Amazon US e-commerce "over $490 billion" — eMarketer 2024 confirmed data (~$491.65B, 40.4% share). Updated from "$491 billion" to "over $490 billion" for accuracy; this is 2024 data used as most recent confirmed figure. 2025 actuals not yet published as of Feb 2026. TikTok $15.1B figure is 2025 data — acknowledged year difference between the two stats.
+- **Changes from v1**: (1) "Amazon still did $491 billion" → "Amazon cleared over $490 billion" — softens implied precision, uses 2024 confirmed figure. (2) ICP bridge added after "Unifying that data is your problem to solve." — connects to engineering/data teams explicitly.
   - TikTok Shop #5 e-commerce platform globally by GMV — Momentum Works, 2025 (https://thelowdown.momentum.asia/tiktok-shop-gmv-in-2024-surpassed-us30-billion/)
   - Inventory distortion $1.77 trillion globally, $1.2T from out-of-stocks — IHL Group, 2023 (https://www.retailtouchpoints.com/features/industry-insights/ihl-study-inventory-distortion-will-cost-retailers-1-77-trillion-in-2023)
 

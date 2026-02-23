@@ -47,14 +47,14 @@ Stripe's early GTM didn't scale.
 
 Patrick and John Collison flew to customers' offices and installed their product live. No trial link. No demo deck. Just: "We can have you running in minutes."
 
-That built a $65B company.
+That built a $100B+ company.
 
 ### HOOK B
 Most B2B companies send a trial link and wait.
 
 Stripe's founders flew to customers and installed their product while sitting across from them.
 
-One approach builds pipeline. The other built a $65B company.
+One approach builds pipeline. The other built a $100B+ company.
 
 ---
 
@@ -66,13 +66,13 @@ Stripe's early GTM didn't scale.
 
 Patrick and John Collison flew to customers' offices and installed their product live. No trial link. No demo deck. Just: "We can have you running in minutes."
 
-That built a $65B company.
+That built a $100B+ company.
 
 To be honest, most B2B teams get this backwards. They optimize for scalable. They send the trial link. They write the follow-up sequence. They wonder why conversion drops.
 
 What the Collisons understood: the moment you hand someone a link, you lose 80% of them. When you sit across from them and make it work in 20 minutes, you have a customer.
 
-7 lines of code. That was the entire product pitch. Not a slide about infrastructure. Not a roadmap. A working integration, done in the room.
+7 lines of code. That was the entire integration. Not a slide about infrastructure. Not a roadmap. A working product, done in the room.
 
 There's a name for what they did: Collison installation. And it's the reason Stripe got its first 100 customers before anyone else figured out payments was a solvable problem.
 
@@ -97,5 +97,6 @@ That's it.
   - "We can have you running in minutes": paraphrased from Patrick Collison's YC Demo Day pitch framing; exact words are attributed to internal Stripe lore
   - 7 lines of code: documented in Stripe's early marketing and Patrick Collison interviews (2011-2013 era)
   - $2M seed round from Peter Thiel and Sequoia: 2011, widely reported (TechCrunch, Fortune)
-  - $65B valuation: 2023 secondary round; reported by Bloomberg, WSJ
+  - $100B+ valuation: 2023 secondary markets / 2024 reports; Bloomberg, WSJ. (Updated from $65B — 2023 secondary round figure, now outdated.)
+- **Changes from v1**: $65B → $100B+ across all instances (hook + body). "7 lines of code. That was the entire product pitch." → "That was the entire integration." — clarifies the 7 lines were the integration code shown live, not the product pitch itself.
   - $1 trillion+ annual payment volume: Stripe 2024 annual letter / press release

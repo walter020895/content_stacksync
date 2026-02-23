@@ -102,6 +102,8 @@ And you know what? Nobody questioned whether I belonged. Because by the time I w
 
 That was a few years ago. Today I run operations, finance, legal, and compliance for a tech startup, without a single line of code in my body.
 
+Last month I organized an event for NetSuite practitioners. About fifty people in the room. Fellow coffee on the tables. The same software I was writing down words from at 3am.
+
 I don't say this to impress anyone. I say it because I know what it feels like to look at an industry and wonder if there's a seat at the table for someone like you.
 
 There is. You just have to be willing to set the alarm.

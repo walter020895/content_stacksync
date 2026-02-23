@@ -75,11 +75,11 @@ Leadership blames the model.
 
 The model was fine. It was sitting on top of a data layer where Salesforce syncs every 6 hours, the warehouse has 3 versions of the same customer, and half the fields haven't been updated since Q3.
 
-Last year, enterprise AI spending split almost evenly: $19 billion on the application layer, $18 billion on infrastructure. But of that $18 billion, only $1.5 billion went to the actual data infrastructure connecting LLMs to enterprise systems. The pipes that feed the models.
+Last year, enterprise AI spending split almost evenly: $19 billion on the application layer, $18 billion on infrastructure. But most of that infrastructure spend went to compute and model APIs. Almost none went to the data layer connecting LLMs to what's actually in enterprise systems. The pipes that feed the models.
 
-That ratio explains why so many AI features look great in demos and fall apart in production. Teams are spending on compute and model APIs while the data underneath stays broken.
+Teams are spending on compute and model APIs while the actual data pipes stay broken.
 
-Two types of companies are emerging.
+The pattern splits into two camps.
 
 Wrappers build features on top of whatever data they already have. They ship fast, demo well, and break in production because the foundation was never designed for it.
 
@@ -103,8 +103,10 @@ Everyone else is building on sand and calling it a platform.
 - **Traffic driver**: AI features, data layer, data infrastructure, enterprise AI, AI production, data sync
 - **AI slop check**: Clean. No em dashes. No "Here's" constructions. No blacklisted patterns from 01_ai_slops.md. Checked all 120 patterns. "I keep seeing the same pattern" is contextual observation, not template phrase. No "let that sink in," no "the real lesson," no "at the end of the day," no buzzwords (robust, seamless, holistic, leverage, synergy). No arrow bullets, no colon staging, no symmetry formatting. Punctuation is natural and functional.
 - **Word count**: ~290
+- **Changes from v1**: (1) Removed $1.5B sub-figure — unverifiable as a distinct line item in Menlo Ventures public report; replaced with qualitative framing ("almost none went to the data layer"). (2) "Two types of companies are emerging." → "The pattern splits into two camps." — removes the LinkedIn template cliché.
 - **Factual sources**:
-  - Enterprise AI spending split ($19B application, $18B infrastructure, $1.5B data infrastructure): Menlo Ventures "2025: The State of Generative AI in the Enterprise" report
+  - Enterprise AI spending split ($19B application, $18B infrastructure): Menlo Ventures "2025: The State of Generative AI in the Enterprise" report
+  - $1.5B data infrastructure sub-figure REMOVED — could not be verified in public Menlo Ventures data; framing replaced with qualitative observation
   - Pattern observation about demo vs production gap: Alexis first-person CTO experience (no external citation needed)
   - Wrappers vs builders framework: original editorial framing of industry trend
 

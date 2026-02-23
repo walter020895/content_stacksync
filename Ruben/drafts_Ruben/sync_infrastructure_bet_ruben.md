@@ -71,9 +71,7 @@ When you treat it as infrastructure, the goal changes completely. The goal isn't
 
 The companies that get this right don't talk about their data layer. It doesn't come up. The ones that get it wrong talk about it constantly — usually in post-mortems.
 
-I looked for that vendor for two years.
-
-Before building Stacksync, I kept seeing the same thing: tools that made integration faster to build, not easier to forget about. The vendors were proud of their low-code builders. Their drag-and-drop connectors.
+I looked for that vendor for two years. Every CTO I talk to is looking for the same thing — they just haven't found the word for it yet. What I kept seeing instead: tools that made integration faster to build, not easier to forget about. The vendors were proud of their low-code builders. Their drag-and-drop connectors.
 
 What I kept looking for: a vendor whose pitch was simply "you will never think about this again." I couldn't find one.
 
@@ -81,7 +79,7 @@ The companies I've talked to that made this shift stopped having integration pos
 
 That was the bet. Make the data layer invisible.
 
-Still is.
+Still is. If it's working, you'll never think about it. That's how you know it worked.
 
 ---
 

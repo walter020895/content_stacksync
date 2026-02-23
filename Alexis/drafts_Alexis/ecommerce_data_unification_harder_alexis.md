@@ -74,15 +74,19 @@ I talk to e-commerce CTOs regularly and the pattern is always the same. They sta
 
 That's when it gets expensive.
 
-Each platform structures order data differently. Shopify uses line items with variant IDs. Amazon uses ASIN-based fulfillment objects. TikTok Shop has its own order schema that changes frequently. The fields don't map 1:1. The update frequencies don't match. The API rate limits are wildly different.
+Each platform structures order data differently. Shopify uses line items with variant IDs. Amazon uses ASIN-based fulfillment objects. TikTok Shop has its own order schema that changes frequently.
+
+The fields don't map 1:1. The update frequencies don't match. The API rate limits are wildly different.
 
 A trigger-based tool like Zapier works when you're connecting two apps with simple events. New order in Shopify, create row in Google Sheets. But when you need real-time inventory consistency across three platforms with different schemas, rate limits, and fulfillment workflows? That's not an integration. That's infrastructure.
 
 The cost of getting this wrong isn't just bad data. It's overselling inventory you don't have. Shipping from the wrong warehouse. Customer support resolving issues with data from six hours ago.
 
+The numbers back it up.
+
 IHL Group's 2023 study estimates inventory distortion costs retailers $1.77 trillion globally each year. A significant portion of that comes from synchronization failures across channels. One bad inventory count propagates to every connected platform within hours.
 
-This is the kind of problem we think about constantly at Stacksync, you know? Bi-directional sync that handles different data models, respects rate limits, and keeps three platforms in real-time lockstep. Not because it's a cool technical challenge. Because the alternative is an engineering team spending half their time on plumbing.
+That's the infrastructure problem we built Stacksync around. Bi-directional sync that handles different data models, respects rate limits, and keeps three platforms in real-time lockstep. The alternative is an engineering team spending half their time on plumbing.
 
 The brands scaling fastest on multiple channels figured this out early: fix the data layer before you add the next channel.
 
@@ -97,6 +101,7 @@ The brands scaling fastest on multiple channels figured this out early: fix the 
 - **Hook analysis (Kallaway)**: Single subject: multi-platform e-commerce data complexity. Single question: "Can basic integration tools handle this?" 3-step: Context Lean ["Shopify, Amazon, TikTok Shop. Three platforms. Three different data models."] > Scroll Stop [implicit contrast via "Your Zapier integration"] > Snap Back ["just became a full-time engineering job."]. "See more" char count: ~78 (first two lines). Fits mobile preview: yes.
 - **Traffic driver**: e-commerce, Shopify, Amazon, TikTok Shop, Zapier, data integration, inventory sync, multi-channel
 - **AI slop check**: Clean. No em dashes. No "Here's" constructions. No blacklisted patterns from 01_ai_slops.md. "That's when it gets expensive" is natural transition, not template. No "let that sink in," no "the real lesson," no buzzwords. Punctuation natural and functional.
+- **Changes from v1**: "This is the kind of problem we think about constantly at Stacksync, you know?" → "That's the infrastructure problem we built Stacksync around." — removes the "you know?" verbal tic from written context (too casual for a CTO post), removes "constantly" (filler), tightens the Stacksync bridge without breaking the technical teaching voice.
 - **Word count**: ~293
 - **Factual sources**:
   - "Inventory distortion costs retailers $1.77 trillion globally each year" (IHL Group, 2023 Inventory Distortion study — updated from older $1.1T figure)

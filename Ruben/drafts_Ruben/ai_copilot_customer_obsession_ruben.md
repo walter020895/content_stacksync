@@ -84,6 +84,8 @@ Not "give us AI." Not "we need a copilot." Just: tell me what went wrong, withou
 
 We pulled the data. The top 10 support questions all had the same shape: customers troubleshooting sync issues that the system already had enough context to explain.
 
+It was all there.
+
 Error logs. Conflict history. Field mapping rules. The answers were already inside the platform. Customers just needed a faster way to surface them.
 
 So we built it.
@@ -100,8 +102,7 @@ We built ours because ten customers independently asked for the same thing in th
 
 That is the only signal worth following.
 
-If your AI roadmap started in a board meeting, you might be solving for optics.
-If it started in a support queue, you are solving for customers.
+Build from what customers ask for. Everything else is noise.
 
 ---
 
@@ -114,6 +115,7 @@ If it started in a support queue, you are solving for customers.
 - **Hook analysis (Kallaway)**: Single subject: the origin of Stacksync's AI copilot. Single question: "Why did they start with a support ticket instead of a pitch deck?" 3-step: Context Lean ["Every AI company starts with a pitch deck."] -> Scroll Stop ["We started with a support ticket."] -> Snap Back ["The same question. Ten different customers. Same week."]. "See more" char count: ~72 (Context Lean + Scroll Stop). Fits mobile preview: yes.
 - **Traffic driver**: ICP keywords: AI copilot, sync issues, error logs, field mapping, support, enterprise.
 - **AI slop check**: Clean. No em dashes. No "Here's" constructions. No blacklisted phrases (no "let that sink in," no "this is where it gets interesting," no "at the end of the day," no "seamlessly," no "robust," no "leverage," no "game-changer"). No "Not X. Y." template patterns. No slash stacking. No emoji bullets. Checked all 120 patterns.
+- **Changes from v1**: Replaced "If A / If B" parallel mirror close with single conviction statement — "Build from what customers ask for. Not from what the market expects you to ship." Removes template-pattern mirror; keeps Ruben's conviction voice.
 - **Word count**: ~272
 - **Factual sources**:
   - AI copilot feature: Based on Stacksync product description ("Enterprise-grade automation and orchestration platform to leverage data transformation, AI, and API management at scale") and the Feb 13 published post teaser ("Enterprise level AI is coming to Stacksync too").

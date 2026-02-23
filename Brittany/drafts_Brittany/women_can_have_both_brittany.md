@@ -95,13 +95,15 @@ There's a story that gets told to ambitious women — that the career and the fu
 
 I've never bought that premise.
 
-My husband's career meant we had to stay adaptable in ways most people don't plan for. New places. New communities. New rhythms, sometimes on short notice. And through all of it, I kept building. Contracts. Compliance frameworks. Teams. A professional identity that moved with me because I built it to.
+My husband's career meant we had to stay adaptable in ways most people don't plan for. New places. New communities. New rhythms, sometimes on short notice.
+
+And through all of it, I kept building. Contracts. Compliance frameworks. Teams. A professional identity that moved with me because I built it to.
 
 I'm not saying it's always tidy. Some days the calendar is chaos and every single thing needs attention at the same time. But I've learned something from all those years in hospitality — managing dozens of moving pieces at once without dropping any of them:
 
 You don't choose between being good at your work and showing up for the people you love. You build the systems, the habits, and the intentionality that let you do both.
 
-The women I look up to most never accepted the premise of the choice.
+The women I look up to most didn't debate the premise. They built the life that made it irrelevant.
 
 And y'all, I don't plan to either.
 
