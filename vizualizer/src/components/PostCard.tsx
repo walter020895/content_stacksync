@@ -5,8 +5,11 @@ import Link from 'next/link'
 import type { Post } from '@/lib/posts'
 import { getInitials, getAvatarColor } from '@/lib/utils'
 
-// LinkedIn shows ~3 lines before "see more" (≈220 chars at card width)
-const TRUNCATE_AT = 220
+// LinkedIn truncation (desktop card width ~552px):
+// - Text-only post: ~5 lines ≈ 210 chars
+// - Post with image: ~3 lines ≈ 140 chars (image takes visual weight)
+const TRUNCATE_TEXT_ONLY = 210
+const TRUNCATE_WITH_IMAGE = 140
 
 interface PostCardProps {
   post: Post
@@ -96,14 +99,17 @@ function PostBody({
   hook,
   content,
   alwaysExpanded,
+  hasImage,
 }: {
   hook: string
   content: string
   alwaysExpanded: boolean
+  hasImage: boolean
 }) {
   const [expanded, setExpanded] = useState(false)
   const full = content.trim()
-  const needsTruncation = !alwaysExpanded && full.length > TRUNCATE_AT
+  const truncateAt = hasImage ? TRUNCATE_WITH_IMAGE : TRUNCATE_TEXT_ONLY
+  const needsTruncation = !alwaysExpanded && full.length > truncateAt
   const isExpanded = expanded || alwaysExpanded
 
   return (
@@ -114,7 +120,7 @@ function PostBody({
       {/* Body */}
       {needsTruncation && !isExpanded ? (
         <p className="whitespace-pre-line break-words">
-          {full.slice(0, TRUNCATE_AT)}…{' '}
+          {full.slice(0, truncateAt)}…{' '}
           <button
             onClick={() => setExpanded(true)}
             className="text-[rgba(0,0,0,0.6)] font-semibold hover:underline"
@@ -260,7 +266,7 @@ export default function PostCard({ post, expanded = false }: PostCardProps) {
 
         {/* Post text */}
         <div className="mt-3 pb-3">
-          <PostBody hook={post.hook} content={post.content} alwaysExpanded={expanded} />
+          <PostBody hook={post.hook} content={post.content} alwaysExpanded={expanded} hasImage={!!post.image} />
         </div>
       </div>
 
