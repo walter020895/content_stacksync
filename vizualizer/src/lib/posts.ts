@@ -95,14 +95,24 @@ function parseDraftFile(filepath: string, personKey: string): Post | null {
 
     const filename = path.basename(filepath, '.md')
 
-    // Auto-detect matching image: same filename, any image extension
+    // Auto-detect matching image: same filename, any image extension.
+    // Copy to public/draft-images/ so it gets bundled into the Vercel deployment
+    // (the /api/asset route only works locally, not on Vercel's prebuilt deploys).
     const IMAGE_EXTS = ['.jpg', '.jpeg', '.png', '.gif', '.webp', '.avif']
     const dir = path.dirname(filepath)
     let imageUrl: string | undefined
     for (const ext of IMAGE_EXTS) {
       const candidate = path.join(dir, filename + ext)
       if (fs.existsSync(candidate)) {
-        imageUrl = `/api/asset?file=${encodeURIComponent(candidate)}`
+        const destDir  = path.join(process.cwd(), 'public', 'draft-images')
+        const destFile = path.join(destDir, filename + ext)
+        try {
+          fs.mkdirSync(destDir, { recursive: true })
+          fs.copyFileSync(candidate, destFile)
+          imageUrl = `/draft-images/${filename + ext}`
+        } catch {
+          imageUrl = `/api/asset?file=${encodeURIComponent(candidate)}`
+        }
         break
       }
     }

@@ -14,6 +14,9 @@ out/
 dist/
 build/
 
+# Draft images copied at build time (regenerated from persona folders)
+public/draft-images/
+
 # OS
 .DS_Store
 Thumbs.db
