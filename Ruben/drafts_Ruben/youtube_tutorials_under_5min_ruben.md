@@ -19,7 +19,7 @@ related_concepts:
   - "[[ruben_personality_v01]]"
   - "[[stacksync_description]]"
 link:
-image:
+image:"[[youtube_tutorials_under_5min_ruben.png]]"
 ---
 
 # RUBEN — If Your Integration Tool Needs a Consultant, the Tool Is the Problem

@@ -140,7 +140,8 @@ export function getAllPosts(): Post[] {
   // 2. Actual drafts from each persona's drafts_[Persona]/ folder
   if (fs.existsSync(PERSONAS_DIR)) {
     for (const [personKey, persona] of Object.entries(PERSONAS)) {
-      const draftDir = path.join(PERSONAS_DIR, persona.name, `drafts_${persona.name}`)
+      const folderName = personKey.charAt(0).toUpperCase() + personKey.slice(1)
+      const draftDir = path.join(PERSONAS_DIR, folderName, `drafts_${folderName}`)
       if (!fs.existsSync(draftDir)) continue
 
       fs.readdirSync(draftDir)
