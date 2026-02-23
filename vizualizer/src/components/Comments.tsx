@@ -108,12 +108,24 @@ export default function Comments({ postId }: { postId: string }) {
       {/* Comments list */}
       <div className="space-y-3">
         {comments.map(c => (
-          <div key={c.id} className="flex gap-2">
+          <div key={c.id} className="flex gap-2 group">
             <Avatar name={c.author} />
             <div className="flex-1">
-              <div className="bg-[#f3f2ef] rounded-2xl px-3 py-2">
+              <div className="relative bg-[#f3f2ef] rounded-2xl px-3 py-2">
                 <p className="text-sm font-semibold text-[#1d2226] leading-tight">{c.author}</p>
                 <p className="text-sm text-[rgba(0,0,0,0.9)] whitespace-pre-line mt-0.5">{c.body}</p>
+                <button
+                  onClick={async () => {
+                    await fetch(`/api/comments?id=${c.id}`, { method: 'DELETE' })
+                    setComments(prev => prev.filter(x => x.id !== c.id))
+                  }}
+                  className="absolute top-1.5 right-2 text-[rgba(0,0,0,0.3)] hover:text-red-500 opacity-0 group-hover:opacity-100 transition-opacity"
+                  title="Delete comment"
+                >
+                  <svg viewBox="0 0 24 24" className="w-4 h-4" fill="none" stroke="currentColor" strokeWidth={2}>
+                    <path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" />
+                  </svg>
+                </button>
               </div>
               <p className="text-xs text-[rgba(0,0,0,0.5)] mt-1 ml-3">{timeAgo(c.created_at)}</p>
             </div>

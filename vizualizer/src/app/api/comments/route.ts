@@ -22,6 +22,15 @@ export async function GET(req: NextRequest) {
   return NextResponse.json(data ?? [])
 }
 
+// DELETE /api/comments?id=xxx
+export async function DELETE(req: NextRequest) {
+  const id = req.nextUrl.searchParams.get('id')
+  if (!id) return NextResponse.json({ error: 'Missing id' }, { status: 400 })
+
+  await getSupabase().from('comments').delete().eq('id', id)
+  return NextResponse.json({ ok: true })
+}
+
 // POST /api/comments  body: { postId, author, body }
 export async function POST(req: NextRequest) {
   const { postId, author, body } = await req.json()

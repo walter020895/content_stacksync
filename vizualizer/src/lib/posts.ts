@@ -21,7 +21,7 @@ const PERSONAS: Record<string, { name: string; role: string; photo: string; badg
   alexis:   { name: 'Alexis Favre',                     role: 'Cofounder & CTO @ Stacksync - Building the Integration Cloud', photo: '/images/photo_alexis.jpeg', badge: 'verified' },
   nacho:    { name: 'Fabian Ignacio Malpartida Negron', role: 'Head of GTM @Stacksync',                                       photo: '/images/photo_nacho.jpeg'                    },
   carter:   { name: 'Carter Supple',                    role: 'Founder and Engineer. Technical Sales @ Stacksync (YC W24)',   photo: '/images/photo_carter.jpeg', badge: 'verified' },
-  brittany: { name: 'Brittany',                         role: 'Stacksync',                                                    photo: ''                                            },
+  brittany: { name: 'Brittany Garrett',                  role: 'Operations Manager @Stacksync',                               photo: '/images/photo_brittany.jpeg', badge: 'verified' },
 }
 
 const CONTENT_DIR  = path.join(process.cwd(), 'content')
