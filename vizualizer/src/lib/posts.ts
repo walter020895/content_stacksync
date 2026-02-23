@@ -163,9 +163,13 @@ export function getAllPosts(): Post[] {
     }
   }
 
-  return posts.sort(
-    (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
-  )
+  return posts.sort((a, b) => {
+    // Posts with images first
+    if (a.image && !b.image) return -1
+    if (!a.image && b.image) return 1
+    // Then by date (newest first)
+    return new Date(b.date).getTime() - new Date(a.date).getTime()
+  })
 }
 
 export function getPostById(id: string): Post | undefined {
