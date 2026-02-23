@@ -36,7 +36,7 @@ export default function GiscusComments({ postId }: GiscusCommentsProps) {
         categoryId={categoryId}
         mapping="specific"
         term={postId}
-        strict="1"
+        strict="0"
         reactionsEnabled="1"
         emitMetadata="0"
         inputPosition="top"
