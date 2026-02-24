@@ -3,9 +3,9 @@ name: non_tech_in_tech_brittany
 description: Personal story of joining a SaaS company with zero tech background and earning her seat through 3am self-directed learning
 domain: business
 node_type: linkedin-post
-status: draft
-last_updated: 2026-02-23
-published_date:
+status: published
+last_updated: 2026-02-24
+published_date: 2026-02-24
 tags:
   - women-in-tech
   - career-pivot
@@ -20,8 +20,8 @@ topics:
 related_concepts:
   - "[[startup-operations]]"
   - "[[women-in-tech]]"
-link:
-image:
+link: https://www.linkedin.com/posts/-brittany-garrett-_i-didnt-know-what-bi-directional-sync-share-7432137889817436161-wvG2
+image: images/2026-02-24_i_didnt_know_what_bi_directional_sync_meant.png
 ---
 
 # Brittany — I didn't know what SaaS meant
@@ -174,12 +174,6 @@ No overrides triggered.
 - **Reader value**: Women in non-technical roles who feel they don't belong in tech will walk away knowing that dedication earns the seat that credentials didn't give them.
 - **Narrative arc**: Beat 1 — decision gap (didn't know SaaS, said yes) → Beat 2 — private action (3am alarm) → Beat 3 — backstory context (hospitality, didn't know the vocabulary) → Beat 4 — the work done (googled every term) → Beat 5 — the result (nobody questioned) → Beat 6 — the identity today (runs ops/finance/legal/compliance, no code) → Beat 7 — reader invitation (there's a seat for you too)
 - **Psychological triggers**: Vindication (you don't need credentials, you need dedication) + Tribal Identity (for people who look at tech and wonder if they belong)
-- **Ego bait**: N/A — no external company/team mentioned
-- **Hook analysis (Kallaway)**: Single subject: career reinvention without credentials. Single question: "What happened after she set the alarm?" — one curiosity loop. 3-step: Context Lean "I didn't know what SaaS meant the day I got the job offer." (58 chars) → Scroll Stop "I said yes anyway." (18 chars) → Snap Back "That night, I set an alarm for 3am." Total before see more: 76 chars. Fits mobile preview: yes.
-- **Traffic driver**: "operations, finance, legal, compliance" + "tech startup" + "iPaaS. SaaS. NetSuite. ERP." attracts women in ops + non-technical professionals
-- **AI slop check**: Clean. Zero blacklisted patterns. "And you know what?" is Brittany's transcript-confirmed verbal tic, not AI slop. No em dashes. No "Here's" constructions.
-- **Formatting check**: Phone scroll test PASS. Longest paragraph: 2 sentences. Connectors used: "And so I started." (section jump 2→3), "And you know what?" (section jump 3→4), "That was a few years ago." (temporal bridge 4→5), "I don't say this to impress anyone." (confession bridge 5→6). Single-sentence air lines: 4 ("I said yes anyway." / "That night, I set an alarm for 3am." / "And so I started." / "There is."). No text walls.
-- **Redundancy sweep**: PASS. The belonging insight is established once (Beat 5) and the close builds on it rather than restating it.
-- **Connector pass**: 4 human connectors at section jumps, all contextual. None paste into another post unchanged.
+- **Hook analysis (Kallaway)**: Single subject: career reinvention without credentials. Single question: "What happened after she set the alarm?" 3-step: Context Lean "I didn't know what SaaS meant the day I got the job offer." (58 chars) → Scroll Stop "I said yes anyway." (18 chars) → Snap Back "That night, I set an alarm for 3am." Total before see more: 76 chars. Fits mobile preview: yes.
 - **Word count**: ~198 words
 - **Factual sources**: First-person experience only. No external claims to source.
