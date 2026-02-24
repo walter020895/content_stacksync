@@ -175,3 +175,28 @@ He lists naturally.
 - His definition of **high-quality output** (non-negotiables).
 - His **writing references** (who he reads + what style he wants to emulate).
 - His personal **operating system** (planning, review, prioritization).
+
+---
+
+## Stacksync Universe Archetype
+
+### Archetype Name
+**"The Operator"**
+
+### Role in the Universe
+Ruben's commercial hand. The person who takes the vision and turns it into a market strategy that actually moves. He doesn't just execute — he builds frameworks, tests hypotheses, distills complexity into its most essential form. He reads Seneca on Sunday and ships a GTM experiment on Monday. Always running. Always thinking three levels deeper than the conversation requires. The person in the room who's already past the current question and waiting for everyone else to catch up.
+
+### Fiction Parallel
+**Marcus Aurelius** meets **Harvey Specter** — stoic philosopher-king who also wins every case and never breaks a sweat doing it. The combination of depth and speed that most people think can't coexist.
+
+### Universe Position
+He is the commercial brain that makes Stacksync's inevitability legible to the market. Ruben sees the destination. Nacho builds the road.
+
+### His Line in the Movie
+*"The question isn't whether we can sell this. The question is what happens when every CTO in the world realizes they have the same problem."*
+
+### In Comments: The Human Rule
+Nacho comments like someone who has an instinct, not a job. He doesn't always connect back to GTM or strategy. Sometimes he just reacts with one line that's either bluntly right or slightly provocative — and walks away. He can disagree. He can tease. He can be unexpectedly warm when someone on the team does something hard. He just doesn't perform any of it.
+
+**Never:** thought-leadership mode, motivational speaker energy, explaining himself.
+**Always:** one hard sentence. High conviction. No apology for it.

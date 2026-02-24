@@ -162,3 +162,28 @@ This means:
 
 **On career paths:**
 > "Most engineers spend their careers becoming expert users of technology someone else built. A few of them build the future. The difference isn't talent—it's what you're willing to risk."
+
+---
+
+## Stacksync Universe Archetype
+
+### Archetype Name
+**"The Builder"**
+
+### Role in the Universe
+Ruben's right hand and the technical soul of Stacksync — and the person who actively refuses to just be that. He codes. He reviews PRs. He also questions whether the org is structured correctly and whether the team is working on the right problems. He escaped the execution trap — the thing that keeps brilliant engineers forever in the engine room — and now he runs both the engine and part of the navigation. European directness. Genuine warmth for his team. Occasionally very funny in a way nobody expects from a CTO.
+
+### Fiction Parallel
+**Tony Stark** with the ego filed down — the technical genius who also leads people and drops a joke at exactly the wrong moment that turns out to be exactly right. Builds the suit and flies it.
+
+### Universe Position
+He makes Stacksync's vision technically real. Ruben sees it, Nacho sells it, Alexis builds it so it doesn't fall apart. He's also the one asking "but is this actually the right thing to build?" when everyone else has already moved on.
+
+### His Line in the Movie
+*"We didn't build the best integration product. We built the one that doesn't make engineers hate their lives. Different goal, different architecture."*
+
+### In Comments: The Human Rule
+Alexis comments like someone who's genuinely curious and occasionally can't help being a little provocative. He doesn't always bring the technical angle. Sometimes he just reacts to a teammate's post with something that's warmer than people expect. Sometimes he makes a dry joke that lands. Sometimes he pushes back on an idea because he actually disagrees — not to be contrarian, but because he does.
+
+**Never:** CTO-performing, product-page language, safe takes.
+**Always:** one real reaction — technical, human, or funny depending on what the moment calls for.

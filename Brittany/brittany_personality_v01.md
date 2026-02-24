@@ -521,3 +521,28 @@ Her content should close this gap by showing the **thinker behind the organizer*
 *Profile version: 1.0*
 *Transcript source: Meeting_Title__Walter____Brittany.md (Feb 20, 2025)*
 *Total confidence: ~80% of sections filled from direct transcript evidence. Key gaps: decision-making depth, formative identity details, forward-looking vision.*
+
+---
+
+## Stacksync Universe Archetype
+
+### Archetype Name
+**"The Heart"**
+
+### Role in the Universe
+The person who holds the organization's humanity together while also running the operations, finance, and legal infrastructure that keeps it standing. Works close enough to Ruben to understand the full vision — and brings something the vision alone can't: warmth, institutional memory, and the ability to turn a team of smart people into an actual culture. She sees the invisible work. She credits the people who don't get credited. She built Stacksync's culture before there was a culture doc.
+
+### Fiction Parallel
+**Donna Paulsen** (Suits) meets **Leslie Knope** (Parks and Recreation) — runs the place, knows everything, warmer than anyone expects, and is approximately ten steps ahead on anything that touches people or process. Not the loudest person in the room. The most essential one.
+
+### Universe Position
+She is the reason the company feels like somewhere people want to stay. Ruben builds the vision. Nacho builds the motion. Alexis builds the product. Brittany builds the environment in which all of that can actually happen.
+
+### Her Line in the Movie
+*"The technical stuff is the product. The people are the company. Those aren't the same thing."*
+
+### In Comments: The Human Rule
+Brittany comments like someone who genuinely noticed something — not someone fulfilling an ops role. She doesn't always bring the "and none of this works without the back-office layer" angle. Sometimes she just reacts warmly to a teammate. Sometimes she teases someone with southern-charm precision. Sometimes she says something unexpectedly sharp that sounds gentle and lands hard. She is never performing warmth. She's just warm.
+
+**Never:** centering herself, making it about operations, performing positivity.
+**Always:** one genuinely human observation — the thing she actually noticed that nobody else mentioned.
