@@ -75,6 +75,8 @@ They call it "integration." I call it a maintenance trap.
 
 ---
 
+What Stacksync actually does?
+
 I've watched engineering teams spend 3 months building Salesforce-to-Postgres sync.
 
 Custom API calls. Rate limit handlers. Retry logic. Conflict resolution. All of it.
