@@ -1,3 +1,28 @@
+---
+name: heroku_connect_migration_alternatives_ruben
+description: Heroku Connect is going away — every replacement either drops bi-directional, drops real-time, or adds months of complexity.
+domain: business
+node_type: linkedin-post
+status: published
+last_updated: 2026-02-23
+published_date: 2026-02-23
+tags:
+  - data-integration
+  - salesforce
+  - heroku
+  - bi-directional-sync
+  - engineering
+topics:
+  - Heroku Connect Migration
+  - Data Integration Alternatives
+related_concepts:
+  - "[[heroku-connect]]"
+  - "[[bi-directional-sync]]"
+  - "[[stacksync]]"
+link: https://www.linkedin.com/posts/ruben-burdin_heroku-connect-is-going-away-if-your-salesforce-share-7431857301336109056-cdNn
+image: images/2026-02-23_heroku_connect_is_going_away.png
+---
+
 # RUBEN — Heroku Connect Migration: Your Alternatives
 ## Angle: Heroku Connect is dead. Every alternative either drops bi-directional, drops real-time, or adds months of complexity.
 
@@ -45,7 +70,7 @@ Good luck finding a replacement that does all three.
 ---
 
 Heroku Connect is going away.
-If your Salesforce data runs through it, the clock is ticking. 
+If your Salesforce data runs through it, the clock is ticking.
 
 Your options:
 
@@ -53,7 +78,7 @@ Your options:
 ▪️Fivetran: Built for one direction. Reverse ETL is a paid add-on with limited connectors.
 ▪️Build it yourself: Engineers said three months. They meant nine. Plus maintenance forever.
 
-Heroku Connect did one thing well: 
+Heroku Connect did one thing well:
 Salesforce to Postgres. Bi-directional, relatively real-time. Low complexity.
 
 Every alternative either drops the bi-directional, drops the real-time, or adds so much complexity your engineers spend more time migrating than they ever spent on Heroku.

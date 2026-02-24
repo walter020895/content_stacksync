@@ -3,9 +3,9 @@ name: etl_vs_reverse_etl_vs_bidirectional_carter
 description: Carter breaks down the 3 most confused terms in data integration — ETL, Reverse ETL, and Bi-Directional Sync — in plain language with real tool examples. Educational explainer with engagement closer.
 domain: business
 node_type: linkedin-post
-status: draft
-last_updated: 2026-02-22
-published_date:
+status: published
+last_updated: 2026-02-23
+published_date: 2026-02-23
 tags:
   - data-integration
   - etl
@@ -15,8 +15,8 @@ topics:
   - ETL vs Reverse ETL vs Bi-Directional
 related_concepts:
   - "[[carter_personality_v01]]"
-link:
-image:
+link: https://www.linkedin.com/posts/cartersupple_etl-reverse-etl-and-bi-directional-sync-share-7431856685708767232-k_sK
+image: images/2026-02-23_etl_reverse_etl_and_bi_directional_sync.png
 ---
 
 # CARTER — ETL vs Reverse ETL vs Bi-Directional Sync

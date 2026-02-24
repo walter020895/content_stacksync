@@ -3,9 +3,9 @@ name: what_stacksync_actually_does
 description: Nacho explains the Stacksync architecture at a low technical level. Starts with the engineering pain everyone recognizes (brittle cron-job sync), then shows what Stacksync actually built differently. Event-driven, bi-directional, sub-second, SQL interface. Revenue post.
 domain: business
 node_type: linkedin-post
-status: draft
-last_updated: 2026-02-21
-published_date:
+status: published
+last_updated: 2026-02-23
+published_date: 2026-02-23
 tags:
   - Stacksync
   - architecture
@@ -20,8 +20,8 @@ related_concepts:
   - "[[nacho_personality_v01]]"
   - "[[bi-directional sync]]"
   - "[[event-driven architecture]]"
-link:
-image:
+link: https://www.linkedin.com/posts/fabianignaciomalpartidanegron_what-stacksync-actually-does-ive-watched-share-7431858633061244928-j6Lj
+image: images/2026-02-23_what_stacksync_actually_does.png
 ---
 
 # NACHO — What Stacksync Actually Does (Low-Level)

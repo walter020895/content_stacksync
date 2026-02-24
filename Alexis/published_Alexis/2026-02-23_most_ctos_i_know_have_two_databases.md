@@ -3,9 +3,9 @@ name: two_databases_alexis
 description: Most CTOs have 2 databases — one they control, one they don't. The CRM is the one they don't. Short, punchy mission-driven CTO take.
 domain: business
 node_type: linkedin-post
-status: draft
-last_updated: 2026-02-22
-published_date:
+status: published
+last_updated: 2026-02-23
+published_date: 2026-02-23
 tags:
   - data-infrastructure
   - crm
@@ -16,8 +16,8 @@ topics:
   - CTO lens
 related_concepts:
   - "[[alexis_personality_v01]]"
-link:
-image:
+link: https://www.linkedin.com/posts/favre-alexis_most-ctos-i-know-have-two-databases-one-share-7431857705117511680-DiF3
+image: images/2026-02-23_most_ctos_i_know_have_two_databases.png
 ---
 
 # ALEXIS — The Two Databases Problem
