@@ -67,33 +67,30 @@ def main():
         print(f"\nNo posts found in {comments_file.name}")
         sys.exit(1)
 
-    # Build the full queue: for each post, open in each commenter's profile
-    queue = []
-    for author, url in posts:
-        for persona, profile_dir in PROFILES.items():
-            if persona != author:
-                queue.append((author, persona, profile_dir, url))
-
-    total = len(queue)
-    print(f"\n{target_date} — {len(posts)} post(s), {total} comments to make")
+    total = len(posts)
+    print(f"\n{target_date} — {total} post(s)")
     print(f"Comments file: {comments_file}")
-    print(f"\nPress Enter after each comment. Press Q + Enter to quit.\n")
+    print(f"\nEach post opens in all commenter profiles at once.")
+    print(f"Comment on all tabs, then press Enter to move to the next post.")
+    print(f"Press Q + Enter to quit.\n")
     print("─" * 60)
 
-    for i, (author, commenter, profile_dir, url) in enumerate(queue, 1):
-        print(f"\n[{i}/{total}]  {commenter.upper()} comments on {author.upper()}'s post")
-        print(f"  Profile : {profile_dir}")
-        print(f"  URL     : {url}")
+    for i, (author, url) in enumerate(posts, 1):
+        commenters = [(p, d) for p, d in PROFILES.items() if p != author]
 
-        open_url(profile_dir, url)
+        print(f"\n[{i}/{total}]  {author.upper()}'s post — opening in {len(commenters)} profiles:")
+        for persona, profile_dir in commenters:
+            print(f"  → {persona.upper()} ({profile_dir})")
+            open_url(profile_dir, url)
 
-        answer = input("\n  Done commenting? [Enter / Q to quit] ").strip().lower()
+        print(f"\n  URL: {url}")
+        answer = input(f"\n  Done commenting on {author.upper()}'s post? [Enter / Q to quit] ").strip().lower()
         if answer == "q":
-            print("\nStopped. Resume later with the same command.\n")
+            print("\nStopped.\n")
             sys.exit(0)
 
     print("\n" + "─" * 60)
-    print(f"All {total} comments done for {target_date}.\n")
+    print(f"All {total} posts done for {target_date}.\n")
 
 if __name__ == "__main__":
     main()
