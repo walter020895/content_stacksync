@@ -2,6 +2,73 @@
 
 This is the operating system for Stacksync's LinkedIn presence. Every post we write, publish, analyze, or archive lives here. One folder per persona, consistent naming everywhere.
 
+## Daily Workflow — Start Here
+
+### When posts go live on LinkedIn
+
+**1. Publish each post**
+Tell Claude: *"this post was published: [persona] [linkedin-url]"*
+Or use the skill: `/publish-post [persona] [linkedin-url]`
+
+Claude will:
+- Move the draft `.md` + image from `drafts_[Persona]/` → `published_[Persona]/`
+- Update the YAML frontmatter (status, published_date, link, image)
+- Rename the image to match the post slug
+- Delete the original draft
+- Push to git
+
+**2. Generate comments**
+Tell Claude: *"do the comments for all the posts"*
+
+Claude reads each published post and generates 3 comment options per commenter.
+Saved to: `00_comments/YYYY-MM-DD_comments.md`
+
+The 5 personas comment on each other's posts. The post author never comments on their own post.
+
+**3. Run the commenting session**
+Tell Claude: *"run it"*
+
+Claude opens post #1 in all commenter Brave profiles simultaneously.
+You comment on all tabs → tell Claude *"next"* → Claude opens post #2. Repeat.
+
+| You say | Claude does |
+|---|---|
+| "run it" | Opens post #1 in all profiles |
+| "next" | Opens the next post |
+| "open post 3" | Jumps to a specific post |
+| "run it for 2026-02-25" | Uses a specific date |
+
+Script location: `scripts/open_comments.py`
+Full process doc: `00_comments/COMMENTING_PROCESS.md`
+
+---
+
+### Brave Profile Map
+
+| Persona | Brave Profile |
+|---|---|
+| Ruben | Profile 5 |
+| Nacho | Profile 6 |
+| Alexis | Profile 4 |
+| Carter | Profile 7 |
+| Brittany | Profile 10 |
+
+---
+
+### Folder Map
+
+```
+00_comments/          ← Daily comment files (YYYY-MM-DD_comments.md)
+scripts/              ← open_comments.py (Brave automation)
+skills/               ← post-commentator.skill (comment generator)
+[Persona]/
+  drafts_[Persona]/   ← Active drafts
+  published_[Persona]/← Live posts + images/
+  [name]_personality_v01.md
+```
+
+---
+
 ## How It Works
 
 Each persona on the team has their own folder. Inside, everything follows the naming pattern `type_PersonaName`:
