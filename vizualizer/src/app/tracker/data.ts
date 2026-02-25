@@ -10,7 +10,6 @@ export const PERSONA_CONFIG: Record<string, {
   Carter:   { name: 'Carter Supple',     role: 'Technical Sales',  color: '#059669', photo: '/images/photo_carter.jpeg' },
   Nacho:    { name: 'Nacho Malpartida',  role: 'Head of GTM',      color: '#d97706', photo: '/images/photo_nacho.jpeg' },
   Ruben:    { name: 'Ruben Burdin',      role: 'Founder',          color: '#dc2626', photo: '/images/photo_ruben.jpeg' },
-  Tony:     { name: 'Tony B.',           role: 'Sales Leader',     color: '#6366f1' },
 }
 
 export const PERSONA_KEYS = Object.keys(PERSONA_CONFIG)
@@ -43,7 +42,6 @@ export const WEEKLY_DATA: WeekEntry[] = [
       Carter:   { impressions: 0,     followers: 0 },
       Nacho:    { impressions: 0,     followers: 0 },
       Ruben:    { impressions: 0,     followers: 0 },
-      Tony:     { impressions: 0,     followers: 0 },
     },
   },
   // ↓ Paste next week here ↓
@@ -55,7 +53,6 @@ export const WEEKLY_DATA: WeekEntry[] = [
   //     Carter:   { impressions: 0, followers: 0 },
   //     Nacho:    { impressions: 0, followers: 0 },
   //     Ruben:    { impressions: 0, followers: 0 },
-  //     Tony:     { impressions: 0, followers: 0 },
   //   },
   // },
 ]
