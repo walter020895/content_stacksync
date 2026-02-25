@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """
-open_comments.py — Opens LinkedIn posts one at a time in the right Brave profiles.
-
-Walks through each post, then each commenter — one tab at a time.
-Press Enter after you've commented to move to the next. Press Q to quit.
+open_comments.py — Opens one post at a time in all commenter Brave profiles.
 
 Usage:
-    python3 scripts/open_comments.py              # today's posts
-    python3 scripts/open_comments.py 2026-02-25   # specific date
+    python3 scripts/open_comments.py              # list today's posts
+    python3 scripts/open_comments.py 2026-02-25   # list posts for a date
+    python3 scripts/open_comments.py 1            # open post #1 in all profiles
+    python3 scripts/open_comments.py 2            # open post #2 in all profiles
+    python3 scripts/open_comments.py 2026-02-25 2 # specific date + post number
 """
 
 import sys
@@ -31,7 +31,6 @@ REPO_ROOT = Path(__file__).parent.parent
 
 # ── PARSE COMMENTS FILE ───────────────────────────────────────────────────────
 def parse_posts(filepath):
-    """Returns list of (author_key, url) from the daily comments file."""
     posts = []
     with open(filepath) as f:
         content = f.read()
@@ -54,43 +53,58 @@ def open_url(profile_dir, url):
 
 # ── MAIN ──────────────────────────────────────────────────────────────────────
 def main():
-    target_date = sys.argv[1] if len(sys.argv) > 1 else str(date.today())
+    args = sys.argv[1:]
+
+    # Parse args: optional date (YYYY-MM-DD) and optional post number
+    target_date = str(date.today())
+    post_number = None
+
+    for arg in args:
+        if re.match(r"\d{4}-\d{2}-\d{2}", arg):
+            target_date = arg
+        elif re.match(r"^\d+$", arg):
+            post_number = int(arg)
 
     comments_file = REPO_ROOT / "00_comments" / f"{target_date}_comments.md"
     if not comments_file.exists():
-        print(f"\nNo comments file for {target_date}")
+        print(f"No comments file for {target_date}")
         print(f"Expected: {comments_file}")
         sys.exit(1)
 
     posts = parse_posts(comments_file)
     if not posts:
-        print(f"\nNo posts found in {comments_file.name}")
+        print(f"No posts found in {comments_file.name}")
         sys.exit(1)
 
-    total = len(posts)
-    print(f"\n{target_date} — {total} post(s)")
-    print(f"Comments file: {comments_file}")
-    print(f"\nEach post opens in all commenter profiles at once.")
-    print(f"Comment on all tabs, then press Enter to move to the next post.")
-    print(f"Press Q + Enter to quit.\n")
-    print("─" * 60)
+    # No post number — just list what's available
+    if post_number is None:
+        print(f"\n{target_date} — {len(posts)} post(s):\n")
+        for i, (author, url) in enumerate(posts, 1):
+            commenters = [p for p in PROFILES if p != author]
+            print(f"  [{i}] {author.upper()}'s post — commenters: {', '.join(c.upper() for c in commenters)}")
+        print(f"\nRun with a post number to open it, e.g.: open_comments.py {target_date} 1\n")
+        return
 
-    for i, (author, url) in enumerate(posts, 1):
-        commenters = [(p, d) for p, d in PROFILES.items() if p != author]
+    # Open a specific post
+    if post_number < 1 or post_number > len(posts):
+        print(f"Post #{post_number} not found. Available: 1–{len(posts)}")
+        sys.exit(1)
 
-        print(f"\n[{i}/{total}]  {author.upper()}'s post — opening in {len(commenters)} profiles:")
-        for persona, profile_dir in commenters:
-            print(f"  → {persona.upper()} ({profile_dir})")
-            open_url(profile_dir, url)
+    author, url = posts[post_number - 1]
+    commenters = [(p, d) for p, d in PROFILES.items() if p != author]
 
-        print(f"\n  URL: {url}")
-        answer = input(f"\n  Done commenting on {author.upper()}'s post? [Enter / Q to quit] ").strip().lower()
-        if answer == "q":
-            print("\nStopped.\n")
-            sys.exit(0)
+    print(f"\n[{post_number}/{len(posts)}] Opening {author.upper()}'s post in {len(commenters)} profiles:\n")
+    for persona, profile_dir in commenters:
+        print(f"  → {persona.upper()} ({profile_dir})")
+        open_url(profile_dir, url)
 
-    print("\n" + "─" * 60)
-    print(f"All {total} posts done for {target_date}.\n")
+    print(f"\n  URL: {url}")
+
+    if post_number < len(posts):
+        next_author = posts[post_number][0]
+        print(f"\nWhen done, say 'next' to open post #{post_number + 1} ({next_author.upper()}'s post).")
+    else:
+        print(f"\nThat's the last post. All done for {target_date}.")
 
 if __name__ == "__main__":
     main()
