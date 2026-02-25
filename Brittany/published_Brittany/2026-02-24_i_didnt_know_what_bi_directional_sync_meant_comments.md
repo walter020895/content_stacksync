@@ -1,5 +1,5 @@
 # Comments — Brittany's 3am post
-**Post:** [LinkedIn](https://www.linkedin.com/posts/-brittany-garrett-_i-didnt-know-what-bi-directional-sync-share-7432137889817436161-wvG2)
+**Post:** [LinkedIn](https://www.linkedin.com/posts/-brittany-garrett-_i-didnt-know-what-bi-directional-sync-activity-7432137892778369024-GcA3)
 **Date:** 2026-02-24
 **Author:** Brittany
 

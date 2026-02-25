@@ -3,9 +3,9 @@ name: cost_good_enough_integration_ruben
 description: The real cost of "works fine" integration — specific numbers, recognizable patterns, founder close on what winning companies do differently
 domain: business
 node_type: linkedin-post
-status: draft
-last_updated: 2026-02-22
-published_date:
+status: published
+last_updated: 2026-02-25
+published_date: 2026-02-25
 tags:
   - integration
   - engineering-cost
@@ -16,8 +16,8 @@ topics:
   - data sync economics
 related_concepts:
   - "[[ruben_personality_v01]]"
-link:
-image:
+link: https://www.linkedin.com/posts/ruben-burdin_works-fine-is-the-most-expensive-phrase-activity-7432216280167890944-EA0T
+image: images/2026-02-25_works_fine_is_the_most_expensive_phrase.jpg
 ---
 
 # RUBEN — What "Works Fine" Actually Costs

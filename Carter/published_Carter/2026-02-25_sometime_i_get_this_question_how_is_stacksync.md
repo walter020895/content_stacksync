@@ -3,9 +3,9 @@ name: demo_question_answered_carter
 description: Carter answers the question he gets in every demo — "How is this different from Fivetran/MuleSoft/Workato?" — with his actual 3-point answer on direction, latency, and conflict resolution.
 domain: business
 node_type: linkedin-post
-status: draft
-last_updated: 2026-02-22
-published_date:
+status: published
+last_updated: 2026-02-25
+published_date: 2026-02-25
 tags:
   - sales-lessons
   - bi-directional-sync
@@ -15,8 +15,8 @@ topics:
   - Stacksync vs Competitors
 related_concepts:
   - "[[carter_personality_v01]]"
-link:
-image:
+link: https://www.linkedin.com/posts/cartersupple_sometime-i-get-this-question-how-is-stacksync-activity-7432219191862054912-AM3Q
+image: images/2026-02-25_sometime_i_get_this_question_how_is_stacksync.jpeg
 ---
 
 # CARTER — The Question I Get in Every Demo

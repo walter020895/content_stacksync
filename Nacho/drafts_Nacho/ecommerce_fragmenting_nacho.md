@@ -36,7 +36,7 @@ related_concepts:
 ---
 
 ### HOOK A (Recommended)
-Amazon did $325 billion in third-party sales last year. TikTok Shop did $33 billion. Shopify processed $292 billion.
+Amazon did $325 billion in third-party sales in 2024. TikTok Shop did $33 billion. Shopify processed $292 billion.
 
 That's $650 billion flowing through three platforms that don't talk to each other.
 
@@ -72,7 +72,7 @@ Asset tags: [LOGO] [DATA] [SVG]
 
 ---
 
-Amazon did $325 billion in third-party sales last year. TikTok Shop did $33 billion. Shopify processed $292 billion.
+Amazon did $325 billion in third-party sales in 2024. TikTok Shop did $33 billion. Shopify processed $292 billion.
 
 That's $650 billion flowing through three platforms that don't talk to each other.
 
@@ -105,9 +105,9 @@ E-commerce scaled. The infrastructure didn't.
 - **AI slop check**: Clean. No em dashes. No "Here's" constructions. No blacklisted phrases. "E-commerce scaled. The infrastructure didn't." is factual contrast, not the AI "Not X. Y." flip formula. No "Let that sink in." No "This is where it gets interesting." No thought-leadership fluff. No motivational energy.
 - **Word count**: ~175
 - **Factual sources**:
-  - "Amazon 3P GMV: $325 billion in 2024" -- Marketplace Pulse, "Top 5 E-Commerce Marketplaces in 2024"
-  - "TikTok Shop global GMV: $33.2 billion in 2024, up 201% YoY" -- Momentum Works via Red Stag Fulfillment
-  - "TikTok Shop US sales grew 407% in 2024" -- eMarketer
-  - "Shopify full-year 2024 GMV: $292.27 billion, up 24% YoY" -- Marketplace Pulse; Shopify Investors
-  - "For top-ranked products (ranks 1-10), one day out of stock on Amazon drops product rank by 28%; 3+ days drops 83%" -- DataWeave, cited in Rithum
-  - "37% of shoppers switch brands after one stockout" -- Shopify Enterprise
+  - "Amazon 3P GMV: $325 billion in 2024" -- Marketplace Pulse, "Top 5 E-Commerce Marketplaces in 2024" — https://www.marketplacepulse.com/articles/top-5-e-commerce-marketplaces-in-2024
+  - "TikTok Shop global GMV: $33.2 billion in 2024, up 201% YoY" -- Momentum Works — https://thelowdown.momentum.asia/tiktok-shop-gmv-in-2024-surpassed-us30-billion/
+  - "TikTok Shop US sales grew 407% in 2024" -- eMarketer — https://www.emarketer.com/content/tiktok-shop-propels-social-commerce-growth-2024
+  - "Shopify full-year 2024 GMV: $292.27 billion, up 24% YoY" -- Marketplace Pulse — https://www.marketplacepulse.com/stats/shopify-gross-merchandise-volume-gmv | Shopify Q4 FY2024 Earnings — https://www.sec.gov/Archives/edgar/data/1594805/000159480525000011/exhibit991pressreleaseq420.htm
+  - "For top-ranked products (ranks 1-10), one day out of stock on Amazon drops product rank by 28%; 3+ days drops 83%" -- DataWeave — https://dataweave.com/blog/amazon-stock-out-impact-on-ecommerce
+  - "37% of shoppers switch brands after one stockout" -- Widely cited in retail research; referenced in Shopify blog — https://www.shopify.com/blog/product-availability (note: original primary source unconfirmed)

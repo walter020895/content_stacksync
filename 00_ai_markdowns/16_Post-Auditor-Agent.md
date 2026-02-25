@@ -73,6 +73,7 @@ Are the claims, stats, and technical assertions correct? Could a knowledgeable r
 2. Confirm the number matches (or is within acceptable rounding)
 3. Confirm the context matches (stat isn't being applied to a different situation)
 4. Flag anything that can't be verified
+5. **DATE & YEAR VERIFICATION (mandatory):** For every stat, confirm WHICH YEAR the data is from. Then check: does the post's language match? "Last year" must mean the calendar year before the publish date. "In 2024" must use 2024 data. A 2024 stat published in 2026 is NOT "last year" — it's two years old. Mislabeled timeframes misinform the reader even when the number itself is correct. Flag every date mismatch as a D2 penalty.
 
 **Scoring:**
 
@@ -91,6 +92,7 @@ Are the claims, stats, and technical assertions correct? Could a knowledgeable r
    - Is it from a credible source?
    - Is it being used in the right context?
    - Is the source recent enough to still be valid?
+   - **Does the year in the post match the year of the data?** Relative time words ("last year," "recently," "just") shift meaning with every month. Always use explicit years ("in 2024") unless the data is genuinely from the previous calendar year relative to publish date. When in doubt, use the explicit year — it never expires.
    - When a stat comes from community sources (Reddit, forums), flag it and recommend qualifiers like "reportedly," "users report," or "commonly cited."
 
 2. **Technical claims** — Verify against `./05_list_of_connectors.md` and web search:

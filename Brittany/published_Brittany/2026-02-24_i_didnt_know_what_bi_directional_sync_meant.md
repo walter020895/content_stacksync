@@ -20,7 +20,7 @@ topics:
 related_concepts:
   - "[[startup-operations]]"
   - "[[women-in-tech]]"
-link: https://www.linkedin.com/posts/-brittany-garrett-_i-didnt-know-what-bi-directional-sync-share-7432137889817436161-wvG2
+link: https://www.linkedin.com/posts/-brittany-garrett-_i-didnt-know-what-bi-directional-sync-activity-7432137892778369024-GcA3
 image: images/2026-02-24_i_didnt_know_what_bi_directional_sync_meant.png
 ---
 

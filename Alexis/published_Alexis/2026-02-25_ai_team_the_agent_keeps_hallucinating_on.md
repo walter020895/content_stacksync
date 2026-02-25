@@ -1,10 +1,11 @@
 ---
 name: ai_agent_stale_data_alexis
-description: "Alexis Favre draft - Your AI agent isn't hallucinating, it's reading stale data with confidence"
+description: "Your AI agent isn't hallucinating, it's reading stale data with confidence — the tribal war between AI teams and data teams explained"
 domain: business
 node_type: linkedin-post
-status: draft
-last_updated: 2026-02-19
+status: published
+last_updated: 2026-02-25
+published_date: 2026-02-25
 tags:
   - engineering
   - ai
@@ -21,6 +22,8 @@ related_concepts:
   - "[[alexis_personality_v01]]"
 funnel_stage: TOFU
 campaign: "Reach - AI Agents vs Data Quality"
+link: https://www.linkedin.com/posts/favre-alexis_ai-team-the-agent-keeps-hallucinating-on-activity-7432214335894003713-OsZ_
+image: images/2026-02-25_ai_team_the_agent_keeps_hallucinating_on.jpg
 ---
 
 # ALEXIS — Your AI Agent Isn't Hallucinating. It's Reading Stale Data.

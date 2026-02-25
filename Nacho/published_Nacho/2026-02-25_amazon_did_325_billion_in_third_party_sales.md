@@ -1,10 +1,11 @@
 ---
 name: ecommerce_amazon_vs_tiktok
-description: Amazon and TikTok Shop are two fundamentally different selling models with incompatible data requirements. The old way (search) vs. the new way (discovery). Brands selling on both face a data unification problem most tools can't solve. BOFU post with Stacksync mention.
+description: Amazon and TikTok Shop are two fundamentally different selling models with incompatible data requirements. The old way (search) vs. the new way (discovery). Brands selling on both face a data unification problem most tools can't solve.
 domain: business
 node_type: linkedin-post
-status: draft
-last_updated: 2026-02-17
+status: published
+last_updated: 2026-02-25
+published_date: 2026-02-25
 tags:
   - ecommerce
   - Amazon
@@ -17,6 +18,8 @@ topics:
   - E-commerce infrastructure
 related_concepts:
   - "[[nacho_personality_v01]]"
+link: https://www.linkedin.com/posts/fabianignaciomalpartidanegron_amazon-did-325-billion-in-third-party-sales-activity-7432217893825765376-MURV
+image: images/2026-02-25_amazon_did_325_billion_in_third_party_sales.png
 ---
 
 # NACHO — The Old Way to Sell vs. The New Way to Sell
