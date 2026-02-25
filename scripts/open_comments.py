@@ -1,16 +1,15 @@
 #!/usr/bin/env python3
 """
-open_comments.py — Opens today's LinkedIn posts in the right Brave profiles for easy commenting.
+open_comments.py — Opens LinkedIn posts one at a time in the right Brave profiles.
 
-For each persona, opens all posts they need to comment on (everyone else's posts).
-Grouped by commenter — do all tabs for one Brave profile, then move to the next.
+Walks through each post, then each commenter — one tab at a time.
+Press Enter after you've commented to move to the next. Press Q to quit.
 
 Usage:
     python3 scripts/open_comments.py              # today's posts
     python3 scripts/open_comments.py 2026-02-25   # specific date
 """
 
-import os
 import sys
 import re
 import subprocess
@@ -19,7 +18,6 @@ from datetime import date
 from pathlib import Path
 
 # ── PROFILE MAP ───────────────────────────────────────────────────────────────
-# persona → Brave profile directory name (from Local State detection)
 PROFILES = {
     "ruben":    "Profile 5",
     "nacho":    "Profile 6",
@@ -28,7 +26,7 @@ PROFILES = {
     "brittany": "Profile 10",
 }
 
-BRAVE = "/Applications/Brave Browser.app/Contents/MacOS/Brave Browser"
+BRAVE     = "/Applications/Brave Browser.app/Contents/MacOS/Brave Browser"
 REPO_ROOT = Path(__file__).parent.parent
 
 # ── PARSE COMMENTS FILE ───────────────────────────────────────────────────────
@@ -37,17 +35,12 @@ def parse_posts(filepath):
     posts = []
     with open(filepath) as f:
         content = f.read()
-
-    # Match: ## PersonaName — "title"\n[LinkedIn](url)
     for m in re.finditer(
         r"^## (\w+)[^\n]*\n\[LinkedIn\]\((https://www\.linkedin\.com[^\)]+)\)",
         content,
         re.MULTILINE,
     ):
-        author = m.group(1).lower()
-        url = m.group(2)
-        posts.append((author, url))
-
+        posts.append((m.group(1).lower(), m.group(2)))
     return posts
 
 # ── OPEN URL IN PROFILE ───────────────────────────────────────────────────────
@@ -57,42 +50,50 @@ def open_url(profile_dir, url):
         stdout=subprocess.DEVNULL,
         stderr=subprocess.DEVNULL,
     )
-    time.sleep(0.6)  # small delay so Brave doesn't choke
+    time.sleep(0.8)
 
 # ── MAIN ──────────────────────────────────────────────────────────────────────
 def main():
-    # Date
     target_date = sys.argv[1] if len(sys.argv) > 1 else str(date.today())
 
     comments_file = REPO_ROOT / "00_comments" / f"{target_date}_comments.md"
     if not comments_file.exists():
-        print(f"No comments file for {target_date}")
+        print(f"\nNo comments file for {target_date}")
         print(f"Expected: {comments_file}")
         sys.exit(1)
 
     posts = parse_posts(comments_file)
     if not posts:
-        print(f"No posts found in {comments_file.name}")
+        print(f"\nNo posts found in {comments_file.name}")
         sys.exit(1)
 
-    print(f"\n{target_date} — {len(posts)} post(s) found:")
+    # Build the full queue: for each post, open in each commenter's profile
+    queue = []
     for author, url in posts:
-        print(f"  [{author.upper()}] {url}")
+        for persona, profile_dir in PROFILES.items():
+            if persona != author:
+                queue.append((author, persona, profile_dir, url))
 
-    print()
+    total = len(queue)
+    print(f"\n{target_date} — {len(posts)} post(s), {total} comments to make")
+    print(f"Comments file: {comments_file}")
+    print(f"\nPress Enter after each comment. Press Q + Enter to quit.\n")
+    print("─" * 60)
 
-    # For each commenter, open all posts that aren't theirs
-    for persona, profile_dir in PROFILES.items():
-        to_open = [(a, u) for a, u in posts if a != persona]
-        if not to_open:
-            continue
+    for i, (author, commenter, profile_dir, url) in enumerate(queue, 1):
+        print(f"\n[{i}/{total}]  {commenter.upper()} comments on {author.upper()}'s post")
+        print(f"  Profile : {profile_dir}")
+        print(f"  URL     : {url}")
 
-        print(f"→ {persona.upper()} ({profile_dir}): opening {len(to_open)} post(s)...")
-        for author, url in to_open:
-            print(f"    {author}'s post")
-            open_url(profile_dir, url)
+        open_url(profile_dir, url)
 
-    print(f"\nDone. Comments to copy from:\n  {comments_file}\n")
+        answer = input("\n  Done commenting? [Enter / Q to quit] ").strip().lower()
+        if answer == "q":
+            print("\nStopped. Resume later with the same command.\n")
+            sys.exit(0)
+
+    print("\n" + "─" * 60)
+    print(f"All {total} comments done for {target_date}.\n")
 
 if __name__ == "__main__":
     main()
