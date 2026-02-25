@@ -37,11 +37,11 @@ export const WEEKLY_DATA: WeekEntry[] = [
   {
     week: '2026-02-23',
     personas: {
-      Alexis:   { impressions: 26247, followers: 0 },
-      Brittany: { impressions: 6,     followers: 0 },
-      Carter:   { impressions: 44094, followers: 0 },
-      Nacho:    { impressions: 4710,  followers: 0 },
-      Ruben:    { impressions: 96699, followers: 0 },
+      Alexis:   { impressions: 26247, followers: 9802 },
+      Brittany: { impressions: 6,     followers: 1050 },
+      Carter:   { impressions: 44094, followers: 781 },
+      Nacho:    { impressions: 4710,  followers: 3192 },
+      Ruben:    { impressions: 96699, followers: 16772 },
     },
   },
   // ↓ Paste next week here ↓
