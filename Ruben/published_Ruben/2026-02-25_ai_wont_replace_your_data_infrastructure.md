@@ -1,3 +1,24 @@
+---
+name: ai_exposes_bad_data_ruben
+description: AI won't replace your data infrastructure — it will expose how bad it is. Companies investing in AI are about to discover their real problem.
+domain: business
+node_type: linkedin-post
+status: published
+last_updated: 2026-02-25
+published_date: 2026-02-25
+tags:
+  - AI
+  - data-infrastructure
+  - enterprise
+  - fortune-teller
+topics:
+  - AI adoption as data infrastructure stress test
+related_concepts:
+  - "[[ruben_personality_v01]]"
+link: https://www.linkedin.com/posts/ruben-burdin_ai-wont-replace-your-data-infrastructure-activity-7432495466342379520-15oz
+image: images/2026-02-25_ai_wont_replace_your_data_infrastructure.png
+---
+
 # RUBEN — AI Exposes Bad Data
 ## Angle: AI won't replace your data infrastructure. It will expose how bad it is. Companies investing in AI are about to discover their real problem.
 
@@ -10,8 +31,8 @@
 | Topic | AI adoption as a stress test for enterprise data infrastructure |
 | Angle | Founder who builds data infrastructure watching AI investment expose the same broken plumbing he's been fixing. A prediction, not a complaint. |
 | Hook Type | Fortune Teller (18%) |
-| Story Structure | Fortune Teller Hook → Present Reality → What They'll Discover → What Actually Needs to Happen → Stacksync tie-in |
-| Visual Format | Text-only |
+| Story Structure | Fortune Teller Hook → Present Reality → What They'll Discover → What Actually Needs to Happen |
+| Visual Format | Image card |
 | Key Visuals | N/A |
 
 ---
@@ -43,7 +64,7 @@ Their own data.
 
 ---
 
-### FULL POST (using Hook B)
+### FULL POST (as published)
 
 ---
 
@@ -52,43 +73,40 @@ It will do something worse.
 
 Expose how bad it is.
 
-Every company I talk to right now is budgeting for AI. New models. New features. New copilots.
+Most companies I talk to right now is budgeting for AI.
+New models. New features. New copilots.
 
 Then they try to connect it to their actual data.
 
 That's when the calls start.
 
-Salesforce says one thing. The database says another. NetSuite has a third version.
+Salesforce says one thing.
+The database says another.
+Hubspot has a third version.
 
-Three systems, three truths, zero agreement on something as basic as "how many active customers do we have."
+Three systems, three truths, zero agreement on something as basic as
 
-This was always a problem. But before AI, humans papered over the gaps. Someone ran a report, noticed the mismatch, fixed it manually, moved on.
+"how many active customers do we have."
 
-AI doesn't do that. AI takes whatever data you give it and runs. Confidently. At scale. With no instinct to double-check.
+This was always a problem but before AI, humans papered over the gaps.
+Someone ran a report, noticed the mismatch, fixed it manually, moved on.
 
-Duplicate records become duplicate recommendations. Stale pipeline data becomes wrong forecasts.
-
-A customer marked "active" in HubSpot and "churned" in Postgres becomes a renewal email sent to someone who left six months ago.
+AI doesn't do that. AI takes whatever data you give it and runs.
+Confidently. At scale. With no instinct to double-check.
 
 The model isn't the problem. The model is doing exactly what you asked.
 
-The data underneath is the problem. And AI just made it visible.
-
-RAND found that 80% of AI projects fail. Twice the rate of non-AI IT projects.
-
-Gartner predicts 60% will be abandoned by 2026 because the data wasn't ready.
+The data underneath is the problem and AI just made it visible.
 
 I've talked to CTOs who spent six months building AI features, only to realize month seven was about fixing the data layer they should have fixed first.
 
 The order matters.
 
-Clean, real-time data flowing between your systems. Then AI on top. Not the other way around.
+Clean, real-time data flowing between your systems.
+Then AI on top. Not the other way around.
 
-At Stacksync, that's all we do. Real-time sync between your CRM, ERP, and database. Two-way. Sub-second.
-
-Not because it's trendy. Because nothing you build on top works without it.
-
-AI won't replace your infrastructure. But it will tell you everything that's wrong with it.
+AI won't replace your infrastructure.
+But it will tell you everything that's wrong with it.
 
 ---
 

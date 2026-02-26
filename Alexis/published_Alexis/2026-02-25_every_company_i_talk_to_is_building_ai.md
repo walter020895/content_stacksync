@@ -3,8 +3,9 @@ name: ai_infrastructure_builders_vs_wrappers_alexis
 description: "Alexis Favre draft - The real AI shift is infrastructure, not features. Builders vs. wrappers."
 domain: business
 node_type: linkedin-post
-status: draft
-last_updated: 2026-02-17
+status: published
+last_updated: 2026-02-25
+published_date: 2026-02-25
 tags:
   - AI
   - data-infrastructure
@@ -20,6 +21,8 @@ related_concepts:
 funnel_stage: TOFU
 lane: Reach
 campaign: "Wednesday - What Real Enterprise AI Looks Like"
+link: https://www.linkedin.com/posts/favre-alexis_every-company-i-talk-to-is-building-ai-features-activity-7432552968291459073-rfOo
+image: images/2026-02-25_every_company_i_talk_to_is_building_ai.png
 ---
 
 # ALEXIS — The Real AI Shift Is Infrastructure, Not Features
@@ -61,43 +64,58 @@ Until you check what's underneath.
 
 ---
 
-### FULL POST (using Hook A)
+---
+
+### VISUAL FORMAT
+
+**A — Iceberg  [SVG]  PORTRAIT 4:5  1080×1350  (Recommended)**
+Canvas: dark bg with horizontal waterline ~35% from top. Above: "AI FEATURES" — thin strip, bright. Below: "DATA LAYER" — the 90%, deep dark zone with labeled items (sync, schema, conflict resolution, pipeline reliability). Text at bottom: "Where AI actually works — or breaks."
+Hook: "Almost none of them are building the data layer those features need to work."
+Loop: image shows the hidden weight below → hook names the gap → second look: the 90% below is exactly what the wrappers ignored.
+
+**B — Split  [TYPE]  LANDSCAPE 16:9  1920×1080**
+Vertical split. Left panel (dim): "WRAPPER" / Ships feature fast / Demo works / Production breaks. Right panel (bright): "BUILDER" / Fixes data layer first / Boring work / AI actually works. Blue divider with ≠ in center.
+Hook: "The pattern splits into two camps."
+Loop: reader scans left, finds their team → reads hook → looks at right — sees what they're not doing.
+
+**C — Number Hero  [DATA]  SQUARE 1:1  1080×1080**
+Light bg. Two stacked stats side by side: "$19B — Application layer" / "$18B — Infrastructure" in large type. Below a thin rule: "Almost none of it went to the data layer." Blue accent on the sub-line.
+Hook: "The model was fine. It was sitting on top of a data layer where Salesforce syncs every 6 hours."
+Loop: equal numbers signal balance → hook reveals the actual gap → second look: the "almost none" sub-line is the quiet gut-punch.
+
+---
+
+### FULL POST (as published)
 
 ---
 
 Every company I talk to is building AI features.
-
 Almost none of them are building the data layer those features need to work.
 
-I keep seeing the same pattern. A team ships an AI copilot or internal agent.
-
-The demo is incredible. Production is a disaster.
-
-The model hallucinates, recommendations are stale, outputs contradict each other depending on which system you ask.
+A team ships an AI copilot. The demo is incredible. Production is a disaster.
 
 Leadership blames the model.
 
 The model was fine.
 
-It was sitting on top of a data layer where Salesforce syncs every 6 hours, the warehouse has 3 versions of the same customer, and half the fields haven't been updated since Q3.
+It was sitting on a data layer where Salesforce syncs every 6 hours, the warehouse has 3 versions of the same customer, and half the fields haven't been updated since Q3.
 
-Last year, enterprise AI spending split almost evenly: $19 billion on the application layer, $18 billion on infrastructure.
+Last year, enterprise AI spending split almost evenly:
 
-But most of that infrastructure spend went to compute and model APIs. Almost none went to the data layer connecting LLMs to what's actually in enterprise systems. The pipes that feed the models.
+$19 billion on applications
+$18 billion on infrastructure.
 
-Teams are spending on compute and model APIs while the actual data pipes stay broken.
+Most of that infrastructure spend went to compute and model APIs. Almost none went to the pipes connecting models to actual enterprise data.
 
-The pattern splits into two camps.
+Wrappers ship features on whatever data they have. Demo well. Break in production.
 
-Wrappers build features on top of whatever data they already have. They ship fast, demo well, and break in production because the foundation was never designed for it.
+Builders fix the data layer first. Systems in sync. Fields consistent.
 
-Builders fix the data layer first. They make sure systems stay in sync in real time, fields are consistent, records don't drift between systems. Boring work. It never makes it into a product launch tweet.
-
-But it determines whether the AI feature on top of it works or hallucinates.
-
-The companies that win the next phase of AI won't be the ones with the best models or the most features. They'll be the ones whose infrastructure actually delivers clean, current data to every system that needs it.
+Records don't drift. Boring work. Never makes a product launch tweet. But it determines whether the AI on top works or hallucinates.
 
 Everyone else is building on sand and calling it a platform.
+
+Do you see this too?
 
 ---
 

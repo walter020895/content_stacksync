@@ -3,9 +3,9 @@ name: burnout_recovery_brittany
 description: Startup grind culture vs. the radical act of stepping away — hospitality-trained lesson on protecting the quality of the work
 domain: business
 node_type: linkedin-post
-status: draft
-last_updated: 2026-02-23
-published_date:
+status: published
+last_updated: 2026-02-25
+published_date: 2026-02-25
 tags:
   - startup-life
   - burnout
@@ -19,8 +19,8 @@ topics:
 related_concepts:
   - "[[startup-culture]]"
   - "[[women-in-leadership]]"
-link:
-image:
+link: https://www.linkedin.com/posts/-brittany-garrett-_somewhere-along-the-way-startup-culture-activity-7432544898022633472-mCSO
+image: images/2026-02-25_somewhere_along_the_way_startup_culture.png
 ---
 
 # Brittany — Startup grind culture got it wrong
@@ -83,7 +83,7 @@ Dog in burning room = grinding through exhaustion. Subverts the "hustle" aesthet
 
 ---
 
-### FULL POST (using Hook A)
+### FULL POST (as published)
 
 ---
 
@@ -91,29 +91,35 @@ Somewhere along the way, startup culture decided that burnout was a badge of hon
 
 I never believed that.
 
-And honestly? I think it's hurting the work.
+And honestly? I think it's affecting quality.
 
-Ten years in hospitality taught me something that tech culture is still catching up to.
+Ten years in hospitality taught me something that tech culture is still catching up to:
 
-You can't run a floor on empty.
+You can't drink out of an empty glass.
 
-When you're exhausted, you miss things. You make the wrong call. You become the bottleneck, not because you lack capability, but because you refused to stop long enough to refill.
+When you're exhausted, you miss things.
+You make the wrong call.
+You become the bottleneck.
+Not because you lack capability, but because you refused to stop long enough to refill.
 
-There was a stretch during our SOC 2 compliance work when I hit a real wall. Not metaphorical. The kind where you're staring at the screen and nothing is moving, and every hour you push through costs you two hours of rework the next morning.
+There was a stretch during our compliance work when I hit a real wall.
+The kind where you're staring at the screen and nothing is moving.
+Where every hour you push through costs you two hours of rework the next morning.
 
-So I closed the laptop. Went outside. Made a cup of tea.
+So, I closed the laptop. Went outside. Made a cup of tea. Took a breather.
 
-And you know what? I came back with fresh eyes and solved in thirty minutes what I'd been staring at for two days.
+And you know what?
+I came back with fresh eyes and solved in thirty minutes what I'd been staring at for two days.
 
-I'm not saying don't work hard. Lord knows I've set a 3am alarm and I'd do it again.
+I'm not saying, "don't work hard."
+Lord knows I've set my alarm for 3am and I'd do it again in a heartbeat.
 
-But there is a difference between working hard and grinding past the point where the work is any good.
+But there is a difference between working hard and grinding past the point where the quality is compromised.
 
 Stepping away is not a failure of discipline.
+It's how you protect the integrity of what you're building.
 
-It's how you protect the quality of what you're building.
-
-Sometimes the most productive thing you can do for your team is take the walk.
+Sometimes the most productive thing you can do for your team is to close the laptop.
 
 ---
 

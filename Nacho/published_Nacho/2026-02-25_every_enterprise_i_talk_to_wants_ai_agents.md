@@ -3,9 +3,9 @@ name: ai_agents_data_wall
 description: Enterprises bought AI agents in 2024-2025. Most can't deploy them. Not a model problem — a data freshness problem.
 domain: business
 node_type: linkedin-post
-status: draft
-last_updated: 2026-02-23
-published_date:
+status: published
+last_updated: 2026-02-25
+published_date: 2026-02-25
 tags:
   - AI agents
   - enterprise AI
@@ -19,8 +19,8 @@ topics:
   - AI agent deployment
 related_concepts:
   - "[[nacho_personality_v01]]"
-link:
-image:
+link: https://www.linkedin.com/posts/fabianignaciomalpartidanegron_every-enterprise-i-talk-to-wants-ai-agents-activity-7432549176556642306-nj_n
+image: images/2026-02-25_every_enterprise_i_talk_to_wants_ai_agents.jpeg
 ---
 
 # NACHO — Every Enterprise Wants AI Agents. Most Are 12 Months Away From Being Able to Use Them.
@@ -74,12 +74,11 @@ Asset tags: [DATA] [TYPE]
 
 ---
 
-### FULL POST (using Hook A)
+### FULL POST (as published)
 
 ---
 
 Every enterprise I talk to wants AI agents.
-
 Most of them can't actually deploy one yet.
 
 Not a model problem. A data problem.
@@ -87,22 +86,61 @@ Not a model problem. A data problem.
 To be honest, the AI is ready. The data operations underneath aren't.
 
 Most enterprise CRM data runs on batch sync. 6-hour windows, sometimes daily.
-
 An AI agent reading that data is making decisions on records that are hours behind reality.
 
-I've seen it play out: an agent tries to personalize an outreach email, reads a deal stage from 3 hours ago, and references a conversation that already happened. Not a hallucination. A freshness problem.
+I've seen it play out: an agent tries to personalize an outreach email, reads a deal stage from 6 hours ago, and references a conversation that already happened.
 
-The companies actually winning with AI agents all had one thing in common: real-time data access. Not better models. Fresher data.
+That's not a hallucination is a freshness problem.
 
-Klarna replaced 700 support agents. Intercom resolves 51% of queries without a human.
+The companies actually winning with AI agents all had one thing in common: real-time data access.
+
+The binary is simple:
+Companies with real-time pipelines can use AI agents today.
+Companies on batch sync bought a product they can't use yet.
+
+The vendors selling you the agent aren't going to tell you this.
+It's not their problem. It's yours.
+
+Fix the plumbing first.
+
+---
+
+### FULL POST V2 — Merged (Nacho's words + tighter structure, ~188 words)
+
+---
+
+Every enterprise I talk to wants AI agents.
+
+Most of them can't actually deploy one.
+
+Not a model problem. A data problem.
+
+To be honest, the AI is ready. The data operations underneath it aren't.
+
+Most enterprise CRM data runs on batch sync. 6-hour windows. Sometimes daily. An agent reading that data is making decisions on records that are hours behind reality.
+
+I've seen it: an agent personalizes an outreach email, reads a deal stage from 3 hours ago, references a conversation that already happened. That's not a hallucination. That's a freshness problem. Different bug entirely.
+
+A YC company came to us managing millions of records. Their AI workflows were producing garbage. Their CRM and enrichment layer were crashing under batch load. The fix wasn't a better prompt. It was real-time two-way sync. Once the data was live, the agent started working.
 
 The binary is simple. Companies with real-time pipelines can use AI agents today. Companies on batch sync bought a product they can't use yet.
 
-Gartner says 60% of generative AI projects will be abandoned by 2026. The number one reason: data quality and access, not model quality.
+The vendors selling you the agent aren't going to tell you this. It's not their problem. It's yours.
 
-2026 is when most enterprises figure this out the hard way.
+Fix the plumbing first.
 
-That's it.
+---
+
+**V2 CHANGES:**
+- Added YC customer story (Nacho's real words) — first-person operator proof
+- Added "Different bug entirely" — Nacho voice marker
+- Added "Vendors won't tell you this" closer — more edge than "That's it."
+- Added "To be honest" connector — signature Nacho bridge
+- Cut Stacksync name — "came to us" implies it; product names kill engagement
+- Cut Gartner 60% stat — citation removed per success formula (ZERO citations)
+- Cut Klarna/Intercom — ONE story (YC company) is cleaner
+- Cut arrow bullets — slop #103
+- Fixed em dash — slop #101
 
 ---
 
