@@ -3,9 +3,9 @@ name: crm_migration_what_breaks
 description: Carter breaks down the four things that break in every Salesforce-to-HubSpot migration that nobody budgets for — activity history, custom objects, the Lead object mismatch, and integration rebuilds.
 domain: business
 node_type: linkedin-post
-status: draft
+status: published
 last_updated: 2026-02-27
-published_date:
+published_date: 2026-02-27
 tags:
   - salesforce
   - hubspot
@@ -20,8 +20,8 @@ related_concepts:
   - "[[Salesforce]]"
   - "[[HubSpot]]"
   - "[[data-integration]]"
-link:
-image:
+link: https://www.linkedin.com/posts/cartersupple_switching-from-salesforce-to-hubspot-saves-share-7433273777515421696-IS7s?utm_source=share&utm_medium=member_desktop&rcm=ACoAADdZ-sUBOR-bmgtzEYf542pbtj3yHliuuGI
+image: images/2026-02-27_switching_from_salesforce_to_hubspot_saves.png
 ---
 
 # CARTER — What Actually Breaks When You Switch CRMs
@@ -87,15 +87,26 @@ Switching from Salesforce to HubSpot saves money on the license.
 
 Month two is when teams find out what they lost.
 
-Activity history. Tasks, emails, and calls only sync going forward. Every historical touchpoint stays in Salesforce. If your reps need context from before the migration date, they're opening two tabs for months.
+Activity history. Tasks, emails, and calls only sync going forward. Every historical touchpoint stays in Salesforce.
 
-Custom objects. Salesforce has master-detail relationships, roll-up summaries, complex field logic. HubSpot's custom object model can't replicate these. Every custom object is a redesign, not a migration.
+If your reps need context from before the migration date, they're opening two tabs for months.
 
-The Lead object. Salesforce splits people into Leads and Contacts. HubSpot uses only Contacts. Your Salesforce Leads become HubSpot Contacts on import. Attribution above the Lead stage disappears.
+Custom objects.
+Salesforce has master-detail relationships, roll-up summaries, complex field logic. HubSpot's custom object model can't replicate these.
 
-Every integration you built. Your ERP sync, your marketing automation, your internal tooling. All built to Salesforce's API. Dead on arrival in HubSpot. Rebuild from scratch.
+Every custom object is a redesign, not a migration.
 
-The license savings are real. The rebuild cost is what nobody puts on the spreadsheet until they're already in it.
+The Lead object.
+
+Salesforce splits people into Leads and Contacts. HubSpot uses only Contacts. Your Salesforce Leads become HubSpot Contacts on import. Attribution above the Lead stage disappears.
+
+Every integration you built. Your ERP sync, your marketing automation, your internal tooling. All built to Salesforce's API. Dead on arrival in HubSpot.
+
+Rebuild from scratch.
+
+The license savings are real.
+
+The rebuild cost is what nobody puts on the spreadsheet until they're already in it.
 
 If your team is in the middle of this, DMs are open.
 

@@ -46,19 +46,27 @@ Not because you can't. Because you know what maintaining them costs.
 
 ---
 
-### VISUAL FORMAT SUGGESTIONS
+### VISUAL FORMAT
 
-**Option A (Recommended): Infographic — "What 'ownership' actually looks like"**
-PORTRAIT 4:5 (1080×1350). Dark bg (#08080E). Five stacked items in IBM Plex Mono, each with a right-arrow glyph — the five real costs listed in the post (rotation engineer, schema drift, 4am rate limits, deprecated endpoints, Slack thread as docs). Bottom line in #4589FF: "This is what 'we have a sync' means." Vertical layout suits a list that builds downward. The image plants recognition before the reader hits the post.
-Asset tags: [TYPE]
+**A — Slack Thread  [SVG]  PORTRAIT 4:5  1080×1350  (Recommended)**
+Slack dark UI mockup (sidebar + chat). "#sync-issues" channel selected. 3 messages from 8 months ago: "anyone know why this breaks?" / "should be in the docs" / "what docs lol." Time jump to today: new hire asks for docs. Pinned reply: "check this thread. still the only thing we have." Blue hero strip at bottom: "This is your documentation."
+Loop: image = Slack channel (recognition) → hook = "this is what 'we have a sync' looks like" → second look: the channel IS the documentation, the horror lands.
 
-**Option B: Split card — "Ownership vs. Time"**
-LANDSCAPE 16:9 (1920×1080). Left dark panel: "More ownership." Right dark panel: "Less time." IBM Plex Sans 600. The binary is the entire argument — the image makes the trade-off tangible before the post explains it. Works as a companion to `two_types_engineering_teams_alexis`.
-Asset tags: [TYPE] [SVG]
+**B — Ratio Bar  [DATA]  SQUARE 1:1  1080×1080**
+Light bg. Two horizontal bars: SYNC MAINTENANCE (65%, blue, dominant) vs PRODUCT ROADMAP (35%, gray). Visual imbalance is the entire argument. Closer: "Every hour spent on maintenance is an hour not spent on what matters."
+Loop: image = wrong-sized bars (something is off) → hook = "stop writing custom sync scripts" → second look: the blue bar is the cost you're paying.
 
-**Option C: Data Viz — Ratio Bar showing engineering time drain**
-SQUARE 1:1 (1080×1080). Dark bg. A horizontal bar: portion highlighted in #4589FF labeled "Sync maintenance" versus remainder in dim gray labeled "Roadmap work." No exact percentage needed — the visual imbalance makes the point. Subline: "What your best engineers built last quarter?"
-Asset tags: [DATA] [SVG]
+**C — 4am Terminal  [SVG]  PORTRAIT 4:5  1080×1350**
+Near-black bg. Hero: "04:17" in massive red (180px IBM Plex Mono). Below: terminal error block — ERROR: RateLimitExceeded / batch_sync_job.py / All retries exhausted. Closer: "The engineer who knows the fix is asleep."
+Loop: image = 4am timestamp (visceral, specific) → hook = "not because you can't — because you know what it costs" → second look: this is ONE of five things that will page you.
+
+**D — The Trade  [TYPE]  SQUARE 1:1  1080×1080**
+Dark bg. One conviction statement at 74px white: "You didn't hire them to maintain the pipes." Smaller dim coda: "That's the trade you're actually making."
+Loop: image = damning sentence (accusation) → hook = "stop writing custom sync scripts" → second look: the accusation is directed at you specifically.
+
+**E — Incident Log  [SVG]  PORTRAIT 4:5  1080×1350**
+Dark bg. Engineering audit format. Header: "SYNC OWNERSHIP AUDIT — STATUS: ONGOING." Five numbered items (rotation engineer / schema drift / 4AM rate limits / deprecated endpoints / Slack thread as docs) with CRITICAL/HIGH severity tags. Footer: "This is what 'we have a sync' means."
+Loop: image = official-looking audit doc (recognition: I've filed reports like this) → hook = "stop writing custom sync scripts" → second look: every item is a memory.
 
 ---
 
@@ -72,11 +80,11 @@ Not because you can't. Because you know what maintaining them costs.
 
 What it actually costs:
 
-→ One engineer on rotation who "owns" the sync but really just knows where the bodies are buried
-→ Schema changes in the CRM that break your mapping three weeks after the vendor announces them
-→ Rate limits you hit at 4am during a batch job that someone scheduled without checking capacity
-→ An API that deprecated two endpoints you relied on, so now there's a workaround layered on top of a workaround
-→ That one Slack thread from 8 months ago that's the only documentation anyone can find
+One engineer on rotation who "owns" the sync but really just knows where the bodies are buried.
+Schema changes in the CRM that break your mapping three weeks after the vendor announces them.
+Rate limits you hit at 4am during a batch job that someone scheduled without checking capacity.
+An API that deprecated two endpoints you relied on, so now there's a workaround layered on top of a workaround.
+That one Slack thread from 8 months ago that's the only documentation anyone can find.
 
 This is what "we have a sync" looks like from the inside.
 
@@ -99,7 +107,7 @@ The question is what your best engineers built last quarter. If the answer is sy
 - **Narrative arc**: Contrarian hook (stop writing) → qualifier (not because you can't) → five-item cost list (recognition) → "this is what it looks like" reframe → defense of the engineers (not a talent problem) → the real trade (maintenance vs. product) → bridge ("And I'm not saying...") → concrete close (what did they build last quarter?)
 - **Psychological triggers**: Recognition (every CTO knows these bullet points) + Frustration Validation (yes, this is what it's like) + Tribal Identity (CTOs who've made the call feel seen)
 - **Hook analysis (Kallaway)**: Single subject: custom sync scripts. Single question: "Why stop?" "See more" char count: ~75. Fits mobile: yes.
-- **AI slop check**: Clean. No em dashes. No "Here's" constructions. No "game-changer" / "landscape" / "leverage." "That kills me" is authentic Alexis frustration, not slop.
+- **AI slop check**: Clean. No em dashes. No "Here's" constructions. No "game-changer" / "landscape" / "leverage." "That kills me" is authentic Alexis frustration, not slop. Arrow bullets (#103) removed — replaced with clean line-break list format (2026-02-26).
 - **Changes (2026-02-22)**: Cut bullet 4 (staging environment — weaker of the two technical debt bullets). Added bridge line "And I'm not saying your engineers couldn't build a better one." before engineer-defense section. Sharpened close to concrete "what did they build last quarter?" framing. Removed boardroom language "best use of your team."
 - **Word count**: ~265
 - **Factual sources**: Observational — Alexis's CTO experience with engineering team maintenance patterns

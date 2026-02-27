@@ -96,36 +96,37 @@ I've spent most of my career doing the work that keeps everything else running.
 
 HR. Finance. Legal. Compliance. Contracts. Visas. The SOC 2 audit nobody wants to own. The vendor agreement that's been sitting in someone's inbox for three weeks.
 
-These departments don't get the spotlight. They're not on stage at the company all-hands. They're not in the revenue meeting getting high-fived.
+They're not on stage at the company all-hands. They're not in the revenue meeting getting high-fived.
 
 But y'all? They are why the company is still standing.
 
-I'm not bitter about it. I chose this work because I genuinely love it: the numbers, the structure, the quiet satisfaction of a contract that's airtight. But there's something worth naming here.
+I'm not bitter about it. I chose this work because I genuinely love it: the numbers, the structure, the quiet satisfaction of a contract that's airtight.
 
 The people doing the invisible work deserve to be seen.
 
-Not just recognized in a year-end message. Seen. For the complexity of what they navigate every single day. For the problems they solve before anyone else even knew there was a problem.
+Not just recognized in a year-end message. Seen.
+
+For the complexity of what they navigate every single day. For the problems they solve before anyone else even knew there was a problem.
 
 If you're in operations, finance, legal, or compliance right now, this one's for you.
 
-You're not behind the scenes.
-
-You are the foundation.
+You are the foundation. The company runs smoothly because you never let it run any other way.
 
 ---
 
-## AUDIT: GO — 8.7
+## AUDIT: GO — 7.85
 
-| Dimension | Score |
-|-----------|-------|
-| D1 ICP Relevance | 8 |
-| D2 Factual Accuracy | 10 |
-| D3 Readability | 9 |
-| D4 AI Slop | 9 |
-| D5 Reading Pleasure | 9 |
-| D6 Reader Value | 8 |
+| Dimension | Weight | Score |
+|-----------|--------|-------|
+| D1 ICP Relevance | 20% | 7 |
+| D2 Factual Accuracy | 20% | 10 |
+| D3 Readability | 20% | 8 |
+| D4 AI Slop | 10% | 8 |
+| D5 Reading Pleasure | 10% | 9 |
+| D6 Reader Value | 15% | 5 |
+| D7 Visual-Hook Alignment | 5% | 8 |
 
-**Notes:** "y'all" is Brittany's strongest voice marker — earned here. The list of actual work (HR, Finance, Legal, Compliance, Contracts, Visas, SOC 2) is specific friction that earns authority. "I'm not bitter about it" is a perfect honest caveat that prevents the post from reading as a complaint. Closer is strong and shareable. Egobait: every ops/legal/finance person reading this will want to share it.
+**Notes:** Reach lane post — humanizes Brittany and company, targets ops/legal/finance audience (overlaps with RevOps Director / Head of Business Systems ICP persona). No pipeline connection; D6 = validation not instruction. Voice is the post's biggest asset: "y'all" (×2), "I'm not bitter about it", specific nouns (SOC 2, vendor agreement, visas, revenue meeting). Closer rewritten to remove #21 flip ("You're not behind the scenes / You are the foundation") — replaced with specific earned claim. Cut one redundancy sentence ("These departments don't get the spotlight") and dead-weight connector ("But there's something worth naming here"). Egobait: every ops/legal/finance person will share this.
 
 ---
 

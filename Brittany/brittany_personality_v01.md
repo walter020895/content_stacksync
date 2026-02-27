@@ -516,6 +516,69 @@ Her content should close this gap by showing the **thinker behind the organizer*
 
 ---
 
+## Part 11: Voice Corrections Log (Learned from Brittany's Edits)
+
+*Updated: 2026-02-25 — based on Brittany's rewrite of the burnout/stepping-away post.*
+
+### What She Changed (patterns to bake into every future draft)
+
+**1. Universal metaphors over industry-specific ones**
+- AI wrote: "You can't run a floor on empty." (hospitality jargon)
+- Brittany changed to: "You can't drink out of an empty glass." (universal, southern)
+- **Rule:** Her metaphors should be understood by anyone, not just people from her industry. Southern folk wisdom > professional shorthand.
+
+**2. Adds southern/personal expressions**
+- AI wrote: "I'd do it again."
+- Brittany changed to: "I'd do it again in a heartbeat."
+- AI ended action sequence at: "Made a cup of tea."
+- Brittany added: "Took a breather."
+- **Rule:** Add one warm, casual expression per post. Candidates: "in a heartbeat," "took a breather," "y'all," "Lord knows." These are her texture.
+
+**3. Morally weighted word choices**
+- AI wrote: "the quality of what you're building" / "the work is any good"
+- Brittany changed to: "the integrity of what you're building" / "the quality is compromised"
+- **Rule:** She reaches for words with ethical weight. "Integrity" > "quality." "Compromised" > "any good." Her vocabulary carries moral conviction even in casual contexts.
+
+**4. Narrative callbacks / bookends**
+- AI closed with: "take the walk"
+- Brittany closed with: "close the laptop" (echoing "I closed the laptop" from mid-post)
+- **Rule:** The closing image should callback to something earlier in the post. She thinks in narrative arcs, not disconnected punchlines.
+
+**5. Removes punchy declaratives**
+- AI wrote: "Not metaphorical." (short, sharp qualifier)
+- Brittany cut it entirely.
+- **Rule:** Don't write staccato one-word or two-word punch lines for her. Those are Nacho's weapon, not hers. Her rhythm flows; it doesn't punch.
+
+**6. Removes technical specificity**
+- AI wrote: "our SOC 2 compliance work"
+- Brittany changed to: "our compliance work"
+- **Rule:** Strip jargon even when she knows the term. She writes for people, not practitioners. Keep it accessible always.
+
+**7. Merges connected ideas (don't over-split)**
+- AI split into two dramatic paragraphs: "Stepping away is not a failure of discipline." / "It's how you protect..."
+- Brittany merged them: "Stepping away is not a failure of discipline. It's how you protect the integrity of what you're building."
+- **Rule:** Don't split connected thoughts into separate single-line paragraphs for drama. That's LinkedIn-bro formatting. She keeps related ideas in the same breath.
+
+**8. Comma for speech rhythm**
+- AI wrote: "So I closed the laptop."
+- Brittany changed to: "So, I closed the laptop."
+- **Rule:** She pauses where she'd breathe. Add commas after "So," "And," "But" when they open a sentence — mirrors her speaking cadence.
+
+**9. Quotes phrases she addresses**
+- AI wrote: "I'm not saying don't work hard."
+- Brittany changed to: "I'm not saying, 'don't work hard.'"
+- **Rule:** When she references something she's pushing back on, she puts it in quotes. Careful, precise attribution — even in casual writing.
+
+**10. Uses "Where" for layered imagery**
+- AI wrote: "and every hour you push through costs you..."
+- Brittany changed to: "Where every hour you push through costs you..."
+- **Rule:** She layers scenes using "Where" and "The kind where" — building imagery through conditional stacking, not conjunction chains.
+
+### Spelling Note
+- Brittany wrote "effecting" when she meant "affecting" — correct this silently in final drafts. Don't flag it to her.
+
+---
+
 *Last updated: February 23, 2025*
 *Next review: After first 3-4 posts are published and Brittany provides feedback*
 *Profile version: 1.0*

@@ -3,9 +3,9 @@ name: ai_autonomy_vs_discipline
 description: "Claude shipped agent teams. Perplexity shipped a 19-model autonomous computer. Cursor shipped self-iterating agents. Alexis's team shipped rules for not trusting any of it."
 domain: business
 node_type: linkedin-post
-status: draft
+status: published
 last_updated: 2026-02-27
-published_date:
+published_date: 2026-02-27
 tags:
   - ai-coding-tools
   - engineering-discipline
@@ -20,11 +20,11 @@ topics:
 related_concepts:
   - "[[ai-coding-discipline]]"
   - "[[human-in-loop]]"
-link:
-image:
+link: https://www.linkedin.com/posts/favre-alexis_in-just-one-month-claude-agent-teams-perplexity-activity-7433254305400442880-RZTd
+image: images/2026-02-27_in_just_one_month_claude_agent_teams.png
 ---
 
-# ALEXIS — Claude Shipped Agent Teams. Perplexity Shipped Autonomy. We Shipped Rules.
+# ALEXIS — In Just One Month: Claude Agent Teams. Perplexity Computer. Cursor Agents. We Shipped Rules.
 ## Angle: Three AI launches in one month prove the market is pushing autonomy. Alexis pushes engineering discipline. His actual operating principles for the team — verbatim.
 
 ---
@@ -79,11 +79,11 @@ Image-hook loop: Image is a command. Hook provides context. Second look: feels l
 
 ---
 
-### FULL POST (using Hook B)
+### FULL POST (as published)
 
 ---
 
-Claude shipped agent teams. Perplexity shipped a 19-model autonomous computer. Cursor shipped agents that debug and iterate without you.
+In just one month: Claude agent teams. Perplexity Computer. Cursor agents.
 
 We shipped a list of rules for not trusting any of it.
 
@@ -93,7 +93,9 @@ Never let the AI think for you. You own the design and correctness of every line
 
 You choose every variable name. Every function name. You know by heart every single line of code you push. I'm serious about this.
 
-Use AI to speed up finding root causes. Feed it Sentry context, stack traces, whatever helps. But think through it yourself at the same time. No hotfixes without understanding the root cause first.
+Use AI to speed up finding root causes. Feed it Sentry context, stack traces, whatever helps.
+
+But think through it yourself at the same time. No hotfixes without understanding the root cause first.
 
 Speed matters. Fast iteration, fast time-to-fix. But fast and wrong is still wrong.
 
@@ -117,37 +119,36 @@ You wouldn't hand a junior a vague ticket and expect quality. Same applies here.
   - Fragment closer: "Same applies here." — drops the mic after the junior analogy
 - **Psychological triggers**: Tribal Identity (engineers who think before prompting) + Pattern Recognition (discipline > autonomy)
 - **Ego bait**: Engineers who already use AI tools with discipline feel validated. CTOs who worry about AI quality in their codebase get a framework. Claude/Perplexity/Cursor users all see their tools mentioned — no company attacked. The tools are praised as powerful; the operators are challenged.
-- **Hook analysis (Kallaway)**: Three-part news setup + contrarian turn. Single subject: AI autonomy vs engineering discipline. Single question: "What rules?" Context Lean: "Claude shipped... Perplexity shipped... Cursor shipped..." (reader nods — these are real, recent launches they saw this week). Scroll Stop: "We shipped a list of rules for not trusting any of it." (the contrast + contempt). Snap Back: in body (the actual principles).
-- **AI slop check**: Clean. No em dashes. No flip formulas. No "Here's the thing." No colon staging. "I'm serious about this" is preserved verbatim from Alexis — raw voice, not a template. "Same applies here" is a natural closer, not #20 ("It all comes down to this"). "Any cheap developer" is Alexis's actual language from his operating doc. "Shipped" repetition is intentional anaphora (news rhythm), not a template.
+- **Hook analysis (Kallaway)**: Three-part news setup + contrarian turn. Single subject: AI autonomy vs engineering discipline. Single question: "What rules?" Context Lean: "In just one month: Claude agent teams. Perplexity Computer. Cursor agents." (reader nods — these are real, recent launches they saw this week). Scroll Stop: "We shipped a list of rules for not trusting any of it." (the contrast + contempt). Snap Back: in body (the actual principles).
+- **AI slop check**: Clean. No em dashes. No flip formulas. No "Here's the thing." No colon staging. "I'm serious about this" is preserved verbatim from Alexis — raw voice, not a template. "Same applies here" is a natural closer, not #20 ("It all comes down to this"). "Any cheap developer" is Alexis's actual language from his operating doc.
 - **Formatting check**: Phone scroll test PASS. Max 2 sentences per paragraph. The principles section uses line-break rhythm — each principle is 1-2 sentences, separated by air. Single-sentence air lines: 4+. No text walls.
 - **Redundancy sweep**: PASS. Each principle covers a different dimension: (1) keyboard discipline, (2) design ownership, (3) naming ownership, (4) root cause discipline, (5) speed balance, (6) operator quality verdict. No overlap.
 - **Question Chain (sentence-by-sentence):**
-  1. "Claude shipped agent teams." → Q: So? What else?
-  2. "Perplexity shipped a 19-model autonomous computer." → A: More. Q: What else?
-  3. "Cursor shipped agents that debug and iterate without you." → A: The trend is clear. Q: So what are you doing about it?
-  4. "We shipped a list of rules for not trusting any of it." → A: The opposite. Q: What rules?
-  5. "Use AI to put characters on the keyboard for you." → A: Use it. Q: But how?
-  6. "But you should have already had every single character in mind before it touches the screen." → A: With total pre-design. Q: What does that look like in practice?
-  7. "Never let the AI think for you." → A: Hard rule. Q: What are you responsible for?
-  8. "You own the design and correctness of every line of code." → A: Everything. Q: What does the AI do then?
-  9. "The AI writes it down. You decide what gets written." → A: It types, you think. Q: How specific does the control go?
-  10. "You choose every variable name. Every function name." → A: Down to the naming. Q: Is that actually enforced?
-  11. "You know by heart every single line of code you push." → A: Yes. Q: Really?
-  12. "I'm serious about this." → A: Dead serious. Q: What about debugging?
-  13. "Use AI to speed up finding root causes." → A: Use it there too. Q: How?
-  14. "Feed it Sentry context, stack traces, whatever helps." → A: Specifics. Q: Any limits?
-  15. "But think through it yourself at the same time." → A: Always in parallel. Q: What about quick fixes?
-  16. "No hotfixes without understanding the root cause first." → A: No shortcuts. Q: But what about speed?
-  17. "Speed matters. Fast iteration, fast time-to-fix." → A: Speed is real. Q: So what's the balance?
-  18. "But fast and wrong is still wrong." → A: Quality wins. Q: So what determines the output?
-  19. "These tools are powerful when the operator is precise." → A: The operator. Q: And when they're not?
-  20. "When the operator is lazy, they produce the same output any cheap developer would." → A: Garbage. Q: What's the analogy?
-  21. "You wouldn't hand a junior a vague ticket and expect quality." → A: The frame. Q: And AI?
-  22. "Same applies here." → Closer. Answers the question. Opens nothing.
-  **Chain status: 22 links, zero breaks.**
+  1. "In just one month: Claude agent teams. Perplexity Computer. Cursor agents." → Q: So what are you doing about it?
+  2. "We shipped a list of rules for not trusting any of it." → A: The opposite. Q: What rules?
+  3. "Use AI to put characters on the keyboard for you." → A: Use it. Q: But how?
+  4. "But you should have already had every single character in mind before it touches the screen." → A: With total pre-design. Q: What does that look like in practice?
+  5. "Never let the AI think for you." → A: Hard rule. Q: What are you responsible for?
+  6. "You own the design and correctness of every line of code." → A: Everything. Q: What does the AI do then?
+  7. "The AI writes it down. You decide what gets written." → A: It types, you think. Q: How specific does the control go?
+  8. "You choose every variable name. Every function name." → A: Down to the naming. Q: Is that actually enforced?
+  9. "You know by heart every single line of code you push." → A: Yes. Q: Really?
+  10. "I'm serious about this." → A: Dead serious. Q: What about debugging?
+  11. "Use AI to speed up finding root causes." → A: Use it there too. Q: How?
+  12. "Feed it Sentry context, stack traces, whatever helps." → A: Specifics. Q: Any limits?
+  13. "But think through it yourself at the same time." → A: Always in parallel. Q: What about quick fixes?
+  14. "No hotfixes without understanding the root cause first." → A: No shortcuts. Q: But what about speed?
+  15. "Speed matters. Fast iteration, fast time-to-fix." → A: Speed is real. Q: So what's the balance?
+  16. "But fast and wrong is still wrong." → A: Quality wins. Q: So what determines the output?
+  17. "These tools are powerful when the operator is precise." → A: The operator. Q: And when they're not?
+  18. "When the operator is lazy, they produce the same output any cheap developer would." → A: Garbage. Q: What's the analogy?
+  19. "You wouldn't hand a junior a vague ticket and expect quality." → A: The frame. Q: And AI?
+  20. "Same applies here." → Closer. Answers the question. Opens nothing.
+  **Chain status: 20 links, zero breaks.**
 - **Overlap with Feb 16 post (Claude Code vs Codex)**: Different angle. Feb 16 = tool comparison ending with "junior" metaphor as conclusion. This post = operating discipline with specific news context and Alexis's verbatim principles. Feb 16 asked "which tool?" This post asks "how do you use ANY tool?" No shared sentences. No shared hook type. Different structure. The "junior" metaphor appears in both but serves different roles — conclusion vs. analogy-closer. 11+ days apart.
-- **Stacksync mention**: None explicit. The principles are the content. Stacksync is implied through "our" and the Sentry/stack traces reference (shows a real engineering team). Removable: N/A (nothing to remove).
-- **Word count**: ~170
+- **Stacksync mention**: None explicit. The principles are the content. Stacksync is implied through "we" and the Sentry/stack traces reference (shows a real engineering team).
+- **Word count**: ~160
+- **Audit score**: 8.95 GO
 - **Factual sources**:
   - Claude agent teams (Opus 4.6): released Feb 5, 2026 (Anthropic)
   - Claude Sonnet 4.6: released Feb 17, 2026 (CNBC)
