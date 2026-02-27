@@ -1,17 +1,9 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useRef } from 'react'
 import Link from 'next/link'
 import type { Post } from '@/lib/posts'
 import { getInitials, getAvatarColor } from '@/lib/utils'
-
-// LinkedIn truncation thresholds (chars before "see more")
-// Desktop (card ~552px): text-only ~5 lines ≈ 210, with image ~3 lines ≈ 140
-// Mobile  (card ~390px): text-only ~5 lines ≈ 150, with image ~3 lines ≈ 110
-const TRUNCATE = {
-  desktop: { text: 210, image: 140 },
-  mobile:  { text: 150, image: 110 },
-}
 
 interface PostCardProps {
   post: Post
@@ -62,7 +54,7 @@ function IconClose() {
   )
 }
 
-// LinkedIn creator mode badge (orange "in" square)
+// LinkedIn creator mode badge (blue "in" square)
 function BadgeLinkedIn() {
   return (
     <svg viewBox="0 0 16 16" className="w-4 h-4 inline-block shrink-0" aria-hidden="true">
@@ -96,67 +88,124 @@ function IconCopy({ copied }: { copied: boolean }) {
   )
 }
 
-// ── Post body with inline "see more" ─────────────────────────
+// ── Post body with LinkedIn-style line-based "...more" ────────
 function PostBody({
   hook,
   content,
   alwaysExpanded,
-  hasImage,
+  hasMedia,
 }: {
   hook: string
   content: string
   alwaysExpanded: boolean
-  hasImage: boolean
+  hasMedia: boolean
 }) {
   const [expanded, setExpanded] = useState(false)
-  const [isMobile, setIsMobile] = useState(false)
+  const [overflows, setOverflows] = useState(false)
+  const containerRef = useRef<HTMLDivElement>(null)
+
+  const LINE_HEIGHT = 20
+  // LinkedIn: ~5 visible lines text-only, ~3 with media
+  // Paragraph gaps (\n\n) render as full blank lines with pre-line, so they count as lines
+  const maxLines = hasMedia ? 3 : 5
+  const maxHeight = maxLines * LINE_HEIGHT
 
   useEffect(() => {
-    const check = () => setIsMobile(window.innerWidth < 640)
-    check()
+    const el = containerRef.current
+    if (!el || alwaysExpanded || expanded) return
+    setOverflows(el.scrollHeight > el.clientHeight + 2)
+  }, [alwaysExpanded, expanded, hook, content, hasMedia])
+
+  useEffect(() => {
+    const check = () => {
+      const el = containerRef.current
+      if (!el || alwaysExpanded || expanded) return
+      setOverflows(el.scrollHeight > el.clientHeight + 2)
+    }
     window.addEventListener('resize', check)
     return () => window.removeEventListener('resize', check)
-  }, [])
+  }, [alwaysExpanded, expanded])
 
-  const full = content.trim()
-  const thresholds = isMobile ? TRUNCATE.mobile : TRUNCATE.desktop
-  const truncateAt = hasImage ? thresholds.image : thresholds.text
-  const needsTruncation = !alwaysExpanded && full.length > truncateAt
   const isExpanded = expanded || alwaysExpanded
+  // Combine hook + content into one continuous text (like LinkedIn)
+  const fullText = hook + (content ? '\n\n' + content : '')
 
   return (
-    <div className="mt-2 text-sm text-[rgba(0,0,0,0.9)] leading-[1.42857]">
-      {/* Hook — preserves line breaks for multi-line Kallaway hooks */}
-      <p className="mb-1 whitespace-pre-line">{hook}</p>
+    <div className="text-[14px] text-[rgba(0,0,0,0.9)]" style={{ lineHeight: `${LINE_HEIGHT}px` }}>
+      <div
+        ref={containerRef}
+        className="relative"
+        style={!isExpanded ? {
+          maxHeight: `${maxHeight}px`,
+          overflow: 'hidden',
+        } : undefined}
+      >
+        {/* Single pre-line div: \n\n creates full-height blank lines, matching LinkedIn */}
+        <div className="whitespace-pre-line break-words">{fullText}</div>
 
-      {/* Body */}
-      {needsTruncation && !isExpanded ? (
-        <p className="whitespace-pre-line break-words">
-          {full.slice(0, truncateAt)}…{' '}
-          <button
+        {overflows && !isExpanded && (
+          <span
+            className="absolute bottom-0 right-0 cursor-pointer pl-8"
+            style={{ background: 'linear-gradient(to left, white 80%, transparent)' }}
             onClick={() => setExpanded(true)}
-            className="text-[rgba(0,0,0,0.6)] font-semibold hover:underline"
           >
-            see more
-          </button>
-        </p>
-      ) : (
-        <>
-          <div className="space-y-2 whitespace-pre-line break-words">
-            {full.split(/\n{2,}/).map((para, i) => (
-              <p key={i}>{para}</p>
-            ))}
-          </div>
-          {!alwaysExpanded && needsTruncation && (
-            <button
-              onClick={() => setExpanded(false)}
-              className="text-[rgba(0,0,0,0.6)] font-semibold hover:underline mt-1 text-sm"
-            >
-              see less
-            </button>
-          )}
-        </>
+            <span className="text-[rgba(0,0,0,0.6)] hover:text-[#0a66c2] hover:underline">
+              ...more
+            </span>
+          </span>
+        )}
+      </div>
+
+      {expanded && !alwaysExpanded && (
+        <button
+          onClick={() => setExpanded(false)}
+          className="text-[rgba(0,0,0,0.6)] hover:text-[#0a66c2] hover:underline text-[14px] mt-1"
+        >
+          ...less
+        </button>
       )}
+    </div>
+  )
+}
+
+// ── Image grid (LinkedIn multi-image layouts) ────────────────
+function ImageGrid({ images }: { images: string[] }) {
+  if (images.length === 1) {
+    return (
+      <div className="bg-[#f3f2ef] flex justify-center items-center overflow-hidden" style={{ maxHeight: '510px' }}>
+        <img src={images[0]} alt="" className="w-full h-auto block object-contain" style={{ maxHeight: '510px' }} />
+      </div>
+    )
+  }
+
+  if (images.length <= 3) {
+    return (
+      <div className="flex gap-[2px]" style={{ height: '280px' }}>
+        {images.map((src, i) => (
+          <div key={i} className="flex-1 bg-[#f3f2ef] overflow-hidden">
+            <img src={src} alt="" className="w-full h-full object-cover" />
+          </div>
+        ))}
+      </div>
+    )
+  }
+
+  // 4+ images: 2x2 grid with +N overlay on last cell
+  const visible = images.slice(0, 4)
+  const remaining = images.length - 4
+
+  return (
+    <div className="grid grid-cols-2 gap-[2px]" style={{ height: '380px' }}>
+      {visible.map((src, i) => (
+        <div key={i} className="relative bg-[#f3f2ef] overflow-hidden">
+          <img src={src} alt="" className="w-full h-full object-cover" />
+          {i === 3 && remaining > 0 && (
+            <div className="absolute inset-0 bg-black/50 flex items-center justify-center">
+              <span className="text-white text-2xl font-semibold">+{remaining}</span>
+            </div>
+          )}
+        </div>
+      ))}
     </div>
   )
 }
@@ -260,6 +309,7 @@ export default function PostCard({ post, expanded = false }: PostCardProps) {
   const initials = getInitials(post.person)
   const avatarColor = getAvatarColor(post.person)
   const fullText = `${post.hook}\n\n${post.content}`
+  const hasMedia = (post.images && post.images.length > 0) || !!post.video
 
   return (
     <article className="bg-white rounded-lg border border-[rgba(0,0,0,0.08)] shadow-[0_0_0_1px_rgba(0,0,0,0.04),0_2px_4px_rgba(0,0,0,0.04)] overflow-hidden">
@@ -320,24 +370,12 @@ export default function PostCard({ post, expanded = false }: PostCardProps) {
 
         {/* Post text */}
         <div className="mt-3 pb-3">
-          <PostBody hook={post.hook} content={post.content} alwaysExpanded={expanded} hasImage={!!post.image || !!post.video} />
+          <PostBody hook={post.hook} content={post.content} alwaysExpanded={expanded} hasMedia={hasMedia} />
         </div>
       </div>
 
-      {/* ── Image ── */}
-      {post.image && (
-        <div
-          className="bg-[#f3f2ef] flex justify-center items-center overflow-hidden"
-          style={{ maxHeight: '510px' }}
-        >
-          <img
-            src={post.image}
-            alt=""
-            className="w-full h-auto block object-contain"
-            style={{ maxHeight: '510px' }}
-          />
-        </div>
-      )}
+      {/* ── Images ── */}
+      {post.images && post.images.length > 0 && <ImageGrid images={post.images} />}
 
       {/* ── Video ── */}
       {post.video && (

@@ -8,7 +8,7 @@ export interface Post {
   person: string
   role: string
   date: string | Date
-  image?: string
+  images?: string[]
   video?: string
   hook: string
   content: string
@@ -46,7 +46,7 @@ function parseSimpleFile(filepath: string): Post | null {
       person:      data.person as string,
       role:        data.role   as string,
       date:        data.date   as string | Date,
-      image:       (data.image as string) ?? undefined,
+      images:      data.image ? [data.image as string] : undefined,
       hook:        data.hook   as string,
       content:     content.trim(),
       personPhoto: persona?.photo || undefined,
@@ -96,37 +96,45 @@ function parseDraftFile(filepath: string, personKey: string): Post | null {
 
     const filename = path.basename(filepath, '.md')
 
-    // Auto-detect matching image: same filename, any image extension.
-    // Copy to public/draft-images/ so it gets bundled into the Vercel deployment
-    // (the /api/asset route only works locally, not on Vercel's prebuilt deploys).
+    // Auto-detect matching images & video in the same directory.
+    // Supports multiple images: base name + numbered variants (e.g. post_ruben.png, post_ruben_2.png).
+    // Copy to public/draft-images/ so they get bundled into the Vercel deployment.
     const IMAGE_EXTS = ['.jpg', '.jpeg', '.png', '.gif', '.webp', '.avif']
     const VIDEO_EXTS = ['.mp4', '.webm', '.mov']
     const dir = path.dirname(filepath)
-    let imageUrl: string | undefined
+    const imageUrls: string[] = []
     let videoUrl: string | undefined
+    const destDir = path.join(process.cwd(), 'public', 'draft-images')
 
-    // Check for image
-    for (const ext of IMAGE_EXTS) {
-      const candidate = path.join(dir, filename + ext)
-      if (fs.existsSync(candidate)) {
-        const destDir  = path.join(process.cwd(), 'public', 'draft-images')
-        const destFile = path.join(destDir, filename + ext)
-        try {
-          fs.mkdirSync(destDir, { recursive: true })
-          fs.copyFileSync(candidate, destFile)
-          imageUrl = `/draft-images/${filename + ext}`
-        } catch {
-          imageUrl = `/api/asset?file=${encodeURIComponent(candidate)}`
-        }
-        break
+    // Collect all matching images (base filename + numbered variants like _2, _3)
+    const dirFiles = fs.readdirSync(dir)
+    for (const file of dirFiles) {
+      const ext = path.extname(file).toLowerCase()
+      if (!IMAGE_EXTS.includes(ext)) continue
+      const nameWithoutExt = file.slice(0, -ext.length)
+      if (nameWithoutExt !== filename) {
+        if (!nameWithoutExt.startsWith(filename + '_')) continue
+        const suffix = nameWithoutExt.slice(filename.length + 1)
+        if (!/^\d+$/.test(suffix)) continue
+      }
+      try {
+        fs.mkdirSync(destDir, { recursive: true })
+        fs.copyFileSync(path.join(dir, file), path.join(destDir, file))
+        imageUrls.push(`/draft-images/${file}`)
+      } catch {
+        imageUrls.push(`/api/asset?file=${encodeURIComponent(path.join(dir, file))}`)
       }
     }
+    // Sort: base first, then numbered variants by number
+    imageUrls.sort((a, b) => {
+      const num = (u: string) => { const m = path.basename(u).match(/_(\d+)\.[^.]+$/); return m ? parseInt(m[1]) : 0 }
+      return num(a) - num(b)
+    })
 
     // Check for video
     for (const ext of VIDEO_EXTS) {
       const candidate = path.join(dir, filename + ext)
       if (fs.existsSync(candidate)) {
-        const destDir  = path.join(process.cwd(), 'public', 'draft-images')
         const destFile = path.join(destDir, filename + ext)
         try {
           fs.mkdirSync(destDir, { recursive: true })
@@ -144,7 +152,7 @@ function parseDraftFile(filepath: string, personKey: string): Post | null {
       date,
       hook,
       content,
-      image:       imageUrl,
+      images:      imageUrls.length > 0 ? imageUrls : undefined,
       video:       videoUrl,
       personPhoto: persona.photo || undefined,
       personBadge: persona.badge,
@@ -186,8 +194,8 @@ export function getAllPosts(): Post[] {
 
   return posts.sort((a, b) => {
     // Posts with media (image or video) first
-    const aMedia = a.image || a.video
-    const bMedia = b.image || b.video
+    const aMedia = (a.images && a.images.length > 0) || a.video
+    const bMedia = (b.images && b.images.length > 0) || b.video
     if (aMedia && !bMedia) return -1
     if (!aMedia && bMedia) return 1
     // Then by date (newest first)
