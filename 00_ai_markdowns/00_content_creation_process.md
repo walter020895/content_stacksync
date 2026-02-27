@@ -250,6 +250,14 @@ Resources needed: [Logo / photo / none — WHY each matters emotionally, not jus
 4. Check dates and timelines
 5. Record all sources — these go in the NOTES section of the post
 
+**GATE: No draft begins until every claim passes fact-check.**
+- Before writing, list every number, stat, date, and factual claim you plan to use
+- Verify each against a primary source (earnings report, press release, official docs)
+- For each claim, record: claim → source → verified (yes/no)
+- If a claim can't be verified, don't use it. Find a verified alternative or cut it.
+- Inferred claims (e.g., "their community asks about X" based on ICP docs, not actual community data) are NOT verified. Only use what you can point to a specific source for.
+- Use the latest available data. If a number has been updated by a newer earnings report or filing, use the new number. Stale stats erode trust.
+
 ---
 
 ### Step 3: WRITE THE DRAFT (Assemble the Legos)
@@ -472,10 +480,11 @@ image:
 - 270-330 words MAX for post body (but never pad to hit word count — 160 tight words beat 300 bloated ones)
 - Hook: 1-3 sentences, front-load the angle
 - The persona's LENS determines the framing (see Persona Roles table)
-- Check every line against `01_ai_slops.md` blacklist
+- **Sentence-level slop guard:** Check each sentence AS you write it against `01_ai_slops.md`. The #1 trap is flip formulas (#6, #21, #22, #25, #26) — they creep in during storytelling rewrites because they're the easiest way to create contrast. If you catch yourself writing "This isn't X. It's Y." or "Not X. Y." or "It wasn't X. It was Y." — stop, rewrite with a specific claim, causal connector, or natural "but" instead. Don't write first and scan later. Scan while writing.
 - No em dashes
 - No "Here's" constructions
 - End with the persona's signature style, not a generic close
+- **Story replacement rule:** If a human/story element gets removed during revision (a scene, anecdote, dialogue, or community detail), the next rewrite must include a replacement human element — a different scene, action, or moment. Never replace story with more analysis. Analysis without any human element reads as a Wikipedia summary.
 
 #### Post-Writing Quality Passes
 
@@ -616,7 +625,8 @@ The human reviews and:
 [ ] Step 1b:  Deconfliction table created (if multi-voice campaign)
 [ ] Step 1c:  Visual hook suggestions created (3 options, aligned with hook type)
 [ ] Step 2:   Facts researched, every claim has a source
-[ ] Step 3:   Draft written with persona lens + AI slops loaded BEFORE writing
+[ ] Step 2:   GATE PASSED — claim list verified (claim → source → yes/no), zero unverified claims in draft
+[ ] Step 3:   Draft written with persona lens + sentence-level slop guard active DURING writing
 [ ] Step 3a:  Time-to-Value Compression pass (every sentence earns its spot)
 [ ] Step 3b:  Redundancy Sweep pass (no fact stated twice in different words)
 [ ] Step 3c:  Connector Pass (at least 1 human connector at section jumps)
