@@ -65,7 +65,7 @@ It was the best marketing Freshdesk ever got.
 ```
 A Hacker News comment built a $13 billion company.
 
-Girish Mathrubootham read it from Chennai. He was 36, VP at Zoho, two kids in school.
+Girish Mathrubootham read it from Chennai. He was 34, VP at Zoho, two kids in school.
 
 He quit the next month.
 ```
@@ -118,15 +118,15 @@ Every pricing revolt is someone else's pitch deck.
 
 In 2010, Zendesk raised prices 60-300%. Customers revolted on Hacker News. One comment said it plain: "There's a huge opening for someone to take all of Zendesk's customers."
 
-Girish Mathrubootham read it from Chennai. He was 35. VP at Zoho. Mortgage. Two kids in school. He had every reason to close the tab.
+Girish Mathrubootham read it from Chennai. He was 34. VP at Zoho. Mortgage. Two kids in school. He had every reason to close the tab.
 
 He called that comment "a slap on my face."
 
-To be honest, most operators would have bookmarked the thread and gone back to their jobs. Girish quit. Rented a 700 square foot warehouse. Built Freshdesk.
+Most operators bookmark the thread. Girish quit. Rented a 700 square foot warehouse. Built Freshdesk.
 
 103 days later, 100 paying customers. The first was a school in Australia, 9,000 km away. Nobody told them about Freshdesk. They found it on their own.
 
-Then the market leader publicly attacked a startup in a warehouse. Zendesk's CEO tweeted: "WAIT-WHAT-A-FREAKING-RIP-OFF."
+Then the market leader publicly attacked a startup in a warehouse. Zendesk's CEO tweeted they were "a freaking rip-off."
 
 Freshdesk didn't flinch. They built ripoffornot.org. Put the CEO's tweet on the homepage. Let users decide.
 
@@ -136,7 +136,7 @@ First Indian SaaS company to IPO on NASDAQ. $13B peak valuation.
 
 Zendesk was taken private for $10.2 billion. Freshworks is still public.
 
-The opening was there for anyone. Girish just moved first.
+Girish just moved first.
 
 ---
 
@@ -145,7 +145,7 @@ The opening was there for anyone. Girish just moved first.
 ### 1. Connectors
 - "He had every reason to close the tab." — Scene-placing. You can PICTURE Girish at his desk, looking at the browser. Makes the biographical fragments (35, VP, mortgage, kids) into STAKES by showing what he almost didn't do. Bridges facts to feeling.
 - "He called that comment 'a slap on my face.'" — earned, Girish's own words. Micro-dialogue that bridges from HN comment to personal decision.
-- "To be honest, most operators would have bookmarked the thread and gone back to their jobs." — Nacho's operator judgment. Creates CONTRAST before "Girish quit."
+- "Most operators bookmark the thread." — Nacho's operator judgment, compressed. Creates CONTRAST before "Girish quit." No hedge word, no softener.
 - "Then the market leader publicly attacked a startup in a warehouse." — David vs Goliath reframe. Scale contrast before the tweet.
 - "Freshdesk didn't flinch." — earned, courage under fire before the ripoffornot.org reveal.
 - "Zendesk was taken private for $10.2 billion. Freshworks is still public." — power reframe. Devastating.
