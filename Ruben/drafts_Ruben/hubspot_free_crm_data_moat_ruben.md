@@ -48,6 +48,8 @@ In 2014, HubSpot made its CRM free.
 
 By 2025, 288,000 companies were paying for it.
 
+Growth hacks don't last eleven years.
+
 ### HOOK B
 HubSpot's CRM is free.
 
@@ -85,31 +87,28 @@ In 2014, HubSpot made its CRM free.
 
 By 2025, 288,000 companies were paying for it.
 
-Everyone assumed it was a growth hack.
-
 Growth hacks don't last eleven years.
 
-Every free user who tracks a deal, sends an email, or logs a pipeline is handing HubSpot something.
+Every rep who logged a deal, sent an email, or marked a stage was handing HubSpot something they didn't think twice about.
 
-What their company sells. How they sell it. When their deals stall. Which workflows break.
+What their company sells.
+How they sell it.
+When deals stall.
+Which workflows break.
 
-288,000 companies signed up for a free CRM. They ended up giving HubSpot their entire go-to-market playbook.
+288,000 companies signed up for a free tool. They ended up giving HubSpot their entire go-to-market playbook.
 
-And now they need that data everywhere else.
+They were building HubSpot's data moat the whole time.
 
-Sales closes a deal in HubSpot. Finance doesn't see it in NetSuite for hours.
-
-HubSpot is our most popular connector at Stacksync. People stay on HubSpot. But their data needs to be everywhere else too.
-
-That was the bet. And it's working.
+That was the bet. And it worked.
 
 ---
 
 ## NOTES
-- **Voice**: Ruben's founder lens. Direct, confident, no unverified claims. "It was smarter than that" is Ruben's read, not a hedge. "That was the bet" is his signature connector. The Stacksync mention is a verifiable fact (HubSpot IS the most popular connector), positioned as consequence, not pitch.
-- **Idea Legos**: Magician hook (free → 288K) + Fact → Wrong Assumption → Reveal → Consequence → Proof
-- **Reader value**: The ICP sees themselves as one of the 288K companies that "volunteered their playbook." The reframe turns HubSpot from "a tool we chose" into "a data gravity well we orbit." The portability problem is named: they need the data everywhere else, not just inside HubSpot.
-- **Narrative arc**: (1) Free CRM (setup) → (2) 288K paying (scale) → (3) Wrong assumption (growth hack) → (4) Smarter than that (tension) → (5) Handing HubSpot something (the action) → (6) Their playbook (the reveal, told from companies' side) → (7) Need it everywhere else (consequence) → (8) Sales/Finance scene (concrete pain) → (9) Most popular connector (proof) → (10) That was the bet (callback)
+- **Voice**: Ruben's founder lens. Direct, confident, no unverified claims. "That was the bet. And it worked." is his signature close — callback to the hook, no pitch, no hedge.
+- **Idea Legos**: Magician hook (free → 288K) + Fact → Wrong Assumption → Reveal (from companies' perspective) → Close
+- **Reader value**: The ICP sees themselves as one of the 288K companies that unknowingly built HubSpot's moat. The reframe lands without a product pitch — pure market insight.
+- **Narrative arc**: (1) Free CRM (setup) → (2) 288K paying (scale) → (3) Not a growth hack (pivot) → (4) Data exchange in action (the mechanism) → (5) The DNA list (specificity) → (6) Scale reveal — they gave their playbook (companies' perspective) → (7) They were building the moat (HubSpot's perspective on same action) → (8) That was the bet (closes both hook questions)
 - **Storytelling techniques used**:
   - Perspective shift: thesis told from the companies' side ("They volunteered") not HubSpot's side ("They built"). Reader identifies with the companies.
   - Action verbs: "handing" (physical) instead of "generating" (abstract). "Volunteered" (implies agency without awareness) instead of "populated" (neutral).
@@ -127,21 +126,13 @@ That was the bet. And it's working.
 - **Question Chain (sentence-by-sentence):**
   1. "In 2014, HubSpot made its CRM free." → Q: Why?
   2. "By 2025, 288,000 companies were paying for it." → A: Scale. Q: How did free become 288K?
-  3. "Everyone assumed it was a growth hack." → A: Conventional wisdom. Q: Was it?
-  4. "Growth hacks don't last eleven years." → A: No, something deeper. Q: What lasts eleven years?
-  5. "Every free user who tracks a deal, sends an email, or logs a pipeline is handing HubSpot something." → A: Data exchange (shown as action). Q: What are they handing over?
-  6. "What their company sells. How they sell it. When their deals stall. Which workflows break." → A: Their operational DNA. Q: What does that add up to at scale?
-  7. "288,000 companies signed up for a free CRM." → A: Reframe at scale. Q: And then what?
-  8. "They ended up giving HubSpot their entire go-to-market playbook." → A: The unintended reveal. Q: So what now?
-  9. "And now they need that data everywhere else." → A: The consequence. Q: What does that look like?
-  10. "Sales closes a deal in HubSpot." → A: Scene. Q: And then?
-  11. "Finance doesn't see it in NetSuite for hours." → A: Pain. Q: So what do they do?
-  12. "HubSpot is our most popular connector at Stacksync." → A: They come to us. Q: Why?
-  13. "People stay on HubSpot." → A: They don't leave. Q: So what's the problem?
-  14. "But their data needs to be everywhere else too." → A: The real need. Q: Did HubSpot plan this?
-  15. "That was the bet." → A: Yes. Q: Did it work?
-  16. "And it's working." → Closer. Opens nothing.
-  **Chain status: 16 links, zero breaks.**
+  3. "Growth hacks don't last eleven years." → A: Not a growth hack. Q: What does last eleven years?
+  4. "Every rep who logged a deal, sent an email, or marked a stage was handing HubSpot something they didn't think twice about." → A: Data exchange in action. Q: What were they handing over?
+  5. "What their company sells. / How they sell it. / When deals stall. / Which workflows break." → A: Their operational DNA. Q: What does that add up to?
+  6. "288,000 companies signed up for a free tool. They ended up giving HubSpot their entire go-to-market playbook." → A: The unintended reveal at scale. Q: Did they know?
+  7. "They were building HubSpot's data moat the whole time." → A: No — reframes 6 from companies' perspective to HubSpot's strategy. Q: Was it planned?
+  8. "That was the bet. And it worked." → A: Yes. Closes both hook questions. Opens nothing.
+  **Chain status: 8 links, zero breaks.**
 - **What changed from V2 and why**:
   - "generating behavioral data" → "handing HubSpot something" — action verb replaces abstraction. SHOW not TELL.
   - "HubSpot didn't give away a CRM / They built the largest behavioral dataset" → "288K companies signed up for a free CRM / They ended up giving HubSpot their entire go-to-market playbook" — perspective shift from HubSpot to the companies. Reader identifies with the subject.
@@ -155,7 +146,7 @@ That was the bet. And it's working.
   - "People don't want to leave. They want their data..." → "People stay on HubSpot. But their data needs to be everywhere else too." — kills #22 flip formula. "But" is a natural conjunction, not a template. "Too" softens the contrast from binary flip to additive reality.
   - Fragment block split: added line break after "handing HubSpot something." to separate action from specifics. Breathing room on mobile.
 - **Stacksync mention**: Connector Bridge via gravity consequence. Post establishes data gravity → shows concrete pain → states verifiable fact (most popular connector). At ~75% through. Removable.
-- **Word count**: ~130
+- **Word count**: ~105
 - **Factual sources**:
   - HubSpot free CRM launched 2014: https://www.hubspot.com/company-news/hubspot-launches-free-crm-and-sidekick-sales-acceleration-at-inbound14
   - 288,000+ paying customers (Q4 2025): https://www.businesswire.com/news/home/20260211469584/en/HubSpot-Reports-Strong-Q4-and-Full-Year-2025-Results
