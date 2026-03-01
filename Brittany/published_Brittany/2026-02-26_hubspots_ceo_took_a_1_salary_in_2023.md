@@ -20,7 +20,7 @@ related_concepts:
   - "[[women-in-leadership]]"
   - "[[startup-life]]"
   - "[[philanthropy]]"
-link: https://www.linkedin.com/posts/-brittany-garrett-_hubspots-ceo-took-a-1-salary-in-2023-that-activity-7432885012603252737-V_vA
+link: https://www.linkedin.com/posts/-brittany-garrett-_hubspots-ceo-took-a-1-salary-in-2023-that-share-7432885011575611392-F1h2
 image:
 ---
 
