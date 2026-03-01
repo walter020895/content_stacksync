@@ -1,6 +1,6 @@
 ---
-name: ecommerce_amazon_vs_tiktok
-description: Amazon and TikTok Shop are two fundamentally different selling models with incompatible data requirements. The old way (search) vs. the new way (discovery). Brands selling on both face a data unification problem most tools can't solve.
+name: ecommerce_fragmenting
+description: Amazon, TikTok Shop, and Shopify processed $650B+ combined in 2024, through three platforms that don't talk to each other. E-commerce is scaling faster than the infrastructure behind it.
 domain: business
 node_type: linkedin-post
 status: published
@@ -8,11 +8,11 @@ last_updated: 2026-02-25
 published_date: 2026-02-25
 tags:
   - ecommerce
-  - Amazon
+  - data-silos
   - TikTok-Shop
-  - social-commerce
-  - data-infrastructure
-  - Stacksync
+  - Amazon
+  - Shopify
+  - multichannel
 topics:
   - Platform + simplification in data tooling
   - E-commerce infrastructure
@@ -22,54 +22,53 @@ link: https://www.linkedin.com/posts/fabianignaciomalpartidanegron_amazon-did-32
 image: images/2026-02-25_amazon_did_325_billion_in_third_party_sales.png
 ---
 
-# NACHO — The Old Way to Sell vs. The New Way to Sell
-## Angle: Amazon and TikTok Shop look like the same thing (e-commerce platforms) but run on completely different data models. Brands selling on both are running two incompatible systems. The data unification problem is the real challenge.
+# NACHO — E-Commerce is Fragmenting
+
+## Angle: Three dominant platforms processed $650B+ in 2024, none of their data connects. E-commerce is scaling faster than the infrastructure behind it. The operator problem nobody is solving.
 
 ---
 
 ## IDEA LEGOS
 | Lego | Choice |
 |------|--------|
-| Topic | Amazon (search commerce) and TikTok Shop (discovery commerce) require fundamentally different data stacks. Brands on both face a unification problem. |
-| Angle | Operator analysis of two selling models. Shows the data mismatch nobody talks about. Positions Stacksync as the layer that connects both. |
-| Hook Type | Teacher |
-| Story Structure | Contrast two models -> Data mismatch -> Operational consequence -> Solution |
-| Visual Format | text-only |
+| Topic | E-commerce channels are scaling faster than the data infrastructure connecting them |
+| Angle | Operator's market observation: three massive platforms, three data silos, zero unified visibility. Infrastructure lagging behind commerce. |
+| Hook Type | Magician |
+| Story Structure | Scale of each platform -> The invisible problem -> Consequences -> Rule |
+| Visual Format | image |
 
 ---
 
 ### HOOK A (Recommended)
-On Amazon, the customer searches for your product.
+Amazon did $325 billion in third-party sales in 2024. TikTok Shop did $33 billion. Shopify processed $292 billion.
 
-On TikTok Shop, the algorithm finds the customer.
-
-Same transaction. Completely different data stack behind it.
+That's $650 billion flowing through three platforms that don't talk to each other.
 
 ### HOOK B
-Everyone is rushing to sell on TikTok Shop.
+Every e-commerce brand thinks their biggest problem is marketing.
 
-Most of them are about to break their operations. The data model that works on Amazon doesn't translate.
+It's not. It's that their order data lives in three different systems that never sync.
 
 ### HOOK C
-TikTok Shop added 11.9 million US buyers in 2024. More than Facebook, Instagram, and Pinterest combined.
+TikTok Shop grew 407% in a single year. Amazon still controls 40% of US e-commerce. Shopify just crossed $1 trillion in cumulative sales.
 
-The brands winning there are running a completely different data playbook than Amazon.
+The brands that win won't be on the most channels. They'll be the ones whose data actually connects.
 
 ---
 
-### VISUAL FORMAT SUGGESTIONS
+### VISUAL FORMAT
 
-**Option A (Recommended): Brand vs. Brand — Amazon vs. TikTok Shop**
-LANDSCAPE 16:9 (1920×1080). Left dark panel: Amazon logo, label "Customer searches for product. Keywords. Review scores. Intent-based." Right dark panel: TikTok Shop logo, label "Algorithm finds the customer. Watch time. Saves. Discovery-based." Both logos centered large in their respective panels. The left-vs-right IS the concept — two fundamentally different data models. ICP recognizes both platforms instantly.
-Asset tags: [LOGO] [SVG]
+**Option A (Recommended): Number Hero — "$650B" as dominant element**
+SQUARE 1:1 (1080×1080). Dark bg (#08080E). IBM Plex Sans 600. Large centered: "$650B" in #4589FF. Below in dim gray: "Amazon. TikTok Shop. Shopify." Subline in smaller weight: "Three platforms that don't talk to each other." Amazon, TikTok Shop, and Shopify logos small at the bottom.
+Asset tags: [LOGO] [DATA] [TYPE]
 
-**Option B: Comparison Table — Amazon vs. TikTok Shop data stack**
-PORTRAIT 4:5 (1080×1350). Dark bg (#08080E). Two-column table, 4 rows: Data model / Success metric / Catalog structure / Infrastructure result. Amazon column in dim gray; TikTok Shop column in #4589FF. Shopify logo added as a third column with "Your own data layer" — makes the three-platform fragmentation obvious.
-Asset tags: [LOGO] [DATA]
+**Option B: Market Map — three platforms, three silos**
+PORTRAIT 4:5 (1080×1350). Dark bg. Three platform logos in three isolated boxes with their GMV. No connecting lines. A broken link icon between each. Bottom line: "$650B. Zero connections."
+Asset tags: [LOGO] [SVG] [DATA]
 
-**Option C: Iceberg card — visible commerce vs. hidden data problem**
-PORTRAIT 4:5 (1080×1350). Dark bg. Above waterline: Amazon logo + TikTok Shop logo, labeled "What everyone talks about." Below waterline (70% of canvas): "Three data models. Three schemas. Zero unified view. Orders in one system. Inventory in another." The iceberg metaphor maps to the post's core insight — the hard problem is the data underneath, not the channel selection.
-Asset tags: [LOGO] [SVG]
+**Option C: Bar Race / Data Viz**
+LANDSCAPE 16:9 (1920×1080). Dark bg, horizontal bar chart. Three bars: Amazon ($325B), Shopify ($292B), TikTok Shop ($33B). Each ends with the platform logo. Red overlay: "None of these systems sync."
+Asset tags: [LOGO] [DATA] [SVG]
 
 ---
 
@@ -77,42 +76,39 @@ Asset tags: [LOGO] [SVG]
 
 ---
 
-On Amazon, the customer searches for your product.
+Amazon did $325 billion in third-party sales in 2024. TikTok Shop did $33 billion. Shopify processed $292 billion.
 
-On TikTok Shop, the algorithm finds the customer.
+That's $650 billion flowing through three platforms that don't talk to each other.
 
-Same transaction. Completely different data stack behind it.
+I talk to brands doing $20M+ across multiple channels. Same story every time. Orders in one system. Inventory in another. Fulfillment in a third. Customer records split across all of them.
 
-Amazon runs on structured product data. Keywords, review scores, search rank. The system is built for a customer who knows what they want.
+Nobody has a single view of their own business.
 
-TikTok Shop runs on content performance. Watch time, saves, shares. The algorithm doesn't wait for intent. It creates it.
+And the gap is accelerating. TikTok Shop US sales grew 407% in 2024. More channels, more volume, more fragmentation. The infrastructure behind it hasn't changed.
 
-Two platforms. Two data models. They don't translate.
+One day out of stock on Amazon drops rank by 28% for top-selling products. Three days? 83%.
 
-The brand that wins on Amazon by optimizing keywords loses on TikTok if they can't hold attention for 3 seconds. Different category structures, different content policies, different success metrics. Bulk-syncing a catalog from one to the other breaks.
+And 37% of shoppers switch brands after a single stockout.
 
-And most brands now sell on both. Plus Shopify. Plus their own site. Orders in one system, inventory in another, fulfillment in a third.
+That's what happens when your inventory data lives in three systems that don't sync.
 
-To be honest, this is the part nobody talks about. The hard problem isn't being on every channel. It's connecting the data behind all of them.
+The problem isn't selling on three channels.
 
-That's the problem we work on at Stacksync. Real-time sync across commerce platforms. Orders, inventory, fulfillment, customer data. One layer instead of three systems that don't talk.
+The problem is that nobody built the data layer connecting them.
 
-The brands that win won't just sell everywhere. They'll know what's happening across all of it.
+E-commerce scaled. The infrastructure didn't.
 
 ---
 
 ## NOTES
-- **Voice**: War-time GTM Operator in analytical mode. Clean contrast structure (Amazon vs. TikTok) without being listicle-like. Concrete platform details (ASINs, UPC codes, watch time, completion rate). Operator knowledge showing through specifics, not commentary. Stacksync mention is brief, concrete, and positioned as the solution after the problem is fully established.
-- **Idea Legos**: Teacher hook + Contrast two models -> Mismatch -> Consequence -> Solution confirmed
-- **Narrative arc**: Clean contrast open (search vs. discovery) -> Snap back (different data stack) -> Amazon data model (keywords, reviews, search rank) -> TikTok data model (watch time, saves, shares + "algorithm creates intent") -> Translation failure (keywords vs. attention, bulk sync breaks) -> Scale of the problem (most brands on both + Shopify + DTC, fragmented data) -> Personal operator observation ("To be honest, this is the part nobody talks about") -> Stacksync solution (real-time sync, one data layer) -> Closer (visibility across all channels)
-- **Psychological triggers**: Pattern Recognition (the reader maps their own multi-platform pain onto this framework) + Tribal Identity (operators managing multi-channel chaos feel seen)
-- **Hook analysis (Kallaway)**: Single subject: Amazon vs. TikTok Shop data models. Single question: "What's different about selling on each?" 3-step: Context Lean ["On Amazon, the customer searches for your product."] -> Scroll Stop ["On TikTok Shop, the algorithm finds the customer."] -> Snap Back ["Same transaction. Completely different data stack behind it."]. "See more" char count: ~100. Fits mobile preview: yes.
-- **AI slop check**: Clean. No em dashes. No "Here's" constructions. No blacklisted phrases. No "Not X. Y." flip formula. No "Let that sink in." No "This is where it gets interesting." "Two platforms. Two data models. They don't translate." is Nacho's operator rhythm, not AI template.
-- **Changes from v1**: "We built Stacksync for this." opener → "That's the problem we work on at Stacksync." — removes pitch-drop feel, keeps Nacho's analytical operator voice through the transition.
-- **Word count**: ~195
+- **Voice**: War-time GTM Operator doing market math. Three massive numbers in the open, then the quiet punch: "don't talk to each other." Short paragraphs. Concrete operational details. No commentary on what brands "should" do. Just shows the gap.
+- **Hook analysis (Kallaway)**: Context Lean ["Amazon did $325 billion... TikTok Shop did $33 billion... Shopify processed $292 billion."] → Scroll Stop ["That's $650 billion flowing through three platforms that don't talk to each other."] → Snap Back [invisible problem enumeration]. ~130 chars before fold. Mobile: yes.
+- **AI slop check**: Clean. No em dashes. "E-commerce scaled. The infrastructure didn't." is factual contrast, not AI flip formula.
+- **Word count**: ~175
 - **Factual sources**:
-  - "TikTok Shop added 11.9 million US buyers in 2024, more than Facebook, Instagram, and Pinterest combined" (used in Hook C) -- Dataslayer, 2025
-  - "Amazon requires structured data: ASINs, UPCs/EANs, product type, browse node, titles, bullet points, attributes" -- Marpipe Amazon Product Feed Guide; Feedonomics Amazon Category Taxonomy
-  - "TikTok Shop success driven by engagement signals: watch time, completion rate, saves, shares, CTR" -- Eva.guru TikTok Shop Algorithm analysis, 2024
-  - "Bulk-syncing Amazon catalogs to TikTok fails due to different category structures, content policies, mapping errors" -- Titan Network analysis
-  - "Stacksync e-commerce connectors: real-time sync across commerce platforms" -- consistent with 08_stacksync_Description.md (E-Commerce Teams use case, 200+ connectors including Shopify, real-time bi-directional sync)
+  - Amazon 3P GMV $325B: Marketplace Pulse
+  - TikTok Shop global GMV $33.2B, up 201% YoY: Momentum Works
+  - TikTok Shop US sales grew 407%: eMarketer
+  - Shopify FY2024 GMV $292.27B: Marketplace Pulse / Shopify Q4 FY2024 Earnings
+  - Amazon rank drop 28% (1 day OOS), 83% (3+ days): DataWeave
+  - 37% shoppers switch brands after one stockout: Shopify blog (primary source unconfirmed)
