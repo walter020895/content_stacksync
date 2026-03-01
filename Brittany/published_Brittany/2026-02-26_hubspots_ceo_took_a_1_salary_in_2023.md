@@ -21,7 +21,7 @@ related_concepts:
   - "[[startup-life]]"
   - "[[philanthropy]]"
 link: https://www.linkedin.com/posts/-brittany-garrett-_hubspots-ceo-took-a-1-salary-in-2023-that-share-7432885011575611392-F1h2
-image:
+image: images/2026-02-26_hubspots_ceo_took_a_1_salary_in_2023.png
 ---
 
 # Brittany — 350 Square Feet
